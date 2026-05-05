@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-05T18:41:25.816355+00:00",
+  "generated": "2026-05-05T18:58:37.272328+00:00",
   "filings": [
     {
       "type": "filing",
@@ -1625,7 +1625,7 @@
       "type": "filing",
       "court": "PA Superior Court",
       "docket": "598 WDA 2026",
-      "caption": "In the Interest of: Cyrus James John, a Minor",
+      "caption": "In the Interest of: C.J.J. Appeal of: A.J.",
       "status": "Active",
       "filing_date": "05/05/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=598 WDA 2026&dnh=VeIPrj1ud2OtG%2Fq04Bdfwg%3D%3D"
@@ -1911,6 +1911,126 @@
     }
   ],
   "opinions": [
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 655 MAL 2025",
+      "caption": "The Bank of New York Mellon v. Werts, D., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Tue, 05 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/655MAL2025 - 106772822357356987.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/655MAL2025 - 106772822357356987.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 646 MAL 2025",
+      "caption": "Commonwealth v. Murphy, D., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Tue, 05 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/646MAL2025 - 106772335357299188.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/646MAL2025 - 106772335357299188.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 604 MAL 2025",
+      "caption": "Commonwealth v. Martins, J., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Tue, 05 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/604MAL2025 - 106772333357298488.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/604MAL2025 - 106772333357298488.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 603 MAL 2025",
+      "caption": "Commonwealth v. Martins, J., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Tue, 05 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/603MAL2025 - 106772332357298488.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/603MAL2025 - 106772332357298488.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 183 MM 2025",
+      "caption": "English, D., Pet. v. Dauphin County CCP Judge",
+      "author": "Per Curiam",
+      "pub_date": "Tue, 05 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/183MM2025 - 106772777357354127.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/183MM2025 - 106772777357354127.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 177 MM 2025",
+      "caption": "Knorr, Jr., C., Pet. v. Luzerne Co CCP Judge",
+      "author": "Per Curiam",
+      "pub_date": "Tue, 05 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/177MM2025 - 106772743357350055.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/177MM2025 - 106772743357350055.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 110 WM 2025",
+      "caption": "Commonwealth v. Sutton, J., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Tue, 05 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/110WM2025 - 106772785357354920.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/110WM2025 - 106772785357354920.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 100 WM 2025",
+      "caption": "Commonwealth v. Brown, S., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Tue, 05 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/100WM2025 - 106772853357361129.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/100WM2025 - 106772853357361129.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 93 WM 2025",
+      "caption": "Commonwealth v. Johnson, T., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Tue, 05 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/93WM2025 - 106772807357355972.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/93WM2025 - 106772807357355972.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 285 WAL 2025",
+      "caption": "Pierce, N. v. FloatMe Corp., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Tue, 05 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/285WAL2025 - 106772834357359274.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/285WAL2025 - 106772834357359274.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 279 WAL 2025",
+      "caption": "Commonwealth v. Fields, G., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Tue, 05 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/279WAL2025 - 106772336357300148.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/279WAL2025 - 106772336357300148.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 273 WAL 2025",
+      "caption": "Commonwealth v. Cravener, S., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Tue, 05 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/273WAL2025 - 106772827357357535.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/273WAL2025 - 106772827357357535.pdf"
+    },
     {
       "type": "opinion",
       "court": "PA Supreme Court",
