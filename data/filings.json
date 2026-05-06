@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-06T17:19:14.403257+00:00",
+  "generated": "2026-05-06T19:16:27.597321+00:00",
   "filings": [
     {
       "type": "filing",
@@ -45,6 +45,15 @@
       "status": "Active",
       "filing_date": "05/06/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=147 EAL 2026&dnh=Y6aH3FNMYf5DctivPINwTw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "148 EAL 2026",
+      "caption": "City of Philadelphia v. Hammond, J., Pet.",
+      "status": "Active",
+      "filing_date": "05/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=148 EAL 2026&dnh=cjI%2FNB87mSDtHuaMnYN4Mw%3D%3D"
     },
     {
       "type": "filing",
@@ -117,6 +126,15 @@
       "status": "Active",
       "filing_date": "05/04/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=249 MAL 2026&dnh=sOKcuAOzmyf%2BDzPMe0dFsg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "253 MAL 2026",
+      "caption": "Commonwealth v. Luperi, M., Pet.",
+      "status": "Active",
+      "filing_date": "05/06/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=253 MAL 2026&dnh=BLlT6JsIkcHZKDecO%2B7i4w%3D%3D"
     },
     {
       "type": "filing",
@@ -1641,6 +1659,33 @@
     },
     {
       "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "45 WDM 2026",
+      "caption": "Com. v. Boyd, K.",
+      "status": "Active",
+      "filing_date": "05/06/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=45 WDM 2026&dnh=Zn13STQzAPIso7lSwMRFLA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "46 WDM 2026",
+      "caption": "Com. v. Boyd, K.",
+      "status": "Active",
+      "filing_date": "05/06/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=46 WDM 2026&dnh=58KbwqU%2B83CxYzG60NB8Mg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "47 WDM 2026",
+      "caption": "Com. v. Boyd, K.",
+      "status": "Active",
+      "filing_date": "05/06/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=47 WDM 2026&dnh=2jT%2BlyjPnm4lyGTFQ%2Fvq3A%3D%3D"
+    },
+    {
+      "type": "filing",
       "court": "PA Commonwealth Court",
       "docket": "597 CD 2026",
       "caption": "Armstrong County v. DCED",
@@ -1845,9 +1890,28 @@
       "status": "Active",
       "filing_date": "05/01/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=228 MD 2026&dnh=JeaeAIAQGj%2BW5C%2FF4lX9dw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "229 MD 2026",
+      "caption": "Dept. of L&I v. In N Out Electric et al",
+      "status": "Active",
+      "filing_date": "05/06/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=229 MD 2026&dnh=mtrc4DK%2B846nUiqci%2BCv8A%3D%3D"
     }
   ],
   "opinions": [
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 739 MAL 2025",
+      "caption": "O'Connor, A. &amp; J. v. Kenner, K., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Wed, 06 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/739MAL2025 - 106774704357561212.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/739MAL2025 - 106774704357561212.pdf"
+    },
     {
       "type": "opinion",
       "court": "PA Supreme Court",
@@ -2311,6 +2375,36 @@
     {
       "type": "opinion",
       "court": "PA Superior Court",
+      "docket": "",
+      "caption": "Judgment Lists",
+      "author": "",
+      "pub_date": "Wed, 06 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/050626 E.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/050626 E.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Superior Court",
+      "docket": "",
+      "caption": "Judgment Lists",
+      "author": "",
+      "pub_date": "Wed, 06 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/050626 M.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/050626 M.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Superior Court",
+      "docket": "",
+      "caption": "Judgment Lists",
+      "author": "",
+      "pub_date": "Wed, 06 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/050626 W.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/050626 W.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Superior Court",
       "docket": "No. 9 WDA 2025",
       "caption": "Com. v. Vogel, D.",
       "author": "Stabile, J.",
@@ -2727,16 +2821,6 @@
       "pub_date": "Fri, 01 May 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-A13002-26m - 106769432356973291.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-A13002-26m - 106769432356973291.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Superior Court",
-      "docket": "No. 1051 WDA 2025",
-      "caption": "Quick, C. v. Coulter, B.",
-      "author": "Beck, J.",
-      "pub_date": "Fri, 01 May 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-A06035-26m - 106769396356969242.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-A06035-26m - 106769396356969242.pdf"
     },
     {
       "type": "opinion",
