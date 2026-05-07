@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-07T16:26:25.670891+00:00",
+  "generated": "2026-05-07T16:33:34.485185+00:00",
   "filings": [
     {
       "type": "filing",
@@ -963,6 +963,15 @@
       "status": "Closed",
       "filing_date": "05/07/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1229 EDA 2026&dnh=khauPc5MAHrGsV1Cmgh2%2Bw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1230 EDA 2026",
+      "caption": "Com. v. White, B.",
+      "status": "Active",
+      "filing_date": "05/07/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1230 EDA 2026&dnh=hQqrNdGJjkMOwj%2FIPk4OKA%3D%3D"
     },
     {
       "type": "filing",
