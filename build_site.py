@@ -19,13 +19,15 @@ COURT_COLORS = {
     "PA Superior Court": "#283593",
     "PA Commonwealth Court": "#303f9f",
     "Third Circuit": "#4a148c",
+    "SCOTUS": "#b71c1c",
 }
 
-COURT_ORDER = ["PA Supreme Court", "PA Superior Court", "PA Commonwealth Court", "Third Circuit"]
+COURT_ORDER = ["PA Supreme Court", "PA Superior Court", "PA Commonwealth Court", "Third Circuit", "SCOTUS"]
 
 PHILLY_AREA_KW = re.compile(
     r"philadelphia|phila\b|bucks county|chester county|montgomery county"
     r"|delaware county|montco|delco|chesco"
+    r"|Eastern District of Pennsylvania"
     r"|septa|ppa|pgw|peco|school district of philadelphia"
     r"|city of philadelphia|temple univ|drexel|penn\b|upenn"
     r"|jefferson health|children.s hospital|chop\b",
@@ -37,7 +39,7 @@ def is_philly_area(entry: dict) -> bool:
     docket = entry.get("docket", "")
     if re.search(r"\d+\s+E[A-Z]*\s+\d{4}", docket):
         return True
-    text = entry.get("caption", "") + " " + docket
+    text = entry.get("caption", "") + " " + docket + " " + entry.get("origin", "")
     return bool(PHILLY_AREA_KW.search(text))
 
 
@@ -57,7 +59,12 @@ def build_filing_card(f: dict) -> str:
     caption = html.escape(f["caption"]) if f["caption"] else "<em>No caption</em>"
     status_badge = ""
     if f.get("status"):
-        bg = "#2e7d32" if f["status"] == "Active" else "#78909c"
+        if f["status"] == "Cert Petition":
+            bg = "#b71c1c"
+        elif f["status"] == "Active":
+            bg = "#2e7d32"
+        else:
+            bg = "#78909c"
         status_badge = (
             f'<span class="badge" style="background:{bg}">'
             f'{html.escape(f["status"])}</span>'
@@ -67,6 +74,12 @@ def build_filing_card(f: dict) -> str:
     if is_philly_area(f):
         philly_badge = '<span class="badge" style="background:#c62828">PHILADELPHIA AREA</span>'
 
+    lower_court_line = ""
+    if f.get("lower_court"):
+        lc = html.escape(f["lower_court"])
+        ld = html.escape(f.get("lower_court_docket", ""))
+        lower_court_line = f'<span class="origin">From {lc} {ld}</span>'
+
     return f"""<div class="card">
   <div class="card-header" style="border-left:4px solid {color}">
     <div class="card-title">{caption}</div>
@@ -75,6 +88,7 @@ def build_filing_card(f: dict) -> str:
       {status_badge}
       {philly_badge}
       <span class="docket">{html.escape(f["docket"])}</span>
+      {lower_court_line}
       <span class="date">Filed {html.escape(f.get("filing_date", ""))}</span>
     </div>
   </div>
@@ -105,17 +119,23 @@ def build_opinion_card(o: dict) -> str:
             pass
 
     philly_badge = ""
+    origin = o.get("origin", "")
     if is_philly_area(o):
         philly_badge = '<span class="badge" style="background:#c62828">PHILADELPHIA AREA</span>'
+
+    origin_line = ""
+    if origin:
+        origin_line = f'<span class="origin">{html.escape(origin)}</span>'
 
     return f"""<div class="card">
   <div class="card-header" style="border-left:4px solid {color}">
     <div class="card-title">{caption}</div>
     <div class="card-meta">
       <span class="court-tag" style="background:{color}">{html.escape(court_short)}</span>
-      <span class="badge" style="background:#2e7d32">Opinion</span>
+      {f'<span class="badge" style="background:#2e7d32">PRECEDENTIAL</span>' if o.get("precedential") is True else f'<span class="badge" style="background:#9e9e9e">NON-PRECEDENTIAL</span>' if o.get("precedential") is False else '<span class="badge" style="background:#2e7d32">Opinion</span>'}
       {philly_badge}
       {docket_line}
+      {origin_line}
       {author_line}
       <span class="date">{html.escape(pub)}</span>
     </div>
@@ -218,7 +238,7 @@ def build_page(data: dict) -> str:
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>PA Appellate Court Feed</title>
+<title>Av's Court Feed</title>
 <style>
 * {{ margin: 0; padding: 0; box-sizing: border-box; }}
 body {{
@@ -336,6 +356,7 @@ header p {{
 }}
 .docket {{ color: #555; font-family: monospace; font-size: 12px; }}
 .author {{ color: #555; font-style: italic; }}
+.origin {{ color: #555; font-size: 12px; }}
 .date {{ color: #999; }}
 .card-actions {{
   padding: 8px 16px 12px;
@@ -346,49 +367,6 @@ header p {{
   text-decoration: none;
 }}
 .card-actions a:hover {{ text-decoration: underline; }}
-.stats-label {{
-  font-size: 12px;
-  font-weight: 600;
-  color: #888;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
-  margin-bottom: 6px;
-}}
-.stats-grid {{
-  display: grid;
-  grid-template-columns: 1fr auto auto;
-  gap: 0;
-  background: #fff;
-  border-radius: 8px;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
-  margin-bottom: 20px;
-  overflow: hidden;
-}}
-.stats-header {{
-  padding: 10px 20px;
-  font-size: 11px;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
-  color: #888;
-  background: #f8f9fa;
-  border-bottom: 1px solid #eee;
-}}
-.stats-court {{
-  padding: 12px 16px;
-  font-size: 14px;
-  font-weight: 500;
-  color: #1a1a1a;
-  border-bottom: 1px solid #f0f0f0;
-}}
-.stats-number {{
-  padding: 12px 20px;
-  font-size: 18px;
-  font-weight: 700;
-  color: #0d1b3e;
-  text-align: center;
-  border-bottom: 1px solid #f0f0f0;
-}}
 .filter-bar {{
   display: flex;
   gap: 8px;
@@ -426,29 +404,13 @@ footer a {{ color: #999; }}
 </head>
 <body>
 <header>
-  <h1>PA Appellate Court Feed</h1>
-  <p>New filings &amp; opinions from PA Supreme, Superior, Commonwealth Courts &amp; the Third Circuit</p>
+  <h1>Av's Court Feed</h1>
+  <p>New filings &amp; opinions from PA Supreme, Superior, Commonwealth, Third Circuit &amp; SCOTUS cert petitions</p>
   <p>Last updated: {html.escape(generated_display)}</p>
+  <nav style="margin-top:10px"><a href="calendar.html" style="color:#90caf9;font-size:13px;text-decoration:none">Court Calendars &rarr;</a></nav>
 </header>
 
 <div class="container">
-  <p class="stats-label">Past 7 days</p>
-  <div class="stats-grid">
-    <div class="stats-header"></div>
-    <div class="stats-header">Filings</div>
-    <div class="stats-header">Opinions</div>
-    {"".join(
-      f'<div class="stats-court" style="border-left:3px solid {COURT_COLORS.get(court, "#333")}">'
-      f'{html.escape(court.replace("PA ", ""))}</div>'
-      f'<div class="stats-number">{len(filings_by_court.get(court, []))}</div>'
-      f'<div class="stats-number">{len(opinions_by_court.get(court, []))}</div>'
-      for court in COURT_ORDER
-    )}
-    <div class="stats-court" style="font-weight:700">Total</div>
-    <div class="stats-number" style="font-weight:700">{len(filings)}</div>
-    <div class="stats-number" style="font-weight:700">{len(opinions)}</div>
-  </div>
-
   <div class="tabs">
     <button class="tab active" onclick="switchTab('filings')">New Filings</button>
     <button class="tab" onclick="switchTab('opinions')">Opinions</button>
@@ -460,7 +422,7 @@ footer a {{ color: #999; }}
       <button class="filter-btn" onclick="filterCourt('filings', 'Supreme')">Supreme</button>
       <button class="filter-btn" onclick="filterCourt('filings', 'Superior')">Superior</button>
       <button class="filter-btn" onclick="filterCourt('filings', 'Commonwealth')">Commonwealth</button>
-      <button class="filter-btn" onclick="filterCourt('filings', 'Third Circuit')">Third Circuit</button>
+      <button class="filter-btn" onclick="filterCourt('filings', 'SCOTUS')">SCOTUS</button>
     </div>
     {filing_html}
   </div>
@@ -480,7 +442,7 @@ footer a {{ color: #999; }}
 <footer>
   Source: <a href="https://ujsportal.pacourts.us/CaseSearch">UJS Portal</a>,
   <a href="https://www.pacourts.us/">pacourts.us</a> &amp;
-  <a href="https://www.govinfo.gov/app/collection/uscourts/appellate/ca3/">GovInfo</a> RSS feeds<br>
+  <a href="https://www.ca3.uscourts.gov/opinions-and-oral-arguments">Third Circuit</a><br>
   Data refreshed automatically. Recent entries may not be immediately reflected.
 </footer>
 

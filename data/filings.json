@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-07T15:34:39.645755+00:00",
+  "generated": "2026-05-07T16:26:25.670891+00:00",
   "filings": [
     {
       "type": "filing",
@@ -960,7 +960,7 @@
       "court": "PA Superior Court",
       "docket": "1229 EDA 2026",
       "caption": "Com. v. Carter, D.",
-      "status": "Active",
+      "status": "Closed",
       "filing_date": "05/07/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1229 EDA 2026&dnh=khauPc5MAHrGsV1Cmgh2%2Bw%3D%3D"
     },
@@ -1296,6 +1296,15 @@
       "status": "Active",
       "filing_date": "05/07/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=727 MDA 2026&dnh=9jR6Jy7I%2Fpq0Nb5TZ%2BjvfA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "728 MDA 2026",
+      "caption": "Com. v. Murphy, D.",
+      "status": "Active",
+      "filing_date": "05/07/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=728 MDA 2026&dnh=cKX0VqaIuShmQza%2FO%2Fs1wg%3D%3D"
     },
     {
       "type": "filing",
@@ -1827,6 +1836,30 @@
       "status": "Active",
       "filing_date": "05/06/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=229 MD 2026&dnh=mtrc4DK%2B846nUiqci%2BCv8A%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "SCOTUS",
+      "docket": "25-7198",
+      "caption": "Barbara Anne Clark v. Hospital of the University of Pennsylvania, et al.",
+      "status": "Cert Petition",
+      "filing_date": "04/15/2026",
+      "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-7198.html",
+      "lower_court": "United States Court of Appeals for the Third Circuit",
+      "lower_court_docket": "(24-3197)",
+      "case_type": "IFP"
+    },
+    {
+      "type": "filing",
+      "court": "SCOTUS",
+      "docket": "25-7254",
+      "caption": "Susan Lloyd v. Lancaster County Housing Authority",
+      "status": "Cert Petition",
+      "filing_date": "04/24/2026",
+      "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-7254.html",
+      "lower_court": "United States Court of Appeals for the Third Circuit",
+      "lower_court_docket": "(25-2457)",
+      "case_type": "IFP"
     }
   ],
   "opinions": [
@@ -2049,6 +2082,96 @@
       "pub_date": "Fri, 01 May 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Supreme/out/49MM2026 - 106769435356973558.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/49MM2026 - 106769435356973558.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Superior Court",
+      "docket": "No. 227 WDA 2025",
+      "caption": "Com. v. Collins, E.",
+      "author": "Beck, J.",
+      "pub_date": "Thu, 07 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-A02033-26m - 106775726357705472.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-A02033-26m - 106775726357705472.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Superior Court",
+      "docket": "No. 410 WDA 2025",
+      "caption": "Com. v. Riley, D.",
+      "author": "Beck, J.",
+      "pub_date": "Thu, 07 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-A02042-26m - 106775753357707741.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-A02042-26m - 106775753357707741.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Superior Court",
+      "docket": "No. 163 MDA 2025",
+      "caption": "Com. v. Derr, E.",
+      "author": "Neuman, J.",
+      "pub_date": "Thu, 07 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-A07038-26m - 106775821357718793.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-A07038-26m - 106775821357718793.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Superior Court",
+      "docket": "No. 1796 EDA 2025",
+      "caption": "Com. v. Amparo, B.",
+      "author": "Panella, P.J.E.",
+      "pub_date": "Thu, 07 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S08008-26m - 106775766357710590.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S08008-26m - 106775766357710590.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Superior Court",
+      "docket": "No. 1435 EDA 2025",
+      "caption": "Com. v. Carter, K.",
+      "author": "King, J.",
+      "pub_date": "Thu, 07 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S13041-26m - 106775632357694716.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S13041-26m - 106775632357694716.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Superior Court",
+      "docket": "No. 1582 EDA 2025",
+      "caption": "Garcia, J. v. Myatt, H.",
+      "author": "Lane, J.",
+      "pub_date": "Thu, 07 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-A10016-26m - 106775609357691261.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-A10016-26m - 106775609357691261.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Superior Court",
+      "docket": "",
+      "caption": "Judgment Lists",
+      "author": "",
+      "pub_date": "Thu, 07 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/050726 E.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/050726 E.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Superior Court",
+      "docket": "",
+      "caption": "Judgment Lists",
+      "author": "",
+      "pub_date": "Thu, 07 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/050726 M.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/050726 M.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Superior Court",
+      "docket": "",
+      "caption": "Judgment Lists",
+      "author": "",
+      "pub_date": "Thu, 07 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/050726 W.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/050726 W.pdf"
     },
     {
       "type": "opinion",
@@ -2522,86 +2645,6 @@
     },
     {
       "type": "opinion",
-      "court": "PA Superior Court",
-      "docket": "No. 2488 EDA 2025",
-      "caption": "Com. v. McDonald, B.",
-      "author": "Murray, J.",
-      "pub_date": "Mon, 04 May 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S09013-26m - 106770588357196829.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S09013-26m - 106770588357196829.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Superior Court",
-      "docket": "",
-      "caption": "Judgment Lists",
-      "author": "",
-      "pub_date": "Mon, 04 May 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Superior/out/050426 E.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/050426 E.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Superior Court",
-      "docket": "",
-      "caption": "Judgment Lists",
-      "author": "",
-      "pub_date": "Mon, 04 May 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Superior/out/050426 M.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/050426 M.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Superior Court",
-      "docket": "",
-      "caption": "Reargument Table",
-      "author": "",
-      "pub_date": "Fri, 01 May 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Superior/out/WestReport050126.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/WestReport050126.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Superior Court",
-      "docket": "No. 482 WDA 2025",
-      "caption": "Com. v. Matthews, J.",
-      "author": "Lazarus, P.J.",
-      "pub_date": "Fri, 01 May 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S11041-26m - 106769312356963281.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S11041-26m - 106769312356963281.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Superior Court",
-      "docket": "No. 1291 WDA 2025",
-      "caption": "Com. v. Sapp, J.",
-      "author": "Lazarus, P.J.",
-      "pub_date": "Fri, 01 May 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S11044-26m - 106769304356961636.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S11044-26m - 106769304356961636.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Superior Court",
-      "docket": "No. 1592 WDA 2024",
-      "caption": "Com. v. Kirk, G.",
-      "author": "Bowes, J.",
-      "pub_date": "Fri, 01 May 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-A13002-26m - 106769431356973138.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-A13002-26m - 106769431356973138.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Superior Court",
-      "docket": "No. 95 WDA 2025",
-      "caption": "Com. v. Kirk, G.",
-      "author": "Bowes, J.",
-      "pub_date": "Fri, 01 May 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-A13002-26m - 106769432356973291.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-A13002-26m - 106769432356973291.pdf"
-    },
-    {
-      "type": "opinion",
       "court": "PA Commonwealth Court",
       "docket": "200, 202-204 C.D. 2024 (RECONSIDERATION ORDER)",
       "caption": "North Coventry Twp. v. J.M. Tripodi, et al. ~ Appeal of: J.M. Tripodi, et al.",
@@ -2763,202 +2806,38 @@
     {
       "type": "opinion",
       "court": "Third Circuit",
-      "docket": "25-2240",
-      "caption": "Richard Thivener v. Andrew Nero, et al",
-      "author": "",
-      "pub_date": "Thu, 30 Apr 2026 23:02:39 +0000",
-      "url": "https://www.govinfo.gov/app/details/USCOURTS-ca3-25-02240/context",
-      "guid": "USCOURTS-ca3-25-02240"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "26-1792",
-      "caption": "In re: Jake Bylsma",
-      "author": "",
-      "pub_date": "Thu, 30 Apr 2026 23:02:39 +0000",
-      "url": "https://www.govinfo.gov/app/details/USCOURTS-ca3-26-01792/context",
-      "guid": "USCOURTS-ca3-26-01792"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "25-2556",
-      "caption": "George Trombetti, et al v. Borough of Aldan, et al",
-      "author": "",
-      "pub_date": "Thu, 30 Apr 2026 23:02:39 +0000",
-      "url": "https://www.govinfo.gov/app/details/USCOURTS-ca3-25-02556/context",
-      "guid": "USCOURTS-ca3-25-02556"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "25-2639",
-      "caption": "Emir Yazici v. MAC Parent LLC, et al",
-      "author": "",
-      "pub_date": "Thu, 30 Apr 2026 23:02:40 +0000",
-      "url": "https://www.govinfo.gov/app/details/USCOURTS-ca3-25-02639/context",
-      "guid": "USCOURTS-ca3-25-02639"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "25-2567",
-      "caption": "John Butler v. Floyd, et al",
-      "author": "",
-      "pub_date": "Thu, 30 Apr 2026 23:02:40 +0000",
-      "url": "https://www.govinfo.gov/app/details/USCOURTS-ca3-25-02567/context",
-      "guid": "USCOURTS-ca3-25-02567"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "25-2917",
-      "caption": "Harisadhan Patra, et al v. Pennsylvania State System of Higher Education, et al",
-      "author": "",
-      "pub_date": "Thu, 30 Apr 2026 23:02:42 +0000",
-      "url": "https://www.govinfo.gov/app/details/USCOURTS-ca3-25-02917/context",
-      "guid": "USCOURTS-ca3-25-02917"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "25-2071",
-      "caption": "B. M., et al v. Upper Darby School District",
-      "author": "",
-      "pub_date": "Thu, 30 Apr 2026 23:02:42 +0000",
-      "url": "https://www.govinfo.gov/app/details/USCOURTS-ca3-25-02071/context",
-      "guid": "USCOURTS-ca3-25-02071"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "25-1441",
-      "caption": "Christopher Rogalski v. Laureate Education Inc, et al",
-      "author": "",
-      "pub_date": "Fri, 01 May 2026 22:54:13 +0000",
-      "url": "https://www.govinfo.gov/app/details/USCOURTS-ca3-25-01441/context",
-      "guid": "USCOURTS-ca3-25-01441"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "25-1845",
-      "caption": "Christine Biros v. Shanni Snyder, et al",
-      "author": "",
-      "pub_date": "Fri, 01 May 2026 22:54:13 +0000",
-      "url": "https://www.govinfo.gov/app/details/USCOURTS-ca3-25-01845/context",
-      "guid": "USCOURTS-ca3-25-01845"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "25-1166",
-      "caption": "Renel Sample v. OPM",
-      "author": "",
-      "pub_date": "Fri, 01 May 2026 22:54:13 +0000",
-      "url": "https://www.govinfo.gov/app/details/USCOURTS-ca3-25-01166/context",
-      "guid": "USCOURTS-ca3-25-01166"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "25-1735",
-      "caption": "Mauro Altamirano v. Attorney General United States of America",
-      "author": "",
-      "pub_date": "Fri, 01 May 2026 22:54:14 +0000",
-      "url": "https://www.govinfo.gov/app/details/USCOURTS-ca3-25-01735/context",
-      "guid": "USCOURTS-ca3-25-01735"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "25-2958",
-      "caption": "Kevin Davis v. John Wetzel, et al",
-      "author": "",
-      "pub_date": "Fri, 01 May 2026 22:54:14 +0000",
-      "url": "https://www.govinfo.gov/app/details/USCOURTS-ca3-25-02958/context",
-      "guid": "USCOURTS-ca3-25-02958"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "25-1373",
-      "caption": "Iris Rodriguez Martinez, et al v. Attorney General United States of America",
-      "author": "",
-      "pub_date": "Fri, 01 May 2026 22:54:14 +0000",
-      "url": "https://www.govinfo.gov/app/details/USCOURTS-ca3-25-01373/context",
-      "guid": "USCOURTS-ca3-25-01373"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "25-1366",
-      "caption": "USA v. Divine Zion",
-      "author": "",
-      "pub_date": "Fri, 01 May 2026 22:54:14 +0000",
-      "url": "https://www.govinfo.gov/app/details/USCOURTS-ca3-25-01366/context",
-      "guid": "USCOURTS-ca3-25-01366"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "26-1141",
-      "caption": "In re: Aaron Mazie",
-      "author": "",
-      "pub_date": "Sat, 02 May 2026 22:39:40 +0000",
-      "url": "https://www.govinfo.gov/app/details/USCOURTS-ca3-26-01141/context",
-      "guid": "USCOURTS-ca3-26-01141"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "24-3196",
-      "caption": "In re: William F. Carney",
-      "author": "",
-      "pub_date": "Sat, 02 May 2026 22:39:40 +0000",
-      "url": "https://www.govinfo.gov/app/details/USCOURTS-ca3-24-03196/context",
-      "guid": "USCOURTS-ca3-24-03196"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
       "docket": "25-1780",
       "caption": "USA v. Steven Newkirk",
       "author": "",
-      "pub_date": "Sat, 02 May 2026 22:42:04 +0000",
-      "url": "https://www.govinfo.gov/app/details/USCOURTS-ca3-25-01780/context",
-      "guid": "USCOURTS-ca3-25-01780"
+      "pub_date": "Fri, 01 May 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/251780p.pdf",
+      "guid": "ca3-25-1780-251780p.pdf",
+      "precedential": true,
+      "origin": "USDC for the District of New Jersey"
     },
     {
       "type": "opinion",
       "court": "Third Circuit",
-      "docket": "25-1905",
-      "caption": "Tammy Conklin v. ABEC Inc",
+      "docket": "26-1358",
+      "caption": "Timothy Baukman v.",
       "author": "",
-      "pub_date": "Sat, 02 May 2026 22:42:04 +0000",
-      "url": "https://www.govinfo.gov/app/details/USCOURTS-ca3-25-01905/context",
-      "guid": "USCOURTS-ca3-25-01905"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "26-1064",
-      "caption": "Johnson Ogunlana v. Warden Allenwood FCI Low",
-      "author": "",
-      "pub_date": "Tue, 05 May 2026 22:49:02 +0000",
-      "url": "https://www.govinfo.gov/app/details/USCOURTS-ca3-26-01064/context",
-      "guid": "USCOURTS-ca3-26-01064"
+      "pub_date": "Wed, 06 May 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/261358np.pdf",
+      "guid": "ca3-26-1358-261358np.pdf",
+      "precedential": false,
+      "origin": "USDC for the Eastern District of Pennsylvania"
     },
     {
       "type": "opinion",
       "court": "Third Circuit",
       "docket": "25-3055",
-      "caption": "Crystal Biton, et al v. USA, et al",
+      "caption": "Crystal Biton v. USA",
       "author": "",
-      "pub_date": "Wed, 06 May 2026 23:12:17 +0000",
-      "url": "https://www.govinfo.gov/app/details/USCOURTS-ca3-25-03055/context",
-      "guid": "USCOURTS-ca3-25-03055"
+      "pub_date": "Tue, 05 May 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/253055np.pdf",
+      "guid": "ca3-25-3055-253055np.pdf",
+      "precedential": false,
+      "origin": "USDC for the District of New Jersey"
     },
     {
       "type": "opinion",
@@ -2966,9 +2845,59 @@
       "docket": "25-1064",
       "caption": "Daniel George v. Piedmont Airlines",
       "author": "",
-      "pub_date": "Wed, 06 May 2026 23:18:47 +0000",
-      "url": "https://www.govinfo.gov/app/details/USCOURTS-ca3-25-01064/context",
-      "guid": "USCOURTS-ca3-25-01064"
+      "pub_date": "Tue, 05 May 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/251064np.pdf",
+      "guid": "ca3-25-1064-251064np.pdf",
+      "precedential": false,
+      "origin": "USDC for the Eastern District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "26-1064",
+      "caption": "Johnson Ogunlana v. Warden Allenwood FCI Low",
+      "author": "",
+      "pub_date": "Mon, 04 May 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/261064np.pdf",
+      "guid": "ca3-26-1064-261064np.pdf",
+      "precedential": false,
+      "origin": "USDC for the Middle District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "26-1141",
+      "caption": "Aaron Mazie v.",
+      "author": "",
+      "pub_date": "Fri, 01 May 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/261141np.pdf",
+      "guid": "ca3-26-1141-261141np.pdf",
+      "precedential": false,
+      "origin": "USDC for the Eastern District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-1905",
+      "caption": "Tammy Conklin v. ABEC Inc",
+      "author": "",
+      "pub_date": "Fri, 01 May 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/251905np.pdf",
+      "guid": "ca3-25-1905-251905np.pdf",
+      "precedential": false,
+      "origin": "USDC for the Eastern District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "24-3196",
+      "caption": "William F. Carney v.",
+      "author": "",
+      "pub_date": "Fri, 01 May 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/243196np.pdf",
+      "guid": "ca3-24-3196-243196np.pdf",
+      "precedential": false,
+      "origin": "USDC for the Western District of Pennsylvania"
     }
   ]
 }

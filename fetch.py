@@ -39,7 +39,10 @@ RSS_FEEDS = {
     "PA Commonwealth Court": "https://www.pacourts.us/Rss/Opinions/Commonwealth/",
 }
 
-THIRD_CIRCUIT_FEED = "https://www.govinfo.gov/rss/uscourts-ca3.xml"
+CA3_PREC_URL = "https://www2.ca3.uscourts.gov/recentop/week/recprec.htm"
+CA3_NONPREC_URL = "https://www2.ca3.uscourts.gov/recentop/week/recnonprec.htm"
+
+SCOTUS_JSON = "https://www.supremecourt.gov/RSS/Cases/JSON/{docket}.json"
 
 NS = {"dc": "http://purl.org/dc/elements/1.1/"}
 
@@ -221,49 +224,157 @@ def fetch_rss_opinions(ctx: ssl.SSLContext) -> list[dict]:
     return opinions
 
 
-def fetch_third_circuit(ctx: ssl.SSLContext) -> list[dict]:
-    """Fetch recent Third Circuit opinions from GovInfo RSS."""
-    print("  Fetching RSS for Third Circuit...")
-    req = Request(THIRD_CIRCUIT_FEED, headers={"User-Agent": UA})
-    try:
-        with urlopen(req, timeout=30, context=ctx) as resp:
-            root = ET.fromstring(resp.read())
-    except Exception as e:
-        print(f"    ERROR: {e}", file=sys.stderr)
-        return []
+def _parse_ca3_page(html_text: str, is_precedential: bool) -> list[dict]:
+    """Parse a ca3.uscourts.gov recent opinions HTML page.
 
-    channel = root.find("channel")
-    if channel is None:
-        return []
-
+    Pattern per opinion:
+      Filed MM/DD/YYYY, No. XX-XXXX<br />
+      <a href="URL">Case Name</a><br />
+      Originating District<br />
+    """
     opinions = []
-    for item in channel.findall("item"):
-        title = item.findtext("title", "").strip()
-        link = item.findtext("link", "").strip()
-        guid = item.findtext("guid", link).strip()
-        pub_date = item.findtext("pubDate", "").strip()
+    for m in re.finditer(
+        r"Filed\s+(\d{2}/\d{2}/\d{4}),\s*No\.\s*([\d-]+)\s*<br\s*/>"
+        r"\s*<a\s+href=[\"']([^\"']+)[\"'][^>]*>([^<]+)</a>\s*<br\s*/>"
+        r"\s*([^<]+?)\s*<br\s*/>",
+        html_text,
+    ):
+        filing_date = m.group(1)
+        docket = m.group(2)
+        url = m.group(3)
+        caption = html_mod.unescape(m.group(4)).strip()
+        origin = html_mod.unescape(m.group(5)).strip()
 
-        # Title format: "25-1847 - Jim Wang, et al v. Maserati North America"
-        docket = ""
-        case_name = title
-        m = re.match(r"(\d+-\d+)\s*-\s*(.*)", title)
-        if m:
-            docket = m.group(1)
-            case_name = m.group(2).strip()
+        dt = datetime.strptime(filing_date, "%m/%d/%Y").replace(tzinfo=timezone.utc)
+        pub_date = dt.strftime("%a, %d %b %Y 00:00:00 +0000")
 
         opinions.append({
             "type": "opinion",
             "court": "Third Circuit",
             "docket": docket,
-            "caption": case_name,
+            "caption": caption,
             "author": "",
             "pub_date": pub_date,
-            "url": link,
-            "guid": guid,
+            "url": url,
+            "guid": f"ca3-{docket}-{url.split('/')[-1]}",
+            "precedential": is_precedential,
+            "origin": origin,
         })
 
-    print(f"    Found {len(opinions)} opinions")
     return opinions
+
+
+def fetch_third_circuit(ctx: ssl.SSLContext) -> list[dict]:
+    """Fetch recent Third Circuit opinions from ca3.uscourts.gov."""
+    opinions = []
+
+    for label, url, prec in [
+        ("precedential", CA3_PREC_URL, True),
+        ("non-precedential", CA3_NONPREC_URL, False),
+    ]:
+        print(f"  Fetching Third Circuit {label} opinions...")
+        req = Request(url, headers={"User-Agent": UA})
+        try:
+            with urlopen(req, timeout=30, context=ctx) as resp:
+                html_text = resp.read().decode("utf-8", errors="replace")
+        except Exception as e:
+            print(f"    ERROR: {e}", file=sys.stderr)
+            continue
+
+        page_opinions = _parse_ca3_page(html_text, prec)
+        print(f"    Found {len(page_opinions)} {label} opinions")
+        opinions.extend(page_opinions)
+
+    return opinions
+
+
+def _find_scotus_max_docket(ctx: ssl.SSLContext) -> tuple[int, int]:
+    """Binary search for the highest current SCOTUS docket number.
+
+    Returns (term, max_number) e.g. (25, 7338).
+    """
+    now = datetime.now()
+    term = now.year % 100 if now.month >= 10 else (now.year - 1) % 100
+
+    lo, hi = 5000, 9999
+    last_valid = lo
+    while lo <= hi:
+        mid = (lo + hi) // 2
+        url = SCOTUS_JSON.format(docket=f"{term}-{mid}")
+        req = Request(url, headers={"User-Agent": UA})
+        try:
+            urlopen(req, timeout=5, context=ctx).read()
+            last_valid = mid
+            lo = mid + 1
+        except Exception:
+            hi = mid - 1
+
+    return term, last_valid
+
+
+def fetch_scotus_cert_petitions(ctx: ssl.SSLContext, days_back: int = 30) -> list[dict]:
+    """Fetch recent cert petitions from SCOTUS docket that came from the Third Circuit."""
+    print("  Fetching SCOTUS cert petitions (Third Circuit)...")
+
+    term, max_num = _find_scotus_max_docket(ctx)
+    print(f"    Current max docket: {term}-{max_num}")
+
+    cutoff = datetime.now() - timedelta(days=days_back)
+    scan_start = max(max_num - 150, 1)
+
+    petitions = []
+    for num in range(scan_start, max_num + 1):
+        docket = f"{term}-{num}"
+        url = SCOTUS_JSON.format(docket=docket)
+        req = Request(url, headers={"User-Agent": UA})
+        try:
+            resp = urlopen(req, timeout=5, context=ctx)
+            data = json.loads(resp.read().decode("utf-8", errors="replace"))
+        except Exception:
+            continue
+
+        lower = data.get("LowerCourt") or ""
+        if "Third Circuit" not in lower:
+            continue
+
+        docketed_str = data.get("DocketedDate", "")
+        try:
+            dt = datetime.strptime(docketed_str, "%B %d, %Y")
+            if dt < cutoff:
+                continue
+        except (ValueError, TypeError):
+            pass
+
+        petitioner = data.get("PetitionerTitle", "").rstrip(", Petitioner").rstrip(", Petitioners")
+        respondent = data.get("RespondentTitle", "")
+        caption = f"{petitioner} v. {respondent}" if respondent else petitioner
+        lower_nums = data.get("LowerCourtCaseNumbers", "")
+        case_type = data.get("sJsonCaseType", "")
+
+        docket_url = f"https://www.supremecourt.gov/docket/docketfiles/html/public/{docket}.html"
+
+        filing_date = ""
+        try:
+            dt = datetime.strptime(docketed_str, "%B %d, %Y")
+            filing_date = dt.strftime("%m/%d/%Y")
+        except (ValueError, TypeError):
+            filing_date = docketed_str
+
+        petitions.append({
+            "type": "filing",
+            "court": "SCOTUS",
+            "docket": docket,
+            "caption": caption,
+            "status": "Cert Petition",
+            "filing_date": filing_date,
+            "url": docket_url,
+            "lower_court": lower,
+            "lower_court_docket": lower_nums,
+            "case_type": case_type,
+        })
+
+    print(f"    Found {len(petitions)} Third Circuit cert petitions")
+    return petitions
 
 
 def prune_old(filings: list[dict], opinions: list[dict], days: int = 7) -> tuple[list[dict], list[dict]]:
@@ -272,12 +383,15 @@ def prune_old(filings: list[dict], opinions: list[dict], days: int = 7) -> tuple
 
     cutoff = datetime.now(timezone.utc) - timedelta(days=days)
 
+    scotus_cutoff = datetime.now(timezone.utc) - timedelta(days=30)
+
     kept_filings = []
     for f in filings:
         date_str = f.get("filing_date", "")
         try:
             dt = datetime.strptime(date_str, "%m/%d/%Y").replace(tzinfo=timezone.utc)
-            if dt >= cutoff:
+            threshold = scotus_cutoff if f.get("court") == "SCOTUS" else cutoff
+            if dt >= threshold:
                 kept_filings.append(f)
         except (ValueError, TypeError):
             kept_filings.append(f)
@@ -300,6 +414,7 @@ def main() -> None:
     ctx = _ssl_ctx()
 
     filings = fetch_ujs_filings(ctx)
+    filings.extend(fetch_scotus_cert_petitions(ctx))
     opinions = fetch_rss_opinions(ctx)
     opinions.extend(fetch_third_circuit(ctx))
 

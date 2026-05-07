@@ -24,11 +24,21 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Install Playwright
+        run: |
+          pip install playwright
+          playwright install chromium --with-deps
+
       - name: Fetch court data
         run: python fetch.py
 
+      - name: Fetch calendar data
+        run: python fetch_calendar.py
+
       - name: Build static site
-        run: python build_site.py
+        run: |
+          python build_site.py
+          python build_calendar.py
 
       - name: Commit and push if changed
         run: |
