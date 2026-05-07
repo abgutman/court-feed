@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-07T15:23:45.603854+00:00",
+  "generated": "2026-05-07T15:31:19.112810+00:00",
   "filings": [
     {
       "type": "filing",
@@ -139,6 +139,15 @@
     {
       "type": "filing",
       "court": "PA Supreme Court",
+      "docket": "254 MAL 2026",
+      "caption": "Commonwealth, Pet. v. Brown, M.",
+      "status": "Active",
+      "filing_date": "05/07/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=254 MAL 2026&dnh=7GPdUyOFfxElpusJGT2Siw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
       "docket": "106 MM 2026",
       "caption": "Guzman, J., Pet. v. Smith, J., Berks Co. Jail Warden",
       "status": "Active",
@@ -212,7 +221,7 @@
       "type": "filing",
       "court": "PA Supreme Court",
       "docket": "113 WAL 2026",
-      "caption": "Com. v. Francis, A.",
+      "caption": "Commonwealth v. Francis, A., Pet.",
       "status": "Active",
       "filing_date": "05/07/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=113 WAL 2026&dnh=1EOitjRZxX9p4eiPfPU5pw%3D%3D"
