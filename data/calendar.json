@@ -1,17 +1,6 @@
 {
-  "generated": "2026-05-07T17:32:26.350622+00:00",
+  "generated": "2026-05-07T19:24:27.490962+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "05/07/2026 01:30PM",
-      "case_number": "25-cr-0400",
-      "caption": "USA v. BENABE",
-      "judge": "MAGISTRATE JUDGE STRAW",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643381"
-    },
     {
       "court": "EDPA",
       "datetime": "05/08/2026 03:30PM",
@@ -77,17 +66,6 @@
       "courtroom": "Courtroom 9B",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?591492"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/11/2026 09:30AM",
-      "case_number": "25-cr-0516",
-      "caption": "USA v. HANNAH",
-      "judge": "DISTRICT JUDGE MCHUGH",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647084"
     },
     {
       "court": "EDPA",
@@ -1375,6 +1353,17 @@
       "courtroom": "Courtroom 13B",
       "hearing_type": "Trial Date",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634947"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/18/2026 10:00AM",
+      "case_number": "26-cv-1822",
+      "caption": "HUMPHREY v. RIFE et al",
+      "judge": "DISTRICT JUDGE WEILHEIMER",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 7B",
+      "hearing_type": "Miscellaneous Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651597"
     },
     {
       "court": "EDPA",

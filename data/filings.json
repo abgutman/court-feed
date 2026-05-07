@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-07T17:30:59.462631+00:00",
+  "generated": "2026-05-07T19:23:06.023241+00:00",
   "filings": [
     {
       "type": "filing",
@@ -85,6 +85,15 @@
     {
       "type": "filing",
       "court": "PA Supreme Court",
+      "docket": "153 EAL 2026",
+      "caption": "Commonwealth v. Dorsey, J., Pet.",
+      "status": "Active",
+      "filing_date": "05/07/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=153 EAL 2026&dnh=N60HFCdZ1qEV0brUJyfGMQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
       "docket": "44 EM 2026",
       "caption": "Commonwealth v. Edwards, R., Pet.",
       "status": "Active",
@@ -144,6 +153,15 @@
       "status": "Active",
       "filing_date": "05/07/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=254 MAL 2026&dnh=7GPdUyOFfxElpusJGT2Siw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "255 MAL 2026",
+      "caption": "Commonwealth v. Flood, R., Pet.",
+      "status": "Active",
+      "filing_date": "05/07/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=255 MAL 2026&dnh=D80GJg7ZbiNePleG%2FYrh6g%3D%3D"
     },
     {
       "type": "filing",
@@ -1881,6 +1899,46 @@
     }
   ],
   "opinions": [
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 74 WAL 2026",
+      "caption": "In the Int. of: O.M., Appeal of: J.M.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 07 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/74WAL2026 - 106775698357702194.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/74WAL2026 - 106775698357702194.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 73 WAL 2026",
+      "caption": "In the Int. of: O.M., Appeal of: J.M.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 07 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/73WAL2026 - 106775697357702194.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/73WAL2026 - 106775697357702194.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 72 WAL 2026",
+      "caption": "In the Int. of: O.M., Appeal of: J.M.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 07 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/72WAL2026 - 106775696357702194.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/72WAL2026 - 106775696357702194.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 71 WAL 2026",
+      "caption": "In the Int. of: O.M., Appeal of: J.M.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 07 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/71WAL2026 - 106775695357702194.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/71WAL2026 - 106775695357702194.pdf"
+    },
     {
       "type": "opinion",
       "court": "PA Supreme Court",
