@@ -18,9 +18,10 @@ COURT_COLORS = {
     "PA Supreme Court": "#1a237e",
     "PA Superior Court": "#283593",
     "PA Commonwealth Court": "#303f9f",
+    "Third Circuit": "#4a148c",
 }
 
-COURT_ORDER = ["PA Supreme Court", "PA Superior Court", "PA Commonwealth Court"]
+COURT_ORDER = ["PA Supreme Court", "PA Superior Court", "PA Commonwealth Court", "Third Circuit"]
 
 PHILLY_AREA_KW = re.compile(
     r"philadelphia|phila\b|bucks county|chester county|montgomery county"
@@ -426,7 +427,7 @@ footer a {{ color: #999; }}
 <body>
 <header>
   <h1>PA Appellate Court Feed</h1>
-  <p>New filings &amp; opinions from Pennsylvania Supreme, Superior, and Commonwealth Courts</p>
+  <p>New filings &amp; opinions from PA Supreme, Superior, Commonwealth Courts &amp; the Third Circuit</p>
   <p>Last updated: {html.escape(generated_display)}</p>
 </header>
 
@@ -459,6 +460,7 @@ footer a {{ color: #999; }}
       <button class="filter-btn" onclick="filterCourt('filings', 'Supreme')">Supreme</button>
       <button class="filter-btn" onclick="filterCourt('filings', 'Superior')">Superior</button>
       <button class="filter-btn" onclick="filterCourt('filings', 'Commonwealth')">Commonwealth</button>
+      <button class="filter-btn" onclick="filterCourt('filings', 'Third Circuit')">Third Circuit</button>
     </div>
     {filing_html}
   </div>
@@ -469,14 +471,16 @@ footer a {{ color: #999; }}
       <button class="filter-btn" onclick="filterCourt('opinions', 'Supreme')">Supreme</button>
       <button class="filter-btn" onclick="filterCourt('opinions', 'Superior')">Superior</button>
       <button class="filter-btn" onclick="filterCourt('opinions', 'Commonwealth')">Commonwealth</button>
+      <button class="filter-btn" onclick="filterCourt('opinions', 'Third Circuit')">Third Circuit</button>
     </div>
     {opinion_html}
   </div>
 </div>
 
 <footer>
-  Source: <a href="https://ujsportal.pacourts.us/CaseSearch">UJS Portal</a> &amp;
-  <a href="https://www.pacourts.us/">pacourts.us</a> RSS feeds<br>
+  Source: <a href="https://ujsportal.pacourts.us/CaseSearch">UJS Portal</a>,
+  <a href="https://www.pacourts.us/">pacourts.us</a> &amp;
+  <a href="https://www.govinfo.gov/app/collection/uscourts/appellate/ca3/">GovInfo</a> RSS feeds<br>
   Data refreshed automatically. Recent entries may not be immediately reflected.
 </footer>
 

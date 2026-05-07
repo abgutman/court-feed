@@ -39,6 +39,8 @@ RSS_FEEDS = {
     "PA Commonwealth Court": "https://www.pacourts.us/Rss/Opinions/Commonwealth/",
 }
 
+THIRD_CIRCUIT_FEED = "https://www.govinfo.gov/rss/uscourts-ca3.xml"
+
 NS = {"dc": "http://purl.org/dc/elements/1.1/"}
 
 
@@ -219,6 +221,51 @@ def fetch_rss_opinions(ctx: ssl.SSLContext) -> list[dict]:
     return opinions
 
 
+def fetch_third_circuit(ctx: ssl.SSLContext) -> list[dict]:
+    """Fetch recent Third Circuit opinions from GovInfo RSS."""
+    print("  Fetching RSS for Third Circuit...")
+    req = Request(THIRD_CIRCUIT_FEED, headers={"User-Agent": UA})
+    try:
+        with urlopen(req, timeout=30, context=ctx) as resp:
+            root = ET.fromstring(resp.read())
+    except Exception as e:
+        print(f"    ERROR: {e}", file=sys.stderr)
+        return []
+
+    channel = root.find("channel")
+    if channel is None:
+        return []
+
+    opinions = []
+    for item in channel.findall("item"):
+        title = item.findtext("title", "").strip()
+        link = item.findtext("link", "").strip()
+        guid = item.findtext("guid", link).strip()
+        pub_date = item.findtext("pubDate", "").strip()
+
+        # Title format: "25-1847 - Jim Wang, et al v. Maserati North America"
+        docket = ""
+        case_name = title
+        m = re.match(r"(\d+-\d+)\s*-\s*(.*)", title)
+        if m:
+            docket = m.group(1)
+            case_name = m.group(2).strip()
+
+        opinions.append({
+            "type": "opinion",
+            "court": "Third Circuit",
+            "docket": docket,
+            "caption": case_name,
+            "author": "",
+            "pub_date": pub_date,
+            "url": link,
+            "guid": guid,
+        })
+
+    print(f"    Found {len(opinions)} opinions")
+    return opinions
+
+
 def prune_old(filings: list[dict], opinions: list[dict], days: int = 7) -> tuple[list[dict], list[dict]]:
     """Drop entries older than `days` days."""
     from email.utils import parsedate_to_datetime
@@ -254,6 +301,7 @@ def main() -> None:
 
     filings = fetch_ujs_filings(ctx)
     opinions = fetch_rss_opinions(ctx)
+    opinions.extend(fetch_third_circuit(ctx))
 
     filings, opinions = prune_old(filings, opinions, days=7)
 
