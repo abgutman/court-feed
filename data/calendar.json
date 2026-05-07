@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-07T19:24:27.490962+00:00",
+  "generated": "2026-05-07T20:57:28.771164+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -165,6 +165,28 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Probable Cause Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654060"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/11/2026 01:30PM",
+      "case_number": "26-mj-0861",
+      "caption": "USA v. TRILLO SERRANO",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654196"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/11/2026 01:30PM",
+      "case_number": "26-mj-0861",
+      "caption": "USA v. TRILLO SERRANO",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Probable Cause Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654196"
     },
     {
       "court": "EDPA",
@@ -693,6 +715,17 @@
       "courtroom": "Courtroom 17A",
       "hearing_type": "Trial Date",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626355"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/13/2026 10:00AM",
+      "case_number": "24-cv-1508",
+      "caption": "BARK U, LLC v. TERWISSCHA CONS",
+      "judge": "DISTRICT JUDGE COSTELLO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 6A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621012"
     },
     {
       "court": "EDPA",
@@ -1294,10 +1327,43 @@
       "case_number": "24-cr-0167",
       "caption": "USA v. WICKER",
       "judge": "DISTRICT JUDGE SANCHEZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14B",
+      "hearing_type": "Evidentiary Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621464"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/18/2026 09:30AM",
+      "case_number": "24-cr-0167",
+      "caption": "USA v. WICKER",
+      "judge": "DISTRICT JUDGE SANCHEZ",
       "city": "",
       "courtroom": "unlisted",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621464"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/18/2026 09:30AM",
+      "case_number": "24-cr-0167",
+      "caption": "USA v. TUCK",
+      "judge": "DISTRICT JUDGE SANCHEZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14B",
+      "hearing_type": "Attorney Appointment Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621465"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/18/2026 09:30AM",
+      "case_number": "24-cr-0167",
+      "caption": "USA v. TUCK",
+      "judge": "DISTRICT JUDGE SANCHEZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14B",
+      "hearing_type": "Evidentiary Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621465"
     },
     {
       "court": "EDPA",
@@ -1584,6 +1650,28 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Evidentiary Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621463"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/19/2026 09:30AM",
+      "case_number": "24-cr-0167",
+      "caption": "USA v. WICKER",
+      "judge": "DISTRICT JUDGE SANCHEZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14B",
+      "hearing_type": "Evidentiary Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621464"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/19/2026 09:30AM",
+      "case_number": "24-cr-0167",
+      "caption": "USA v. TUCK",
+      "judge": "DISTRICT JUDGE SANCHEZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14B",
+      "hearing_type": "Evidentiary Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621465"
     },
     {
       "court": "EDPA",
