@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-07T23:43:32.323879+00:00",
+  "generated": "2026-05-08T01:34:08.000915+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -2376,6 +2376,28 @@
       "courtroom": "Reading 5th Floor",
       "hearing_type": "Evidentiary Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?468674"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/22/2026 09:30AM",
+      "case_number": "24-cv-4304",
+      "caption": "Sakamoto et al v. PROGRESSIVE",
+      "judge": "DISTRICT JUDGE RUFE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12A",
+      "hearing_type": "Trial Date",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626355"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/22/2026 10:00AM",
+      "case_number": "24-cv-2217",
+      "caption": "MASON v. WORTH & COMPANY, INC.",
+      "judge": "DISTRICT JUDGE SCHMEHL",
+      "city": "Reading",
+      "courtroom": "Reading 5th Floor",
+      "hearing_type": "Final Pretrial Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622616"
     }
   ],
   "third_circuit": [
