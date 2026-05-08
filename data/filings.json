@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-08T14:29:50.136527+00:00",
+  "generated": "2026-05-08T16:09:41.441784+00:00",
   "filings": [
     {
       "type": "filing",
@@ -94,6 +94,15 @@
     {
       "type": "filing",
       "court": "PA Supreme Court",
+      "docket": "155 EAL 2026",
+      "caption": "Patterson, D. v. Turchin, L.",
+      "status": "Active",
+      "filing_date": "05/08/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=155 EAL 2026&dnh=NxY8N0TVhThkLKMM5MrGnA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
       "docket": "44 EM 2026",
       "caption": "Commonwealth v. Edwards, R., Pet.",
       "status": "Active",
@@ -144,6 +153,24 @@
       "status": "Active",
       "filing_date": "05/07/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=256 MAL 2026&dnh=5xZetH3L7eJ5V3Iz3%2FVaEw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "258 MAL 2026",
+      "caption": "Shaffer, M. v. Brenntag Northeast, LLC",
+      "status": "Active",
+      "filing_date": "05/07/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=258 MAL 2026&dnh=8DaT871C467wgFuxJ31i9w%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "259 MAL 2026",
+      "caption": "Commonwealth v. Escobedo, M., Pet.",
+      "status": "Active",
+      "filing_date": "05/08/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=259 MAL 2026&dnh=MibL1SewHunEOJ9VV%2FZGhA%3D%3D"
     },
     {
       "type": "filing",
@@ -810,6 +837,78 @@
       "status": "Active",
       "filing_date": "05/08/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1234 EDA 2026&dnh=Sus6c5VPzdHov%2B%2BX6WoZkA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1235 EDA 2026",
+      "caption": "Com. v. Sekou, C.",
+      "status": "Active",
+      "filing_date": "05/08/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1235 EDA 2026&dnh=4Bk3ft0rpNmnVr8RfXhm6w%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1236 EDA 2026",
+      "caption": "Com. v. Sekou, M.",
+      "status": "Active",
+      "filing_date": "05/08/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1236 EDA 2026&dnh=2IBu96s1LXhrB3LsRxJraA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1237 EDA 2026",
+      "caption": "Com. v. Mitchell, A.",
+      "status": "Active",
+      "filing_date": "05/08/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1237 EDA 2026&dnh=v89BJBUTdkxgnNgknYKW3Q%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1238 EDA 2026",
+      "caption": "Com. v. Mitchell, A.",
+      "status": "Active",
+      "filing_date": "05/08/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1238 EDA 2026&dnh=2IZP3NsWCxcd3VBaEHHLnw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1239 EDA 2026",
+      "caption": "Com. v. Mitchell, A.",
+      "status": "Active",
+      "filing_date": "05/08/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1239 EDA 2026&dnh=yRrSWVeUiO757qPGGhVxTA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1240 EDA 2026",
+      "caption": "Williams, M. v. Zhoa, X.",
+      "status": "Active",
+      "filing_date": "05/08/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1240 EDA 2026&dnh=tZNhNCkLgFS6g2%2BYaChjxw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1241 EDA 2026",
+      "caption": "Com. v. Gurra, S.",
+      "status": "Active",
+      "filing_date": "05/08/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1241 EDA 2026&dnh=WjFWxHyLPpYs5h3GBe1mMA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1242 EDA 2026",
+      "caption": "Com. v. Gurra, S.",
+      "status": "Active",
+      "filing_date": "05/08/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1242 EDA 2026&dnh=BjGGOGOMalXb2pUbXrUsVA%3D%3D"
     },
     {
       "type": "filing",
@@ -1910,6 +2009,96 @@
     {
       "type": "opinion",
       "court": "PA Superior Court",
+      "docket": "No. 300 WDA 2025",
+      "caption": "Com. v. Neal, J.",
+      "author": "Nichols, J.",
+      "pub_date": "Fri, 08 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S46022-25m - 106777132357835218.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S46022-25m - 106777132357835218.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Superior Court",
+      "docket": "No. 1544 WDA 2024",
+      "caption": "Com. v. Hill, J.",
+      "author": "Beck, J.",
+      "pub_date": "Fri, 08 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-A02044-26m - 106777518357878419.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-A02044-26m - 106777518357878419.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Superior Court",
+      "docket": "No. 624 MDA 2025",
+      "caption": "Com. v. Bova, C.",
+      "author": "Olson, J.",
+      "pub_date": "Fri, 08 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S35015-25m - 106777605357889499.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S35015-25m - 106777605357889499.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Superior Court",
+      "docket": "No. 2428 EDA 2024",
+      "caption": "Com. v. Watts, S.",
+      "author": "Murray, J.",
+      "pub_date": "Fri, 08 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S17001-25m - 106777289357859409.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S17001-25m - 106777289357859409.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Superior Court",
+      "docket": "No. 699 EDA 2025",
+      "caption": "Com. v. Pryor, G.",
+      "author": "Ford Elliott, P.J.E.",
+      "pub_date": "Fri, 08 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S05031-26m - 106777401357866155.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S05031-26m - 106777401357866155.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Superior Court",
+      "docket": "No. 870 MDA 2024",
+      "caption": "Com. v. Morton, T.",
+      "author": "Olson, J.",
+      "pub_date": "Fri, 08 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-A07030-25o - 106777610357890364.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-A07030-25o - 106777610357890364.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Superior Court",
+      "docket": "",
+      "caption": "Judgment Lists",
+      "author": "",
+      "pub_date": "Fri, 08 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/050826 E.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/050826 E.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Superior Court",
+      "docket": "",
+      "caption": "Judgment Lists",
+      "author": "",
+      "pub_date": "Fri, 08 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/050826 M.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/050826 M.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Superior Court",
+      "docket": "",
+      "caption": "Judgment Lists",
+      "author": "",
+      "pub_date": "Fri, 08 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/050826 W.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/050826 W.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Superior Court",
       "docket": "No. 227 WDA 2025",
       "caption": "Com. v. Collins, E.",
       "author": "Beck, J.",
@@ -2366,96 +2555,6 @@
       "pub_date": "Tue, 05 May 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-A01023-26o - 106772991357370681.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-A01023-26o - 106772991357370681.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Superior Court",
-      "docket": "",
-      "caption": "Judgment Lists",
-      "author": "",
-      "pub_date": "Tue, 05 May 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Superior/out/050526 E.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/050526 E.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Superior Court",
-      "docket": "",
-      "caption": "Judgment Lists",
-      "author": "",
-      "pub_date": "Tue, 05 May 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Superior/out/050526 M.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/050526 M.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Superior Court",
-      "docket": "",
-      "caption": "Judgment Lists",
-      "author": "",
-      "pub_date": "Tue, 05 May 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Superior/out/050526 W.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/050526 W.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Superior Court",
-      "docket": "No. 1866 MDA 2024",
-      "caption": "Com. v. Sabatel, S.",
-      "author": "Beck, J.",
-      "pub_date": "Mon, 04 May 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S03025-26m - 106770827357195683.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S03025-26m - 106770827357195683.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Superior Court",
-      "docket": "No. 977 MDA 2025",
-      "caption": "Com. v. Blake, C.",
-      "author": "Beck, J.",
-      "pub_date": "Mon, 04 May 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S03023-26m - 106770810357154426.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S03023-26m - 106770810357154426.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Superior Court",
-      "docket": "No. 1027 MDA 2025",
-      "caption": "Com. v. Nival, J.",
-      "author": "Beck, J.",
-      "pub_date": "Mon, 04 May 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S03021-26m - 106770805357153853.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S03021-26m - 106770805357153853.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Superior Court",
-      "docket": "No. 706 EDA 2025",
-      "caption": "Gardner, C. v. Gardner, D.",
-      "author": "Panella, P.J.E.",
-      "pub_date": "Mon, 04 May 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S05014-26m.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S05014-26m.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Superior Court",
-      "docket": "No. 773 EDA 2025",
-      "caption": "Com. v. Ayoub, J.",
-      "author": "Murray, J.",
-      "pub_date": "Mon, 04 May 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S09004-26m - 106770645357134434.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S09004-26m - 106770645357134434.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Superior Court",
-      "docket": "No. 2349 EDA 2025",
-      "caption": "Com. v. McDonald, B.",
-      "author": "Murray, J.",
-      "pub_date": "Mon, 04 May 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S09013-26m - 106770587357130321.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S09013-26m - 106770587357130321.pdf"
     },
     {
       "type": "opinion",
