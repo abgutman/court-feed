@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-08T12:05:11.761025+00:00",
+  "generated": "2026-05-08T14:31:09.824941+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -86,7 +86,7 @@
       "judge": "DISTRICT JUDGE YOUNGE",
       "city": "Philadelphia",
       "courtroom": "Courtroom 15B",
-      "hearing_type": "Jury Trial",
+      "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631202"
     },
     {
@@ -308,6 +308,17 @@
       "courtroom": "Cahn 3C",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?577133"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/12/2026 09:30AM",
+      "case_number": "24-cr-0187",
+      "caption": "USA v. JOHNSON",
+      "judge": "DISTRICT JUDGE BAYLSON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621931"
     },
     {
       "court": "EDPA",
@@ -686,6 +697,17 @@
     {
       "court": "EDPA",
       "datetime": "05/13/2026 09:30AM",
+      "case_number": "24-cr-0187",
+      "caption": "USA v. JOHNSON",
+      "judge": "DISTRICT JUDGE BAYLSON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621931"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/13/2026 09:30AM",
       "case_number": "26-cr-0002",
       "caption": "USA v. HILL",
       "judge": "DISTRICT JUDGE GALLAGHER",
@@ -795,17 +817,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "05/13/2026 11:00AM",
-      "case_number": "26-cv-1247",
-      "caption": "WILLIAMS v. DREXEL UNIVERSITY",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "",
-      "courtroom": "Video Conference",
-      "hearing_type": "Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650427"
-    },
-    {
-      "court": "EDPA",
       "datetime": "05/13/2026 12:00PM",
       "case_number": "20-cv-3790",
       "caption": "GOLDSMITH et al v. OCWEN FINAN",
@@ -891,6 +902,28 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Initial Appearance",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653154"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/13/2026 04:00PM",
+      "case_number": "25-cr-0431",
+      "caption": "USA v. SANCHEZ",
+      "judge": "DISTRICT JUDGE BAYLSON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3A",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644118"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/14/2026 09:30AM",
+      "case_number": "24-cr-0187",
+      "caption": "USA v. JOHNSON",
+      "judge": "DISTRICT JUDGE BAYLSON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621931"
     },
     {
       "court": "EDPA",
