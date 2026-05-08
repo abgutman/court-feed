@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-08T18:03:46.425428+00:00",
+  "generated": "2026-05-08T20:04:52.160639+00:00",
   "filings": [
     {
       "type": "filing",
@@ -86,7 +86,7 @@
       "type": "filing",
       "court": "PA Supreme Court",
       "docket": "154 EAL 2026",
-      "caption": "Estate of: Gloria Capobianco Petitio of: Jones, G.",
+      "caption": "Estate of: Gloria Capobianco Petition of: Jones, G.",
       "status": "Active",
       "filing_date": "05/07/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=154 EAL 2026&dnh=T3pt44CZAsV6W%2Bj7sDfQSA%3D%3D"
@@ -243,6 +243,15 @@
       "status": "Active",
       "filing_date": "05/07/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=113 WAL 2026&dnh=1EOitjRZxX9p4eiPfPU5pw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "114 WAL 2026",
+      "caption": "Estate of: Patricia Henninger, Pet. of: Estate",
+      "status": "Active",
+      "filing_date": "05/08/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=114 WAL 2026&dnh=IHKTGTG0O4YR7g%2BDbC1HNA%3D%3D"
     },
     {
       "type": "filing",
@@ -958,6 +967,24 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "1248 EDA 2026",
+      "caption": "Com. v. Ayala, M.",
+      "status": "Active",
+      "filing_date": "05/08/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1248 EDA 2026&dnh=yVKEdPS8pR%2BmkXKPukb%2Fcg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1249 EDA 2026",
+      "caption": "Com. v. Ayala, M.",
+      "status": "Active",
+      "filing_date": "05/08/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1249 EDA 2026&dnh=Zd5zhHvqA%2ByhcQVrB%2Bkaqg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "78 EDM 2026",
       "caption": "Benson, P. v. Roberts, J.",
       "status": "Closed",
@@ -1278,6 +1305,24 @@
       "status": "Active",
       "filing_date": "05/08/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=732 MDA 2026&dnh=b%2BLeapZmKZtLH7M9qfSsjg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "733 MDA 2026",
+      "caption": "Com. v. Godfrey, C.",
+      "status": "Active",
+      "filing_date": "05/08/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=733 MDA 2026&dnh=uyp2Hr0r%2FBCKOjp2K0mvdw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "734 MDA 2026",
+      "caption": "Com. v. Tucker, C.",
+      "status": "Active",
+      "filing_date": "05/08/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=734 MDA 2026&dnh=EII%2FdS9HlKfxjNlX7qJINQ%3D%3D"
     },
     {
       "type": "filing",
