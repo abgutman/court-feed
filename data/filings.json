@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-08T16:09:41.441784+00:00",
+  "generated": "2026-05-08T18:03:46.425428+00:00",
   "filings": [
     {
       "type": "filing",
@@ -95,7 +95,7 @@
       "type": "filing",
       "court": "PA Supreme Court",
       "docket": "155 EAL 2026",
-      "caption": "Patterson, D. v. Turchin, L.",
+      "caption": "Patterson, D., Pet. v. Turchin, L.",
       "status": "Active",
       "filing_date": "05/08/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=155 EAL 2026&dnh=NxY8N0TVhThkLKMM5MrGnA%3D%3D"
@@ -913,6 +913,51 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "1243 EDA 2026",
+      "caption": "Com. v. Washington, T.",
+      "status": "Active",
+      "filing_date": "05/08/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1243 EDA 2026&dnh=ojv5k0PBDLWeaSQ%2Bk16i3Q%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1244 EDA 2026",
+      "caption": "Com. v. Washington, T.",
+      "status": "Active",
+      "filing_date": "05/08/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1244 EDA 2026&dnh=shbWg6XXl3I9Tdiem5YOcw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1245 EDA 2026",
+      "caption": "Com. v. Washington, T.",
+      "status": "Active",
+      "filing_date": "05/08/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1245 EDA 2026&dnh=Fh68ar4j4arYxShfQRZLCw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1246 EDA 2026",
+      "caption": "Com. v. Washington, T.",
+      "status": "Active",
+      "filing_date": "05/08/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1246 EDA 2026&dnh=ci7BLdY%2BQ%2FIeof9%2FD3dZjw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1247 EDA 2026",
+      "caption": "Com. v. Washington, T.",
+      "status": "Active",
+      "filing_date": "05/08/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1247 EDA 2026&dnh=ISUuXRPB5%2Bke0rJY6kGEXA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "78 EDM 2026",
       "caption": "Benson, P. v. Roberts, J.",
       "status": "Closed",
@@ -1224,6 +1269,15 @@
       "status": "Active",
       "filing_date": "05/08/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=731 MDA 2026&dnh=K46nCQG%2FLbKRxN%2BaBgLWEQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "732 MDA 2026",
+      "caption": "Com. v. Hojnowski, R.",
+      "status": "Active",
+      "filing_date": "05/08/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=732 MDA 2026&dnh=b%2BLeapZmKZtLH7M9qfSsjg%3D%3D"
     },
     {
       "type": "filing",
@@ -1606,9 +1660,18 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
-      "docket": "44 WDM 2026",
+      "docket": "614 WDA 2026",
       "caption": "Eatmon, L.v. Eatmon, T.",
       "status": "Active",
+      "filing_date": "05/06/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=614 WDA 2026&dnh=iayvjR0TfB1vdRlJLesVHg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "44 WDM 2026",
+      "caption": "Eatmon, L.v. Eatmon, T.",
+      "status": "Closed",
       "filing_date": "05/06/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=44 WDM 2026&dnh=57UmRJRpKOlL%2BrWMp6%2BJ%2BQ%3D%3D"
     },
@@ -1669,6 +1732,15 @@
     {
       "type": "filing",
       "court": "PA Commonwealth Court",
+      "docket": "626 CD 2026",
+      "caption": "Nottingham, J. v. DOC",
+      "status": "Active",
+      "filing_date": "05/06/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=626 CD 2026&dnh=Kp5VQBF1vxuTZy7d8Sa6Sg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
       "docket": "161 FR 2026",
       "caption": "Brandywine Operating Partnership v. Com. of Pa.",
       "status": "Active",
@@ -1722,6 +1794,24 @@
     },
     {
       "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "234 MD 2026",
+      "caption": "Castillo, B. v. SCI Huntingdon",
+      "status": "Active",
+      "filing_date": "05/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=234 MD 2026&dnh=GZhg58x1sAoYEOs9cAWQyg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "235 MD 2026",
+      "caption": "Gainer, J. v. DOC",
+      "status": "Active",
+      "filing_date": "05/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=235 MD 2026&dnh=0or7Lsn8De7fpACa3vPanQ%3D%3D"
+    },
+    {
+      "type": "filing",
       "court": "SCOTUS",
       "docket": "25-7198",
       "caption": "Barbara Anne Clark v. Hospital of the University of Pennsylvania, et al.",
@@ -1742,6 +1832,18 @@
       "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-7254.html",
       "lower_court": "United States Court of Appeals for the Third Circuit",
       "lower_court_docket": "(25-2457)",
+      "case_type": "IFP"
+    },
+    {
+      "type": "filing",
+      "court": "SCOTUS",
+      "docket": "25-7341",
+      "caption": "Ryan Mendoza v. United States",
+      "status": "Cert Petition",
+      "filing_date": "05/08/2026",
+      "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-7341.html",
+      "lower_court": "United States Court of Appeals for the Third Circuit",
+      "lower_court_docket": "(25-1154)",
       "case_type": "IFP"
     }
   ],
@@ -2755,6 +2857,42 @@
       "pub_date": "Mon, 04 May 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1513CD24_5-4-26.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1513CD24_5-4-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-3385",
+      "caption": "Alicia Anderson v. Superior Court of Delaware",
+      "author": "",
+      "pub_date": "Fri, 08 May 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/253385np.pdf",
+      "guid": "ca3-25-3385-253385np.pdf",
+      "precedential": false,
+      "origin": "USDC for the District of Delaware"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-3184",
+      "caption": "Bryan  Bandes v. TransUnion LLC",
+      "author": "",
+      "pub_date": "Fri, 08 May 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/253184np.pdf",
+      "guid": "ca3-25-3184-253184np.pdf",
+      "precedential": false,
+      "origin": "USDC for the Western District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "24-1139",
+      "caption": "USA v. Tarik Chambers",
+      "author": "",
+      "pub_date": "Fri, 08 May 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/241139np.pdf",
+      "guid": "ca3-24-1139-241139np.pdf",
+      "precedential": false,
+      "origin": "USDC for the Eastern District of Pennsylvania"
     },
     {
       "type": "opinion",
