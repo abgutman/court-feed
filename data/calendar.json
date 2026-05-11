@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-10T23:40:43.611726+00:00",
+  "generated": "2026-05-11T01:51:16.539441+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -2145,28 +2145,6 @@
       "courtroom": "Cahn 4B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643832"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/21/2026 09:30AM",
-      "case_number": "25-cr-0457",
-      "caption": "USA v. SINGH",
-      "judge": "DISTRICT JUDGE HENRY",
-      "city": "Philadelphia",
-      "courtroom": "Philadelphia",
-      "hearing_type": "Jury Selection",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645030"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/21/2026 09:30AM",
-      "case_number": "25-cr-0457",
-      "caption": "USA v. SINGH",
-      "judge": "DISTRICT JUDGE HENRY",
-      "city": "Philadelphia",
-      "courtroom": "Philadelphia",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645030"
     },
     {
       "court": "EDPA",
