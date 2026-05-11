@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-11T17:17:46.982216+00:00",
+  "generated": "2026-05-11T19:25:16.961639+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -58,28 +58,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "05/11/2026 11:30AM",
-      "case_number": "25-cr-0144",
-      "caption": "USA v. SALGUERO",
-      "judge": "DISTRICT JUDGE YOUNGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635977"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/11/2026 01:30PM",
-      "case_number": "26-mj-0836",
-      "caption": "USA v. AUGUSTUS",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Detention Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654060"
-    },
-    {
-      "court": "EDPA",
       "datetime": "05/11/2026 01:30PM",
       "case_number": "26-mj-0836",
       "caption": "USA v. AUGUSTUS",
@@ -88,17 +66,6 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Probable Cause Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654060"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/11/2026 01:30PM",
-      "case_number": "26-mj-0861",
-      "caption": "USA v. TRILLO SERRANO",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Detention Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654196"
     },
     {
       "court": "EDPA",
@@ -686,6 +653,28 @@
     {
       "court": "EDPA",
       "datetime": "05/13/2026 12:00PM",
+      "case_number": "26-cr-0204",
+      "caption": "USA v. LEACH",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654276"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/13/2026 12:00PM",
+      "case_number": "26-cr-0204",
+      "caption": "USA v. LEACH",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654276"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/13/2026 12:00PM",
       "case_number": "20-cv-3790",
       "caption": "GOLDSMITH et al v. OCWEN FINAN",
       "judge": "DISTRICT JUDGE PAPPERT",
@@ -704,6 +693,17 @@
       "courtroom": "Courtroom 3A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622580"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/13/2026 01:00PM",
+      "case_number": "25-cr-0368",
+      "caption": "USA v. JOHNSON",
+      "judge": "DISTRICT JUDGE COSTELLO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom TBD",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642638"
     },
     {
       "court": "EDPA",
@@ -1059,28 +1059,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "05/15/2026 10:00AM",
-      "case_number": "24-cv-0988",
-      "caption": "MATUTE et al v. THOMAS E. STRA",
-      "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "Reading",
-      "courtroom": "Reading 5th Floor",
-      "hearing_type": "Final Pretrial Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?619701"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/15/2026 10:00AM",
-      "case_number": "25-cv-0517",
-      "caption": "THE CHARTER OAK FIRE INSURANCE",
-      "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "Reading",
-      "courtroom": "Reading 5th Floor",
-      "hearing_type": "Final Pretrial Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632915"
-    },
-    {
-      "court": "EDPA",
       "datetime": "05/15/2026 10:30AM",
       "case_number": "21-cr-0009",
       "caption": "USA v. COUNCIL",
@@ -1100,6 +1078,28 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Initial Appearance",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652924"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/15/2026 11:00AM",
+      "case_number": "24-cv-0988",
+      "caption": "MATUTE et al v. THOMAS E. STRA",
+      "judge": "DISTRICT JUDGE SCHMEHL",
+      "city": "Reading",
+      "courtroom": "Reading 5th Floor",
+      "hearing_type": "Final Pretrial Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?619701"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/15/2026 11:00AM",
+      "case_number": "25-cv-0517",
+      "caption": "THE CHARTER OAK FIRE INSURANCE",
+      "judge": "DISTRICT JUDGE SCHMEHL",
+      "city": "Reading",
+      "courtroom": "Reading 5th Floor",
+      "hearing_type": "Final Pretrial Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632915"
     },
     {
       "court": "EDPA",
@@ -2057,17 +2057,6 @@
       "courtroom": "Courtroom 11A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629769"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/21/2026 10:00AM",
-      "case_number": "25-cv-7113",
-      "caption": "Benson v. STATE FARM MUTUAL AU",
-      "judge": "MAGISTRATE JUDGE REID",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3C",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647479"
     },
     {
       "court": "EDPA",
