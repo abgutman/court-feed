@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-11T19:25:16.961639+00:00",
+  "generated": "2026-05-11T21:10:05.980464+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -11,28 +11,6 @@
       "courtroom": "Courtroom 3C",
       "hearing_type": "Trial Date",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?612531"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/11/2026 09:30AM",
-      "case_number": "24-cr-0187",
-      "caption": "USA v. JOHNSON",
-      "judge": "DISTRICT JUDGE BAYLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3A",
-      "hearing_type": "Jury Selection",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621931"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/11/2026 09:30AM",
-      "case_number": "24-cr-0187",
-      "caption": "USA v. JOHNSON",
-      "judge": "DISTRICT JUDGE BAYLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621931"
     },
     {
       "court": "EDPA",
@@ -103,28 +81,6 @@
     {
       "court": "EDPA",
       "datetime": "05/11/2026 02:00PM",
-      "case_number": "26-cv-1654",
-      "caption": "Serdikoff et al v. CITY OF PHI",
-      "judge": "DISTRICT JUDGE MURPHY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651249"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/11/2026 02:00PM",
-      "case_number": "25-cr-0270",
-      "caption": "USA v. MCCLARIN-HAMEED",
-      "judge": "DISTRICT JUDGE PEREZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10B",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639599"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/11/2026 02:00PM",
       "case_number": "25-cr-0362",
       "caption": "USA v. REID",
       "judge": "DISTRICT JUDGE SCHMEHL",
@@ -132,17 +88,6 @@
       "courtroom": "Courtroom 9A",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642587"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/11/2026 02:00PM",
-      "case_number": "25-mc-0073",
-      "caption": "In Re: Ex Parte Application of",
-      "judge": "DISTRICT JUDGE WEILHEIMER",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom TBD",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647857"
     },
     {
       "court": "EDPA",
@@ -198,17 +143,6 @@
       "courtroom": "Cahn 3C",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?577133"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/12/2026 09:30AM",
-      "case_number": "24-cr-0187",
-      "caption": "USA v. JOHNSON",
-      "judge": "DISTRICT JUDGE BAYLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621931"
     },
     {
       "court": "EDPA",
@@ -543,17 +477,6 @@
     {
       "court": "EDPA",
       "datetime": "05/13/2026 09:30AM",
-      "case_number": "24-cr-0187",
-      "caption": "USA v. JOHNSON",
-      "judge": "DISTRICT JUDGE BAYLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621931"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/13/2026 09:30AM",
       "case_number": "26-cr-0002",
       "caption": "USA v. HILL",
       "judge": "DISTRICT JUDGE GALLAGHER",
@@ -730,6 +653,17 @@
     {
       "court": "EDPA",
       "datetime": "05/13/2026 02:00PM",
+      "case_number": "25-cr-0431",
+      "caption": "USA v. SANCHEZ",
+      "judge": "DISTRICT JUDGE BAYLSON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3A",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644118"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/13/2026 02:00PM",
       "case_number": "19-cr-0533",
       "caption": "USA v. ALVARADO",
       "judge": "DISTRICT JUDGE KENNEY",
@@ -792,28 +726,6 @@
       "courtroom": "Courtroom 16B",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649688"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/13/2026 04:00PM",
-      "case_number": "25-cr-0431",
-      "caption": "USA v. SANCHEZ",
-      "judge": "DISTRICT JUDGE BAYLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3A",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644118"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/14/2026 09:30AM",
-      "case_number": "24-cr-0187",
-      "caption": "USA v. JOHNSON",
-      "judge": "DISTRICT JUDGE BAYLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621931"
     },
     {
       "court": "EDPA",
