@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-11T22:44:54.640196+00:00",
+  "generated": "2026-05-11T23:45:17.614118+00:00",
   "filings": [
     {
       "type": "filing",
@@ -1557,30 +1557,6 @@
       "status": "Active",
       "filing_date": "05/05/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=235 MD 2026&dnh=0or7Lsn8De7fpACa3vPanQ%3D%3D"
-    },
-    {
-      "type": "filing",
-      "court": "SCOTUS",
-      "docket": "25-7254",
-      "caption": "Susan Lloyd v. Lancaster County Housing Authority",
-      "status": "Cert Petition",
-      "filing_date": "04/24/2026",
-      "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-7254.html",
-      "lower_court": "United States Court of Appeals for the Third Circuit",
-      "lower_court_docket": "(25-2457)",
-      "case_type": "IFP"
-    },
-    {
-      "type": "filing",
-      "court": "SCOTUS",
-      "docket": "25-7341",
-      "caption": "Ryan Mendoza v. United States",
-      "status": "Cert Petition",
-      "filing_date": "05/08/2026",
-      "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-7341.html",
-      "lower_court": "United States Court of Appeals for the Third Circuit",
-      "lower_court_docket": "(25-1154)",
-      "case_type": "IFP"
     }
   ],
   "opinions": [
