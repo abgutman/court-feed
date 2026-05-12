@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-12T13:30:51.885842+00:00",
+  "generated": "2026-05-12T16:14:08.534511+00:00",
   "filings": [
     {
       "type": "filing",
@@ -724,11 +724,29 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "1262 EDA 2026",
+      "caption": "Com. v. Tepper, F.",
+      "status": "Active",
+      "filing_date": "05/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1262 EDA 2026&dnh=kHLGFrMjSXQidaFHehjlGA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "80 EDM 2026",
       "caption": "Com. v. Lewis, E.",
       "status": "Active",
       "filing_date": "05/06/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=80 EDM 2026&dnh=84DwlOcgjgOsETuTDC8Paw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "81 EDM 2026",
+      "caption": "Cozen O'Connor v. Adams, M.",
+      "status": "Active",
+      "filing_date": "05/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=81 EDM 2026&dnh=rtS6AQND%2F0jdyPaODRvj0A%3D%3D"
     },
     {
       "type": "filing",
@@ -886,6 +904,15 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "742 MDA 2026",
+      "caption": "Com. v. Brown, M.",
+      "status": "Active",
+      "filing_date": "05/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=742 MDA 2026&dnh=s6WLSEC%2B%2Fig7278SlSmIPA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "32 MDM 2026",
       "caption": "Barksdale, D., v. Burnette, M., and Gray, V.",
       "status": "Active",
@@ -918,6 +945,15 @@
       "status": "Active",
       "filing_date": "05/11/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=36 MDM 2026&dnh=a0ZXFJrw%2BLEe8f41ZLfScg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "37 MDM 2026",
+      "caption": "Com. v. Somers, D.",
+      "status": "Active",
+      "filing_date": "05/11/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=37 MDM 2026&dnh=3oX2X0dNk%2BJlz22rD4rMMw%3D%3D"
     },
     {
       "type": "filing",
@@ -1111,6 +1147,60 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "623 WDA 2026",
+      "caption": "Subway Real Estate v. Hill, T.",
+      "status": "Active",
+      "filing_date": "05/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=623 WDA 2026&dnh=axXgzp1Pd9BLYLAQ9EtAIw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "624 WDA 2026",
+      "caption": "Com. v. Williams, R.",
+      "status": "Active",
+      "filing_date": "05/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=624 WDA 2026&dnh=jzeCVbivWVqMtVJxMx9o7g%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "625 WDA 2026",
+      "caption": "Masi, P. v. Hanley, K.",
+      "status": "Active",
+      "filing_date": "05/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=625 WDA 2026&dnh=QMPRdtWBF6zH6FGyxWAzjQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "626 WDA 2026",
+      "caption": "Com. v. Cooper, F.",
+      "status": "Active",
+      "filing_date": "05/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=626 WDA 2026&dnh=Q9nTXimfbx%2B2sJ1lLUWxjw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "627 WDA 2026",
+      "caption": "Com. v. McGinnis, L.",
+      "status": "Active",
+      "filing_date": "05/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=627 WDA 2026&dnh=Tb3BywsBUhZgRvskrgw5TQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "628 WDA 2026",
+      "caption": "Bowen, D. v. Doe, J.",
+      "status": "Active",
+      "filing_date": "05/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=628 WDA 2026&dnh=qGp0JDtJZ7wM3ecYaMVUAA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "44 WDM 2026",
       "caption": "Eatmon, L.v. Eatmon, T.",
       "status": "Closed",
@@ -1122,7 +1212,7 @@
       "court": "PA Superior Court",
       "docket": "45 WDM 2026",
       "caption": "Com. v. Boyd, K.",
-      "status": "Active",
+      "status": "Closed",
       "filing_date": "05/06/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=45 WDM 2026&dnh=Zn13STQzAPIso7lSwMRFLA%3D%3D"
     },
@@ -1131,7 +1221,7 @@
       "court": "PA Superior Court",
       "docket": "46 WDM 2026",
       "caption": "Com. v. Boyd, K.",
-      "status": "Active",
+      "status": "Closed",
       "filing_date": "05/06/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=46 WDM 2026&dnh=58KbwqU%2B83CxYzG60NB8Mg%3D%3D"
     },
@@ -1140,7 +1230,7 @@
       "court": "PA Superior Court",
       "docket": "47 WDM 2026",
       "caption": "Com. v. Boyd, K.",
-      "status": "Active",
+      "status": "Closed",
       "filing_date": "05/06/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=47 WDM 2026&dnh=2jT%2BlyjPnm4lyGTFQ%2Fvq3A%3D%3D"
     },
@@ -1152,6 +1242,15 @@
       "status": "Active",
       "filing_date": "05/11/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=48 WDM 2026&dnh=OVY8b8R%2BSV1eUBfWn6hT2A%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "49 WDM 2026",
+      "caption": "Com. v. Veoni, A.",
+      "status": "Active",
+      "filing_date": "05/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=49 WDM 2026&dnh=o11ULSQdVyMKTVlZWWfCXQ%3D%3D"
     },
     {
       "type": "filing",
@@ -1215,6 +1314,15 @@
       "status": "Active",
       "filing_date": "05/11/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=635 CD 2026&dnh=4EiYzsYfr98RbF%2BG5i8pWw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "636 CD 2026",
+      "caption": "Bryn Athyn Fire Company et al. v. Roy, (WCAB)",
+      "status": "Active",
+      "filing_date": "05/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=636 CD 2026&dnh=AlIvHpBPuP1PsThJT97nEA%3D%3D"
     },
     {
       "type": "filing",
