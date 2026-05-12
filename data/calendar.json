@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-12T20:25:35.731007+00:00",
+  "generated": "2026-05-12T22:01:56.591611+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -979,6 +979,17 @@
       "courtroom": "Courtroom 16B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644366"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/18/2026 10:30AM",
+      "case_number": "20-cv-3195",
+      "caption": "ZEHRING v. SORBER et al",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?572785"
     },
     {
       "court": "EDPA",
