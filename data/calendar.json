@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-12T11:11:04.904709+00:00",
+  "generated": "2026-05-12T13:32:05.423754+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -11,6 +11,17 @@
       "courtroom": "Cahn 3C",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?577133"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/12/2026 09:00AM",
+      "case_number": "23-cv-3087",
+      "caption": "MOORE v. RESTORE INTEGRATIVE W",
+      "judge": "MAGISTRATE JUDGE REID",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3C",
+      "hearing_type": "Trial Date",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?612531"
     },
     {
       "court": "EDPA",
@@ -517,6 +528,17 @@
       "courtroom": "Reading 5th Floor",
       "hearing_type": "Miscellaneous Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641604"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/13/2026 02:00PM",
+      "case_number": "25-cv-2219",
+      "caption": "REED v. RED BULL NORTH AMERICA",
+      "judge": "DISTRICT JUDGE BARTLE",
+      "city": "",
+      "courtroom": "Telephone Conference",
+      "hearing_type": "Telephone Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636972"
     },
     {
       "court": "EDPA",
@@ -1225,17 +1247,6 @@
     {
       "court": "EDPA",
       "datetime": "05/19/2026 09:30AM",
-      "case_number": "25-cr-0270",
-      "caption": "USA v. MCCLARIN-HAMEED",
-      "judge": "DISTRICT JUDGE PEREZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10B",
-      "hearing_type": "Jury Selection",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639599"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/19/2026 09:30AM",
       "case_number": "25-cv-4627",
       "caption": "Weaver et al v. STATE FARM AND",
       "judge": "DISTRICT JUDGE PEREZ",
@@ -1485,17 +1496,6 @@
       "courtroom": "Courtroom 11B",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626219"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/20/2026 09:30AM",
-      "case_number": "25-cr-0270",
-      "caption": "USA v. MCCLARIN-HAMEED",
-      "judge": "DISTRICT JUDGE PEREZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639599"
     },
     {
       "court": "EDPA",

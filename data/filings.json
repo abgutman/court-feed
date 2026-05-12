@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-12T11:09:52.714711+00:00",
+  "generated": "2026-05-12T13:30:51.885842+00:00",
   "filings": [
     {
       "type": "filing",
@@ -1039,6 +1039,78 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "615 WDA 2026",
+      "caption": "Hudak, J. v. Coniker, M.",
+      "status": "Active",
+      "filing_date": "05/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=615 WDA 2026&dnh=1VK5h3ysnsYz4Y6hIwVwwA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "616 WDA 2026",
+      "caption": "Com. v. Thomas, A.",
+      "status": "Active",
+      "filing_date": "05/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=616 WDA 2026&dnh=odlyu3%2FyLm3FYJYmttQ4Ww%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "617 WDA 2026",
+      "caption": "Hosey Excavation v. Township of Springdale",
+      "status": "Active",
+      "filing_date": "05/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=617 WDA 2026&dnh=ZYsk%2BiAx7G4j%2FfKuT0UCTg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "618 WDA 2026",
+      "caption": "Com. v. Powell, A.",
+      "status": "Active",
+      "filing_date": "05/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=618 WDA 2026&dnh=ubbBBTuO00iW6MHpZMWE%2Bw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "619 WDA 2026",
+      "caption": "Lyons, J. v. Arpin, D. v. Arpin, M.",
+      "status": "Active",
+      "filing_date": "05/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=619 WDA 2026&dnh=QjWVHDNOJxrZHyD65zz0QA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "620 WDA 2026",
+      "caption": "Com. v. Walter, F.",
+      "status": "Active",
+      "filing_date": "05/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=620 WDA 2026&dnh=5T21bGUcS0v0EzAVXQknGQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "621 WDA 2026",
+      "caption": "Com. v. Harvey, N.",
+      "status": "Active",
+      "filing_date": "05/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=621 WDA 2026&dnh=xQ9DIYObwEydfX5LIC7s9Q%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "622 WDA 2026",
+      "caption": "Evans, L. v. Evans, F.",
+      "status": "Active",
+      "filing_date": "05/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=622 WDA 2026&dnh=m8pCkwVetbBOekp7y0wqag%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "44 WDM 2026",
       "caption": "Eatmon, L.v. Eatmon, T.",
       "status": "Closed",
@@ -1199,6 +1271,18 @@
       "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-7254.html",
       "lower_court": "United States Court of Appeals for the Third Circuit",
       "lower_court_docket": "(25-2457)",
+      "case_type": "IFP"
+    },
+    {
+      "type": "filing",
+      "court": "SCOTUS",
+      "docket": "25-7341",
+      "caption": "Ryan Mendoza v. United States",
+      "status": "Cert Petition",
+      "filing_date": "05/08/2026",
+      "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-7341.html",
+      "lower_court": "United States Court of Appeals for the Third Circuit",
+      "lower_court_docket": "(25-1154)",
       "case_type": "IFP"
     }
   ],
@@ -1972,6 +2056,16 @@
       "pub_date": "Wed, 06 May 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Superior/out/050626 W.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Superior/out/050626 W.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "336 C.D. 2023",
+      "caption": "County of Somerset, PA, et al. v. A.F. DeLuca, Somerset County Treasurer",
+      "author": "Wojcik, J. ~ Concurring and Dissenting Opinion by Fizzano Cannon, J.",
+      "pub_date": "Tue, 12 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/336CD23_5-12-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/336CD23_5-12-26.pdf"
     },
     {
       "type": "opinion",
