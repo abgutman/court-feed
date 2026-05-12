@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-12T08:17:57.808082+00:00",
+  "generated": "2026-05-12T11:09:52.714711+00:00",
   "filings": [
     {
       "type": "filing",
@@ -1199,18 +1199,6 @@
       "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-7254.html",
       "lower_court": "United States Court of Appeals for the Third Circuit",
       "lower_court_docket": "(25-2457)",
-      "case_type": "IFP"
-    },
-    {
-      "type": "filing",
-      "court": "SCOTUS",
-      "docket": "25-7341",
-      "caption": "Ryan Mendoza v. United States",
-      "status": "Cert Petition",
-      "filing_date": "05/08/2026",
-      "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-7341.html",
-      "lower_court": "United States Court of Appeals for the Third Circuit",
-      "lower_court_docket": "(25-1154)",
       "case_type": "IFP"
     }
   ],
