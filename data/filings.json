@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-12T18:33:57.015877+00:00",
+  "generated": "2026-05-12T20:24:22.226147+00:00",
   "filings": [
     {
       "type": "filing",
@@ -198,6 +198,15 @@
       "status": "Active",
       "filing_date": "05/08/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=114 WAL 2026&dnh=IHKTGTG0O4YR7g%2BDbC1HNA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "115 WAL 2026",
+      "caption": "Commonwealth v. Byrd, J., Pet.",
+      "status": "Active",
+      "filing_date": "05/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=115 WAL 2026&dnh=ugRo2N3zdcOeVOrKgqYV8A%3D%3D"
     },
     {
       "type": "filing",
@@ -729,6 +738,78 @@
       "status": "Active",
       "filing_date": "05/12/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1262 EDA 2026&dnh=kHLGFrMjSXQidaFHehjlGA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1263 EDA 2026",
+      "caption": "Lang, S. v. Abington Memorial Hospital",
+      "status": "Active",
+      "filing_date": "05/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1263 EDA 2026&dnh=QvEekXCywkwEEDC4P6P9hA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1264 EDA 2026",
+      "caption": "Rehak, R. v. Rehak, K.",
+      "status": "Active",
+      "filing_date": "05/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1264 EDA 2026&dnh=v0egcrj2nktjc%2BX63pG7Ig%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1265 EDA 2026",
+      "caption": "Com. v. Carvajal, K.",
+      "status": "Active",
+      "filing_date": "05/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1265 EDA 2026&dnh=xxUWjBh%2B4fvWncZBPOzzrg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1266 EDA 2026",
+      "caption": "Bako, J. v. Wells Fargo",
+      "status": "Active",
+      "filing_date": "05/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1266 EDA 2026&dnh=qzXNmGxoC00DDBFu5XePZw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1267 EDA 2026",
+      "caption": "In the Int. of: Z.S., Appeal of: DHS",
+      "status": "Active",
+      "filing_date": "05/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1267 EDA 2026&dnh=R5VmMFViIoTH5VKrDbyTJg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1268 EDA 2026",
+      "caption": "In the Int. of: S.S., Appeal of: DHS",
+      "status": "Active",
+      "filing_date": "05/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1268 EDA 2026&dnh=fjWyRic3BR%2FEje67haBeMg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1269 EDA 2026",
+      "caption": "Capital One, N.A. v. George, A.",
+      "status": "Active",
+      "filing_date": "05/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1269 EDA 2026&dnh=0EVjG%2FwxVaq4672%2BHcIEsg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1270 EDA 2026",
+      "caption": "Com. v. Lupton, G.",
+      "status": "Active",
+      "filing_date": "05/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1270 EDA 2026&dnh=STA18YUjUnWTxurtUgIv7w%3D%3D"
     },
     {
       "type": "filing",
@@ -2572,6 +2653,18 @@
       "guid": "ca3-25-3579-253579np.pdf",
       "precedential": false,
       "origin": "USDC for the Middle District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-2550",
+      "caption": "Bradley Davis v. Wawa Inc",
+      "author": "",
+      "pub_date": "Tue, 12 May 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/252550np.pdf",
+      "guid": "ca3-25-2550-252550np.pdf",
+      "precedential": false,
+      "origin": "USDC for the Eastern District of Pennsylvania"
     },
     {
       "type": "opinion",
