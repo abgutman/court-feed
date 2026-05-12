@@ -1,17 +1,6 @@
 {
-  "generated": "2026-05-12T16:15:23.551117+00:00",
+  "generated": "2026-05-12T18:35:08.830023+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "05/12/2026 09:00AM",
-      "case_number": "20-cr-0366",
-      "caption": "USA v. MOLYNEAUX",
-      "judge": "DISTRICT JUDGE LEESON",
-      "city": "Allentown",
-      "courtroom": "Cahn 3C",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?577133"
-    },
     {
       "court": "EDPA",
       "datetime": "05/12/2026 09:00AM",
@@ -69,17 +58,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "05/12/2026 10:00AM",
-      "case_number": "24-cv-2527",
-      "caption": "Burke v. Loparex LLC",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623220"
-    },
-    {
-      "court": "EDPA",
       "datetime": "05/12/2026 10:30AM",
       "case_number": "25-cr-0162",
       "caption": "USA v. ALLICE",
@@ -125,39 +103,6 @@
     {
       "court": "EDPA",
       "datetime": "05/12/2026 11:00AM",
-      "case_number": "26-cr-0169",
-      "caption": "USA v. LAUBACH",
-      "judge": "DISTRICT JUDGE GALLAGHER",
-      "city": "Allentown",
-      "courtroom": "Cahn 4B",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653072"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/12/2026 11:00AM",
-      "case_number": "26-cr-0169",
-      "caption": "USA v. LAUBACH",
-      "judge": "DISTRICT JUDGE GALLAGHER",
-      "city": "Allentown",
-      "courtroom": "Cahn 4B",
-      "hearing_type": "Initial Appearance",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653072"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/12/2026 11:00AM",
-      "case_number": "26-cr-0169",
-      "caption": "USA v. LAUBACH",
-      "judge": "DISTRICT JUDGE GALLAGHER",
-      "city": "Allentown",
-      "courtroom": "Cahn 4B",
-      "hearing_type": "Plea Agreement Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653072"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/12/2026 11:00AM",
       "case_number": "25-cv-3929",
       "caption": "TRAVELERS CASUALTY AND SURETY",
       "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
@@ -165,17 +110,6 @@
       "courtroom": "Courtroom 3D",
       "hearing_type": "Settlement Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641010"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/12/2026 11:00AM",
-      "case_number": "25-cr-0470",
-      "caption": "USA v. BUFORD",
-      "judge": "DISTRICT JUDGE SAVAGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9A",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645641"
     },
     {
       "court": "EDPA",
@@ -2083,6 +2017,17 @@
     {
       "court": "EDPA",
       "datetime": "05/26/2026 09:30AM",
+      "case_number": "26-cr-0054",
+      "caption": "USA v. DENIS",
+      "judge": "DISTRICT JUDGE SCOTT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13B",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649416"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/26/2026 09:30AM",
       "case_number": "23-cv-4181",
       "caption": "BROWN v. CITY OF PHILADELPHIA",
       "judge": "DISTRICT JUDGE WOLSON",
@@ -2101,17 +2046,6 @@
       "courtroom": "Courtroom 12B",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644138"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/26/2026 10:00AM",
-      "case_number": "24-cv-2724",
-      "caption": "SHEN MANUFACUTURING COMPANY IN",
-      "judge": "DISTRICT JUDGE COSTELLO",
-      "city": "Philadelphia",
-      "courtroom": "Judge's Chambers",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623632"
     },
     {
       "court": "EDPA",
