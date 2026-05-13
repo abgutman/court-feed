@@ -1,215 +1,6 @@
 {
-  "generated": "2026-05-12T23:02:49.735846+00:00",
+  "generated": "2026-05-13T01:51:20.148478+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "05/12/2026 09:00AM",
-      "case_number": "23-cv-3087",
-      "caption": "MOORE v. RESTORE INTEGRATIVE W",
-      "judge": "MAGISTRATE JUDGE REID",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3C",
-      "hearing_type": "Trial Date",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?612531"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/12/2026 09:30AM",
-      "case_number": "24-cv-4304",
-      "caption": "Sakamoto et al v. PROGRESSIVE",
-      "judge": "DISTRICT JUDGE RUFE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 17A",
-      "hearing_type": "Trial Date",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626355"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/12/2026 09:30AM",
-      "case_number": "24-cv-0661",
-      "caption": "CASTILLO et al v. UNITED PARCE",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618904"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/12/2026 10:00AM",
-      "case_number": "24-cv-2952",
-      "caption": "CRC INDUSTRIES, INC. v. SHELLE",
-      "judge": "DISTRICT JUDGE HODGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15A",
-      "hearing_type": "Miscellaneous Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624089"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/12/2026 10:00AM",
-      "case_number": "25-cr-0411",
-      "caption": "USA v. DISTEFANO",
-      "judge": "DISTRICT JUDGE SAVAGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643703"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/12/2026 10:30AM",
-      "case_number": "25-cr-0162",
-      "caption": "USA v. ALLICE",
-      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 8B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636320"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/12/2026 10:30AM",
-      "case_number": "24-cv-0661",
-      "caption": "CASTILLO et al v. UNITED PARCE",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Final Pretrial Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618904"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/12/2026 10:30AM",
-      "case_number": "21-cr-0422",
-      "caption": "USA v. FLEMMING",
-      "judge": "MAGISTRATE JUDGE SITARSKI",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5C",
-      "hearing_type": "Evidentiary Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?590155"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/12/2026 10:30AM",
-      "case_number": "22-cr-0247",
-      "caption": "USA v. FLEMMING",
-      "judge": "MAGISTRATE JUDGE SITARSKI",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5C",
-      "hearing_type": "Evidentiary Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?599201"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/12/2026 11:00AM",
-      "case_number": "25-cv-3929",
-      "caption": "TRAVELERS CASUALTY AND SURETY",
-      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3D",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641010"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/12/2026 01:30PM",
-      "case_number": "26-cr-0198",
-      "caption": "USA v. HENRY",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653804"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/12/2026 01:30PM",
-      "case_number": "26-cr-0198",
-      "caption": "USA v. HENRY",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Attorney Appointment Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653804"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/12/2026 01:30PM",
-      "case_number": "26-cr-0198",
-      "caption": "USA v. HENRY",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Detention Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653804"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/12/2026 01:30PM",
-      "case_number": "26-cr-0198",
-      "caption": "USA v. HENRY",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Initial Appearance",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653804"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/12/2026 01:30PM",
-      "case_number": "24-cv-1656",
-      "caption": "LAST CHANCE RANCH v. MCCUTCHEO",
-      "judge": "DISTRICT JUDGE HENRY",
-      "city": "",
-      "courtroom": "Telephone Conference",
-      "hearing_type": "Telephone Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621327"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/12/2026 02:00PM",
-      "case_number": "26-cr-0162",
-      "caption": "USA v. GOMEZ-URQUIA",
-      "judge": "DISTRICT JUDGE LEESON",
-      "city": "Allentown",
-      "courtroom": "Cahn 3C",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652957"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/12/2026 02:00PM",
-      "case_number": "24-cr-0270",
-      "caption": "USA v. VERNE",
-      "judge": "DISTRICT JUDGE MURPHY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3B",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624908"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/12/2026 02:30PM",
-      "case_number": "24-cr-0319",
-      "caption": "USA v. DE LOS SANTOS MOJICA",
-      "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "Reading",
-      "courtroom": "Reading 5th Floor",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627339"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/12/2026 4:00PM",
-      "case_number": "24-cv-0661",
-      "caption": "CASTILLO et al v. UNITED PARCE",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Final Pretrial Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618904"
-    },
     {
       "court": "EDPA",
       "datetime": "05/13/2026 02:00AM",
@@ -2200,90 +1991,185 @@
       "courtroom": "Courtroom 13B",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650784"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/27/2026 09:00AM",
+      "case_number": "24-cv-5990",
+      "caption": "TUOHEY v. BLOOMIN' BRANDS, INC",
+      "judge": "DISTRICT JUDGE MURPHY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3B",
+      "hearing_type": "Trial Date",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629803"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/27/2026 09:00AM",
+      "case_number": "23-cv-4181",
+      "caption": "BROWN v. CITY OF PHILADELPHIA",
+      "judge": "DISTRICT JUDGE WOLSON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12B",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?615144"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/27/2026 09:30AM",
+      "case_number": "25-cv-7424",
+      "caption": "TULIO v. STATE FARM MUTUAL AUT",
+      "judge": "DISTRICT JUDGE COSTELLO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5D",
+      "hearing_type": "Arbitration Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647936"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/27/2026 09:30AM",
+      "case_number": "24-cv-4568",
+      "caption": "Alexander et al v. Seaworld Pa",
+      "judge": "DISTRICT JUDGE GALLAGHER",
+      "city": "Allentown",
+      "courtroom": "Cahn 4B",
+      "hearing_type": "Final Pretrial Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626867"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/27/2026 09:30AM",
+      "case_number": "25-cr-0170",
+      "caption": "USA v. BURTON",
+      "judge": "DISTRICT JUDGE PEREZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10B",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636518"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/27/2026 09:30AM",
+      "case_number": "25-cv-2630",
+      "caption": "WFD CAPITAL LLC v. BEEN",
+      "judge": "DISTRICT JUDGE SANCHEZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5B",
+      "hearing_type": "Arbitration Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637996"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/27/2026 10:00AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. DIXON",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631102"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/27/2026 10:00AM",
+      "case_number": "24-cv-5598",
+      "caption": "SCHAFFER v. PENN ENGINEERING &",
+      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3D",
+      "hearing_type": "Settlement Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628958"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/27/2026 10:00AM",
+      "case_number": "25-cr-0448",
+      "caption": "USA v. BUENO",
+      "judge": "DISTRICT JUDGE MURPHY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3B",
+      "hearing_type": "Pretrial Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644781"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/27/2026 10:00AM",
+      "case_number": "25-cr-0395",
+      "caption": "USA v. JOHNSON",
+      "judge": "DISTRICT JUDGE SCOTT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643214"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/27/2026 10:00AM",
+      "case_number": "25-cv-6396",
+      "caption": "IRT Management, LLC et al v. C",
+      "judge": "MAGISTRATE JUDGE STRAW",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3G",
+      "hearing_type": "Settlement Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646070"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/27/2026 10:30AM",
+      "case_number": "18-cr-0038",
+      "caption": "USA v. ANDREWS",
+      "judge": "DISTRICT JUDGE KENNEY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 11B",
+      "hearing_type": "Sentencing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?539025"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/27/2026 11:00AM",
+      "case_number": "25-cr-0483",
+      "caption": "USA v. PADILLA",
+      "judge": "DISTRICT JUDGE PEREZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10B",
+      "hearing_type": "Sentencing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645869"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/27/2026 02:00PM",
+      "case_number": "25-cr-0502",
+      "caption": "USA v. LOPEZ-GARCIA",
+      "judge": "DISTRICT JUDGE MARSTON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16B",
+      "hearing_type": "Sentencing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646617"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/27/2026 02:00PM",
+      "case_number": "26-cv-2300",
+      "caption": "Boyce v. STATE FARM FIRE AND C",
+      "judge": "DISTRICT JUDGE MURPHY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652647"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/27/2026 03:00PM",
+      "case_number": "24-cv-5430",
+      "caption": "NEW YORK LIFE INSURANCE COMPAN",
+      "judge": "DISTRICT JUDGE HENRY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom TBD",
+      "hearing_type": "Settlement Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628545"
     }
   ],
   "third_circuit": [
-    {
-      "court": "Third Circuit",
-      "date": "2026-05-12",
-      "case_number": "24-3185",
-      "caption": "USA v. Koren Jones",
-      "panel": "SHWARTZ, MASCOTT, MCKEE",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-05-12",
-      "case_number": "25-1826",
-      "caption": "In re: Boy Scouts of America and Delaware BSA LLC",
-      "panel": "SHWARTZ, MASCOTT, MCKEE",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-05-12",
-      "case_number": "25-1853",
-      "caption": "In re: Alecto Healthcare Services LLC",
-      "panel": "SHWARTZ, MASCOTT, MCKEE",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-05-12",
-      "case_number": "25-1900",
-      "caption": "In re: Boy Scouts of America and Delaware BSA LLC",
-      "panel": "SHWARTZ, MASCOTT, MCKEE",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-05-12",
-      "case_number": "25-2102",
-      "caption": "USA v. Kenan Thomas",
-      "panel": "KRAUSE, CHUNG, SMITH",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-05-12",
-      "case_number": "25-2103",
-      "caption": "USA v. Kenan Thomas",
-      "panel": "KRAUSE, CHUNG, SMITH",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-05-12",
-      "case_number": "25-2104",
-      "caption": "USA v. Romeo Walter",
-      "panel": "KRAUSE, CHUNG, SMITH",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-05-12",
-      "case_number": "25-2271",
-      "caption": "IN RE: NATIONAL FOOTBALL LEAGUE PLAYERS CONCUSSION et al",
-      "panel": "SHWARTZ, MASCOTT, MCKEE",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-05-12",
-      "case_number": "25-2750",
-      "caption": "S. M. v. Chichester School District",
-      "panel": "SHWARTZ, MASCOTT, MCKEE",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
     {
       "court": "Third Circuit",
       "date": "2026-05-13",
