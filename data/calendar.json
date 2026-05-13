@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-13T18:54:14.595131+00:00",
+  "generated": "2026-05-13T20:28:25.706611+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -22,17 +22,6 @@
       "courtroom": "Courtroom 6A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621012"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/13/2026 10:00AM",
-      "case_number": "25-cv-6694",
-      "caption": "LAWSON v. MA OF ROSLYN, LLC",
-      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3D",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646668"
     },
     {
       "court": "EDPA",
@@ -77,17 +66,6 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647567"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/13/2026 12:00PM",
-      "case_number": "26-cr-0137",
-      "caption": "USA v. BARNETT",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651913"
     },
     {
       "court": "EDPA",
@@ -143,28 +121,6 @@
       "courtroom": "Reading 5th Floor",
       "hearing_type": "Miscellaneous Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641604"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/13/2026 02:00PM",
-      "case_number": "25-cr-0431",
-      "caption": "USA v. SANCHEZ",
-      "judge": "DISTRICT JUDGE BAYLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3A",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644118"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/13/2026 02:00PM",
-      "case_number": "19-cr-0533",
-      "caption": "USA v. ALVARADO",
-      "judge": "DISTRICT JUDGE KENNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11B",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?561741"
     },
     {
       "court": "EDPA",
@@ -253,17 +209,6 @@
       "courtroom": "Courtroom 5D",
       "hearing_type": "Arbitration Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621849"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/14/2026 10:00AM",
-      "case_number": "26-cv-1095",
-      "caption": "GOINS v. HEALTHCARE SERVICES G",
-      "judge": "DISTRICT JUDGE KENNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650118"
     },
     {
       "court": "EDPA",
@@ -1049,17 +994,6 @@
     {
       "court": "EDPA",
       "datetime": "05/20/2026 09:30AM",
-      "case_number": "25-cr-0431",
-      "caption": "USA v. SANCHEZ",
-      "judge": "DISTRICT JUDGE BAYLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644118"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/20/2026 09:30AM",
       "case_number": "24-cv-4221",
       "caption": "DUNDON v. ACE PROPERTY AND CAS",
       "judge": "DISTRICT JUDGE KENNEY",
@@ -1434,17 +1368,6 @@
     {
       "court": "EDPA",
       "datetime": "05/21/2026 10:30AM",
-      "case_number": "26-cv-1308",
-      "caption": "RADER v. WIRX PHARMACY II",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650552"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/21/2026 10:30AM",
       "case_number": "26-cv-1339",
       "caption": "Caulker v. WIRX PHARMACY",
       "judge": "DISTRICT JUDGE SLOMSKY",
@@ -1452,17 +1375,6 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650659"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/21/2026 10:30AM",
-      "case_number": "26-cv-1423",
-      "caption": "Ortega v. WIRX PHARMACY",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650801"
     },
     {
       "court": "EDPA",
@@ -1496,17 +1408,6 @@
       "courtroom": "Courtroom 14A",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642876"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/21/2026 11:00AM",
-      "case_number": "25-cv-0017",
-      "caption": "MACHADO et al v. SELECTIVE WAY",
-      "judge": "DISTRICT JUDGE HENRY",
-      "city": "Easton",
-      "courtroom": "Easton 4th Floor",
-      "hearing_type": "Final Pretrial Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631756"
     },
     {
       "court": "EDPA",
