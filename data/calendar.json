@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-13T11:25:00.564193+00:00",
+  "generated": "2026-05-13T14:04:18.772098+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -917,6 +917,28 @@
     {
       "court": "EDPA",
       "datetime": "05/19/2026 09:30AM",
+      "case_number": "25-cr-0008",
+      "caption": "USA v. BLAKLEY",
+      "judge": "DISTRICT JUDGE MCHUGH",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 9B",
+      "hearing_type": "Evidentiary Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631974"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/19/2026 09:30AM",
+      "case_number": "25-cr-0008",
+      "caption": "USA v. BLAKLEY",
+      "judge": "DISTRICT JUDGE MCHUGH",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 9B",
+      "hearing_type": "Evidentiary Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631975"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/19/2026 09:30AM",
       "case_number": "25-cr-0261",
       "caption": "USA v. AUBUCHON",
       "judge": "DISTRICT JUDGE PAPPERT",
@@ -1012,28 +1034,6 @@
       "courtroom": "Courtroom 15A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?613295"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/19/2026 10:00AM",
-      "case_number": "25-cr-0008",
-      "caption": "USA v. BLAKLEY",
-      "judge": "DISTRICT JUDGE MCHUGH",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9B",
-      "hearing_type": "Evidentiary Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631974"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/19/2026 10:00AM",
-      "case_number": "25-cr-0008",
-      "caption": "USA v. BLAKLEY",
-      "judge": "DISTRICT JUDGE MCHUGH",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9B",
-      "hearing_type": "Evidentiary Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631975"
     },
     {
       "court": "EDPA",
@@ -1375,17 +1375,6 @@
       "courtroom": "Courtroom 15A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643521"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/20/2026 02:00PM",
-      "case_number": "26-cv-99997",
-      "caption": "JONES v. TEST CORPORATION et a",
-      "judge": "[Not Assigned] JUDGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Scheduling Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654379"
     },
     {
       "court": "EDPA",
@@ -1852,6 +1841,17 @@
     {
       "court": "EDPA",
       "datetime": "05/26/2026 11:00AM",
+      "case_number": "23-cr-0125",
+      "caption": "USA v. HENRY",
+      "judge": "DISTRICT JUDGE KENNEY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 11B",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?607762"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/26/2026 11:00AM",
       "case_number": "17-cr-0599",
       "caption": "USA v. PEREZ",
       "judge": "DISTRICT JUDGE PADOVA",
@@ -2115,17 +2115,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "05/27/2026 10:30AM",
-      "case_number": "18-cr-0038",
-      "caption": "USA v. ANDREWS",
-      "judge": "DISTRICT JUDGE KENNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?539025"
-    },
-    {
-      "court": "EDPA",
       "datetime": "05/27/2026 11:00AM",
       "case_number": "25-cr-0483",
       "caption": "USA v. PADILLA",
@@ -2134,6 +2123,17 @@
       "courtroom": "Courtroom 10B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645869"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/27/2026 12:00PM",
+      "case_number": "20-cv-3790",
+      "caption": "GOLDSMITH et al v. OCWEN FINAN",
+      "judge": "DISTRICT JUDGE PAPPERT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 11A",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?574074"
     },
     {
       "court": "EDPA",
@@ -2518,6 +2518,204 @@
       "case_number": "25-2434",
       "caption": "Jason Bainbridge v. Attorney General United States of Americ",
       "panel": "PHIPPS, FREEMAN, BOVE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-01",
+      "case_number": "24-2201",
+      "caption": "USA v. James Williams",
+      "panel": "PORTER, MATEY, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-01",
+      "case_number": "25-1797",
+      "caption": "Alex Bane v. Ricardo Quiles-Rosa et al",
+      "panel": "PORTER, MATEY, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-01",
+      "case_number": "25-2706",
+      "caption": "Jonnathan Alvarez-Lituma v. Attorney General United States o",
+      "panel": "PORTER, MATEY, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-02",
+      "case_number": "23-1699",
+      "caption": "Emery Barron v. Wetzel et al",
+      "panel": "PORTER, MATEY, AMBRO",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-02",
+      "case_number": "24-2972",
+      "caption": "USA v. Lamar McCollough",
+      "panel": "PORTER, MONTGOMERY-REEVES, BOVE",
+      "location_time": "Philadelphia, PA - Seitz Courtroom / 1:30 pm",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-02",
+      "case_number": "25-1471, 25-1596, 25-1596, 25-1606, 25-1606, 25-1671, 25-1671, 25-1606, 25-1671, 25-1596, 25-1596, 25-1671, 25-1606",
+      "caption": "In re: Image Masters Inc. et al",
+      "panel": "PORTER, MONTGOMERY-REEVES, BOVE",
+      "location_time": "Philadelphia, PA - Seitz Courtroom / 1:30 pm",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-02",
+      "case_number": "25-2219, 25-2220, 25-2221, 25-2222",
+      "caption": "In re: Generic Pharmaceuticals Pricing Antitrust",
+      "panel": "PORTER, MATEY, AMBRO",
+      "location_time": "Philadelphia, PA - Maris Courtroom/ 9:30 am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-02",
+      "case_number": "25-2546",
+      "caption": "National Shooting Sports Foundation v. Attorney General New",
+      "panel": "PORTER, MATEY, AMBRO",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-02",
+      "case_number": "24-1916",
+      "caption": "Esmelin Guzman-Guzman et al  v. Attorney General United Stat",
+      "panel": "PORTER, MATEY, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-02",
+      "case_number": "25-1671",
+      "caption": "In re: Image Masters Inc. et al",
+      "panel": "PORTER, MONTGOMERY-REEVES, BOVE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-02",
+      "case_number": "25-1799",
+      "caption": "Ismael Diaz Mendoza v. Attorney General United States of Ame",
+      "panel": "PORTER, MATEY, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-02",
+      "case_number": "25-2515",
+      "caption": "Ismael Diaz Mendoza v. Attorney General United States of Ame",
+      "panel": "PORTER, MATEY, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-02",
+      "case_number": "25-2554",
+      "caption": "Winfield Scott Tower Urban Renewal LP v. Lorissa Luciani et",
+      "panel": "PORTER, MATEY, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-02",
+      "case_number": "25-2590",
+      "caption": "USA v. Devin Montgomery",
+      "panel": "PORTER, MATEY, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-02",
+      "case_number": "25-2591",
+      "caption": "USA v. Devin Montgomery",
+      "panel": "PORTER, MATEY, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-03",
+      "case_number": "23-3182",
+      "caption": "USA v. Jason Rivera",
+      "panel": "PORTER, MATEY, AMBRO",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-03",
+      "case_number": "24-3226",
+      "caption": "USA v. Cedrick Hodges",
+      "panel": "PORTER, MATEY, AMBRO",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-03",
+      "case_number": "25-2610",
+      "caption": "Greg Kerr et al v. General Motors LLC",
+      "panel": "PORTER, MATEY, AMBRO",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-04",
+      "case_number": "23-1347",
+      "caption": "USA v. Omar Bernard",
+      "panel": "PORTER, MATEY, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-04",
+      "case_number": "23-1371",
+      "caption": "USA v. George Alexander",
+      "panel": "PORTER, MATEY, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-04",
+      "case_number": "25-2156",
+      "caption": "Indra Bhujel v. Attorney General United States of America",
+      "panel": "PORTER, MATEY, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-04",
+      "case_number": "25-2255",
+      "caption": "Cesar  Plaza Rivera et al  v. Attorney General United States",
+      "panel": "PORTER, MATEY, AMBRO",
       "location_time": "",
       "disposition": "Submitted"
     }
