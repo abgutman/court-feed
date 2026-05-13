@@ -1,17 +1,6 @@
 {
-  "generated": "2026-05-13T14:04:18.772098+00:00",
+  "generated": "2026-05-13T16:20:27.568381+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "05/13/2026 02:00AM",
-      "case_number": "01-cr-0373",
-      "caption": "USA v. ELAM",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?112735"
-    },
     {
       "court": "EDPA",
       "datetime": "05/13/2026 09:30AM",
@@ -47,17 +36,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "05/13/2026 09:30AM",
-      "case_number": "25-cr-0066",
-      "caption": "USA v. PEREZ",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633969"
-    },
-    {
-      "court": "EDPA",
       "datetime": "05/13/2026 10:00AM",
       "case_number": "24-cv-1508",
       "caption": "BARK U, LLC v. TERWISSCHA CONS",
@@ -77,17 +55,6 @@
       "courtroom": "Courtroom 3D",
       "hearing_type": "Settlement Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646668"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/13/2026 10:00AM",
-      "case_number": "25-cr-0216",
-      "caption": "USA v. WILSON",
-      "judge": "DISTRICT JUDGE HODGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637681"
     },
     {
       "court": "EDPA",
@@ -209,17 +176,6 @@
       "courtroom": "Reading 5th Floor",
       "hearing_type": "Miscellaneous Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641604"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/13/2026 02:00PM",
-      "case_number": "25-cv-2219",
-      "caption": "REED v. RED BULL NORTH AMERICA",
-      "judge": "DISTRICT JUDGE BARTLE",
-      "city": "",
-      "courtroom": "Telephone Conference",
-      "hearing_type": "Telephone Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636972"
     },
     {
       "court": "EDPA",
@@ -429,17 +385,6 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Miscellaneous Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652883"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/14/2026 02:30PM",
-      "case_number": "24-cv-2910",
-      "caption": "HAGANS v. KOSHY et al",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623987"
     },
     {
       "court": "EDPA",
@@ -869,6 +814,17 @@
       "courtroom": "Courtroom 16B",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644130"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/18/2026 02:00PM",
+      "case_number": "25-cr-0261",
+      "caption": "USA v. AUBUCHON",
+      "judge": "DISTRICT JUDGE PAPPERT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 11A",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639250"
     },
     {
       "court": "EDPA",
