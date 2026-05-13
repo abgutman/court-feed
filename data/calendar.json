@@ -1,28 +1,6 @@
 {
-  "generated": "2026-05-13T16:20:27.568381+00:00",
+  "generated": "2026-05-13T18:54:14.595131+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "05/13/2026 09:30AM",
-      "case_number": "25-cv-4866",
-      "caption": "STATON v. COMMONWEALTH OF PENN",
-      "judge": "DISTRICT JUDGE BARTLE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642762"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/13/2026 09:30AM",
-      "case_number": "26-cr-0002",
-      "caption": "USA v. HILL",
-      "judge": "DISTRICT JUDGE GALLAGHER",
-      "city": "Allentown",
-      "courtroom": "Cahn 4B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648007"
-    },
     {
       "court": "EDPA",
       "datetime": "05/13/2026 09:30AM",
@@ -154,17 +132,6 @@
       "courtroom": "Courtroom 15B",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642638"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/13/2026 01:00PM",
-      "case_number": "25-cv-6313",
-      "caption": "FENCHAK v. PENNSYLVANIA STATE",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645908"
     },
     {
       "court": "EDPA",
@@ -642,17 +609,6 @@
     {
       "court": "EDPA",
       "datetime": "05/18/2026 09:30AM",
-      "case_number": "24-cv-0661",
-      "caption": "CASTILLO et al v. UNITED PARCE",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Jury Selection",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618904"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/18/2026 09:30AM",
       "case_number": "25-cr-0364",
       "caption": "USA v. PEREZ-JIMENEZ",
       "judge": "DISTRICT JUDGE SLOMSKY",
@@ -680,19 +636,19 @@
       "judge": "DISTRICT JUDGE SCOTT",
       "city": "Philadelphia",
       "courtroom": "Courtroom 13B",
-      "hearing_type": "Jury Trial",
+      "hearing_type": "Jury Selection",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618904"
     },
     {
       "court": "EDPA",
       "datetime": "05/18/2026 10:00AM",
-      "case_number": "25-cv-1434",
-      "caption": "PETERKIN v. Hernandez",
+      "case_number": "24-cv-0661",
+      "caption": "CASTILLO et al v. UNITED PARCE",
       "judge": "DISTRICT JUDGE SCOTT",
       "city": "Philadelphia",
       "courtroom": "Courtroom 13B",
-      "hearing_type": "Trial Date",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634947"
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618904"
     },
     {
       "court": "EDPA",
@@ -1192,13 +1148,35 @@
     {
       "court": "EDPA",
       "datetime": "05/20/2026 10:30AM",
-      "case_number": "25-cr-0341",
-      "caption": "USA v. SAGGINARIO",
+      "case_number": "24-cr-0376",
+      "caption": "USA v. REDMOND",
       "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom TBD",
-      "hearing_type": "Evidentiary Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641950"
+      "city": "Reading",
+      "courtroom": "Reading 5th Floor",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628840"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/20/2026 10:30AM",
+      "case_number": "24-cr-0376",
+      "caption": "USA v. BENE MARKET LLC",
+      "judge": "DISTRICT JUDGE SCHMEHL",
+      "city": "Reading",
+      "courtroom": "Reading 5th Floor",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637295"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/20/2026 10:30AM",
+      "case_number": "24-cr-0376",
+      "caption": "USA v. SEGURO MEDICO LLC",
+      "judge": "DISTRICT JUDGE SCHMEHL",
+      "city": "Reading",
+      "courtroom": "Reading 5th Floor",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637296"
     },
     {
       "court": "EDPA",
@@ -1254,17 +1232,6 @@
       "courtroom": "Courtroom 13B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?570485"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/20/2026 11:30AM",
-      "case_number": "24-cr-0376",
-      "caption": "USA v. REDMOND",
-      "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "Reading",
-      "courtroom": "Reading 5th Floor",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628840"
     },
     {
       "court": "EDPA",
@@ -2525,15 +2492,6 @@
     {
       "court": "Third Circuit",
       "date": "2026-06-02",
-      "case_number": "25-1471, 25-1596, 25-1596, 25-1606, 25-1606, 25-1671, 25-1671, 25-1606, 25-1671, 25-1596, 25-1596, 25-1671, 25-1606",
-      "caption": "In re: Image Masters Inc. et al",
-      "panel": "PORTER, MONTGOMERY-REEVES, BOVE",
-      "location_time": "Philadelphia, PA - Seitz Courtroom / 1:30 pm",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-06-02",
       "case_number": "25-2219, 25-2220, 25-2221, 25-2222",
       "caption": "In re: Generic Pharmaceuticals Pricing Antitrust",
       "panel": "PORTER, MATEY, AMBRO",
@@ -2561,7 +2519,7 @@
     {
       "court": "Third Circuit",
       "date": "2026-06-02",
-      "case_number": "25-1671",
+      "case_number": "25-1471, 25-1596, 25-1596, 25-1606, 25-1606, 25-1671, 25-1671, 25-1606, 25-1671, 25-1596, 25-1596, 25-1671, 25-1606",
       "caption": "In re: Image Masters Inc. et al",
       "panel": "PORTER, MONTGOMERY-REEVES, BOVE",
       "location_time": "",
