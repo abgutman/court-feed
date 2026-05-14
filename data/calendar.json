@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-14T13:24:39.358707+00:00",
+  "generated": "2026-05-14T16:05:06.984024+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -33,17 +33,6 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628802"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/14/2026 09:30AM",
-      "case_number": "24-cv-1897",
-      "caption": "McKnight v. Progressive County",
-      "judge": "MAGISTRATE JUDGE WELLS",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5D",
-      "hearing_type": "Arbitration Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621849"
     },
     {
       "court": "EDPA",
@@ -168,17 +157,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "05/15/2026 09:30AM",
-      "case_number": "26-cv-3198",
-      "caption": "FERNANDEZ PACHECO v. RIFE et a",
-      "judge": "DISTRICT JUDGE RUFE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12A",
-      "hearing_type": "Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654455"
-    },
-    {
-      "court": "EDPA",
       "datetime": "05/15/2026 10:00AM",
       "case_number": "25-cv-2758",
       "caption": "GRAFF BAEHMANN v. ARAMARK et a",
@@ -264,6 +242,17 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Preliminary Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?538141"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/15/2026 01:30PM",
+      "case_number": "26-mj-0717",
+      "caption": "USA v. MCFARLANE",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653410"
     },
     {
       "court": "EDPA",
@@ -531,6 +520,28 @@
     },
     {
       "court": "EDPA",
+      "datetime": "05/18/2026 01:00PM",
+      "case_number": "25-cv-6009",
+      "caption": "913-917 N. 43rd ST LLC v. NATI",
+      "judge": "DISTRICT JUDGE MARSTON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16B",
+      "hearing_type": "Show Cause Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645134"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/18/2026 01:00PM",
+      "case_number": "01-cr-0373",
+      "caption": "USA v. ELAM",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?112735"
+    },
+    {
+      "court": "EDPA",
       "datetime": "05/18/2026 02:00PM",
       "case_number": "24-cv-1447",
       "caption": "STEAHLE v. CARGROUP HOLDINGS,",
@@ -594,6 +605,17 @@
       "courtroom": "Courtroom 12B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636842"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/18/2026 02:30PM",
+      "case_number": "26-cr-0176",
+      "caption": "USA v. MURPHY",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Initial Appearance",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653154"
     },
     {
       "court": "EDPA",
@@ -990,17 +1012,6 @@
       "courtroom": "Courtroom 15A",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628478"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/20/2026 11:00AM",
-      "case_number": "21-cv-5303",
-      "caption": "MAYER et al v. ADCS Clinics, L",
-      "judge": "DISTRICT JUDGE KENNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11B",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?591550"
     },
     {
       "court": "EDPA",
@@ -1587,17 +1598,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "05/26/2026 01:00PM",
-      "case_number": "05-cr-0440",
-      "caption": "USA v. COOPER",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?196910"
-    },
-    {
-      "court": "EDPA",
       "datetime": "05/26/2026 01:30PM",
       "case_number": "25-cr-0380",
       "caption": "USA v. PENA",
@@ -1793,6 +1793,17 @@
       "courtroom": "Courtroom 11A",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?574074"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/27/2026 01:00PM",
+      "case_number": "10-cr-0569",
+      "caption": "USA v. BRASHEARS",
+      "judge": "DISTRICT JUDGE SURRICK",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 8A",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?381855"
     },
     {
       "court": "EDPA",
@@ -2013,6 +2024,17 @@
       "courtroom": "Cahn 4B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639374"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/28/2026 01:30PM",
+      "case_number": "25-cv-3470",
+      "caption": "KAUR v. U.S. CITIZENSHIP AND I",
+      "judge": "DISTRICT JUDGE SANCHEZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640097"
     },
     {
       "court": "EDPA",
