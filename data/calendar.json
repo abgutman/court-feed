@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-14T11:09:04.665087+00:00",
+  "generated": "2026-05-14T13:24:39.358707+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -242,6 +242,28 @@
       "courtroom": "Reading 5th Floor",
       "hearing_type": "Final Pretrial Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632915"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/15/2026 01:30PM",
+      "case_number": "18-cr-0004",
+      "caption": "USA v. BRINTLEY",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?538141"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/15/2026 01:30PM",
+      "case_number": "18-cr-0004",
+      "caption": "USA v. BRINTLEY",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Preliminary Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?538141"
     },
     {
       "court": "EDPA",
@@ -1188,17 +1210,6 @@
       "courtroom": "Courtroom 8B",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622830"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/21/2026 10:30AM",
-      "case_number": "26-cv-1339",
-      "caption": "Caulker v. WIRX PHARMACY",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650659"
     },
     {
       "court": "EDPA",
@@ -2469,6 +2480,15 @@
       "court": "Third Circuit",
       "date": "2026-06-02",
       "case_number": "25-1471, 25-1596, 25-1596, 25-1606, 25-1606, 25-1671, 25-1671, 25-1606, 25-1671, 25-1596, 25-1596, 25-1671, 25-1606",
+      "caption": "In re: Image Masters Inc. et al",
+      "panel": "PORTER, MONTGOMERY-REEVES, BOVE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-02",
+      "case_number": "25-1606",
       "caption": "In re: Image Masters Inc. et al",
       "panel": "PORTER, MONTGOMERY-REEVES, BOVE",
       "location_time": "",
