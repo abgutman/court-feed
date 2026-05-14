@@ -1,17 +1,6 @@
 {
-  "generated": "2026-05-14T16:05:06.984024+00:00",
+  "generated": "2026-05-14T18:29:00.861140+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "05/14/2026 09:30AM",
-      "case_number": "26-cv-0468",
-      "caption": "TEAMSTERS HEALTH & WELFARE TRU",
-      "judge": "DISTRICT JUDGE KENNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648906"
-    },
     {
       "court": "EDPA",
       "datetime": "05/14/2026 09:30AM",
@@ -33,17 +22,6 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628802"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/14/2026 10:00AM",
-      "case_number": "24-cr-0353",
-      "caption": "USA v. CALKAP",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628314"
     },
     {
       "court": "EDPA",
@@ -180,17 +158,6 @@
     {
       "court": "EDPA",
       "datetime": "05/15/2026 10:30AM",
-      "case_number": "21-cr-0009",
-      "caption": "USA v. COUNCIL",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?580522"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/15/2026 10:30AM",
       "case_number": "26-cr-0161",
       "caption": "USA v. COLEMAN",
       "judge": "DISTRICT JUDGE SLOMSKY",
@@ -220,6 +187,17 @@
       "courtroom": "Reading 5th Floor",
       "hearing_type": "Final Pretrial Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632915"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/15/2026 9:30AM",
+      "case_number": "24-cr-0353",
+      "caption": "USA v. CALKAP",
+      "judge": "DISTRICT JUDGE SCOTT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13B",
+      "hearing_type": "Sentencing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628314"
     },
     {
       "court": "EDPA",
@@ -642,17 +620,6 @@
     {
       "court": "EDPA",
       "datetime": "05/19/2026 09:30AM",
-      "case_number": "24-cr-0284",
-      "caption": "USA v. JAMES",
-      "judge": "DISTRICT JUDGE KENNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?625776"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/19/2026 09:30AM",
       "case_number": "25-cr-0008",
       "caption": "USA v. BLAKLEY",
       "judge": "DISTRICT JUDGE MCHUGH",
@@ -1034,6 +1001,17 @@
       "courtroom": "Courtroom 15B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621755"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/20/2026 01:00PM",
+      "case_number": "97-cr-0213",
+      "caption": "USA v. BRASHEARS",
+      "judge": "DISTRICT JUDGE COSTELLO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 6A",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?144358"
     },
     {
       "court": "EDPA",
@@ -2510,15 +2488,6 @@
     {
       "court": "Third Circuit",
       "date": "2026-06-02",
-      "case_number": "25-1606",
-      "caption": "In re: Image Masters Inc. et al",
-      "panel": "PORTER, MONTGOMERY-REEVES, BOVE",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-06-02",
       "case_number": "25-1799",
       "caption": "Ismael Diaz Mendoza v. Attorney General United States of Ame",
       "panel": "PORTER, MATEY, AMBRO",
@@ -2620,6 +2589,42 @@
       "date": "2026-06-04",
       "case_number": "25-2255",
       "caption": "Cesar  Plaza Rivera et al  v. Attorney General United States",
+      "panel": "PORTER, MATEY, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-05",
+      "case_number": "25-1099",
+      "caption": "USA v. Eduardo Hernandez-Lugo",
+      "panel": "PORTER, MATEY, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-05",
+      "case_number": "25-2134",
+      "caption": "Delaware Riverkeeper Network et al  v. Pennsylvania Environm",
+      "panel": "PORTER, MATEY, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-05",
+      "case_number": "25-2484",
+      "caption": "Ibrahim Mar v. Attorney General United States of America",
+      "panel": "PORTER, MATEY, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-05",
+      "case_number": "25-2598",
+      "caption": "ICON PSG 1 FL LLC v. Jenkins Court Realty CO LP",
       "panel": "PORTER, MATEY, AMBRO",
       "location_time": "",
       "disposition": "Submitted"
