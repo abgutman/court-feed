@@ -1,83 +1,6 @@
 {
-  "generated": "2026-05-14T23:45:52.919455+00:00",
+  "generated": "2026-05-15T01:52:05.476465+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "05/14/2026 09:30AM",
-      "case_number": "24-cv-4304",
-      "caption": "Sakamoto et al v. PROGRESSIVE",
-      "judge": "DISTRICT JUDGE RUFE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 17A",
-      "hearing_type": "Trial Date",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626355"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/14/2026 09:30AM",
-      "case_number": "24-cr-0374",
-      "caption": "USA v. THOMAS",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628802"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/14/2026 01:00PM",
-      "case_number": "25-cv-5235",
-      "caption": "HALEY v. BYL RISK MANAGEMENT,",
-      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3D",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643493"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/14/2026 01:30PM",
-      "case_number": "25-cv-5680",
-      "caption": "NATIONWIDE MUTUAL INSURANCE CO",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644402"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/14/2026 02:30PM",
-      "case_number": "26-cv-1645",
-      "caption": "Kim et al v. STATE FARM FIRE A",
-      "judge": "DISTRICT JUDGE KENNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651233"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/14/2026 02:30PM",
-      "case_number": "26-cv-2431",
-      "caption": "Avilov v. MCSHANE et al",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Miscellaneous Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652883"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/14/2026 03:30PM",
-      "case_number": "24-cv-5121",
-      "caption": "Rainey v. DARBY BOROUGH et al",
-      "judge": "MAGISTRATE JUDGE STRAW",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3G",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627913"
-    },
     {
       "court": "EDPA",
       "datetime": "05/15/2026 10:00AM",
@@ -2057,90 +1980,64 @@
       "courtroom": "Reading 5th Floor",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627335"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/29/2026 09:00AM",
+      "case_number": "24-cv-5990",
+      "caption": "TUOHEY v. BLOOMIN' BRANDS, INC",
+      "judge": "DISTRICT JUDGE MURPHY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3B",
+      "hearing_type": "Trial Date",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629803"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/29/2026 09:00AM",
+      "case_number": "23-cv-4181",
+      "caption": "BROWN v. CITY OF PHILADELPHIA",
+      "judge": "DISTRICT JUDGE WOLSON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12B",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?615144"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/29/2026 10:00AM",
+      "case_number": "25-cv-1827",
+      "caption": "FOOTMAN v. COUNTY OF DELAWARE",
+      "judge": "MAGISTRATE JUDGE REID",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3C",
+      "hearing_type": "Settlement Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635961"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/29/2026 10:30AM",
+      "case_number": "17-cr-0423",
+      "caption": "USA v. FLYNN",
+      "judge": "DISTRICT JUDGE SCHMEHL",
+      "city": "Reading",
+      "courtroom": "Reading 5th Floor",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?533485"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/29/2026 11:00AM",
+      "case_number": "25-cv-6213",
+      "caption": "COATES v. WAWA, INC.",
+      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3D",
+      "hearing_type": "Settlement Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645692"
     }
   ],
   "third_circuit": [
-    {
-      "court": "Third Circuit",
-      "date": "2026-05-14",
-      "case_number": "24-3181",
-      "caption": "USA v. Rodney Blake",
-      "panel": "SHWARTZ, MASCOTT, MCKEE",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-05-14",
-      "case_number": "24-3192",
-      "caption": "USA v. Robert Morrisey, Jr.",
-      "panel": "SHWARTZ, MASCOTT, MCKEE",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-05-14",
-      "case_number": "25-1317",
-      "caption": "USA v. Daniel Wheeler",
-      "panel": "SHWARTZ, MASCOTT, MCKEE",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-05-14",
-      "case_number": "25-1916",
-      "caption": "Gordon  Ackley et al  v. Virgin Islands Water and Power Auth",
-      "panel": "KRAUSE, CHUNG, SMITH",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-05-14",
-      "case_number": "25-2049",
-      "caption": "Jesse Polansky v. Geisinger Holy Spirit et al",
-      "panel": "SHWARTZ, MASCOTT, MCKEE",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-05-14",
-      "case_number": "25-2190",
-      "caption": "Jesus Diaz v. Attorney General United States of America",
-      "panel": "SHWARTZ, MASCOTT, MCKEE",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-05-14",
-      "case_number": "25-2962",
-      "caption": "In re: Kenneth James Rosellini",
-      "panel": "SHWARTZ, MASCOTT, MCKEE",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-05-14",
-      "case_number": "25-3058",
-      "caption": "USA v. Gregory Turbe",
-      "panel": "KRAUSE, CHUNG, SMITH",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-05-14",
-      "case_number": "25-3435",
-      "caption": "Gordon Ackley et al  v. Virgin Islands Water and Power Autho",
-      "panel": "KRAUSE, CHUNG, SMITH",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
     {
       "court": "Third Circuit",
       "date": "2026-05-15",
