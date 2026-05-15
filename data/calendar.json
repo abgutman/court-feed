@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-15T20:49:14.552077+00:00",
+  "generated": "2026-05-15T21:47:31.172362+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -22,28 +22,6 @@
       "courtroom": "Reading 5th Floor",
       "hearing_type": "Final Pretrial Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632915"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/15/2026 01:30PM",
-      "case_number": "18-cr-0004",
-      "caption": "USA v. BRINTLEY",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Detention Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?538141"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/15/2026 01:30PM",
-      "case_number": "18-cr-0004",
-      "caption": "USA v. BRINTLEY",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Preliminary Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?538141"
     },
     {
       "court": "EDPA",
@@ -308,17 +286,6 @@
       "courtroom": "Easton 4th Floor",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653535"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/18/2026 01:00PM",
-      "case_number": "25-cv-6009",
-      "caption": "913-917 N. 43rd ST LLC v. NATI",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
-      "hearing_type": "Show Cause Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645134"
     },
     {
       "court": "EDPA",
@@ -902,6 +869,17 @@
       "courtroom": "Courtroom 14A",
       "hearing_type": "Evidentiary Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645019"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/20/2026 01:30PM",
+      "case_number": "26-cr-0214",
+      "caption": "USA v. NEWELL",
+      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654729"
     },
     {
       "court": "EDPA",
@@ -1650,6 +1628,17 @@
       "courtroom": "Courtroom 11A",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?574074"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/27/2026 01:00PM",
+      "case_number": "25-cv-6009",
+      "caption": "913-917 N. 43rd ST LLC v. NATI",
+      "judge": "DISTRICT JUDGE MARSTON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16B",
+      "hearing_type": "Show Cause Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645134"
     },
     {
       "court": "EDPA",
