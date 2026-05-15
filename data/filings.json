@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-15T11:10:10.391295+00:00",
+  "generated": "2026-05-15T13:22:43.478877+00:00",
   "filings": [
     {
       "type": "filing",
@@ -45,6 +45,15 @@
       "status": "Active",
       "filing_date": "05/14/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=160 EAL 2026&dnh=EmQqGJAG%2BnCnnmUsqtgewg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "161 EAL 2026",
+      "caption": "Commonwealth v. Simmons, C., Pet.",
+      "status": "Active",
+      "filing_date": "05/15/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=161 EAL 2026&dnh=tCVKfT4pgOwA4GS1uUvv0Q%3D%3D"
     },
     {
       "type": "filing",
@@ -144,6 +153,15 @@
       "status": "Active",
       "filing_date": "05/14/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=49 WM 2026&dnh=90GmpPP45x%2BTxsiQEvU6tA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "50 WM 2026",
+      "caption": "Commonwealth v. Armstrong, J., Pet.",
+      "status": "Active",
+      "filing_date": "05/14/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=50 WM 2026&dnh=u9mZx3iL421aoMMYLzJ9Iw%3D%3D"
     },
     {
       "type": "filing",
@@ -751,6 +769,15 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "1318 EDA 2026",
+      "caption": "Com. v. Mucci, G.",
+      "status": "Active",
+      "filing_date": "05/15/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1318 EDA 2026&dnh=DApRtS%2BvyCQ5077mljatzg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "81 EDM 2026",
       "caption": "Cozen O'Connor v. Adams, M.",
       "status": "Active",
@@ -1341,6 +1368,42 @@
       "status": "Active",
       "filing_date": "05/12/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=168 FR 2026&dnh=pnIyLDxqGWmbUaA9wWp82g%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "169 FR 2026",
+      "caption": "Medco Health Solutions, Inc. v. Com. of Pa.",
+      "status": "Active",
+      "filing_date": "05/15/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=169 FR 2026&dnh=76d1A8M8Hso9498BCiPBTw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "170 FR 2026",
+      "caption": "Medco Health Solutions, Inc. v. Com. of Pa.",
+      "status": "Active",
+      "filing_date": "05/15/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=170 FR 2026&dnh=1quT0C1Lbjm8Vy86vPMzzw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "171 FR 2026",
+      "caption": "Medco Health Solutions, Inc. v. Com. of Pa.",
+      "status": "Active",
+      "filing_date": "05/15/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=171 FR 2026&dnh=CopWtbPoO7d4l49W8qNOcQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "172 FR 2026",
+      "caption": "Medco Health Solutions, Inc. v. Com. of Pa.",
+      "status": "Active",
+      "filing_date": "05/15/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=172 FR 2026&dnh=Pc34c3h9mmdCJh0%2BRgVfiw%3D%3D"
     },
     {
       "type": "filing",
@@ -2408,6 +2471,56 @@
       "pub_date": "Mon, 11 May 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-A11010-26m - 106779404358078134.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-A11010-26m - 106779404358078134.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "1283 C.D. 2024",
+      "caption": "Water Polo, I, L.P. v. W. Hanover Twp. Sewer Authority",
+      "author": "Covey, J.",
+      "pub_date": "Fri, 15 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1283CD24_5-15-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1283CD24_5-15-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "55 C.D. 2025",
+      "caption": "Reserve at Paxton Creek, LP v. Susquehanna Twp. Authority",
+      "author": "Covey, J.",
+      "pub_date": "Fri, 15 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/55CD25_5-15-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/55CD25_5-15-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "1180 C.D. 2024",
+      "caption": "J. Quigley &amp; T. Mendez-Quigley v. PA PUC",
+      "author": "Wallace, J.",
+      "pub_date": "Fri, 15 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1180CD24_5-15-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1180CD24_5-15-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "163 &amp; 164 C.D. 2025",
+      "caption": "Y. Klimin v. BPOA, State Bd. of Vehicle Mfrs., Dealers &amp; Salespersons",
+      "author": "Wallace, J.",
+      "pub_date": "Fri, 15 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/163CD25_5-15-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/163CD25_5-15-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "269 M.D. 2024",
+      "caption": "S.M. Donahue v. PA DHS, et al.",
+      "author": "PER CURIAM",
+      "pub_date": "Fri, 15 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/269MD24_5-15-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/269MD24_5-15-26.pdf"
     },
     {
       "type": "opinion",

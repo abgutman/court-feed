@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-15T11:11:37.686075+00:00",
+  "generated": "2026-05-15T13:24:13.966601+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -638,17 +638,6 @@
       "courtroom": "Courtroom 10B",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636518"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/19/2026 01:00PM",
-      "case_number": "26-cr-0035",
-      "caption": "USA v. ALE",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648740"
     },
     {
       "court": "EDPA",
@@ -2338,6 +2327,15 @@
     {
       "court": "Third Circuit",
       "date": "2026-06-02",
+      "case_number": "25-1471, 25-1596, 25-1596, 25-1606, 25-1606, 25-1671, 25-1671",
+      "caption": "In re: Image Masters Inc. et al",
+      "panel": "PORTER, MONTGOMERY-REEVES, BOVE",
+      "location_time": "Philadelphia, PA - Seitz Courtroom / 1:30 pm",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-02",
       "case_number": "25-2219, 25-2220, 25-2221, 25-2222",
       "caption": "In re: Generic Pharmaceuticals Pricing Antitrust",
       "panel": "PORTER, MATEY, AMBRO",
@@ -2359,15 +2357,6 @@
       "case_number": "24-1916",
       "caption": "Esmelin Guzman-Guzman et al  v. Attorney General United Stat",
       "panel": "PORTER, MATEY, AMBRO",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-06-02",
-      "case_number": "25-1471, 25-1596, 25-1596, 25-1606, 25-1606, 25-1671, 25-1671, 25-1606, 25-1671, 25-1596, 25-1596, 25-1671, 25-1606",
-      "caption": "In re: Image Masters Inc. et al",
-      "panel": "PORTER, MONTGOMERY-REEVES, BOVE",
       "location_time": "",
       "disposition": "Submitted"
     },
