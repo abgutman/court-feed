@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-18T14:24:52.714697+00:00",
+  "generated": "2026-05-18T17:25:22.333213+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -202,17 +202,6 @@
     {
       "court": "EDPA",
       "datetime": "05/18/2026 11:00AM",
-      "case_number": "26-cv-0374",
-      "caption": "OLUWOLE v. TRANS UNION LLC",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648737"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/18/2026 11:00AM",
       "case_number": "25-cv-2076",
       "caption": "ELMORE v. FALLS TOWNSHIP et al",
       "judge": "MAGISTRATE JUDGE REID",
@@ -399,17 +388,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "05/18/2026 03:00PM",
-      "case_number": "25-cv-5463",
-      "caption": "GUNTER v. DREXEL UNIVERSITY",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "",
-      "courtroom": "Telephone Conference",
-      "hearing_type": "Telephone Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643943"
-    },
-    {
-      "court": "EDPA",
       "datetime": "05/19/2026 09:00AM",
       "case_number": "26-cv-0302",
       "caption": "CINTAS CORPORATION v. IMAGEFIR",
@@ -572,6 +550,17 @@
       "courtroom": "Courtroom 16B",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640895"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/19/2026 11:00AM",
+      "case_number": "26-cv-3089",
+      "caption": "HOWE v. LEINBACH et al",
+      "judge": "DISTRICT JUDGE HENRY",
+      "city": "",
+      "courtroom": "Video Conference",
+      "hearing_type": "Pretrial Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654250"
     },
     {
       "court": "EDPA",
@@ -836,6 +825,17 @@
       "courtroom": "Courtroom 6A",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?144358"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/20/2026 01:00PM",
+      "case_number": "26-cv-3365",
+      "caption": "CASTILLO v. Jamison et al",
+      "judge": "DISTRICT JUDGE RUFE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 17A",
+      "hearing_type": "Show Cause Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654850"
     },
     {
       "court": "EDPA",
