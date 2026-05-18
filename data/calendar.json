@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-18T19:06:33.236535+00:00",
+  "generated": "2026-05-18T19:27:33.586781+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -334,17 +334,6 @@
     {
       "court": "EDPA",
       "datetime": "05/18/2026 02:00PM",
-      "case_number": "25-cr-0261",
-      "caption": "USA v. AUBUCHON",
-      "judge": "DISTRICT JUDGE PAPPERT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11A",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639250"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/18/2026 02:00PM",
       "case_number": "25-cr-0182",
       "caption": "USA v. JEFFERSON",
       "judge": "DISTRICT JUDGE WOLSON",
@@ -407,17 +396,6 @@
       "courtroom": "Courtroom 9B",
       "hearing_type": "Evidentiary Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631975"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/19/2026 09:30AM",
-      "case_number": "25-cr-0261",
-      "caption": "USA v. AUBUCHON",
-      "judge": "DISTRICT JUDGE PAPPERT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639250"
     },
     {
       "court": "EDPA",
