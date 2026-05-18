@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-18T19:26:00.080584+00:00",
+  "generated": "2026-05-18T21:00:20.630932+00:00",
   "filings": [
     {
       "type": "filing",
@@ -1697,7 +1697,7 @@
       "type": "filing",
       "court": "PA Superior Court",
       "docket": "649 WDA 2026",
-      "caption": "In the Interest of:Marks, X. Appeal of: Marks, K.",
+      "caption": "In the Interest of: X.W.E.M. Appeal of: K.M.",
       "status": "Active",
       "filing_date": "05/18/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=649 WDA 2026&dnh=8VgjED3PijsHx2bHAgG4fw%3D%3D"
@@ -2088,46 +2088,6 @@
     }
   ],
   "opinions": [
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 12 WAP 2024",
-      "caption": "Commonwealth v. Foster, J., Aplt.",
-      "author": "Justice Kevin Dougherty",
-      "pub_date": "Mon, 18 May 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/J-22-2025mo - 106787066358957027.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/J-22-2025mo - 106787066358957027.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 12 WAP 2024",
-      "caption": "Commonwealth v. Foster, J., Aplt.",
-      "author": "Justice Sallie Mundy",
-      "pub_date": "Mon, 18 May 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/J-22-2025co - 106787066358956903.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/J-22-2025co - 106787066358956903.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 12 WAP 2024",
-      "caption": "Commonwealth v. Foster, J., Aplt.",
-      "author": "Justice Christine Donohue",
-      "pub_date": "Mon, 18 May 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/J-22-2025do - 106787066358957129.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/J-22-2025do - 106787066358957129.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 12 WAP 2024",
-      "caption": "Commonwealth v. Foster, J., Aplt.",
-      "author": "Justice David Wecht",
-      "pub_date": "Mon, 18 May 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/J-22-2025do1 - 106787066358957309.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/J-22-2025do1 - 106787066358957309.pdf"
-    },
     {
       "type": "opinion",
       "court": "PA Supreme Court",
@@ -3267,6 +3227,18 @@
       "guid": "ca3-25-1807-251807np.pdf",
       "precedential": false,
       "origin": "USDC for the Middle District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "24-3317",
+      "caption": "Gutti Rao v. Sleep Number Bed Inc",
+      "author": "",
+      "pub_date": "Mon, 18 May 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/243317np.pdf",
+      "guid": "ca3-24-3317-243317np.pdf",
+      "precedential": false,
+      "origin": "USDC for the Western District of Pennsylvania"
     },
     {
       "type": "opinion",

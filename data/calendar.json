@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-18T19:27:33.586781+00:00",
+  "generated": "2026-05-18T21:01:55.492966+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -147,28 +147,6 @@
     {
       "court": "EDPA",
       "datetime": "05/18/2026 10:00AM",
-      "case_number": "24-cv-0661",
-      "caption": "CASTILLO et al v. UNITED PARCE",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Jury Selection",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618904"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/18/2026 10:00AM",
-      "case_number": "24-cv-0661",
-      "caption": "CASTILLO et al v. UNITED PARCE",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618904"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/18/2026 10:00AM",
       "case_number": "26-cv-1822",
       "caption": "HUMPHREY v. RIFE et al",
       "judge": "DISTRICT JUDGE WEILHEIMER",
@@ -187,17 +165,6 @@
       "courtroom": "Telephone Conference",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644046"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/18/2026 11:00AM",
-      "case_number": "25-cv-2076",
-      "caption": "ELMORE v. FALLS TOWNSHIP et al",
-      "judge": "MAGISTRATE JUDGE REID",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3C",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636635"
     },
     {
       "court": "EDPA",
@@ -322,39 +289,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "05/18/2026 02:00PM",
-      "case_number": "25-cr-0432",
-      "caption": "USA v. JACKSON",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644130"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/18/2026 02:00PM",
-      "case_number": "25-cr-0182",
-      "caption": "USA v. JEFFERSON",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636842"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/18/2026 02:30PM",
-      "case_number": "26-cr-0176",
-      "caption": "USA v. MURPHY",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Initial Appearance",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653154"
-    },
-    {
-      "court": "EDPA",
       "datetime": "05/19/2026 09:00AM",
       "case_number": "26-cv-0302",
       "caption": "CINTAS CORPORATION v. IMAGEFIR",
@@ -407,50 +341,6 @@
       "courtroom": "Courtroom 17A",
       "hearing_type": "Trial Date",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626355"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/19/2026 09:30AM",
-      "case_number": "24-cr-0167",
-      "caption": "USA v. HOLLOWAY",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Evidentiary Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621461"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/19/2026 09:30AM",
-      "case_number": "24-cr-0167",
-      "caption": "USA v. MATHIS",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Evidentiary Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621463"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/19/2026 09:30AM",
-      "case_number": "24-cr-0167",
-      "caption": "USA v. WICKER",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Evidentiary Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621464"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/19/2026 09:30AM",
-      "case_number": "24-cr-0167",
-      "caption": "USA v. TUCK",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Evidentiary Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621465"
     },
     {
       "court": "EDPA",
@@ -517,6 +407,28 @@
       "courtroom": "Video Conference",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654250"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/19/2026 9:30AM",
+      "case_number": "24-cv-0661",
+      "caption": "CASTILLO et al v. UNITED PARCE",
+      "judge": "DISTRICT JUDGE SCOTT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13B",
+      "hearing_type": "Jury Selection",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618904"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/19/2026 9:30AM",
+      "case_number": "24-cv-0661",
+      "caption": "CASTILLO et al v. UNITED PARCE",
+      "judge": "DISTRICT JUDGE SCOTT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13B",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618904"
     },
     {
       "court": "EDPA",
@@ -1049,17 +961,6 @@
     {
       "court": "EDPA",
       "datetime": "05/21/2026 11:00AM",
-      "case_number": "25-cv-4893",
-      "caption": "EMPIREMED, LLC v. GREENAN et a",
-      "judge": "DISTRICT JUDGE KENNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11B",
-      "hearing_type": "Discovery Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642828"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/21/2026 11:00AM",
       "case_number": "25-cr-0378",
       "caption": "USA v. FELKER",
       "judge": "DISTRICT JUDGE YOUNGE",
@@ -1562,6 +1463,17 @@
       "courtroom": "Courtroom 3G",
       "hearing_type": "Settlement Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646070"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/27/2026 10:30AM",
+      "case_number": "25-cv-4893",
+      "caption": "EMPIREMED, LLC v. GREENAN et a",
+      "judge": "DISTRICT JUDGE KENNEY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 11B",
+      "hearing_type": "Discovery Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642828"
     },
     {
       "court": "EDPA",
