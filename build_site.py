@@ -182,7 +182,7 @@ def build_page(data: dict) -> str:
     for o in opinions:
         opinions_by_court.setdefault(o["court"], []).append(o)
 
-    # Build filing cards grouped by court then date
+    # Build filing cards grouped by court then date (for per-court filter)
     filing_cards = []
     for court in COURT_ORDER:
         court_filings = filings_by_court.get(court, [])
@@ -200,6 +200,19 @@ def build_page(data: dict) -> str:
                         f'<h4 class="date-heading">{html.escape(format_date_heading(fdate))}</h4>'
                     )
                 filing_cards.append(build_filing_card(f))
+
+    # Build filing cards sorted by date across all courts (for "All" view)
+    all_filings_sorted = sorted(filings, key=filing_sort_key, reverse=True)
+    filing_cards_by_date = []
+    current_date = None
+    for f in all_filings_sorted:
+        fdate = f.get("filing_date", "")
+        if fdate != current_date:
+            current_date = fdate
+            filing_cards_by_date.append(
+                f'<h4 class="date-heading">{html.escape(format_date_heading(fdate))}</h4>'
+            )
+        filing_cards_by_date.append(build_filing_card(f))
 
     def opinion_date(o: dict) -> str:
         pub = o.get("pub_date", "")
@@ -230,8 +243,34 @@ def build_page(data: dict) -> str:
                     )
                 opinion_cards.append(build_opinion_card(o))
 
-    filing_html = "\n".join(filing_cards) if filing_cards else "<p>No filings found.</p>"
-    opinion_html = "\n".join(opinion_cards) if opinion_cards else "<p>No opinions found.</p>"
+    # Build opinion cards sorted by date across all courts (for "All" view)
+    def opinion_sort_key(o: dict) -> str:
+        pub = o.get("pub_date", "")
+        if pub:
+            try:
+                from email.utils import parsedate_to_datetime
+                dt = parsedate_to_datetime(pub)
+                return dt.strftime("%Y%m%d")
+            except Exception:
+                pass
+        return ""
+
+    all_opinions_sorted = sorted(opinions, key=opinion_sort_key, reverse=True)
+    opinion_cards_by_date = []
+    current_date = None
+    for o in all_opinions_sorted:
+        odate = opinion_date(o)
+        if odate != current_date:
+            current_date = odate
+            opinion_cards_by_date.append(
+                f'<h4 class="date-heading">{html.escape(format_date_heading(odate))}</h4>'
+            )
+        opinion_cards_by_date.append(build_opinion_card(o))
+
+    filing_html_by_court = "\n".join(filing_cards) if filing_cards else "<p>No filings found.</p>"
+    filing_html_by_date = "\n".join(filing_cards_by_date) if filing_cards_by_date else "<p>No filings found.</p>"
+    opinion_html_by_court = "\n".join(opinion_cards) if opinion_cards else "<p>No opinions found.</p>"
+    opinion_html_by_date = "\n".join(opinion_cards_by_date) if opinion_cards_by_date else "<p>No opinions found.</p>"
 
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -424,7 +463,8 @@ footer a {{ color: #999; }}
       <button class="filter-btn" onclick="filterCourt('filings', 'Commonwealth')">Commonwealth</button>
       <button class="filter-btn" onclick="filterCourt('filings', 'SCOTUS')">SCOTUS</button>
     </div>
-    {filing_html}
+    <div class="view-by-date" id="filings-bydate">{filing_html_by_date}</div>
+    <div class="view-by-court" id="filings-bycourt" style="display:none">{filing_html_by_court}</div>
   </div>
 
   <div class="tab-content" id="opinions-tab">
@@ -435,7 +475,8 @@ footer a {{ color: #999; }}
       <button class="filter-btn" onclick="filterCourt('opinions', 'Commonwealth')">Commonwealth</button>
       <button class="filter-btn" onclick="filterCourt('opinions', 'Third Circuit')">Third Circuit</button>
     </div>
-    {opinion_html}
+    <div class="view-by-date" id="opinions-bydate">{opinion_html_by_date}</div>
+    <div class="view-by-court" id="opinions-bycourt" style="display:none">{opinion_html_by_court}</div>
   </div>
 </div>
 
@@ -456,23 +497,24 @@ function switchTab(tab) {{
 
 function filterCourt(section, court) {{
   const container = document.getElementById(section + '-tab');
-  const cards = container.querySelectorAll('.card');
-  const courtHeadings = container.querySelectorAll('.court-heading');
-  const dateHeadings = container.querySelectorAll('.date-heading');
+  const byDate = document.getElementById(section + '-bydate');
+  const byCourt = document.getElementById(section + '-bycourt');
   const buttons = container.querySelectorAll('.filter-btn');
 
   buttons.forEach(b => b.classList.remove('active'));
   event.target.classList.add('active');
 
   if (court === 'all') {{
-    cards.forEach(c => c.style.display = '');
-    courtHeadings.forEach(h => h.style.display = '');
-    dateHeadings.forEach(h => h.style.display = '');
+    byDate.style.display = '';
+    byCourt.style.display = 'none';
     return;
   }}
 
+  byDate.style.display = 'none';
+  byCourt.style.display = '';
+
   let currentCourtVisible = false;
-  const allElements = container.querySelectorAll('.court-heading, .date-heading, .card');
+  const allElements = byCourt.querySelectorAll('.court-heading, .date-heading, .card');
   allElements.forEach(el => {{
     if (el.classList.contains('court-heading')) {{
       currentCourtVisible = el.textContent.includes(court);
