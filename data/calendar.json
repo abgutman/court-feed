@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-17T23:46:58.053762+00:00",
+  "generated": "2026-05-18T01:58:49.447595+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -1958,6 +1958,237 @@
       "courtroom": "Courtroom 3D",
       "hearing_type": "Settlement Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645692"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/01/2026 09:00AM",
+      "case_number": "25-cr-0306",
+      "caption": "USA v. DE JESUS FABIAN",
+      "judge": "DISTRICT JUDGE MURPHY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3B",
+      "hearing_type": "Jury Selection",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640485"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/01/2026 09:00AM",
+      "case_number": "25-cr-0306",
+      "caption": "USA v. DE JESUS FABIAN",
+      "judge": "DISTRICT JUDGE MURPHY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3B",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640485"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/01/2026 09:00AM",
+      "case_number": "25-cr-0448",
+      "caption": "USA v. BUENO",
+      "judge": "DISTRICT JUDGE MURPHY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3B",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644781"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/01/2026 09:00AM",
+      "case_number": "26-cr-0145",
+      "caption": "USA v. HERNANDEZ",
+      "judge": "DISTRICT JUDGE SANCHEZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14B",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652002"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/01/2026 09:30AM",
+      "case_number": "26-cr-0149",
+      "caption": "USA v. WILFORD",
+      "judge": "DISTRICT JUDGE MCHUGH",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 9B",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652012"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/01/2026 09:30AM",
+      "case_number": "26-cr-0126",
+      "caption": "USA v. ARANA",
+      "judge": "DISTRICT JUDGE RUFE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651606"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/01/2026 09:30AM",
+      "case_number": "26-cr-0148",
+      "caption": "USA v. BLUE",
+      "judge": "DISTRICT JUDGE SANCHEZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14B",
+      "hearing_type": "Pretrial Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652000"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/01/2026 09:30AM",
+      "case_number": "15-cr-0075",
+      "caption": "USA v. OGILVIE",
+      "judge": "DISTRICT JUDGE SCHMEHL",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom TBD",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?501592"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/01/2026 09:30AM",
+      "case_number": "26-cr-0146",
+      "caption": "USA v. RIVERA",
+      "judge": "DISTRICT JUDGE SCHMEHL",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom TBD",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652004"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/01/2026 09:30AM",
+      "case_number": "25-cr-0058",
+      "caption": "USA v. WELDON",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633639"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/01/2026 09:30AM",
+      "case_number": "26-cr-0011",
+      "caption": "USA v. ACOSTA-PENA",
+      "judge": "DISTRICT JUDGE WEILHEIMER",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom TBD",
+      "hearing_type": "Sentencing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648123"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/01/2026 10:00AM",
+      "case_number": "25-cr-0450",
+      "caption": "USA v. BAEZ-FELICIANO",
+      "judge": "DISTRICT JUDGE SCHMEHL",
+      "city": "Reading",
+      "courtroom": "Reading 5th Floor",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644788"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/01/2026 10:30AM",
+      "case_number": "25-cv-4303",
+      "caption": "AMERICAN GUARANTEE AND LIABILI",
+      "judge": "DISTRICT JUDGE SANCHEZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14B",
+      "hearing_type": "Final Pretrial Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641464"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/01/2026 11:00AM",
+      "case_number": "25-cv-1619",
+      "caption": "DE LAGE LANDEN FINANCIAL SERVI",
+      "judge": "DISTRICT JUDGE PEREZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10B",
+      "hearing_type": "Final Pretrial Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635501"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/01/2026 11:30AM",
+      "case_number": "25-cv-4450",
+      "caption": "ABCDE 3001 CASTOR HOLDING COMP",
+      "judge": "DISTRICT JUDGE SANCHEZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14B",
+      "hearing_type": "Final Pretrial Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641746"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/01/2026 01:00PM",
+      "case_number": "25-cr-0007",
+      "caption": "USA v. KAH",
+      "judge": "DISTRICT JUDGE HODGE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 15A",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643390"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/01/2026 02:00PM",
+      "case_number": "26-cv-2231",
+      "caption": "LUCAS v. JEFFERSON-EINSTEIN",
+      "judge": "DISTRICT JUDGE KEARNEY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 6B",
+      "hearing_type": "Pretrial Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652617"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/01/2026 02:00PM",
+      "case_number": "22-cr-0191",
+      "caption": "USA v. EBRON",
+      "judge": "DISTRICT JUDGE MCHUGH",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 9B",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?597854"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/01/2026 02:00PM",
+      "case_number": "23-cv-3563",
+      "caption": "GridKor, LLC et al v. Gorbach",
+      "judge": "DISTRICT JUDGE SCHMEHL",
+      "city": "Reading",
+      "courtroom": "Gateway 5th Floor",
+      "hearing_type": "Final Pretrial Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?613739"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/01/2026 03:00PM",
+      "case_number": "26-cr-0024",
+      "caption": "USA v. SANCHEZ",
+      "judge": "DISTRICT JUDGE HODGE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 15A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648465"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/01/2026 03:30PM",
+      "case_number": "26-cr-0070",
+      "caption": "USA v. KAMARA",
+      "judge": "DISTRICT JUDGE KEARNEY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 6B",
+      "hearing_type": "Pretrial Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650047"
     }
   ],
   "third_circuit": [
