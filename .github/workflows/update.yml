@@ -24,9 +24,9 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Install Playwright
+      - name: Install dependencies
         run: |
-          pip install playwright
+          pip install playwright PyPDF2
           playwright install chromium --with-deps
 
       - name: Fetch court data

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Generate a static HTML calendar page from calendar.json.
-Two sections: EDPA schedule and Third Circuit oral arguments.
+Tabs: EDPA, Third Circuit, PA Supreme, PA Superior, PA Commonwealth.
 """
 import html
 import json
@@ -17,6 +17,9 @@ OUT_DIR.mkdir(exist_ok=True)
 COURT_COLORS = {
     "EDPA": "#1565c0",
     "Third Circuit": "#4a148c",
+    "PA Supreme Court": "#1a237e",
+    "PA Superior Court": "#283593",
+    "PA Commonwealth Court": "#303f9f",
 }
 
 
@@ -126,6 +129,73 @@ def build_ca3_cards(events: list[dict]) -> str:
     return "\n".join(cards) if cards else "<p>No scheduled oral arguments.</p>"
 
 
+def _format_pa_date(date_str: str) -> str:
+    """Parse '05/19/2026' or '2026-05-19' into 'Monday, May 19, 2026'."""
+    for fmt in ("%m/%d/%Y", "%Y-%m-%d"):
+        try:
+            dt = datetime.strptime(date_str, fmt)
+            return dt.strftime("%A, %B %d, %Y")
+        except ValueError:
+            continue
+    return date_str
+
+
+def build_pa_cards(events: list[dict], court_key: str) -> str:
+    """Build PA appellate court argument cards grouped by date."""
+    color = COURT_COLORS.get(court_key, "#333")
+
+    by_date: dict[str, list] = {}
+    for e in events:
+        heading = _format_pa_date(e.get("date", ""))
+        by_date.setdefault(heading, []).append(e)
+
+    cards = []
+    for heading, day_events in by_date.items():
+        loc = day_events[0].get("city", "") or day_events[0].get("location", "")
+        cards.append(f'<h4 class="date-heading">{html.escape(heading)}'
+                     f' <span style="font-weight:400;color:#999">&mdash; {html.escape(loc)}</span></h4>')
+
+        for e in day_events:
+            caption = html.escape(e.get("caption", "")) or "<em>No caption</em>"
+            docket = html.escape(e.get("docket_number", ""))
+            consideration = e.get("consideration_type", "")
+            panel = html.escape(e.get("panel", ""))
+            judges = html.escape(e.get("judges", ""))
+            location = html.escape(e.get("location", ""))
+
+            badge_bg = "#78909c"
+            ct_lower = consideration.lower()
+            if "oral argument" in ct_lower or "argument panel" in ct_lower:
+                badge_bg = "#2e7d32"
+            elif "submitted" in ct_lower:
+                badge_bg = "#78909c"
+            elif "continued" in ct_lower:
+                badge_bg = "#e65100"
+            elif "stricken" in ct_lower or "quashed" in ct_lower:
+                badge_bg = "#c62828"
+
+            badge_text = html.escape(consideration) if consideration else "TBD"
+
+            meta_parts = [f'<span class="badge" style="background:{badge_bg}">{badge_text}</span>']
+            if docket:
+                meta_parts.append(f'<span class="docket">{docket}</span>')
+            if judges:
+                meta_parts.append(f'<span class="judge">{judges}</span>')
+            elif panel:
+                meta_parts.append(f'<span class="panel">{panel}</span>')
+
+            cards.append(f"""<div class="card">
+  <div class="card-header" style="border-left:4px solid {color}">
+    <div class="card-title">{caption}</div>
+    <div class="card-meta">
+      {" ".join(meta_parts)}
+    </div>
+  </div>
+</div>""")
+
+    return "\n".join(cards) if cards else "<p>No scheduled arguments.</p>"
+
+
 def build_page(data: dict) -> str:
     generated = data.get("generated", "")
     try:
@@ -139,19 +209,22 @@ def build_page(data: dict) -> str:
 
     edpa_events = data.get("edpa", [])
     ca3_events = data.get("third_circuit", [])
+    pa_supreme_events = data.get("pa_supreme", [])
+    pa_superior_events = data.get("pa_superior", [])
+    pa_commonwealth_events = data.get("pa_commonwealth", [])
 
     edpa_html = build_edpa_cards(edpa_events)
     ca3_html = build_ca3_cards(ca3_events)
-
-    edpa_dates = len(set(e.get("_date_heading", "") for e in edpa_events if "_date_heading" in e))
-    ca3_dates = len(set(e.get("date", "") for e in ca3_events))
+    pa_supreme_html = build_pa_cards(pa_supreme_events, "PA Supreme Court")
+    pa_superior_html = build_pa_cards(pa_superior_events, "PA Superior Court")
+    pa_commonwealth_html = build_pa_cards(pa_commonwealth_events, "PA Commonwealth Court")
 
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Court Calendars &mdash; EDPA &amp; Third Circuit</title>
+<title>Court Calendars &mdash; Av Court Feed</title>
 <style>
 * {{ margin: 0; padding: 0; box-sizing: border-box; }}
 body {{
@@ -287,7 +360,7 @@ footer a {{ color: #999; }}
 <body>
 <header>
   <h1>Court Calendars</h1>
-  <p>EDPA Schedule &amp; Third Circuit Oral Arguments</p>
+  <p>Federal &amp; PA Appellate Court Schedules</p>
   <p>Last updated: {html.escape(generated_display)}</p>
   <nav><a href="index.html">&larr; Filings &amp; Opinions</a></nav>
 </header>
@@ -295,7 +368,10 @@ footer a {{ color: #999; }}
 <div class="container">
   <div class="tabs">
     <button class="tab active" onclick="switchTab('edpa')">EDPA ({len(edpa_events)})</button>
-    <button class="tab" onclick="switchTab('ca3')">Third Circuit ({len(ca3_events)})</button>
+    <button class="tab" onclick="switchTab('ca3')">Third Cir. ({len(ca3_events)})</button>
+    <button class="tab" onclick="switchTab('pasupreme')">PA Supreme ({len(pa_supreme_events)})</button>
+    <button class="tab" onclick="switchTab('pasuperior')">PA Superior ({len(pa_superior_events)})</button>
+    <button class="tab" onclick="switchTab('pacommonwealth')">PA Cmwlth. ({len(pa_commonwealth_events)})</button>
   </div>
 
   <div class="tab-content active" id="edpa-tab">
@@ -305,11 +381,26 @@ footer a {{ color: #999; }}
   <div class="tab-content" id="ca3-tab">
     {ca3_html}
   </div>
+
+  <div class="tab-content" id="pasupreme-tab">
+    {pa_supreme_html}
+  </div>
+
+  <div class="tab-content" id="pasuperior-tab">
+    {pa_superior_html}
+  </div>
+
+  <div class="tab-content" id="pacommonwealth-tab">
+    {pa_commonwealth_html}
+  </div>
 </div>
 
 <footer>
-  Source: <a href="https://ecf.paed.uscourts.gov/cgi-bin/CourtSched.pl">EDPA ECF</a> &amp;
-  <a href="https://www.ca3.uscourts.gov/calendar">Third Circuit Calendar</a><br>
+  Source: <a href="https://ecf.paed.uscourts.gov/cgi-bin/CourtSched.pl">EDPA ECF</a> &bull;
+  <a href="https://www.ca3.uscourts.gov/calendar">Third Circuit</a> &bull;
+  <a href="https://www.pacourts.us/courts/supreme-court/calendar">PA Supreme</a> &bull;
+  <a href="https://www.pacourts.us/courts/superior-court/calendar">PA Superior</a> &bull;
+  <a href="https://www.pacourts.us/courts/commonwealth-court/calendar">PA Commonwealth</a><br>
   Data refreshed automatically. Schedules are subject to change.
 </footer>
 
@@ -330,9 +421,15 @@ def main() -> None:
     page = build_page(data)
     out = OUT_DIR / "calendar.html"
     out.write_text(page)
-    edpa = len(data.get("edpa", []))
-    ca3 = len(data.get("third_circuit", []))
-    print(f"Built calendar: {out} ({edpa} EDPA + {ca3} Third Circuit events)")
+    counts = {
+        "EDPA": len(data.get("edpa", [])),
+        "Third Circuit": len(data.get("third_circuit", [])),
+        "PA Supreme": len(data.get("pa_supreme", [])),
+        "PA Superior": len(data.get("pa_superior", [])),
+        "PA Commonwealth": len(data.get("pa_commonwealth", [])),
+    }
+    summary = " + ".join(f"{v} {k}" for k, v in counts.items())
+    print(f"Built calendar: {out} ({summary})")
 
 
 if __name__ == "__main__":
