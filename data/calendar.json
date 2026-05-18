@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-18T10:55:05.837386+00:00",
+  "generated": "2026-05-18T14:24:52.714697+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -190,17 +190,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "05/18/2026 10:30AM",
-      "case_number": "20-cv-3195",
-      "caption": "ZEHRING v. SORBER et al",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?572785"
-    },
-    {
-      "court": "EDPA",
       "datetime": "05/18/2026 11:00AM",
       "case_number": "25-cv-5511",
       "caption": "HOLT v. CITY OF PHILADELPHIA e",
@@ -286,6 +275,28 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Detention Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646659"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/18/2026 01:30PM",
+      "case_number": "26-cr-0209",
+      "caption": "USA v. PEOPLES",
+      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654623"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/18/2026 01:30PM",
+      "case_number": "26-cr-0209",
+      "caption": "USA v. PEOPLES",
+      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654623"
     },
     {
       "court": "EDPA",
@@ -459,7 +470,7 @@
       "caption": "Sakamoto et al v. PROGRESSIVE",
       "judge": "DISTRICT JUDGE RUFE",
       "city": "Philadelphia",
-      "courtroom": "Courtroom 12A",
+      "courtroom": "Courtroom 17A",
       "hearing_type": "Trial Date",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626355"
     },
@@ -657,7 +668,7 @@
       "caption": "Sakamoto et al v. PROGRESSIVE",
       "judge": "DISTRICT JUDGE RUFE",
       "city": "Philadelphia",
-      "courtroom": "Courtroom 12A",
+      "courtroom": "Courtroom 17A",
       "hearing_type": "Trial Date",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626355"
     },
@@ -840,6 +851,28 @@
     {
       "court": "EDPA",
       "datetime": "05/20/2026 01:30PM",
+      "case_number": "26-cr-0209",
+      "caption": "USA v. CURRY",
+      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654622"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/20/2026 01:30PM",
+      "case_number": "26-cr-0209",
+      "caption": "USA v. CURRY",
+      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654622"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/20/2026 01:30PM",
       "case_number": "26-cr-0214",
       "caption": "USA v. NEWELL",
       "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
@@ -943,7 +976,7 @@
       "caption": "Sakamoto et al v. PROGRESSIVE",
       "judge": "DISTRICT JUDGE RUFE",
       "city": "Philadelphia",
-      "courtroom": "Courtroom 12A",
+      "courtroom": "Courtroom 17A",
       "hearing_type": "Trial Date",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626355"
     },
@@ -2460,6 +2493,15 @@
       "caption": "National Shooting Sports Foundation v. Attorney General New",
       "panel": "PORTER, MATEY, AMBRO",
       "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-02",
+      "case_number": "26-1348",
+      "caption": "City of Philadelphia v. DOI et al",
+      "panel": "HARDIMAN, RESTREPO, PHIPPS",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 2:30pm",
       "disposition": "Argued"
     },
     {
