@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-19T18:32:39.762272+00:00",
+  "generated": "2026-05-19T20:24:21.640824+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -69,39 +69,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "05/19/2026 09:30AM",
-      "case_number": "24-cv-0661",
-      "caption": "CASTILLO et al v. UNITED PARCE",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618904"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/19/2026 10:30AM",
-      "case_number": "25-cr-0013",
-      "caption": "USA v. THOMPSON",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632178"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/19/2026 10:30AM",
-      "case_number": "25-cr-0320",
-      "caption": "USA v. THOMPSON",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640895"
-    },
-    {
-      "court": "EDPA",
       "datetime": "05/19/2026 01:00PM",
       "case_number": "26-cr-0033",
       "caption": "USA v. CENTENO",
@@ -132,17 +99,6 @@
       "courtroom": "Courtroom 15A",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646136"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/19/2026 02:00PM",
-      "case_number": "23-cr-0208",
-      "caption": "USA v. SPELLER",
-      "judge": "DISTRICT JUDGE LEESON",
-      "city": "Allentown",
-      "courtroom": "Cahn 3C",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?609371"
     },
     {
       "court": "EDPA",
@@ -198,6 +154,17 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651658"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/20/2026 09:30AM",
+      "case_number": "24-cv-0661",
+      "caption": "CASTILLO et al v. UNITED PARCE",
+      "judge": "DISTRICT JUDGE SCOTT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13B",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618904"
     },
     {
       "court": "EDPA",
@@ -531,17 +498,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "05/20/2026 02:30PM",
-      "case_number": "25-cv-1140",
-      "caption": "PODRIGAL v. TRAVELERS INSURANC",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Final Pretrial Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634271"
-    },
-    {
-      "court": "EDPA",
       "datetime": "05/21/2026 09:30AM",
       "case_number": "25-cr-0418",
       "caption": "USA v. GETCHIUS",
@@ -583,17 +539,6 @@
       "courtroom": "Courtroom 5D",
       "hearing_type": "Arbitration Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647073"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/21/2026 09:30AM",
-      "case_number": "25-cv-1140",
-      "caption": "PODRIGAL v. TRAVELERS INSURANC",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Trial Date",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634271"
     },
     {
       "court": "EDPA",
@@ -759,17 +704,6 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628802"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/26/2026 09:30AM",
-      "case_number": "25-cr-0121",
-      "caption": "USA v. BULLOCK",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635504"
     },
     {
       "court": "EDPA",
@@ -993,6 +927,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "05/26/2026 01:30PM",
+      "case_number": "26-cr-0213",
+      "caption": "USA v. JOHNSON",
+      "judge": "MAGISTRATE JUDGE WELLS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654732"
+    },
+    {
+      "court": "EDPA",
       "datetime": "05/26/2026 02:00PM",
       "case_number": "24-cr-0329",
       "caption": "USA v. WAGNER",
@@ -1012,6 +957,17 @@
       "courtroom": "Courtroom 13B",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650784"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/26/2026 02:30PM",
+      "case_number": "26-cr-0030",
+      "caption": "USA v. BROWN",
+      "judge": "DISTRICT JUDGE RUFE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 17A",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648547"
     },
     {
       "court": "EDPA",
@@ -1111,17 +1067,6 @@
       "courtroom": "Courtroom 3B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644781"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/27/2026 10:00AM",
-      "case_number": "25-cr-0395",
-      "caption": "USA v. JOHNSON",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643214"
     },
     {
       "court": "EDPA",
@@ -1386,6 +1331,17 @@
       "courtroom": "Courtroom 13B",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?600001"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/28/2026 01:30PM",
+      "case_number": "26-cr-0173",
+      "caption": "USA v. ONEAL",
+      "judge": "DISTRICT JUDGE BARTLE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16A",
+      "hearing_type": "Bond Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653115"
     },
     {
       "court": "EDPA",
@@ -3537,7 +3493,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -3549,7 +3505,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -3561,7 +3517,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -3573,7 +3529,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -3585,7 +3541,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -3597,7 +3553,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -3609,7 +3565,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -3621,7 +3577,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -3633,7 +3589,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -3645,7 +3601,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -3657,7 +3613,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -3669,7 +3625,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -3681,7 +3637,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -3693,7 +3649,19 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "06/16/2026",
+      "docket_number": "1703 EDA 2025",
+      "journal_number": "J-A14010-26",
+      "caption": "DeFrank, E. v. Kais, B.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "17th Floor , 530 Walnut St ., Philadelphia",
+      "city": "Philadelphia",
+      "panel": "14-ARGUMENT-2026-2",
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -3705,7 +3673,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -3717,7 +3685,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -3729,7 +3697,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -3741,19 +3709,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "06/16/2026",
-      "docket_number": "1970 EDA 2025",
-      "journal_number": "J-A14020-26",
-      "caption": "In Re: S.C., Appeal of: B.Clark",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "17th Floor , 530 Walnut St ., Philadelphia",
-      "city": "Philadelphia",
-      "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -3765,7 +3721,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -3777,7 +3733,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -3789,7 +3745,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -3801,7 +3757,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -3813,7 +3769,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -3825,7 +3781,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -3837,7 +3793,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -3849,7 +3805,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -3861,7 +3817,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -3873,7 +3829,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -3885,7 +3841,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -3897,7 +3853,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -3909,7 +3865,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -3921,7 +3877,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -3933,7 +3889,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -3945,7 +3901,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -3957,7 +3913,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -3969,7 +3925,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -3981,7 +3937,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -3993,7 +3949,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -4005,7 +3961,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -4017,7 +3973,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",
@@ -4029,7 +3985,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
-      "judges": "DUBOW ; NICHOLS ; MURRAY , JJ."
+      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
     },
     {
       "court": "PA Superior Court",

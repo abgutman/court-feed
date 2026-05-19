@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-19T18:31:04.790005+00:00",
+  "generated": "2026-05-19T20:22:56.981641+00:00",
   "filings": [
     {
       "type": "filing",
@@ -121,11 +121,29 @@
     {
       "type": "filing",
       "court": "PA Supreme Court",
+      "docket": "273 MAL 2026",
+      "caption": "Commonwealth v. Collins, T., Pet.",
+      "status": "Active",
+      "filing_date": "05/18/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=273 MAL 2026&dnh=KkLX7OJJ7%2Fqg14a6%2F4jcMw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
       "docket": "115 MM 2026",
       "caption": "Brownsberger, J., Pet. v. Lebanon County CCP",
       "status": "Active",
       "filing_date": "05/18/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=115 MM 2026&dnh=j0hFzrEg9IOkLydyOmNdYw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "116 MM 2026",
+      "caption": "Commonwealth v. Polk, C., Pet.",
+      "status": "Active",
+      "filing_date": "05/19/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=116 MM 2026&dnh=Zl6lFZcMkNPepUl2cUiFcA%3D%3D"
     },
     {
       "type": "filing",
@@ -954,6 +972,51 @@
       "status": "Active",
       "filing_date": "05/19/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1357 EDA 2026&dnh=tDZyvn6Y0s%2BxwLaP9pS5%2BA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1358 EDA 2026",
+      "caption": "Com. v. Green, C.",
+      "status": "Active",
+      "filing_date": "05/19/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1358 EDA 2026&dnh=uyM9yAguglrgWvTtBAjg8w%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1359 EDA 2026",
+      "caption": "Com. v. Marmolejos, M.",
+      "status": "Active",
+      "filing_date": "05/19/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1359 EDA 2026&dnh=Rps4qyDvrP4pIVclZ3yjmA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1360 EDA 2026",
+      "caption": "Com. v. Roskowski, C.",
+      "status": "Active",
+      "filing_date": "05/19/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1360 EDA 2026&dnh=ZMbtvMhJG6U2GtyVNxJGig%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1361 EDA 2026",
+      "caption": "Com. v. Sanchez, R.",
+      "status": "Active",
+      "filing_date": "05/19/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1361 EDA 2026&dnh=zNq5mG9b%2Fjp0ZPeVIZy36Q%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1362 EDA 2026",
+      "caption": "Augow 263 v. Herbert, N.",
+      "status": "Active",
+      "filing_date": "05/19/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1362 EDA 2026&dnh=%2FXfiwKsMAIXgHpspStmHNA%3D%3D"
     },
     {
       "type": "filing",
@@ -1903,6 +1966,15 @@
     {
       "type": "filing",
       "court": "PA Commonwealth Court",
+      "docket": "684 CD 2026",
+      "caption": "Plath, R. v. DHS",
+      "status": "Active",
+      "filing_date": "05/19/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=684 CD 2026&dnh=G%2Fy5U020ycNuzyNnU%2FPJfQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
       "docket": "169 FR 2026",
       "caption": "Medco Health Solutions, Inc. v. Com. of Pa.",
       "status": "Active",
@@ -1998,6 +2070,26 @@
     }
   ],
   "opinions": [
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 29 WAL 2026",
+      "caption": "Commonwealth v. Watson, E., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Tue, 19 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/29WAL2026 - 106788690359113358.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/29WAL2026 - 106788690359113358.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 3163 DD3",
+      "caption": "In the Matter of: John S. Lopatto, III",
+      "author": "Per Curiam",
+      "pub_date": "Mon, 18 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/3163DD3 - 106786825358921122.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/3163DD3 - 106786825358921122.pdf"
+    },
     {
       "type": "opinion",
       "court": "PA Supreme Court",
@@ -3271,6 +3363,30 @@
       "guid": "ca3-24-3005-243005p.pdf",
       "precedential": true,
       "origin": "USDC for the District of Delaware"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-2771",
+      "caption": "David Richardson v. USA",
+      "author": "",
+      "pub_date": "Tue, 19 May 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/252771np.pdf",
+      "guid": "ca3-25-2771-252771np.pdf",
+      "precedential": false,
+      "origin": "USDC for the Eastern District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-2599",
+      "caption": "USA v. Pernell Riddick",
+      "author": "",
+      "pub_date": "Tue, 19 May 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/252599np.pdf",
+      "guid": "ca3-25-2599-252599np.pdf",
+      "precedential": false,
+      "origin": "USDC for the Middle District of Pennsylvania"
     },
     {
       "type": "opinion",
