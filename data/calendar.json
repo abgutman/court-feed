@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-19T20:24:21.640824+00:00",
+  "generated": "2026-05-19T22:05:35.226784+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -66,17 +66,6 @@
       "courtroom": "Courtroom 13B",
       "hearing_type": "Jury Selection",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618904"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/19/2026 01:00PM",
-      "case_number": "26-cr-0033",
-      "caption": "USA v. CENTENO",
-      "judge": "DISTRICT JUDGE SAVAGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648710"
     },
     {
       "court": "EDPA",
@@ -433,17 +422,6 @@
     {
       "court": "EDPA",
       "datetime": "05/20/2026 02:00PM",
-      "case_number": "24-cr-0111",
-      "caption": "USA v. TOSON",
-      "judge": "DISTRICT JUDGE BAYLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?620267"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/20/2026 02:00PM",
       "case_number": "25-cv-6260",
       "caption": "EPAM SYSTEMS, INC. v. RAO",
       "judge": "CHIEF JUDGE BEETLESTONE",
@@ -495,6 +473,17 @@
       "courtroom": "Courtroom 15B",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621756"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/20/2026 03:00PM",
+      "case_number": "24-cr-0111",
+      "caption": "USA v. TOSON",
+      "judge": "DISTRICT JUDGE BAYLSON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3A",
+      "hearing_type": "Sentencing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?620267"
     },
     {
       "court": "EDPA",
@@ -946,17 +935,6 @@
       "courtroom": "Courtroom 12A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627442"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/26/2026 02:00PM",
-      "case_number": "26-cr-0095",
-      "caption": "USA v. JOHNSON",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650784"
     },
     {
       "court": "EDPA",
