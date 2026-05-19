@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-19T12:35:06.792500+00:00",
+  "generated": "2026-05-19T14:43:28.719519+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -58,6 +58,28 @@
     },
     {
       "court": "EDPA",
+      "datetime": "05/19/2026 09:30AM",
+      "case_number": "24-cv-0661",
+      "caption": "CASTILLO et al v. UNITED PARCE",
+      "judge": "DISTRICT JUDGE SCOTT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13B",
+      "hearing_type": "Jury Selection",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618904"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/19/2026 09:30AM",
+      "case_number": "24-cv-0661",
+      "caption": "CASTILLO et al v. UNITED PARCE",
+      "judge": "DISTRICT JUDGE SCOTT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13B",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618904"
+    },
+    {
+      "court": "EDPA",
       "datetime": "05/19/2026 10:00AM",
       "case_number": "24-cv-2087",
       "caption": "CMPC USA, INC. v. GWSI, Inc. e",
@@ -77,17 +99,6 @@
       "courtroom": "Courtroom 15A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?613295"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/19/2026 10:00AM",
-      "case_number": "25-cr-0170",
-      "caption": "USA v. BURTON",
-      "judge": "DISTRICT JUDGE PEREZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10B",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636518"
     },
     {
       "court": "EDPA",
@@ -124,28 +135,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "05/19/2026 9:30AM",
-      "case_number": "24-cv-0661",
-      "caption": "CASTILLO et al v. UNITED PARCE",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Jury Selection",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618904"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/19/2026 9:30AM",
-      "case_number": "24-cv-0661",
-      "caption": "CASTILLO et al v. UNITED PARCE",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618904"
-    },
-    {
-      "court": "EDPA",
       "datetime": "05/19/2026 01:00PM",
       "case_number": "26-cr-0033",
       "caption": "USA v. CENTENO",
@@ -154,6 +143,17 @@
       "courtroom": "Courtroom 9A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648710"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/19/2026 01:30PM",
+      "case_number": "26-mj-0959",
+      "caption": "USA v. COFFER",
+      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654946"
     },
     {
       "court": "EDPA",
@@ -209,17 +209,6 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Final Pretrial Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?597860"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/19/2026 02:30PM",
-      "case_number": "23-cr-0293",
-      "caption": "USA v. CRUZ-GONZALEZ",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?611418"
     },
     {
       "court": "EDPA",
@@ -444,6 +433,28 @@
     {
       "court": "EDPA",
       "datetime": "05/20/2026 01:30PM",
+      "case_number": "22-cr-0396",
+      "caption": "USA v. ANDREWS",
+      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?602713"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/20/2026 01:30PM",
+      "case_number": "22-cr-0396",
+      "caption": "USA v. ANDREWS",
+      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Probable Cause Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?602713"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/20/2026 01:30PM",
       "case_number": "26-cr-0209",
       "caption": "USA v. CURRY",
       "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
@@ -484,6 +495,28 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654729"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/20/2026 01:30PM",
+      "case_number": "26-cr-0216",
+      "caption": "USA v. ANDREWS",
+      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654762"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/20/2026 01:30PM",
+      "case_number": "26-cr-0216",
+      "caption": "USA v. ANDREWS",
+      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654762"
     },
     {
       "court": "EDPA",
@@ -889,7 +922,7 @@
       "judge": "DISTRICT JUDGE WOLSON",
       "city": "Philadelphia",
       "courtroom": "Courtroom 12B",
-      "hearing_type": "Jury Trial",
+      "hearing_type": "Bench Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?615144"
     },
     {
@@ -1098,7 +1131,7 @@
       "judge": "DISTRICT JUDGE WOLSON",
       "city": "Philadelphia",
       "courtroom": "Courtroom 12B",
-      "hearing_type": "Jury Trial",
+      "hearing_type": "Bench Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?615144"
     },
     {
@@ -1296,7 +1329,7 @@
       "judge": "DISTRICT JUDGE WOLSON",
       "city": "Philadelphia",
       "courtroom": "Courtroom 12B",
-      "hearing_type": "Jury Trial",
+      "hearing_type": "Bench Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?615144"
     },
     {
@@ -1397,6 +1430,17 @@
       "courtroom": "Courtroom 14A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?593817"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/28/2026 11:00AM",
+      "case_number": "21-cv-5303",
+      "caption": "MAYER et al v. ADCS Clinics, L",
+      "judge": "DISTRICT JUDGE KENNEY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 11B",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?591550"
     },
     {
       "court": "EDPA",
@@ -1549,7 +1593,7 @@
       "judge": "DISTRICT JUDGE WOLSON",
       "city": "Philadelphia",
       "courtroom": "Courtroom 12B",
-      "hearing_type": "Jury Trial",
+      "hearing_type": "Bench Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?615144"
     },
     {
@@ -3226,6 +3270,30 @@
       "date": "05/19/2026",
       "docket_number": "717 WDA 2025",
       "journal_number": "J-A13001-26",
+      "caption": "Com. v. Kirk, G.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "Pittsburgh",
+      "panel": "13-ARGUMENT-2026-2",
+      "judges": "BOWES ; OLSON , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "05/19/2026",
+      "docket_number": "95 WDA 2025",
+      "journal_number": "J-A13002-26",
+      "caption": "Com. v. Kirk, G.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "Pittsburgh",
+      "panel": "13-ARGUMENT-2026-2",
+      "judges": "BOWES ; OLSON , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "05/19/2026",
+      "docket_number": "1592 WDA 2024",
+      "journal_number": "J-A13002-26",
       "caption": "Com. v. Kirk, G.",
       "consideration_type": "Expedited \u2014 Argument Panel",
       "location": "",
