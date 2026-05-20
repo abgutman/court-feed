@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-20T21:51:17.356960+00:00",
+  "generated": "2026-05-20T23:05:09.735896+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -638,6 +638,17 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Detention Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654732"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/26/2026 01:30PM",
+      "case_number": "26-mj-0933",
+      "caption": "USA v. DAVIS",
+      "judge": "MAGISTRATE JUDGE WELLS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654894"
     },
     {
       "court": "EDPA",
