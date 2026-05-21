@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-21T20:31:30.394268+00:00",
+  "generated": "2026-05-21T22:11:40.982433+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -99,28 +99,6 @@
       "courtroom": "Courtroom 11B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646984"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/21/2026 02:30PM",
-      "case_number": "25-cv-6578",
-      "caption": "CHRUPCALA v. FIRSTRUST SAVINGS",
-      "judge": "DISTRICT JUDGE KENNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646454"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/21/2026 03:00PM",
-      "case_number": "12-cr-0566",
-      "caption": "USA v. SANTIAGO",
-      "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "Reading",
-      "courtroom": "Reading 5th Floor",
-      "hearing_type": "Evidentiary Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?468674"
     },
     {
       "court": "EDPA",
@@ -730,17 +708,6 @@
     {
       "court": "EDPA",
       "datetime": "05/28/2026 11:00AM",
-      "case_number": "21-cv-5303",
-      "caption": "MAYER et al v. ADCS Clinics, L",
-      "judge": "DISTRICT JUDGE KENNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11B",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?591550"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/28/2026 11:00AM",
       "case_number": "25-cr-0403",
       "caption": "USA v. MURRAY",
       "judge": "DISTRICT JUDGE MARSTON",
@@ -846,17 +813,6 @@
       "city": "Reading",
       "courtroom": "Reading 5th Floor",
       "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627335"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/28/2026 02:00PM",
-      "case_number": "24-cr-0319",
-      "caption": "USA v. ORTEGA-CONTRERAS",
-      "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "Reading",
-      "courtroom": "Reading 5th Floor",
-      "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627335"
     },
     {
