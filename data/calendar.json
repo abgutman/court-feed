@@ -1,17 +1,6 @@
 {
-  "generated": "2026-05-21T12:40:48.473907+00:00",
+  "generated": "2026-05-21T16:14:02.590059+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "05/21/2026 09:30AM",
-      "case_number": "25-cr-0418",
-      "caption": "USA v. GETCHIUS",
-      "judge": "DISTRICT JUDGE GALLAGHER",
-      "city": "Allentown",
-      "courtroom": "Cahn 4B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643832"
-    },
     {
       "court": "EDPA",
       "datetime": "05/21/2026 09:30AM",
@@ -245,17 +234,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "05/26/2026 09:30AM",
-      "case_number": "25-cr-0433",
-      "caption": "USA v. BAER",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644138"
-    },
-    {
-      "court": "EDPA",
       "datetime": "05/26/2026 10:00AM",
       "case_number": "26-cv-0606",
       "caption": "Vaughn v. TEMPLE UNIVERSITY -",
@@ -366,17 +344,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "05/26/2026 11:00AM",
-      "case_number": "25-cr-0359",
-      "caption": "USA v. PETERSON",
-      "judge": "DISTRICT JUDGE RUFE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642398"
-    },
-    {
-      "court": "EDPA",
       "datetime": "05/26/2026 12:30PM",
       "case_number": "25-cr-0534",
       "caption": "USA v. FORD-WILKINS",
@@ -407,6 +374,17 @@
       "courtroom": "Courtroom 14A",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642873"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/26/2026 01:30PM",
+      "case_number": "20-cr-0322",
+      "caption": "USA v. BRADLEY",
+      "judge": "MAGISTRATE JUDGE WELLS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?576052"
     },
     {
       "court": "EDPA",
@@ -451,17 +429,6 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Initial Appearance",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654978"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/26/2026 02:00PM",
-      "case_number": "24-cr-0329",
-      "caption": "USA v. WAGNER",
-      "judge": "DISTRICT JUDGE RUFE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627442"
     },
     {
       "court": "EDPA",
@@ -704,17 +671,6 @@
       "courtroom": "Courtroom TBD",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616860"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/28/2026 10:30AM",
-      "case_number": "25-cv-2919",
-      "caption": "ROBINSON v. CLINICAL CARE ASSO",
-      "judge": "DISTRICT JUDGE BARTLE",
-      "city": "",
-      "courtroom": "Telephone Conference",
-      "hearing_type": "Telephone Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638722"
     },
     {
       "court": "EDPA",
@@ -1320,17 +1276,6 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637964"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/02/2026 09:30AM",
-      "case_number": "22-cv-2389",
-      "caption": "PLOEGER v. TRUSTEES OF THE UNI",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Trial Date",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?597860"
     },
     {
       "court": "EDPA",
@@ -1980,6 +1925,17 @@
       "courtroom": "Cahn 4B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649860"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/04/2026 02:00PM",
+      "case_number": "25-cr-0500",
+      "caption": "USA v. GIBSON",
+      "judge": "DISTRICT JUDGE PADOVA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 17B",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646456"
     },
     {
       "court": "EDPA",
