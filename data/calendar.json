@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-21T09:37:34.585347+00:00",
+  "generated": "2026-05-21T12:40:48.473907+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -429,6 +429,28 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Detention Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654894"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/26/2026 01:30PM",
+      "case_number": "26-cr-0226",
+      "caption": "USA v. CLARKE",
+      "judge": "MAGISTRATE JUDGE WELLS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654978"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/26/2026 01:30PM",
+      "case_number": "26-cr-0226",
+      "caption": "USA v. CLARKE",
+      "judge": "MAGISTRATE JUDGE WELLS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Initial Appearance",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654978"
     },
     {
       "court": "EDPA",
@@ -2506,9 +2528,54 @@
     {
       "court": "Third Circuit",
       "date": "2026-06-09",
+      "case_number": "25-1852",
+      "caption": "USA v. Matthew Sharps",
+      "panel": "CHAGARES, RESTREPO, MONTGOMERY-REEVES",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-09",
       "case_number": "25-1877",
       "caption": "USA v. Kevin Aguilar",
       "panel": "HARDIMAN, BOVE, FISHER",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-09",
+      "case_number": "25-1895",
+      "caption": "In re: Samsung Electronics America Inc",
+      "panel": "CHAGARES, RESTREPO, MONTGOMERY-REEVES",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-09",
+      "case_number": "25-2002",
+      "caption": "USA v. David Loveings",
+      "panel": "CHAGARES, RESTREPO, MONTGOMERY-REEVES",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-09",
+      "case_number": "25-2120",
+      "caption": "Deborah Glover v. Merrick Bank",
+      "panel": "CHAGARES, RESTREPO, MONTGOMERY-REEVES",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-09",
+      "case_number": "25-2870",
+      "caption": "Ervin Domingo-Felipe v. Attorney General United States of Am",
+      "panel": "CHAGARES, RESTREPO, MONTGOMERY-REEVES",
       "location_time": "",
       "disposition": "Submitted"
     },
@@ -2533,6 +2600,51 @@
     {
       "court": "Third Circuit",
       "date": "2026-06-10",
+      "case_number": "23-2392",
+      "caption": "USA v. Dennis Cheston",
+      "panel": "CHAGARES, RESTREPO, MONTGOMERY-REEVES",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-10",
+      "case_number": "25-2022",
+      "caption": "John Hammond v. Thomas Acerno et al",
+      "panel": "CHAGARES, RESTREPO, MONTGOMERY-REEVES",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-10",
+      "case_number": "25-2425",
+      "caption": "Sushilaben Patel et al  v. Attorney General United States of",
+      "panel": "CHAGARES, RESTREPO, MONTGOMERY-REEVES",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-10",
+      "case_number": "25-2530",
+      "caption": "Juan Largo-Serrano et al  v. Attorney General United States",
+      "panel": "CHAGARES, RESTREPO, MONTGOMERY-REEVES",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-10",
+      "case_number": "25-2573",
+      "caption": "USA v. Noah Craddock",
+      "panel": "CHAGARES, RESTREPO, MONTGOMERY-REEVES",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-10",
       "case_number": "25-2773",
       "caption": "Samuel McDonald v. Attorney General United States of America",
       "panel": "HARDIMAN, BOVE, FISHER",
@@ -2542,9 +2654,45 @@
     {
       "court": "Third Circuit",
       "date": "2026-06-11",
+      "case_number": "25-2153",
+      "caption": "Thomson Reuters Enterprise Centre GmbH et al v. Ross Intell",
+      "panel": "RESTREPO, MONTGOMERY-REEVES, BOVE",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 10:00am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-11",
+      "case_number": "25-2502",
+      "caption": "USA v. Charles Summers",
+      "panel": "RESTREPO, MONTGOMERY-REEVES, BOVE",
+      "location_time": "Philadelphia, PA - Maris Courroom / 10:00am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-11",
+      "case_number": "25-2653",
+      "caption": "Farhan Beig et al v. Ocugen Inc et al",
+      "panel": "RESTREPO, MONTGOMERY-REEVES, BOVE",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 10:00am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-11",
       "case_number": "25-1218",
       "caption": "USA v. Joseph Stratton-Kielmeier",
       "panel": "HARDIMAN, BOVE, FISHER",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-11",
+      "case_number": "25-1824",
+      "caption": "USA v. Anthony Bressi",
+      "panel": "RESTREPO, MONTGOMERY-REEVES, BOVE",
       "location_time": "",
       "disposition": "Submitted"
     },
@@ -2560,6 +2708,33 @@
     {
       "court": "Third Circuit",
       "date": "2026-06-11",
+      "case_number": "25-2359",
+      "caption": "John McKenna v. Verint Americas Inc et al",
+      "panel": "RESTREPO, MONTGOMERY-REEVES, BOVE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-11",
+      "case_number": "25-2507",
+      "caption": "John McKenna v. Verint Americas Inc et al",
+      "panel": "RESTREPO, MONTGOMERY-REEVES, BOVE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-11",
+      "case_number": "25-2850",
+      "caption": "Vonda Pearson v. Marple Township et al",
+      "panel": "RESTREPO, MONTGOMERY-REEVES, BOVE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-11",
       "case_number": "25-3005",
       "caption": "Wilson Brito-Hidalgo v. Attorney General United States of Am",
       "panel": "HARDIMAN, BOVE, FISHER",
@@ -2569,9 +2744,63 @@
     {
       "court": "Third Circuit",
       "date": "2026-06-12",
+      "case_number": "25-2517",
+      "caption": "USA v. Brian Albelli",
+      "panel": "RESTREPO, MONTGOMERY-REEVES, BOVE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-12",
+      "case_number": "25-2526",
+      "caption": "Diego Buri Mora v. Attorney General United States of America",
+      "panel": "RESTREPO, MONTGOMERY-REEVES, BOVE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-12",
+      "case_number": "25-2625",
+      "caption": "Matthew Kanapesky v. Township of East Brandywine et al",
+      "panel": "RESTREPO, MONTGOMERY-REEVES, BOVE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-12",
       "case_number": "25-2652",
       "caption": "Tiffany Turner v. Philadelphia FIGHT",
       "panel": "HARDIMAN, BOVE, FISHER",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-12",
+      "case_number": "25-2665",
+      "caption": "Issac Flores et al  v. Brian Emig et al",
+      "panel": "RESTREPO, MONTGOMERY-REEVES, BOVE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-12",
+      "case_number": "25-2885",
+      "caption": "Nelson Alvarenga-Molina v. Attorney General United States of",
+      "panel": "RESTREPO, MONTGOMERY-REEVES, BOVE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-12",
+      "case_number": "25-3143",
+      "caption": "Shichin Chang v. Attorney General United States of America",
+      "panel": "RESTREPO, MONTGOMERY-REEVES, BOVE",
       "location_time": "",
       "disposition": "Submitted"
     }
