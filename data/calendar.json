@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-21T18:34:47.124441+00:00",
+  "generated": "2026-05-21T20:31:30.394268+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -25,17 +25,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "05/21/2026 09:30AM",
-      "case_number": "24-cv-0661",
-      "caption": "CASTILLO et al v. UNITED PARCE",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618904"
-    },
-    {
-      "court": "EDPA",
       "datetime": "05/21/2026 10:00AM",
       "case_number": "24-cv-5990",
       "caption": "TUOHEY v. BLOOMIN' BRANDS, INC",
@@ -44,28 +33,6 @@
       "courtroom": "Courtroom 3B",
       "hearing_type": "Final Pretrial Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629803"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/21/2026 10:00AM",
-      "case_number": "24-cr-0204",
-      "caption": "USA v. SADOWSKI",
-      "judge": "DISTRICT JUDGE YOUNGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15B",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622514"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/21/2026 10:30AM",
-      "case_number": "24-cr-0219",
-      "caption": "USA v. COLON",
-      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 8B",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622830"
     },
     {
       "court": "EDPA",
@@ -220,6 +187,17 @@
       "courtroom": "Courtroom 11B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648754"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/26/2026 09:30AM",
+      "case_number": "24-cv-0661",
+      "caption": "CASTILLO et al v. UNITED PARCE",
+      "judge": "DISTRICT JUDGE SCOTT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13B",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618904"
     },
     {
       "court": "EDPA",
@@ -389,6 +367,28 @@
     {
       "court": "EDPA",
       "datetime": "05/26/2026 01:30PM",
+      "case_number": "26-cr-0199",
+      "caption": "USA v. SIMMONS",
+      "judge": "MAGISTRATE JUDGE WELLS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653807"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/26/2026 01:30PM",
+      "case_number": "26-cr-0199",
+      "caption": "USA v. SIMMONS",
+      "judge": "MAGISTRATE JUDGE WELLS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653807"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/26/2026 01:30PM",
       "case_number": "26-cr-0213",
       "caption": "USA v. JOHNSON",
       "judge": "MAGISTRATE JUDGE WELLS",
@@ -407,6 +407,17 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Detention Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654894"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/26/2026 01:30PM",
+      "case_number": "26-mj-0954",
+      "caption": "USA v. CAMPBELL",
+      "judge": "MAGISTRATE JUDGE WELLS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654972"
     },
     {
       "court": "EDPA",
@@ -583,17 +594,6 @@
       "courtroom": "Courtroom 16B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646617"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/27/2026 02:00PM",
-      "case_number": "26-cv-2300",
-      "caption": "Boyce v. STATE FARM FIRE AND C",
-      "judge": "DISTRICT JUDGE MURPHY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652647"
     },
     {
       "court": "EDPA",
@@ -836,17 +836,6 @@
       "courtroom": "Courtroom 10A",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648197"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/28/2026 02:00PM",
-      "case_number": "24-cr-0247",
-      "caption": "USA v. HAWN",
-      "judge": "DISTRICT JUDGE MURPHY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624049"
     },
     {
       "court": "EDPA",
@@ -1478,6 +1467,17 @@
     {
       "court": "EDPA",
       "datetime": "06/02/2026 02:00PM",
+      "case_number": "24-cr-0247",
+      "caption": "USA v. HAWN",
+      "judge": "DISTRICT JUDGE MURPHY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3B",
+      "hearing_type": "Sentencing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624049"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/02/2026 02:00PM",
       "case_number": "26-cr-0026",
       "caption": "USA v. ECHEVARRIA MENDEZ",
       "judge": "DISTRICT JUDGE WOLSON",
@@ -1925,6 +1925,17 @@
       "courtroom": "Cahn 4B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649860"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/04/2026 02:00PM",
+      "case_number": "26-cv-0815",
+      "caption": "OWUOR et al v. SUNNYMAC, LLC e",
+      "judge": "DISTRICT JUDGE MURPHY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649590"
     },
     {
       "court": "EDPA",
