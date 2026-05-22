@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-22T11:39:00.052776+00:00",
+  "generated": "2026-05-22T14:11:39.391663+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -33,17 +33,6 @@
       "courtroom": "Courtroom 3B",
       "hearing_type": "Trial Date",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629803"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/26/2026 09:00AM",
-      "case_number": "24-cr-0374",
-      "caption": "USA v. THOMAS",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628802"
     },
     {
       "court": "EDPA",
@@ -598,17 +587,6 @@
     {
       "court": "EDPA",
       "datetime": "05/28/2026 11:00AM",
-      "case_number": "22-cr-0049",
-      "caption": "USA v. HARS",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?593817"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/28/2026 11:00AM",
       "case_number": "25-cr-0403",
       "caption": "USA v. MURRAY",
       "judge": "DISTRICT JUDGE MARSTON",
@@ -660,17 +638,6 @@
       "courtroom": "Courtroom 16A",
       "hearing_type": "Bond Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653115"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/28/2026 01:30PM",
-      "case_number": "22-cr-0233",
-      "caption": "USA v. WILLIAMS",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?598915"
     },
     {
       "court": "EDPA",
@@ -1573,17 +1540,6 @@
       "courtroom": "Courtroom 6B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629149"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/03/2026 02:00PM",
-      "case_number": "15-cr-0228",
-      "caption": "USA v. CARTER",
-      "judge": "DISTRICT JUDGE MCHUGH",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9B",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?505426"
     },
     {
       "court": "EDPA",
