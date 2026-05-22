@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-22T21:05:19.316506+00:00",
+  "generated": "2026-05-22T22:49:24.596015+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -1705,6 +1705,17 @@
       "courtroom": "Courtroom 3B",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639622"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/04/2026 10:00AM",
+      "case_number": "18-cv-5458",
+      "caption": "SHILOH et al v. PHILADELPHIA V",
+      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 8B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?551017"
     },
     {
       "court": "EDPA",
