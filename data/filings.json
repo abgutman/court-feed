@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-22T17:02:22.279987+00:00",
+  "generated": "2026-05-22T19:20:04.034939+00:00",
   "filings": [
     {
       "type": "filing",
@@ -99,6 +99,15 @@
       "status": "Active",
       "filing_date": "05/21/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=277 MAL 2026&dnh=%2FiasB6%2FXvQUBOR%2FhryQOaA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "278 MAL 2026",
+      "caption": "Commonwealth v. Cieniawa, J., Pet.",
+      "status": "Active",
+      "filing_date": "05/22/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=278 MAL 2026&dnh=qIlLnUyVomShBPMCM4c9%2Fg%3D%3D"
     },
     {
       "type": "filing",
@@ -1614,6 +1623,15 @@
     },
     {
       "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "55 WDM 2026",
+      "caption": "Com. v. Sobecki, A.",
+      "status": "Active",
+      "filing_date": "05/22/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=55 WDM 2026&dnh=aY7KLpiSxXUWtWBWGZdLqw%3D%3D"
+    },
+    {
+      "type": "filing",
       "court": "PA Commonwealth Court",
       "docket": "1 BIC 2026",
       "caption": "US Fire (In Re: Bedivere Ins. Co. (In Liquidation)",
@@ -1920,9 +1938,41 @@
       "lower_court": "United States Court of Appeals for the Third Circuit",
       "lower_court_docket": "(24-3314, 24-3315)",
       "case_type": "IFP"
+    },
+    {
+      "type": "filing",
+      "court": "SCOTUS",
+      "docket": "25-7450",
+      "caption": "Brandon L. Fake, et al. v. Pennsylvania, et al.",
+      "status": "Cert Petition",
+      "filing_date": "05/22/2026",
+      "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-7450.html",
+      "lower_court": "United States Court of Appeals for the Third Circuit",
+      "lower_court_docket": "(25-1798)",
+      "case_type": "IFP"
     }
   ],
   "opinions": [
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 33 WAP 2024",
+      "caption": "In Re: Dravo LLC, Appeal of: Carmeuse Lime",
+      "author": "Justice P. Kevin Brobson",
+      "pub_date": "Fri, 22 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/J-79A-2025mo - 106794408359719131.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/J-79A-2025mo - 106794408359719131.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 34 WAP 2024",
+      "caption": "In Re: Dravo LLC, Appeal of: Carmeuse Lime",
+      "author": "Justice P. Kevin Brobson",
+      "pub_date": "Fri, 22 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/J-79B-2025mo - 106794409359719814.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/J-79B-2025mo - 106794409359719814.pdf"
+    },
     {
       "type": "opinion",
       "court": "PA Supreme Court",
@@ -2962,6 +3012,18 @@
       "pub_date": "Mon, 18 May 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/65MD25_5-18-26.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/65MD25_5-18-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-2162",
+      "caption": "Mahmoud Khalil v. President United States of America",
+      "author": "",
+      "pub_date": "Fri, 22 May 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/252162po.pdf",
+      "guid": "ca3-25-2162-252162po.pdf",
+      "precedential": true,
+      "origin": "USDC for the District of New Jersey"
     },
     {
       "type": "opinion",
