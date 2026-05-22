@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-22T19:20:04.034939+00:00",
+  "generated": "2026-05-22T21:02:51.182020+00:00",
   "filings": [
     {
       "type": "filing",
@@ -1732,6 +1732,15 @@
     {
       "type": "filing",
       "court": "PA Commonwealth Court",
+      "docket": "699 CD 2026",
+      "caption": "SEPTA v. Haver",
+      "status": "Active",
+      "filing_date": "05/22/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=699 CD 2026&dnh=yB4iBJzgHgx%2BqeFt%2BQ4xZA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
       "docket": "174 FR 2026",
       "caption": "Everen Capital Corporation v. Com. of Pa.",
       "status": "Active",
@@ -3060,6 +3069,30 @@
       "guid": "ca3-26-1269-261269np.pdf",
       "precedential": false,
       "origin": "USDC for the Middle District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-1810",
+      "caption": "Allonhill LLC v.",
+      "author": "",
+      "pub_date": "Fri, 22 May 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/251810npo.pdf",
+      "guid": "ca3-25-1810-251810npo.pdf",
+      "precedential": false,
+      "origin": "USDC for the District of Delaware"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-1810",
+      "caption": "Allonhill LLC v.",
+      "author": "",
+      "pub_date": "Fri, 22 May 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/251810nppan.pdf",
+      "guid": "ca3-25-1810-251810nppan.pdf",
+      "precedential": false,
+      "origin": "USDC for the District of Delaware"
     },
     {
       "type": "opinion",
