@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-23T08:02:11.848971+00:00",
+  "generated": "2026-05-23T10:19:48.434517+00:00",
   "filings": [
     {
       "type": "filing",
@@ -1883,18 +1883,6 @@
       "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-7341.html",
       "lower_court": "United States Court of Appeals for the Third Circuit",
       "lower_court_docket": "(25-1154)",
-      "case_type": "IFP"
-    },
-    {
-      "type": "filing",
-      "court": "SCOTUS",
-      "docket": "25-7355",
-      "caption": "Frank Tepp v. David Close, Superintendent, State Correctional Institution at Houtzdale, et al.",
-      "status": "Cert Petition",
-      "filing_date": "05/11/2026",
-      "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-7355.html",
-      "lower_court": "United States Court of Appeals for the Third Circuit",
-      "lower_court_docket": "(24-1271)",
       "case_type": "IFP"
     },
     {
