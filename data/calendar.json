@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-26T08:28:14.137824+00:00",
+  "generated": "2026-05-26T14:33:00.362020+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -586,17 +586,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "05/28/2026 11:00AM",
-      "case_number": "25-cr-0443",
-      "caption": "USA v. FAVORS",
-      "judge": "DISTRICT JUDGE YOUNGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644482"
-    },
-    {
-      "court": "EDPA",
       "datetime": "05/28/2026 12:00PM",
       "case_number": "26-cr-0189",
       "caption": "USA v. SMITH",
@@ -649,6 +638,17 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640097"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/28/2026 01:30PM",
+      "case_number": "26-cr-0233",
+      "caption": "USA v. MCFARLANE",
+      "judge": "MAGISTRATE JUDGE WELLS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655200"
     },
     {
       "court": "EDPA",
@@ -1500,6 +1500,17 @@
     {
       "court": "EDPA",
       "datetime": "06/03/2026 01:30PM",
+      "case_number": "25-cr-0134",
+      "caption": "USA v. MATTHEWS",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635736"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/03/2026 01:30PM",
       "case_number": "17-cr-0500",
       "caption": "USA v. KOFFIE",
       "judge": "DISTRICT JUDGE DIAMOND",
@@ -2342,15 +2353,6 @@
       "caption": "Gabriel Toro v. Jeffrey Asao et al",
       "panel": "PHIPPS, FREEMAN, MASCOTT",
       "location_time": "Philadelphia, PA - Maris Courtroom / 1:00pm",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-05-26",
-      "case_number": "25-2037",
-      "caption": "Harco National Insurance Co v. JAS Group Enterprise Inc et a",
-      "panel": "RESTREPO, BIBAS, PHIPPS",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 3:00 pm",
       "disposition": "Argued"
     },
     {
@@ -4192,18 +4194,6 @@
     {
       "court": "PA Superior Court",
       "date": "06/24/2026",
-      "docket_number": "1117 MDA 2025",
-      "journal_number": "J-A15029-26",
-      "caption": "Zortman, B. v. Lyndon City Line Diner, Inc.",
-      "consideration_type": "Expedited \u2014 Argument Panel",
-      "location": "Courtroom 437-Main Capitol , Harrisburg",
-      "city": "Harrisburg",
-      "panel": "15-ARGUMENT-2026-2",
-      "judges": "KUNSELMAN ; LANE , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "06/24/2026",
       "docket_number": "88 MDA 2026",
       "journal_number": "J-A15030-26",
       "caption": "Titus, C. v. Titus, S.",
@@ -4232,18 +4222,6 @@
       "journal_number": "J-A15032-26",
       "caption": "Com. v. Hill, B.",
       "consideration_type": "Expedited \u2014 Argument Panel",
-      "location": "Courtroom 437-Main Capitol , Harrisburg",
-      "city": "Harrisburg",
-      "panel": "15-ARGUMENT-2026-2",
-      "judges": "KUNSELMAN ; LANE , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "06/24/2026",
-      "docket_number": "9 MDA 2026",
-      "journal_number": "J-A15033-26",
-      "caption": "Willhide, K. v. Willhide, T.",
-      "consideration_type": "Standard \u2014 Argument Panel",
       "location": "Courtroom 437-Main Capitol , Harrisburg",
       "city": "Harrisburg",
       "panel": "15-ARGUMENT-2026-2",
