@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-26T21:25:50.192856+00:00",
+  "generated": "2026-05-26T22:58:55.956669+00:00",
   "filings": [
     {
       "type": "filing",
@@ -1769,6 +1769,18 @@
       "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-7450.html",
       "lower_court": "United States Court of Appeals for the Third Circuit",
       "lower_court_docket": "(25-1798)",
+      "case_type": "IFP"
+    },
+    {
+      "type": "filing",
+      "court": "SCOTUS",
+      "docket": "25-7463",
+      "caption": "Omar Sierre Folk v. United States, et al.",
+      "status": "Cert Petition",
+      "filing_date": "05/26/2026",
+      "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-7463.html",
+      "lower_court": "United States Court of Appeals for the Third Circuit",
+      "lower_court_docket": "(24-1506)",
       "case_type": "IFP"
     }
   ],
