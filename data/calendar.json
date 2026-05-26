@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-26T19:53:34.038335+00:00",
+  "generated": "2026-05-26T21:28:09.987502+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -11,17 +11,6 @@
       "courtroom": "Philadelphia",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644791"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/26/2026 09:30AM",
-      "case_number": "24-cv-0661",
-      "caption": "CASTILLO et al v. UNITED PARCE",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618904"
     },
     {
       "court": "EDPA",
@@ -44,28 +33,6 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?611418"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/26/2026 11:00AM",
-      "case_number": "25-cr-0380",
-      "caption": "USA v. GABRIEL",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642877"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/26/2026 01:30PM",
-      "case_number": "25-cr-0380",
-      "caption": "USA v. PENA",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642873"
     },
     {
       "court": "EDPA",
@@ -198,6 +165,17 @@
       "courtroom": "Courtroom 5B",
       "hearing_type": "Arbitration Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637996"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/27/2026 09:30AM",
+      "case_number": "24-cv-0661",
+      "caption": "CASTILLO et al v. UNITED PARCE",
+      "judge": "DISTRICT JUDGE SCOTT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13B",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618904"
     },
     {
       "court": "EDPA",
@@ -1125,6 +1103,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "06/02/2026 03:00PM",
+      "case_number": "26-cr-0141",
+      "caption": "USA v. CLINTON",
+      "judge": "DISTRICT JUDGE MURPHY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3B",
+      "hearing_type": "Pretrial Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651990"
+    },
+    {
+      "court": "EDPA",
       "datetime": "06/03/2026 09:00AM",
       "case_number": "26-cr-0070",
       "caption": "USA v. KAMARA",
@@ -1555,28 +1544,6 @@
     {
       "court": "EDPA",
       "datetime": "06/04/2026 01:30PM",
-      "case_number": "24-cr-0324",
-      "caption": "USA v. RICHARDS",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "",
-      "courtroom": "unlisted",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627411"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/04/2026 01:30PM",
-      "case_number": "24-cr-0324",
-      "caption": "USA v. PASTURE",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "",
-      "courtroom": "unlisted",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627413"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/04/2026 01:30PM",
       "case_number": "26-cv-0946",
       "caption": "Rodriguez v. United States of",
       "judge": "DISTRICT JUDGE GALLAGHER",
@@ -1793,28 +1760,6 @@
       "courtroom": "Courtroom 14A",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?534767"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/08/2026 09:30AM",
-      "case_number": "24-cr-0324",
-      "caption": "USA v. RICHARDS",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627411"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/08/2026 09:30AM",
-      "case_number": "24-cr-0324",
-      "caption": "USA v. PASTURE",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627413"
     },
     {
       "court": "EDPA",
