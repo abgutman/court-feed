@@ -1,28 +1,6 @@
 {
-  "generated": "2026-05-27T16:33:20.435325+00:00",
+  "generated": "2026-05-27T19:13:51.764031+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "05/27/2026 09:00AM",
-      "case_number": "23-cv-4181",
-      "caption": "BROWN v. CITY OF PHILADELPHIA",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12B",
-      "hearing_type": "Bench Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?615144"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/27/2026 09:30AM",
-      "case_number": "25-cv-2630",
-      "caption": "WFD CAPITAL LLC v. BEEN",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5B",
-      "hearing_type": "Arbitration Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637996"
-    },
     {
       "court": "EDPA",
       "datetime": "05/27/2026 09:30AM",
@@ -162,8 +140,8 @@
       "caption": "USA v. LAWSON",
       "judge": "DISTRICT JUDGE WEILHEIMER",
       "city": "Philadelphia",
-      "courtroom": "Courtroom TBD",
-      "hearing_type": "Sentencing",
+      "courtroom": "Courtroom 7B",
+      "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616860"
     },
     {
@@ -795,17 +773,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "06/02/2026 10:00AM",
-      "case_number": "25-cr-0113",
-      "caption": "USA v. HARDY",
-      "judge": "DISTRICT JUDGE YOUNGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635161"
-    },
-    {
-      "court": "EDPA",
       "datetime": "06/02/2026 11:00AM",
       "case_number": "26-cv-0627",
       "caption": "BEITLER v. PROGRESSIVE DIRECT",
@@ -825,17 +792,6 @@
       "courtroom": "Reading 5th Floor",
       "hearing_type": "Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628583"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/02/2026 12:15PM",
-      "case_number": "24-cr-0203",
-      "caption": "USA v. HILL",
-      "judge": "DISTRICT JUDGE KEARNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622511"
     },
     {
       "court": "EDPA",
@@ -994,17 +950,6 @@
     {
       "court": "EDPA",
       "datetime": "06/03/2026 10:00AM",
-      "case_number": "25-cr-0375",
-      "caption": "USA v. HARDY",
-      "judge": "DISTRICT JUDGE BARTLE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642765"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/03/2026 10:00AM",
       "case_number": "23-cr-0531",
       "caption": "USA v. ROCK",
       "judge": "CHIEF JUDGE BEETLESTONE",
@@ -1056,17 +1001,6 @@
       "courtroom": "Courtroom 16B",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648740"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/03/2026 11:00AM",
-      "case_number": "23-cr-0499",
-      "caption": "USA v. GOLDSTEIN",
-      "judge": "DISTRICT JUDGE YOUNGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616290"
     },
     {
       "court": "EDPA",
@@ -1147,17 +1081,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "06/03/2026 02:00PM",
-      "case_number": "24-cr-0386",
-      "caption": "USA v. HERRERA",
-      "judge": "DISTRICT JUDGE KEARNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629149"
-    },
-    {
-      "court": "EDPA",
       "datetime": "06/03/2026 02:30PM",
       "case_number": "25-cr-0385",
       "caption": "USA v. CUSTODIO",
@@ -1166,17 +1089,6 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643054"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/04/2026 09:00AM",
-      "case_number": "26-cr-0032",
-      "caption": "USA v. SOTO, JR.",
-      "judge": "DISTRICT JUDGE KEARNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648684"
     },
     {
       "court": "EDPA",
@@ -1628,6 +1540,17 @@
       "courtroom": "Courtroom TBD",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614007"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/08/2026 11:30AM",
+      "case_number": "25-cv-1427",
+      "caption": "MCQUEEN v. PRIMARY ARMS, LLC",
+      "judge": "DISTRICT JUDGE MARSTON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16B",
+      "hearing_type": "Pretrial Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634936"
     },
     {
       "court": "EDPA",
@@ -2322,7 +2245,7 @@
       "case_number": "26-1348",
       "caption": "City of Philadelphia v. DOI et al",
       "panel": "HARDIMAN, RESTREPO, PHIPPS",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 2:30pm",
+      "location_time": "Philadelphia, PA - Ceremonial Courtroom / 2:30pm",
       "disposition": "Argued"
     },
     {
@@ -3150,18 +3073,6 @@
       "docket_number": "2111 EDA 2025",
       "journal_number": "J-A14026-26",
       "caption": "Junior, N. v. Glover, C.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "17th Floor , 530 Walnut St ., Philadelphia",
-      "city": "Philadelphia",
-      "panel": "14-ARGUMENT-2026-2",
-      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "06/16/2026",
-      "docket_number": "2044 EDA 2025",
-      "journal_number": "J-A14027-26",
-      "caption": "1201 West Girard Ave. LLC v. Clarke, D.",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
