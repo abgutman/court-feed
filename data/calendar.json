@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-27T19:13:51.764031+00:00",
+  "generated": "2026-05-27T21:45:02.269243+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -11,17 +11,6 @@
       "courtroom": "Courtroom 13B",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618904"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/27/2026 10:00AM",
-      "case_number": "23-cr-0454",
-      "caption": "USA v. DIXON",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631102"
     },
     {
       "court": "EDPA",
@@ -58,17 +47,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "05/27/2026 12:00PM",
-      "case_number": "20-cv-3790",
-      "caption": "GOLDSMITH et al v. OCWEN FINAN",
-      "judge": "DISTRICT JUDGE PAPPERT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11A",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?574074"
-    },
-    {
-      "court": "EDPA",
       "datetime": "05/27/2026 01:00PM",
       "case_number": "25-cv-6009",
       "caption": "913-917 N. 43rd ST LLC v. NATI",
@@ -77,17 +55,6 @@
       "courtroom": "Courtroom 16B",
       "hearing_type": "Show Cause Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645134"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/27/2026 02:00PM",
-      "case_number": "25-cr-0502",
-      "caption": "USA v. LOPEZ-GARCIA",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646617"
     },
     {
       "court": "EDPA",
@@ -315,8 +282,8 @@
       "case_number": "17-cr-0423",
       "caption": "USA v. FLYNN",
       "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "Reading",
-      "courtroom": "Reading 5th Floor",
+      "city": "",
+      "courtroom": "Video Conference",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?533485"
     },
@@ -653,17 +620,6 @@
     {
       "court": "EDPA",
       "datetime": "06/02/2026 10:00AM",
-      "case_number": "24-cv-1475",
-      "caption": "Pandit v. TEMPLE UNIVERSITY",
-      "judge": "DISTRICT JUDGE COSTELLO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?620930"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/02/2026 10:00AM",
       "case_number": "25-cv-1422",
       "caption": "TRANS1, LLC v. BLUE CROSS BLUE",
       "judge": "DISTRICT JUDGE HODGE",
@@ -792,6 +748,17 @@
       "courtroom": "Reading 5th Floor",
       "hearing_type": "Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628583"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/02/2026 12:15PM",
+      "case_number": "26-cr-0227",
+      "caption": "USA v. GALLAGHER",
+      "judge": "DISTRICT JUDGE KEARNEY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 6B",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655001"
     },
     {
       "court": "EDPA",
@@ -1155,17 +1122,6 @@
       "courtroom": "Courtroom 7B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643003"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/04/2026 10:00AM",
-      "case_number": "25-cr-0175",
-      "caption": "USA v. SMITH",
-      "judge": "DISTRICT JUDGE COSTELLO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636680"
     },
     {
       "court": "EDPA",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-27T19:11:44.160247+00:00",
+  "generated": "2026-05-27T21:42:33.390552+00:00",
   "filings": [
     {
       "type": "filing",
@@ -36,6 +36,24 @@
       "status": "Active",
       "filing_date": "05/27/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=172 EAL 2026&dnh=dsIU5OT5uJopsVgJX1yFsA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "173 EAL 2026",
+      "caption": "Commonwealth v. Chibundu, K., Pet.",
+      "status": "Active",
+      "filing_date": "05/27/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=173 EAL 2026&dnh=Ytj4y%2B2E0IZCFAZEyMDAnw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "174 EAL 2026",
+      "caption": "Commonwealth v. Cooley, C., Pet.",
+      "status": "Active",
+      "filing_date": "05/27/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=174 EAL 2026&dnh=W5QKd%2BR%2FKXIsl72e0Lt6cQ%3D%3D"
     },
     {
       "type": "filing",
@@ -1518,6 +1536,46 @@
     {
       "type": "opinion",
       "court": "PA Supreme Court",
+      "docket": "No. 71 EAP 2024",
+      "caption": "In Re: Smith, A.; Appeal of: Smith, A.",
+      "author": "Justice Kevin Dougherty",
+      "pub_date": "Wed, 27 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/J-61B-2025mo - 106798800360280693.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/J-61B-2025mo - 106798800360280693.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 71 EAP 2024",
+      "caption": "In Re: Smith, A.; Appeal of: Smith, A.",
+      "author": "Justice David Wecht",
+      "pub_date": "Wed, 27 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/J-61B-2025co - 106798800360280721.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/J-61B-2025co - 106798800360280721.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 70 EAP 2024",
+      "caption": "In Re: Smith, A.; Appeal of: Smith, A.",
+      "author": "Justice Kevin Dougherty",
+      "pub_date": "Wed, 27 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/J-61A-2025mo - 106798799360279897.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/J-61A-2025mo - 106798799360279897.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 70 EAP 2024",
+      "caption": "In Re: Smith, A.; Appeal of: Smith, A.",
+      "author": "Justice David Wecht",
+      "pub_date": "Wed, 27 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/J-61A-2025co - 106798799360280453.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/J-61A-2025co - 106798799360280453.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
       "docket": "No. 31 WAL 2026",
       "caption": "Commonwealth v. Camejo, F., Pet,",
       "author": "Per Curiam",
@@ -1994,26 +2052,6 @@
       "pub_date": "Wed, 27 May 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Supreme/out/659MAL2025 - 106796884360105554.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/659MAL2025 - 106796884360105554.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 491 EAL 2025",
-      "caption": "Commonwealth v. Burton, Z., Pet.",
-      "author": "Per Curiam",
-      "pub_date": "Tue, 26 May 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/491EAL2025 - 106794923359885776.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/491EAL2025 - 106794923359885776.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 490 EAL 2025",
-      "caption": "Commonwealth v. Burton, Z., Pet.",
-      "author": "Per Curiam",
-      "pub_date": "Tue, 26 May 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/490EAL2025 - 106794922359885776.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/490EAL2025 - 106794922359885776.pdf"
     },
     {
       "type": "opinion",
