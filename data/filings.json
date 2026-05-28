@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-28T19:32:53.436477+00:00",
+  "generated": "2026-05-28T21:48:46.314990+00:00",
   "filings": [
     {
       "type": "filing",
@@ -796,6 +796,24 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "1461 EDA 2026",
+      "caption": "Com. v. Grasty, D.",
+      "status": "Active",
+      "filing_date": "05/28/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1461 EDA 2026&dnh=Dos6I%2BVKmJnbPml3tIfZ0w%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1462 EDA 2026",
+      "caption": "Com. v. Ramirez, M.",
+      "status": "Active",
+      "filing_date": "05/28/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1462 EDA 2026&dnh=jiT08p7sGgZ0sm3G%2BDC%2Fog%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "94 EDM 2026",
       "caption": "Martins, E. v. Skanska Koch Inc.",
       "status": "Active",
@@ -1346,7 +1364,7 @@
       "type": "filing",
       "court": "PA Superior Court",
       "docket": "707 WDA 2026",
-      "caption": "Adoption of:Sherrod, A. Appeal of:Bohensky, A.",
+      "caption": "IN RE: Adoption of: A.S., Appeal of: A.B.",
       "status": "Active",
       "filing_date": "05/28/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=707 WDA 2026&dnh=bdEwwdjrda0uDekb9lIbwQ%3D%3D"
@@ -1610,6 +1628,18 @@
       "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-7463.html",
       "lower_court": "United States Court of Appeals for the Third Circuit",
       "lower_court_docket": "(24-1506)",
+      "case_type": "IFP"
+    },
+    {
+      "type": "filing",
+      "court": "SCOTUS",
+      "docket": "25-7482",
+      "caption": "Djavon Holland v. United States",
+      "status": "Cert Petition",
+      "filing_date": "05/28/2026",
+      "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-7482.html",
+      "lower_court": "United States Court of Appeals for the Third Circuit",
+      "lower_court_docket": "(25-1019)",
       "case_type": "IFP"
     }
   ],
