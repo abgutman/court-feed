@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-28T21:51:02.589665+00:00",
+  "generated": "2026-05-28T23:08:25.183493+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -22,28 +22,6 @@
       "courtroom": "Courtroom 3C",
       "hearing_type": "Settlement Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645464"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/28/2026 10:30AM",
-      "case_number": "16-cr-0153",
-      "caption": "USA v. LEACH",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Revocation Probation-Final Hrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?517561"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/28/2026 01:30PM",
-      "case_number": "26-cr-0233",
-      "caption": "USA v. MCFARLANE",
-      "judge": "MAGISTRATE JUDGE WELLS",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655200"
     },
     {
       "court": "EDPA",
