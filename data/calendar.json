@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-28T09:55:28.064927+00:00",
+  "generated": "2026-05-28T13:01:56.705464+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -231,6 +231,17 @@
       "courtroom": "Courtroom 3D",
       "hearing_type": "Settlement Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645692"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "05/29/2026 01:30PM",
+      "case_number": "26-cr-0136",
+      "caption": "USA v. CAMPBELL",
+      "judge": "MAGISTRATE JUDGE WELLS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651898"
     },
     {
       "court": "EDPA",
@@ -1147,6 +1158,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "06/04/2026 02:00PM",
+      "case_number": "26-cr-0054",
+      "caption": "USA v. DENIS",
+      "judge": "DISTRICT JUDGE SCOTT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13B",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649416"
+    },
+    {
+      "court": "EDPA",
       "datetime": "06/04/2026 03:00PM",
       "case_number": "26-cv-0551",
       "caption": "WILSON v. CITY OF PHILADELPHIA",
@@ -1606,6 +1628,17 @@
       "courtroom": "Courtroom 12A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627443"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/09/2026 12:30PM",
+      "case_number": "26-cr-0142",
+      "caption": "USA v. GOODMAN",
+      "judge": "DISTRICT JUDGE BAYLSON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651995"
     },
     {
       "court": "EDPA",
