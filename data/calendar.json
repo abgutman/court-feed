@@ -1,28 +1,6 @@
 {
-  "generated": "2026-05-28T23:08:25.183493+00:00",
+  "generated": "2026-05-29T01:56:08.391175+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "05/28/2026 10:30AM",
-      "case_number": "17-cr-0290",
-      "caption": "USA v. FOREMAN",
-      "judge": "DISTRICT JUDGE MCHUGH",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9B",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?530861"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/28/2026 10:30AM",
-      "case_number": "25-cv-6118",
-      "caption": "RICHEY v. THE PHILADELPHIA REG",
-      "judge": "MAGISTRATE JUDGE REID",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3C",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645464"
-    },
     {
       "court": "EDPA",
       "datetime": "05/29/2026 10:00AM",
@@ -1925,72 +1903,31 @@
       "courtroom": "Courtroom 3G",
       "hearing_type": "Settlement Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?619741"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/12/2026 09:00AM",
+      "case_number": "26-cr-0061",
+      "caption": "USA v. ORTIZ-SANABRIA",
+      "judge": "DISTRICT JUDGE GALLAGHER",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom TBD",
+      "hearing_type": "Jury Selection",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649732"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/12/2026 09:30AM",
+      "case_number": "26-cr-0202",
+      "caption": "USA v. HAWTHORNE",
+      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 8B",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654271"
     }
   ],
   "third_circuit": [
-    {
-      "court": "Third Circuit",
-      "date": "2026-05-28",
-      "case_number": "25-1813",
-      "caption": "USA v. Leon Ford",
-      "panel": "PHIPPS, FREEMAN, BOVE",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 9:00 am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-05-28",
-      "case_number": "25-2592",
-      "caption": "Michael Nahas v. City of Pittsburgh et al",
-      "panel": "PHIPPS, FREEMAN, BOVE",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 9:00 am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-05-28",
-      "case_number": "25-2607",
-      "caption": "Mike Amiegbe v. Attorney General United States of America",
-      "panel": "PHIPPS, FREEMAN, BOVE",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 9:00 am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-05-28",
-      "case_number": "25-2195",
-      "caption": "USA v. Samuel Barnes",
-      "panel": "PHIPPS, FREEMAN, BOVE",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-05-28",
-      "case_number": "25-2347",
-      "caption": "Mike Huckabee v. Meta Platforms Inc",
-      "panel": "PHIPPS, FREEMAN, BOVE",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-05-28",
-      "case_number": "25-2737",
-      "caption": "Alemah  McMillian v. Geico Indemnity Co et al",
-      "panel": "PHIPPS, FREEMAN, BOVE",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-05-28",
-      "case_number": "25-2898",
-      "caption": "Armondo Morales v. Attorney General United States of America",
-      "panel": "PHIPPS, FREEMAN, BOVE",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
     {
       "court": "Third Circuit",
       "date": "2026-05-29",
