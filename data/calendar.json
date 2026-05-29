@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-29T13:55:02.271971+00:00",
+  "generated": "2026-05-29T17:27:05.219632+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -473,6 +473,17 @@
       "courtroom": "Courtroom 6B",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655001"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/02/2026 01:30PM",
+      "case_number": "17-cr-0639",
+      "caption": "USA v. REYES",
+      "judge": "DISTRICT JUDGE DIAMOND",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14A",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?537620"
     },
     {
       "court": "EDPA",
@@ -1137,13 +1148,24 @@
     {
       "court": "EDPA",
       "datetime": "06/08/2026 10:00AM",
-      "case_number": "24-cv-4221",
-      "caption": "DUNDON v. ACE PROPERTY AND CAS",
-      "judge": "DISTRICT JUDGE KENNEY",
+      "case_number": "16-cv-2768",
+      "caption": "VAN DE KAMP et al v. TRANSDERM",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
       "city": "Philadelphia",
-      "courtroom": "Courtroom 11B",
+      "courtroom": "Courtroom 3H",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?518240"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/08/2026 10:00AM",
+      "case_number": "16-cv-2768",
+      "caption": "VAN DE KAMP et al v. TRANSDERM",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3H",
       "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626219"
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?518240"
     },
     {
       "court": "EDPA",
@@ -1653,17 +1675,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "06/10/2026 01:30PM",
-      "case_number": "25-cv-3439",
-      "caption": "WILLIAMS v. THE SCHOOL DISTRIC",
-      "judge": "DISTRICT JUDGE WEILHEIMER",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 7B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640116"
-    },
-    {
-      "court": "EDPA",
       "datetime": "06/10/2026 02:00PM",
       "case_number": "25-cr-0115",
       "caption": "USA v. SOWELL",
@@ -1881,6 +1892,17 @@
       "courtroom": "Courtroom 11A",
       "hearing_type": "Final Pretrial Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641010"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/11/2026 02:00PM",
+      "case_number": "26-cv-2865",
+      "caption": "BENJAMIN-WILSON v. WAL-MART ST",
+      "judge": "DISTRICT JUDGE PAPPERT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 11A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653826"
     },
     {
       "court": "EDPA",
