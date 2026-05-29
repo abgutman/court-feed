@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-29T17:27:05.219632+00:00",
+  "generated": "2026-05-29T20:06:10.337299+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -22,17 +22,6 @@
       "courtroom": "Video Conference",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?533485"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/29/2026 11:00AM",
-      "case_number": "25-cv-6213",
-      "caption": "COATES v. WAWA, INC.",
-      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3D",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645692"
     },
     {
       "court": "EDPA",
@@ -81,28 +70,6 @@
     {
       "court": "EDPA",
       "datetime": "06/01/2026 09:30AM",
-      "case_number": "15-cr-0075",
-      "caption": "USA v. OGILVIE",
-      "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom TBD",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?501592"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/01/2026 09:30AM",
-      "case_number": "26-cr-0146",
-      "caption": "USA v. RIVERA",
-      "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom TBD",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652004"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/01/2026 09:30AM",
       "case_number": "25-cr-0058",
       "caption": "USA v. WELDON",
       "judge": "DISTRICT JUDGE SLOMSKY",
@@ -121,28 +88,6 @@
       "courtroom": "Reading 5th Floor",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644788"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/01/2026 10:30AM",
-      "case_number": "26-cv-3629",
-      "caption": "DZINDZIBADZE v. JAMISON et al",
-      "judge": "DISTRICT JUDGE RUFE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12B",
-      "hearing_type": "Show Cause Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655354"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/01/2026 10:30AM",
-      "case_number": "25-cv-4303",
-      "caption": "AMERICAN GUARANTEE AND LIABILI",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Final Pretrial Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641464"
     },
     {
       "court": "EDPA",
@@ -198,17 +143,6 @@
       "courtroom": "Courtroom 16B",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649688"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/01/2026 02:00PM",
-      "case_number": "26-cv-2231",
-      "caption": "LUCAS v. JEFFERSON-EINSTEIN",
-      "judge": "DISTRICT JUDGE KEARNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652617"
     },
     {
       "court": "EDPA",
@@ -576,17 +510,6 @@
     {
       "court": "EDPA",
       "datetime": "06/03/2026 09:30AM",
-      "case_number": "26-cr-0061",
-      "caption": "USA v. ORTIZ-SANABRIA",
-      "judge": "DISTRICT JUDGE GALLAGHER",
-      "city": "Allentown",
-      "courtroom": "Cahn 4B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649732"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/03/2026 09:30AM",
       "case_number": "25-cr-0332",
       "caption": "USA v. WILLIAMS",
       "judge": "DISTRICT JUDGE KENNEY",
@@ -880,6 +803,17 @@
       "courtroom": "Cahn 4B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649860"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/04/2026 01:30PM",
+      "case_number": "01-cr-0169",
+      "caption": "USA v. HOFFMAN",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?112447"
     },
     {
       "court": "EDPA",
@@ -1499,17 +1433,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "06/09/2026 02:30PM",
-      "case_number": "25-cv-6437",
-      "caption": "Shersher et al v. PHILADELPHIA",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646169"
-    },
-    {
-      "court": "EDPA",
       "datetime": "06/09/2026 04:00PM",
       "case_number": "25-cv-6281",
       "caption": "Vidal v. DART CONTAINER CORPOR",
@@ -1639,6 +1562,17 @@
       "courtroom": "Courtroom 10B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637334"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/10/2026 11:00AM",
+      "case_number": "16-cr-0453",
+      "caption": "USA v. GRAY",
+      "judge": "DISTRICT JUDGE SCHMEHL",
+      "city": "Reading",
+      "courtroom": "Reading 5th Floor",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?523444"
     },
     {
       "court": "EDPA",
@@ -1862,17 +1796,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "06/11/2026 01:30PM",
-      "case_number": "01-cr-0169",
-      "caption": "USA v. HOFFMAN",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?112447"
-    },
-    {
-      "court": "EDPA",
       "datetime": "06/11/2026 02:00PM",
       "case_number": "23-cr-0029",
       "caption": "USA v. WHITING",
@@ -1925,17 +1848,6 @@
       "courtroom": "Courtroom 3G",
       "hearing_type": "Settlement Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?619741"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/12/2026 09:00AM",
-      "case_number": "26-cr-0061",
-      "caption": "USA v. ORTIZ-SANABRIA",
-      "judge": "DISTRICT JUDGE GALLAGHER",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom TBD",
-      "hearing_type": "Jury Selection",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649732"
     },
     {
       "court": "EDPA",
