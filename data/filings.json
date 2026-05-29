@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-29T10:37:23.681808+00:00",
+  "generated": "2026-05-29T13:53:14.223487+00:00",
   "filings": [
     {
       "type": "filing",
@@ -63,6 +63,24 @@
       "status": "Active",
       "filing_date": "05/28/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=176 EAL 2026&dnh=ZM7NM7mEXwrk1STd8uxahg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "177 EAL 2026",
+      "caption": "Commonwealth v. Balosa, D., Pet.",
+      "status": "Active",
+      "filing_date": "05/28/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=177 EAL 2026&dnh=k1xM4miH%2BXPUdSLr5vmBIA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "178 EAL 2026",
+      "caption": "Commonwealth v. Marced, E., Pet.",
+      "status": "Active",
+      "filing_date": "05/28/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=178 EAL 2026&dnh=Ltr7UZ%2BkjrNN1FHh1mncRA%3D%3D"
     },
     {
       "type": "filing",
@@ -465,7 +483,7 @@
       "court": "PA Superior Court",
       "docket": "1437 EDA 2026",
       "caption": "Rodriguez Charbonier, J. v. Platt, J.",
-      "status": "Active",
+      "status": "Closed",
       "filing_date": "05/27/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1437 EDA 2026&dnh=qk1RBLPkdlXzO81QVqnb8Q%3D%3D"
     },
@@ -693,6 +711,33 @@
       "status": "Active",
       "filing_date": "05/28/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1462 EDA 2026&dnh=jiT08p7sGgZ0sm3G%2BDC%2Fog%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1463 EDA 2026",
+      "caption": "Com. v. Carr, K.",
+      "status": "Active",
+      "filing_date": "05/29/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1463 EDA 2026&dnh=Yt6v%2BDsO1dqD%2F2xfrZReLQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1464 EDA 2026",
+      "caption": "Com. v. Foday, J.",
+      "status": "Active",
+      "filing_date": "05/29/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1464 EDA 2026&dnh=KVXsxz0l5LY42ofSvR51RA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1465 EDA 2026",
+      "caption": "Com. v. Manley, T.",
+      "status": "Active",
+      "filing_date": "05/29/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1465 EDA 2026&dnh=%2F%2FrwMX4ODQpsITVwSDnA0g%3D%3D"
     },
     {
       "type": "filing",
@@ -1915,6 +1960,16 @@
     {
       "type": "opinion",
       "court": "PA Superior Court",
+      "docket": "",
+      "caption": "Reargument Table",
+      "author": "",
+      "pub_date": "Fri, 29 May 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/WestReport052926.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/WestReport052926.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Superior Court",
       "docket": "No. 772 WDA 2025",
       "caption": "Com. v. Vincent, G.",
       "author": "King, J.",
@@ -2471,16 +2526,6 @@
       "pub_date": "Tue, 26 May 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S17037-26m - 106795319359941595.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S17037-26m - 106795319359941595.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Superior Court",
-      "docket": "No. 2809 EDA 2025",
-      "caption": "Com. v. Flyte, M.",
-      "author": "Ford Elliott, P.J.E.",
-      "pub_date": "Tue, 26 May 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S12033-26m - 106794846359870043.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S12033-26m - 106794846359870043.pdf"
     },
     {
       "type": "opinion",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-29T10:39:16.042443+00:00",
+  "generated": "2026-05-29T13:55:02.271971+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -1914,6 +1914,28 @@
       "courtroom": "Courtroom TBD",
       "hearing_type": "Jury Selection",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649732"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/12/2026 09:00AM",
+      "case_number": "26-cr-0218",
+      "caption": "USA v. VASQUEZ-BARRIOS",
+      "judge": "DISTRICT JUDGE GALLAGHER",
+      "city": "Philadelphia",
+      "courtroom": "Philadelphia",
+      "hearing_type": "Jury Selection",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654777"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/12/2026 09:00AM",
+      "case_number": "26-cr-0218",
+      "caption": "USA v. VASQUEZ-BARRIOS",
+      "judge": "DISTRICT JUDGE GALLAGHER",
+      "city": "Philadelphia",
+      "courtroom": "Philadelphia",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654777"
     },
     {
       "court": "EDPA",
