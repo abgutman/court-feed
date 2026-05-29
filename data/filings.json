@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-29T20:04:22.942785+00:00",
+  "generated": "2026-05-29T22:23:30.183155+00:00",
   "filings": [
     {
       "type": "filing",
@@ -180,6 +180,15 @@
       "status": "Active",
       "filing_date": "05/29/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=293 MAL 2026&dnh=mgu5yhXhpudxLMSdbaSldA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "294 MAL 2026",
+      "caption": "Commonwealth v. Bloss, B., Pet.",
+      "status": "Active",
+      "filing_date": "05/29/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=294 MAL 2026&dnh=EtFrLSaDOn%2Btmy6ptnGl8A%3D%3D"
     },
     {
       "type": "filing",
@@ -1732,18 +1741,6 @@
     {
       "type": "filing",
       "court": "SCOTUS",
-      "docket": "25-7341",
-      "caption": "Ryan Mendoza v. United States",
-      "status": "Cert Petition",
-      "filing_date": "05/08/2026",
-      "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-7341.html",
-      "lower_court": "United States Court of Appeals for the Third Circuit",
-      "lower_court_docket": "(25-1154)",
-      "case_type": "IFP"
-    },
-    {
-      "type": "filing",
-      "court": "SCOTUS",
       "docket": "25-7355",
       "caption": "Frank Tepp v. David Close, Superintendent, State Correctional Institution at Houtzdale, et al.",
       "status": "Cert Petition",
@@ -1811,6 +1808,18 @@
       "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-7482.html",
       "lower_court": "United States Court of Appeals for the Third Circuit",
       "lower_court_docket": "(25-1019)",
+      "case_type": "IFP"
+    },
+    {
+      "type": "filing",
+      "court": "SCOTUS",
+      "docket": "25-7492",
+      "caption": "Shanni Snyd v. Christine Biros",
+      "status": "Cert Petition",
+      "filing_date": "05/29/2026",
+      "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-7492.html",
+      "lower_court": "United States Court of Appeals for the Third Circuit",
+      "lower_court_docket": "(24-1842, 24-3134)",
       "case_type": "IFP"
     }
   ],
@@ -3140,6 +3149,18 @@
       "guid": "ca3-25-1747-251747np.pdf",
       "precedential": false,
       "origin": "USDC for the District of New Jersey"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-1041",
+      "caption": "Karen Brookins v. City of Philadelphia",
+      "author": "",
+      "pub_date": "Fri, 29 May 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/251041np.pdf",
+      "guid": "ca3-25-1041-251041np.pdf",
+      "precedential": false,
+      "origin": "USDC for the Eastern District of Pennsylvania"
     },
     {
       "type": "opinion",
