@@ -1,61 +1,6 @@
 {
-  "generated": "2026-05-29T22:25:11.909492+00:00",
+  "generated": "2026-05-30T00:02:29.953965+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "05/29/2026 10:00AM",
-      "case_number": "25-cv-1827",
-      "caption": "FOOTMAN v. COUNTY OF DELAWARE",
-      "judge": "MAGISTRATE JUDGE REID",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3C",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635961"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/29/2026 10:30AM",
-      "case_number": "17-cr-0423",
-      "caption": "USA v. FLYNN",
-      "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "",
-      "courtroom": "Video Conference",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?533485"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/29/2026 01:30PM",
-      "case_number": "26-cr-0136",
-      "caption": "USA v. CAMPBELL",
-      "judge": "MAGISTRATE JUDGE WELLS",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Detention Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651898"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/29/2026 01:30PM",
-      "case_number": "26-cr-0211",
-      "caption": "USA v. BILSKI",
-      "judge": "MAGISTRATE JUDGE WELLS",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654686"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "05/29/2026 01:30PM",
-      "case_number": "25-cr-0395",
-      "caption": "USA v. MILLER",
-      "judge": "MAGISTRATE JUDGE WELLS",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Detention Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654767"
-    },
     {
       "court": "EDPA",
       "datetime": "06/01/2026 10:00AM",
@@ -1851,24 +1796,6 @@
     }
   ],
   "third_circuit": [
-    {
-      "court": "Third Circuit",
-      "date": "2026-05-29",
-      "case_number": "23-3183",
-      "caption": "USA v. Vincent Chan-Guillen",
-      "panel": "PHIPPS, FREEMAN, BOVE",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-05-29",
-      "case_number": "25-2434",
-      "caption": "Jason Bainbridge v. Attorney General United States of Americ",
-      "panel": "PHIPPS, FREEMAN, BOVE",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
     {
       "court": "Third Circuit",
       "date": "2026-06-01",
