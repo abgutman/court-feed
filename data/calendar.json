@@ -1,28 +1,6 @@
 {
-  "generated": "2026-06-01T14:49:02.954500+00:00",
+  "generated": "2026-06-01T19:51:20.449553+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "06/01/2026 10:00AM",
-      "case_number": "25-cr-0450",
-      "caption": "USA v. BAEZ-FELICIANO",
-      "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "Reading",
-      "courtroom": "Reading 5th Floor",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644788"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/01/2026 11:00AM",
-      "case_number": "25-cv-1619",
-      "caption": "DE LAGE LANDEN FINANCIAL SERVI",
-      "judge": "DISTRICT JUDGE PEREZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10B",
-      "hearing_type": "Final Pretrial Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635501"
-    },
     {
       "court": "EDPA",
       "datetime": "06/01/2026 11:30AM",
@@ -33,17 +11,6 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Final Pretrial Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641746"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/01/2026 01:00PM",
-      "case_number": "25-cr-0007",
-      "caption": "USA v. KAH",
-      "judge": "DISTRICT JUDGE HODGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15A",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643390"
     },
     {
       "court": "EDPA",
@@ -66,28 +33,6 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Detention Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655165"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/01/2026 01:30PM",
-      "case_number": "26-cr-0060",
-      "caption": "USA v. HALL",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649688"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/01/2026 02:00PM",
-      "case_number": "26-cv-2316",
-      "caption": "JANE DOE v. RENTGROW, INC.",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652683"
     },
     {
       "court": "EDPA",
@@ -187,17 +132,6 @@
       "courtroom": "Courtroom 11B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651907"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/02/2026 09:30AM",
-      "case_number": "25-cv-2658",
-      "caption": "BROWN v. STATE FARM MUTUAL AUT",
-      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5D",
-      "hearing_type": "Arbitration Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638086"
     },
     {
       "court": "EDPA",
@@ -641,17 +575,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "06/04/2026 09:30AM",
-      "case_number": "25-cv-4976",
-      "caption": "HARDEN v. C.O. NEAL et al",
-      "judge": "DISTRICT JUDGE WEILHEIMER",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 7B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643003"
-    },
-    {
-      "court": "EDPA",
       "datetime": "06/04/2026 10:00AM",
       "case_number": "25-cr-0442",
       "caption": "USA v. ROBINSON",
@@ -1052,8 +975,8 @@
       "case_number": "25-cv-7076",
       "caption": "CANCELLIERE et al v. STATE FAR",
       "judge": "MAGISTRATE JUDGE REID",
-      "city": "",
-      "courtroom": "unlisted",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3C",
       "hearing_type": "Settlement Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647420"
     },
@@ -1148,17 +1071,6 @@
     {
       "court": "EDPA",
       "datetime": "06/09/2026 09:30AM",
-      "case_number": "25-cv-6134",
-      "caption": "Colella et al v. STATE FARM FI",
-      "judge": "DISTRICT JUDGE MCHUGH",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5B",
-      "hearing_type": "Arbitration Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645505"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/09/2026 09:30AM",
       "case_number": "20-cr-0417",
       "caption": "USA v. PARKER",
       "judge": "DISTRICT JUDGE SANCHEZ",
@@ -1214,6 +1126,17 @@
     {
       "court": "EDPA",
       "datetime": "06/09/2026 10:00AM",
+      "case_number": "24-cr-0426",
+      "caption": "USA v. WEEKS-JONES",
+      "judge": "DISTRICT JUDGE HODGE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 15A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630842"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/09/2026 10:00AM",
       "case_number": "25-cr-0438",
       "caption": "USA v. CULLEN",
       "judge": "DISTRICT JUDGE HODGE",
@@ -1221,17 +1144,6 @@
       "courtroom": "Courtroom 15A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644156"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/09/2026 10:00AM",
-      "case_number": "24-cv-6529",
-      "caption": "GADDY v. WOOD BROTHERS BAR, IN",
-      "judge": "DISTRICT JUDGE PAPPERT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11A",
-      "hearing_type": "Final Pretrial Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630927"
     },
     {
       "court": "EDPA",
@@ -1463,17 +1375,6 @@
       "courtroom": "unlisted",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642879"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/10/2026 11:00AM",
-      "case_number": "25-cr-0200",
-      "caption": "USA v. MARTIN",
-      "judge": "DISTRICT JUDGE PEREZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637334"
     },
     {
       "court": "EDPA",
@@ -2005,6 +1906,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "06/15/2026 10:00AM",
+      "case_number": "25-cv-1619",
+      "caption": "DE LAGE LANDEN FINANCIAL SERVI",
+      "judge": "DISTRICT JUDGE PEREZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10B",
+      "hearing_type": "Bench Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635501"
+    },
+    {
+      "court": "EDPA",
       "datetime": "06/15/2026 10:30AM",
       "case_number": "25-cv-6344",
       "caption": "WEINGRAD v. BUSINESS CAPITAL L",
@@ -2408,6 +2320,15 @@
       "date": "2026-06-09",
       "case_number": "25-1931",
       "caption": "Kudzai Shonhai v. Attorney General United States of America",
+      "panel": "CHAGARES, RESTREPO, MONTGOMERY-REEVES",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 10:15am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-09",
+      "case_number": "25-1989",
+      "caption": "Jose Lainez Bueso v. Attorney General United States of Ameri",
       "panel": "CHAGARES, RESTREPO, MONTGOMERY-REEVES",
       "location_time": "Philadelphia, PA - Maris Courtroom / 10:15am",
       "disposition": "Argued"
@@ -3534,18 +3455,6 @@
     {
       "court": "PA Superior Court",
       "date": "06/23/2026",
-      "docket_number": "432 WDA 2025",
-      "journal_number": "J-A16006-26",
-      "caption": "Com. v. Becher, C.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "Pittsburgh",
-      "panel": "16-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; KING , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "06/23/2026",
       "docket_number": "14 WDA 2026",
       "journal_number": "J-A16007-26",
       "caption": "Com. v. Huffman, C.",
@@ -3729,18 +3638,6 @@
       "docket_number": "970 WDA 2025",
       "journal_number": "J-A16025-26",
       "caption": "Com. v. Lombardo, D.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "Pittsburgh",
-      "panel": "16-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; KING , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "06/24/2026",
-      "docket_number": "1474 WDA 2025",
-      "journal_number": "J-A16026-26",
-      "caption": "Com. v. Repine, C.",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "",
       "city": "Pittsburgh",
