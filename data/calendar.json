@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-01T19:51:20.449553+00:00",
+  "generated": "2026-06-01T22:30:38.491616+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -14,39 +14,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "06/01/2026 01:30PM",
-      "case_number": "20-cr-0322",
-      "caption": "USA v. BRADLEY",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Detention Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?576052"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/01/2026 01:30PM",
-      "case_number": "26-cr-0234",
-      "caption": "USA v. MOSLEY",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Detention Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655165"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/01/2026 02:00PM",
-      "case_number": "22-cr-0191",
-      "caption": "USA v. EBRON",
-      "judge": "DISTRICT JUDGE MCHUGH",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9B",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?597854"
-    },
-    {
-      "court": "EDPA",
       "datetime": "06/01/2026 02:00PM",
       "case_number": "23-cv-3563",
       "caption": "GridKor, LLC et al v. Gorbach",
@@ -55,28 +22,6 @@
       "courtroom": "Gateway 5th Floor",
       "hearing_type": "Final Pretrial Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?613739"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/01/2026 02:00PM",
-      "case_number": "26-cr-0215",
-      "caption": "USA v. HAYES",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Initial Appearance",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654727"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/01/2026 03:00PM",
-      "case_number": "26-cr-0024",
-      "caption": "USA v. SANCHEZ",
-      "judge": "DISTRICT JUDGE HODGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648465"
     },
     {
       "court": "EDPA",
@@ -499,6 +444,17 @@
     {
       "court": "EDPA",
       "datetime": "06/03/2026 01:30PM",
+      "case_number": "01-cr-0274",
+      "caption": "USA v. BOGLIN",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Preliminary Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?112974"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/03/2026 01:30PM",
       "case_number": "25-cr-0134",
       "caption": "USA v. MATTHEWS",
       "judge": "MAGISTRATE JUDGE ARTEAGA",
@@ -506,6 +462,28 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635736"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/03/2026 01:30PM",
+      "case_number": "26-cr-0246",
+      "caption": "USA v. MORRISON",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655501"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/03/2026 01:30PM",
+      "case_number": "26-cr-0246",
+      "caption": "USA v. MORRISON",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655501"
     },
     {
       "court": "EDPA",
@@ -565,6 +543,28 @@
     {
       "court": "EDPA",
       "datetime": "06/04/2026 09:30AM",
+      "case_number": "16-md-2724",
+      "caption": "IN RE: GENERIC PHARMACEUTICALS",
+      "judge": "DISTRICT JUDGE RUFE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 17A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/04/2026 09:30AM",
+      "case_number": "18-cv-3299",
+      "caption": "HUMANA INC. v. ACTAVIS ELIZABE",
+      "judge": "DISTRICT JUDGE RUFE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 17A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/04/2026 09:30AM",
       "case_number": "24-cr-0440",
       "caption": "USA v. HANTON",
       "judge": "DISTRICT JUDGE SCOTT",
@@ -620,17 +620,6 @@
     {
       "court": "EDPA",
       "datetime": "06/04/2026 10:30AM",
-      "case_number": "18-cv-3299",
-      "caption": "HUMANA INC. v. ACTAVIS ELIZABE",
-      "judge": "DISTRICT JUDGE RUFE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/04/2026 10:30AM",
       "case_number": "24-cr-0253",
       "caption": "USA v. ROBERTS",
       "judge": "DISTRICT JUDGE SLOMSKY",
@@ -671,6 +660,17 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?112447"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/04/2026 02:00PM",
+      "case_number": "25-cr-0530",
+      "caption": "USA v. HURT",
+      "judge": "DISTRICT JUDGE BARTLE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647491"
     },
     {
       "court": "EDPA",
