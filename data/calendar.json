@@ -1,17 +1,6 @@
 {
-  "generated": "2026-06-02T13:49:12.345397+00:00",
+  "generated": "2026-06-02T17:59:41.143236+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "06/02/2026 09:00AM",
-      "case_number": "25-cr-0511",
-      "caption": "USA v. CUAPA-TEPETL",
-      "judge": "DISTRICT JUDGE KEARNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646941"
-    },
     {
       "court": "EDPA",
       "datetime": "06/02/2026 09:00AM",
@@ -33,28 +22,6 @@
       "courtroom": "Courtroom 5B",
       "hearing_type": "Arbitration Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648925"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/02/2026 09:30AM",
-      "case_number": "26-cv-1973",
-      "caption": "UDDIN v. CITY OF CHESTER",
-      "judge": "DISTRICT JUDGE KENNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651907"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/02/2026 09:30AM",
-      "case_number": "25-cr-0030",
-      "caption": "USA v. GUTIERREZ",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Attorney Appointment Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632603"
     },
     {
       "court": "EDPA",
@@ -92,50 +59,6 @@
     {
       "court": "EDPA",
       "datetime": "06/02/2026 10:00AM",
-      "case_number": "25-cv-6316",
-      "caption": "KAPLAN v. NAAMANS CREEK COUNTR",
-      "judge": "DISTRICT JUDGE MURPHY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645921"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/02/2026 10:00AM",
-      "case_number": "25-cv-6316",
-      "caption": "KAPLAN v. NAAMANS CREEK COUNTR",
-      "judge": "DISTRICT JUDGE MURPHY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645921"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/02/2026 10:00AM",
-      "case_number": "08-cr-0711",
-      "caption": "USA v. MOGILYANSKY",
-      "judge": "DISTRICT JUDGE PEREZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?288211"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/02/2026 10:00AM",
-      "case_number": "25-cv-5531",
-      "caption": "OYENUGA v. SHELLPOINT MORTGAGE",
-      "judge": "MAGISTRATE JUDGE REID",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3C",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644107"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/02/2026 10:00AM",
       "case_number": "25-cr-0309",
       "caption": "USA v. SMITH SPENCER",
       "judge": "DISTRICT JUDGE WOLSON",
@@ -143,17 +66,6 @@
       "courtroom": "Courtroom 12B",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640557"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/02/2026 11:00AM",
-      "case_number": "26-cv-0627",
-      "caption": "BEITLER v. PROGRESSIVE DIRECT",
-      "judge": "DISTRICT JUDGE GALLAGHER",
-      "city": "Allentown",
-      "courtroom": "Cahn 4B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649221"
     },
     {
       "court": "EDPA",
@@ -784,17 +696,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "06/05/2026 02:30PM",
-      "case_number": "24-cr-0413",
-      "caption": "USA v. MYLES",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630007"
-    },
-    {
-      "court": "EDPA",
       "datetime": "06/08/2026 09:00AM",
       "case_number": "26-cr-0148",
       "caption": "USA v. BLUE",
@@ -836,17 +737,6 @@
       "courtroom": "Courtroom 3A",
       "hearing_type": "Trial Date",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622270"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/08/2026 09:30AM",
-      "case_number": "17-cr-0500",
-      "caption": "USA v. KOFFIE",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?534767"
     },
     {
       "court": "EDPA",
@@ -1111,17 +1001,6 @@
       "courtroom": "Courtroom 15A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630842"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/09/2026 10:00AM",
-      "case_number": "25-cr-0438",
-      "caption": "USA v. CULLEN",
-      "judge": "DISTRICT JUDGE HODGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644156"
     },
     {
       "court": "EDPA",
@@ -1422,6 +1301,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "06/10/2026 03:30PM",
+      "case_number": "24-cr-0413",
+      "caption": "USA v. MYLES",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630007"
+    },
+    {
+      "court": "EDPA",
       "datetime": "06/10/2026 04:00PM",
       "case_number": "25-cv-5790",
       "caption": "NGUNGU v. CFA INSTITUTE",
@@ -1661,17 +1551,6 @@
       "courtroom": "Philadelphia",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654777"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/12/2026 09:30AM",
-      "case_number": "26-cr-0202",
-      "caption": "USA v. HAWTHORNE",
-      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 8B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654271"
     },
     {
       "court": "EDPA",
@@ -4629,18 +4508,6 @@
       "docket_number": "2304 EDA 2025",
       "journal_number": "J-A17040-26",
       "caption": "Com. v. Hovatter, J.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "17th Floor , 530 Walnut St ., Philadelphia",
-      "city": "Philadelphia",
-      "panel": "17-ARGUMENT-2026-2",
-      "judges": "NICHOLS ; NEUMAN , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "07/08/2026",
-      "docket_number": "1749 EDA 2025",
-      "journal_number": "J-A17041-26",
-      "caption": "R.A. Hoffman Architects v. Baird, K.",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
