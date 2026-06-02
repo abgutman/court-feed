@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-02T09:56:40.487476+00:00",
+  "generated": "2026-06-02T13:47:41.814727+00:00",
   "filings": [
     {
       "type": "filing",
@@ -751,6 +751,33 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "1490 EDA 2026",
+      "caption": "McIntosh, A. v. Kane, M.",
+      "status": "Active",
+      "filing_date": "06/02/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1490 EDA 2026&dnh=AotQrvGjvSDhbno%2FenL8Wg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1491 EDA 2026",
+      "caption": "Gdula, D. v. Wasserman, L.",
+      "status": "Active",
+      "filing_date": "06/02/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1491 EDA 2026&dnh=FhnX5yAPbB8V4%2Bqhb8ulVw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1492 EDA 2026",
+      "caption": "McIntosh, A. v. Kane, M.",
+      "status": "Active",
+      "filing_date": "06/02/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1492 EDA 2026&dnh=9s8ZwkbbSkjOLbWxBmGG7w%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "94 EDM 2026",
       "caption": "Martins, E. v. Skanska Koch Inc.",
       "status": "Active",
@@ -1026,6 +1053,15 @@
       "status": "Active",
       "filing_date": "06/01/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=854 MDA 2026&dnh=c27WtUvflVB2ybZvY%2FmvPQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "855 MDA 2026",
+      "caption": "Keystone Advanced Remodeling v. Geaith, N.",
+      "status": "Active",
+      "filing_date": "06/02/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=855 MDA 2026&dnh=BVGiuytct8SL4bnLzIM7xA%3D%3D"
     },
     {
       "type": "filing",
@@ -2592,6 +2628,26 @@
       "pub_date": "Wed, 27 May 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Superior/out/052726 W.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Superior/out/052726 W.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "1201 C.D. 2025",
+      "caption": "J. Walker v. PPB",
+      "author": "Cohn Jubelirer, President Judge",
+      "pub_date": "Tue, 02 Jun 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1201CD25_6-2-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1201CD25_6-2-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "494 C.D. 2025",
+      "caption": "D. Wagoner, III v. PPB",
+      "author": "McCullough, J.",
+      "pub_date": "Tue, 02 Jun 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/494CD25_6-2-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/494CD25_6-2-26.pdf"
     },
     {
       "type": "opinion",

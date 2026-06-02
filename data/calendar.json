@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-02T09:58:09.775914+00:00",
+  "generated": "2026-06-02T13:49:12.345397+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -1023,6 +1023,17 @@
       "courtroom": "Courtroom 3H",
       "hearing_type": "Settlement Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640501"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/09/2026 09:30AM",
+      "case_number": "25-cr-0530",
+      "caption": "USA v. HURT",
+      "judge": "DISTRICT JUDGE BARTLE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647491"
     },
     {
       "court": "EDPA",
