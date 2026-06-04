@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-04T09:41:13.834048+00:00",
+  "generated": "2026-06-04T12:37:54.902541+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -2566,6 +2566,15 @@
     {
       "court": "Third Circuit",
       "date": "2026-06-25",
+      "case_number": "25-1459",
+      "caption": "Cheryl Hileman v. West Penn Allegheny Health System Inc",
+      "panel": "BIBAS, CHUNG, MASCOTT",
+      "location_time": "Wilmington, DE - 2B Courtroom / 2:30 pm",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-25",
       "case_number": "25-2118",
       "caption": "USA v. Davone Walker",
       "panel": "BIBAS, CHUNG, MASCOTT",
@@ -2577,15 +2586,6 @@
       "date": "2026-06-25",
       "case_number": "25-2785",
       "caption": "Ahmad Williams v. Thumbtack Inc et al",
-      "panel": "BIBAS, CHUNG, MASCOTT",
-      "location_time": "Wilmington, DE - 2B Courtroom / 2:30 pm",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-06-26",
-      "case_number": "25-1459",
-      "caption": "Cheryl Hileman v. West Penn Allegheny Health System Inc",
       "panel": "BIBAS, CHUNG, MASCOTT",
       "location_time": "Wilmington, DE - 2B Courtroom / 2:30 pm",
       "disposition": "Argued"
