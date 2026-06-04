@@ -219,6 +219,15 @@ def build_page(data: dict) -> str:
     pa_superior_html = build_pa_cards(pa_superior_events, "PA Superior Court")
     pa_commonwealth_html = build_pa_cards(pa_commonwealth_events, "PA Commonwealth Court")
 
+    tab_order = [
+        ("edpa", len(edpa_events)),
+        ("ca3", len(ca3_events)),
+        ("pasupreme", len(pa_supreme_events)),
+        ("pasuperior", len(pa_superior_events)),
+        ("pacommonwealth", len(pa_commonwealth_events)),
+    ]
+    default_tab = next((t for t, n in tab_order if n > 0), "edpa")
+
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -362,35 +371,35 @@ footer a {{ color: #999; }}
   <h1>Court Calendars</h1>
   <p>Federal &amp; PA Appellate Court Schedules</p>
   <p>Last updated: {html.escape(generated_display)}</p>
-  <nav><a href="index.html">&larr; Filings &amp; Opinions</a></nav>
+  <nav><a href="https://abgutman.github.io/av-tools/">Av's Tools Homepage</a> &middot; <a href="index.html">Filings &amp; Opinions</a></nav>
 </header>
 
 <div class="container">
   <div class="tabs">
-    <button class="tab active" onclick="switchTab('edpa')">EDPA ({len(edpa_events)})</button>
-    <button class="tab" onclick="switchTab('ca3')">Third Cir. ({len(ca3_events)})</button>
-    <button class="tab" onclick="switchTab('pasupreme')">PA Supreme ({len(pa_supreme_events)})</button>
-    <button class="tab" onclick="switchTab('pasuperior')">PA Superior ({len(pa_superior_events)})</button>
-    <button class="tab" onclick="switchTab('pacommonwealth')">PA Cmwlth. ({len(pa_commonwealth_events)})</button>
+    <button class="tab{' active' if default_tab == 'edpa' else ''}" onclick="switchTab('edpa')">EDPA ({len(edpa_events)})</button>
+    <button class="tab{' active' if default_tab == 'ca3' else ''}" onclick="switchTab('ca3')">Third Cir. ({len(ca3_events)})</button>
+    <button class="tab{' active' if default_tab == 'pasupreme' else ''}" onclick="switchTab('pasupreme')">PA Supreme ({len(pa_supreme_events)})</button>
+    <button class="tab{' active' if default_tab == 'pasuperior' else ''}" onclick="switchTab('pasuperior')">PA Superior ({len(pa_superior_events)})</button>
+    <button class="tab{' active' if default_tab == 'pacommonwealth' else ''}" onclick="switchTab('pacommonwealth')">PA Cmwlth. ({len(pa_commonwealth_events)})</button>
   </div>
 
-  <div class="tab-content active" id="edpa-tab">
+  <div class="tab-content{' active' if default_tab == 'edpa' else ''}" id="edpa-tab">
     {edpa_html}
   </div>
 
-  <div class="tab-content" id="ca3-tab">
+  <div class="tab-content{' active' if default_tab == 'ca3' else ''}" id="ca3-tab">
     {ca3_html}
   </div>
 
-  <div class="tab-content" id="pasupreme-tab">
+  <div class="tab-content{' active' if default_tab == 'pasupreme' else ''}" id="pasupreme-tab">
     {pa_supreme_html}
   </div>
 
-  <div class="tab-content" id="pasuperior-tab">
+  <div class="tab-content{' active' if default_tab == 'pasuperior' else ''}" id="pasuperior-tab">
     {pa_superior_html}
   </div>
 
-  <div class="tab-content" id="pacommonwealth-tab">
+  <div class="tab-content{' active' if default_tab == 'pacommonwealth' else ''}" id="pacommonwealth-tab">
     {pa_commonwealth_html}
   </div>
 </div>

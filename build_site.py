@@ -446,7 +446,7 @@ footer a {{ color: #999; }}
   <h1>Av's Court Feed</h1>
   <p>New filings &amp; opinions from PA Supreme, Superior, Commonwealth, Third Circuit &amp; SCOTUS cert petitions</p>
   <p>Last updated: {html.escape(generated_display)}</p>
-  <nav style="margin-top:10px"><a href="calendar.html" style="color:#90caf9;font-size:13px;text-decoration:none">Court Calendars &rarr;</a></nav>
+  <nav style="margin-top:10px"><a href="https://abgutman.github.io/av-tools/" style="color:#90caf9;font-size:13px;text-decoration:none">Av's Tools Homepage</a> &middot; <a href="calendar.html" style="color:#90caf9;font-size:13px;text-decoration:none">Court Calendars &rarr;</a></nav>
 </header>
 
 <div class="container">
