@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-05T15:48:16.377706+00:00",
+  "generated": "2026-06-05T17:46:41.524595+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -33,28 +33,6 @@
       "courtroom": "Reading 5th Floor",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637297"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/05/2026 11:00AM",
-      "case_number": "21-cv-0590",
-      "caption": "PENA v. CITY OF LANCASTER et a",
-      "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "Reading",
-      "courtroom": "Reading 5th Floor",
-      "hearing_type": "Final Pretrial Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?581210"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/05/2026 11:00AM",
-      "case_number": "26-cr-0121",
-      "caption": "USA v. CRUZ-GARCIA",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651536"
     },
     {
       "court": "EDPA",
@@ -190,6 +168,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "06/08/2026 10:30AM",
+      "case_number": "24-cr-0342",
+      "caption": "USA v. MORELLA",
+      "judge": "DISTRICT JUDGE SCHMEHL",
+      "city": "Reading",
+      "courtroom": "Reading 5th Floor",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628009"
+    },
+    {
+      "court": "EDPA",
       "datetime": "06/08/2026 11:00AM",
       "case_number": "21-cr-0317",
       "caption": "USA v. HANTON",
@@ -209,17 +198,6 @@
       "courtroom": "Courtroom 17A",
       "hearing_type": "Miscellaneous Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655774"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/08/2026 11:00AM",
-      "case_number": "23-cv-3684",
-      "caption": "Adams et al v. Adelphoi USA",
-      "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom TBD",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614007"
     },
     {
       "court": "EDPA",
@@ -528,6 +506,17 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645603"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/09/2026 02:30PM",
+      "case_number": "25-cr-0305",
+      "caption": "USA v. HUNTER",
+      "judge": "DISTRICT JUDGE WEILHEIMER",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 7B",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640489"
     },
     {
       "court": "EDPA",
@@ -1170,17 +1159,6 @@
     {
       "court": "EDPA",
       "datetime": "06/15/2026 11:00AM",
-      "case_number": "24-cv-2051",
-      "caption": "Wells Fargo Bank, National Ass",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622193"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/15/2026 11:00AM",
       "case_number": "25-cv-1427",
       "caption": "MCQUEEN v. PRIMARY ARMS, LLC",
       "judge": "DISTRICT JUDGE MARSTON",
@@ -1705,17 +1683,6 @@
       "courtroom": "Courtroom 9B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638671"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/17/2026 11:00AM",
-      "case_number": "26-cv-0489",
-      "caption": "MORGENTHALER v. CAGLIOTI",
-      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3D",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648933"
     },
     {
       "court": "EDPA",
