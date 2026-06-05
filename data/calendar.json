@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-05T12:09:47.653946+00:00",
+  "generated": "2026-06-05T15:48:16.377706+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -119,7 +119,7 @@
       "judge": "DISTRICT JUDGE BAYLSON",
       "city": "Philadelphia",
       "courtroom": "Courtroom 3A",
-      "hearing_type": "Trial Date",
+      "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622270"
     },
     {
@@ -388,6 +388,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "06/09/2026 01:00PM",
+      "case_number": "26-cv-0754",
+      "caption": "JONES v. BOROUGH OF EDDYSTONE",
+      "judge": "DISTRICT JUDGE PAPPERT",
+      "city": "",
+      "courtroom": "unlisted",
+      "hearing_type": "Pretrial Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649461"
+    },
+    {
+      "court": "EDPA",
       "datetime": "06/09/2026 01:30PM",
       "case_number": "24-cr-0324",
       "caption": "USA v. JAMES",
@@ -451,6 +462,28 @@
       "courtroom": "Courtroom 5C",
       "hearing_type": "Detention Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655700"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/09/2026 01:30PM",
+      "case_number": "26-cr-0252",
+      "caption": "USA v. EBERWINE",
+      "judge": "MAGISTRATE JUDGE SITARSKI",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5C",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655756"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/09/2026 01:30PM",
+      "case_number": "26-cr-0252",
+      "caption": "USA v. EBERWINE",
+      "judge": "MAGISTRATE JUDGE SITARSKI",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5C",
+      "hearing_type": "Initial Appearance",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655756"
     },
     {
       "court": "EDPA",
@@ -759,17 +792,6 @@
       "courtroom": "Courtroom 8B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627100"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/11/2026 01:00PM",
-      "case_number": "25-cv-5486",
-      "caption": "Jimenez-Wright v. BIMBO BAKERI",
-      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
-      "city": "",
-      "courtroom": "Video Conference",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643984"
     },
     {
       "court": "EDPA",
@@ -1115,17 +1137,6 @@
     {
       "court": "EDPA",
       "datetime": "06/15/2026 10:00AM",
-      "case_number": "26-cr-0107",
-      "caption": "USA v. BAEZ",
-      "judge": "DISTRICT JUDGE BARTLE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651102"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/15/2026 10:00AM",
       "case_number": "26-cv-1039",
       "caption": "BRODERSON et al v. STATE FARM",
       "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
@@ -1133,17 +1144,6 @@
       "courtroom": "Courtroom 3D",
       "hearing_type": "Settlement Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650025"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/15/2026 10:00AM",
-      "case_number": "25-cv-4893",
-      "caption": "EMPIREMED, LLC v. GREENAN et a",
-      "judge": "DISTRICT JUDGE KENNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11B",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642828"
     },
     {
       "court": "EDPA",
@@ -1818,17 +1818,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "06/18/2026 11:30AM",
-      "case_number": "21-cv-1408",
-      "caption": "DOE #1 et al v. PENNSYLVANIA D",
-      "judge": "HONORABLE BUMB",
-      "city": "",
-      "courtroom": "Telephone Conference",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?583075"
-    },
-    {
-      "court": "EDPA",
       "datetime": "06/18/2026 01:30PM",
       "case_number": "26-cv-2628",
       "caption": "PRECISION AIR DESIGNS, INC. v.",
@@ -2445,18 +2434,6 @@
     {
       "court": "PA Superior Court",
       "date": "06/15/2026",
-      "docket_number": "2220 EDA 2025",
-      "journal_number": "J-A14002-26",
-      "caption": "Bass-Brookins, W. v. Abney, T.",
-      "consideration_type": "Expedited \u2014 Argument Panel",
-      "location": "17th Floor , 530 Walnut St ., Philadelphia",
-      "city": "Philadelphia",
-      "panel": "14-ARGUMENT-2026-2",
-      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "06/15/2026",
       "docket_number": "2059 EDA 2025",
       "journal_number": "J-A14003-26",
       "caption": "Com. v. Scanlon, C.",
@@ -2616,7 +2593,7 @@
       "docket_number": "505 EDA 2026",
       "journal_number": "J-A14018-26",
       "caption": "In the Int. of: Z.P., Appeal of: Z.P.",
-      "consideration_type": "Expedited \u2014 Argument Panel",
+      "consideration_type": "Standard \u2014 Argument Panel",
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "14-ARGUMENT-2026-2",
@@ -3645,6 +3622,30 @@
     {
       "court": "PA Superior Court",
       "date": "07/07/2026",
+      "docket_number": "1956 EDA 2025",
+      "journal_number": "J-A17010-26",
+      "caption": "Com. v. Roddy, M.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "17th Floor , 530 Walnut St ., Philadelphia",
+      "city": "Philadelphia",
+      "panel": "17-ARGUMENT-2026-2",
+      "judges": "NICHOLS ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "07/07/2026",
+      "docket_number": "1957 EDA 2025",
+      "journal_number": "J-A17010-26",
+      "caption": "Com. v. Roddy, M.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "17th Floor , 530 Walnut St ., Philadelphia",
+      "city": "Philadelphia",
+      "panel": "17-ARGUMENT-2026-2",
+      "judges": "NICHOLS ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "07/07/2026",
       "docket_number": "2525 EDA 2025",
       "journal_number": "J-A17011-26",
       "caption": "Notte, M. v. Lublin, W.",
@@ -3765,18 +3766,6 @@
     {
       "court": "PA Superior Court",
       "date": "07/07/2026",
-      "docket_number": "1956 EDA 2024",
-      "journal_number": "J-A17018-26",
-      "caption": "Blue Green, LLC v. Garcia-Villareal, D.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "17th Floor , 530 Walnut St ., Philadelphia",
-      "city": "Philadelphia",
-      "panel": "17-ARGUMENT-2026-2",
-      "judges": "NICHOLS ; NEUMAN , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "07/07/2026",
       "docket_number": "997 EDA 2025",
       "journal_number": "J-A17019-26",
       "caption": "Yaffe, R. v. Gushner, K.",
@@ -3828,30 +3817,6 @@
       "docket_number": "1990 EDA 2025",
       "journal_number": "J-A17021-26",
       "caption": "Com. v. Thomas, J.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "17th Floor , 530 Walnut St ., Philadelphia",
-      "city": "Philadelphia",
-      "panel": "17-ARGUMENT-2026-2",
-      "judges": "NICHOLS ; NEUMAN , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "07/07/2026",
-      "docket_number": "290 EDA 2026",
-      "journal_number": "J-A17022-26",
-      "caption": "Williams, T. v. Peloquin, R.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "17th Floor , 530 Walnut St ., Philadelphia",
-      "city": "Philadelphia",
-      "panel": "17-ARGUMENT-2026-2",
-      "judges": "NICHOLS ; NEUMAN , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "07/07/2026",
-      "docket_number": "340 EDA 2026",
-      "journal_number": "J-A17022-26",
-      "caption": "Williams, T. v. Peloquin, R.",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
@@ -3948,18 +3913,6 @@
       "docket_number": "547 EDA 2025",
       "journal_number": "J-A17029-26",
       "caption": "Opulent Watches v. Warner, J.",
-      "consideration_type": "Expedited \u2014 Argument Panel",
-      "location": "17th Floor , 530 Walnut St ., Philadelphia",
-      "city": "Philadelphia",
-      "panel": "17-ARGUMENT-2026-2",
-      "judges": "NICHOLS ; NEUMAN , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "07/08/2026",
-      "docket_number": "2448 EDA 2025",
-      "journal_number": "J-A17030-26",
-      "caption": "Com. v. Evans, S.",
       "consideration_type": "Expedited \u2014 Argument Panel",
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
