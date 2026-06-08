@@ -1,6 +1,1536 @@
 {
-  "generated": "2026-06-08T02:11:31.428489+00:00",
+  "generated": "2026-06-08T07:19:40.445344+00:00",
   "filings": [
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "184 EAL 2026",
+      "caption": "Commonwealth v. Harris, A., Pet.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=184 EAL 2026&dnh=iaVXXpkNLWFsFx8%2FbOXdDw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "186 EAL 2026",
+      "caption": "Commonwealth v. Ulysse, A., Pet.",
+      "status": "Active",
+      "filing_date": "06/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=186 EAL 2026&dnh=YbtXtiu%2FKxQnuyZHWVaKgQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "187 EAL 2026",
+      "caption": "Commonwealth v. Smith, D., Pet.",
+      "status": "Active",
+      "filing_date": "06/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=187 EAL 2026&dnh=VkcEVAXQUUhGb0EPhQT8YQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "188 EAL 2026",
+      "caption": "CVS Pharmacy, Pet. v. The City of Philadelphia",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=188 EAL 2026&dnh=0ikQMuOIeuEpwIt9vVi3fw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "189 EAL 2026",
+      "caption": "Commonwealth v. Shedrick, A., Pet.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=189 EAL 2026&dnh=gTpYEDyPYRSIfyrkF4Inbg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "51 EM 2026",
+      "caption": "Chilutti, S. v. Uber Technologies, Inc.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=51 EM 2026&dnh=Z0Qpzk2xoGrd99m674wnRA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "52 EM 2026",
+      "caption": "Commonwealth v. McDonald, B. Pet. of: Stephen O'Hanlon, Esq.",
+      "status": "Active",
+      "filing_date": "06/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=52 EM 2026&dnh=am1c8SbSws0HoSJTuxtAjg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "53 EM 2026",
+      "caption": "Commonwealth v. McDonald, B. Pet. of Stephen O'Hanlon, Esq.",
+      "status": "Active",
+      "filing_date": "06/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=53 EM 2026&dnh=WBS2QDdxdyACUxpPFiV6qw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "54 EM 2026",
+      "caption": "Dixon, T., Pet. v. UCBR",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=54 EM 2026&dnh=PghaSTGFJfFrO%2FqtfUSSuA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "297 MAL 2026",
+      "caption": "Commonwealth v. Ayoub, J., Pet.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=297 MAL 2026&dnh=cxQfzpC7vruBnViTcBTdPA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "298 MAL 2026",
+      "caption": "Commonwealth v. Corbett, J., Pet.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=298 MAL 2026&dnh=oFbRz90Jiuv%2BdN6R2fHy%2Fg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "299 MAL 2026",
+      "caption": "Piuma, H., Pet. v. County of Bucks TCB",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=299 MAL 2026&dnh=TZaM5z9oHhHhZDxmErT3RA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "300 MAL 2026",
+      "caption": "Scomed Supply v. Hartford Acc. & Ind. (WCAB Fee)",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=300 MAL 2026&dnh=cHFHHl%2FLlmYc2ozpQ3w14g%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "301 MAL 2026",
+      "caption": "Commonwealth v. Anderson, C., Pet.",
+      "status": "Active",
+      "filing_date": "06/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=301 MAL 2026&dnh=3YNKBhOFaiSks9A2n4I3MQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "302 MAL 2026",
+      "caption": "In Re: Bush, G.; Petition of: Bush, M.",
+      "status": "Active",
+      "filing_date": "06/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=302 MAL 2026&dnh=u5cwX5qJk5fjr3bcOhF3ig%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "303 MAL 2026",
+      "caption": "Commonwealth v. O'Neal, T., Pet.",
+      "status": "Active",
+      "filing_date": "06/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=303 MAL 2026&dnh=GnOunLR0KENZv5Djb9ELjQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "304 MAL 2026",
+      "caption": "Commonwealth v. Bair, T., Pet.",
+      "status": "Active",
+      "filing_date": "06/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=304 MAL 2026&dnh=DoOjc7hlctF1VlAlcs0O%2Bg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "305 MAL 2026",
+      "caption": "Commonwealth v. Bair, T., Pet.",
+      "status": "Active",
+      "filing_date": "06/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=305 MAL 2026&dnh=dxhCz9LEkNmOOSe40MLOsQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "306 MAL 2026",
+      "caption": "Commonwealth v. Carbaugh, S., Pet.",
+      "status": "Active",
+      "filing_date": "06/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=306 MAL 2026&dnh=EcLWCLmw8AUqmP%2FjB9UzyA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "307 MAL 2026",
+      "caption": "Commonwealth v. Coasey, D., Pet.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=307 MAL 2026&dnh=ld59JUrqyVNo2Xgsblou8w%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "308 MAL 2026",
+      "caption": "Commonwealth v. Martin, M., Jr., Petitioner",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=308 MAL 2026&dnh=60XxFb1BUVq6YpX9vKN7IQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "311 MAL 2026",
+      "caption": "Gardner, T., Pet. v. Wealand, T. et al",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=311 MAL 2026&dnh=vzN1u6JGVlJ%2BGMpd1%2Bb2GA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "312 MAL 2026",
+      "caption": "Commonwealth v. Anton, B., Pet.",
+      "status": "Active",
+      "filing_date": "06/02/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=312 MAL 2026&dnh=dYiASFdPr6rttCSxa8BGbg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "313 MAL 2026",
+      "caption": "Carpenito, et al v. N Manheim Twp ZHB Pet of: Nolt",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=313 MAL 2026&dnh=Ae2bWQSWeEpNZtgKKms9Tw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "314 MAL 2026",
+      "caption": "Commonwealth v. Sadler, W., Pet.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=314 MAL 2026&dnh=83tn%2FF4By3u%2BaK%2BkvZLEJA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "120 MM 2026",
+      "caption": "Commonwealth v. Auman, B., Pet.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=120 MM 2026&dnh=%2FaddD5pNRe4Jwn%2FR7F3CRQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "122 MM 2026",
+      "caption": "Commonwealth v. Blackburn, J., Pet.",
+      "status": "Active",
+      "filing_date": "06/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=122 MM 2026&dnh=3%2Fu8Mad6UM76fVcKjO6NOw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "129 WAL 2026",
+      "caption": "Cogley, J., Pet. v. Select Portfolio Servicing",
+      "status": "Active",
+      "filing_date": "06/02/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=129 WAL 2026&dnh=DcwLfyxwq4wrqcXmWwagqQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "130 WAL 2026",
+      "caption": "Commonwealth v. Collins, E., Pet.",
+      "status": "Active",
+      "filing_date": "06/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=130 WAL 2026&dnh=2Buk9riab1byj0ucTi1ScQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "131 WAL 2026",
+      "caption": "Commonwealth v. Phillips, E., Pet.",
+      "status": "Active",
+      "filing_date": "06/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=131 WAL 2026&dnh=LyElqLucv2OdTLWTZbkx8Q%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "132 WAL 2026",
+      "caption": "In the Int. of: A.M., Petition of: A.M.",
+      "status": "Active",
+      "filing_date": "06/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=132 WAL 2026&dnh=niyrihiDho2H0rP02YY47A%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "133 WAL 2026",
+      "caption": "Commonwealth v. Parker, D., Pet.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=133 WAL 2026&dnh=H08%2FrLzaJtZALewIf85row%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "53 WM 2026",
+      "caption": "Brown, L., Pet. v. Hon. Paul Cherry, et al.",
+      "status": "Active",
+      "filing_date": "06/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=53 WM 2026&dnh=iWu%2Bcq50UhZRr0frLe6QOA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1490 EDA 2026",
+      "caption": "McIntosh, A. v. Kane, M.",
+      "status": "Closed",
+      "filing_date": "06/02/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1490 EDA 2026&dnh=AotQrvGjvSDhbno%2FenL8Wg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1491 EDA 2026",
+      "caption": "Gdula, D. v. Wasserman, L.",
+      "status": "Active",
+      "filing_date": "06/02/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1491 EDA 2026&dnh=FhnX5yAPbB8V4%2Bqhb8ulVw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1492 EDA 2026",
+      "caption": "McIntosh, A. v. Kane, M.",
+      "status": "Active",
+      "filing_date": "06/02/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1492 EDA 2026&dnh=9s8ZwkbbSkjOLbWxBmGG7w%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1493 EDA 2026",
+      "caption": "In the Int of: P.M.H., Appeal of: P.M.H.",
+      "status": "Active",
+      "filing_date": "06/02/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1493 EDA 2026&dnh=qbtraTEB%2Fpk0bKA86Jf71g%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1494 EDA 2026",
+      "caption": "Com. v. Taylor, F.",
+      "status": "Active",
+      "filing_date": "06/02/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1494 EDA 2026&dnh=V1yg2qgsxfbTHwyGphu0Og%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1495 EDA 2026",
+      "caption": "Com. v. Zayas Cintron, L.",
+      "status": "Active",
+      "filing_date": "06/02/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1495 EDA 2026&dnh=6lprFF7cD5V7AeyVA%2BZFtg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1496 EDA 2026",
+      "caption": "PNC Bank, N.A. v. Taylor, J",
+      "status": "Active",
+      "filing_date": "06/02/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1496 EDA 2026&dnh=r0YFQ8kMKtq1REb5SUJHDg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1497 EDA 2026",
+      "caption": "Taylor, J. v. PNC Bank N.A.",
+      "status": "Active",
+      "filing_date": "06/02/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1497 EDA 2026&dnh=8wo1ypOpFuMb97X9dle3Mg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1498 EDA 2026",
+      "caption": "Bryant, S. v. Pottstown School District",
+      "status": "Active",
+      "filing_date": "06/02/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1498 EDA 2026&dnh=p7RihiZplZFky%2BuZkVD7IQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1499 EDA 2026",
+      "caption": "Marquette, K. v. Maxwell, T.",
+      "status": "Active",
+      "filing_date": "06/02/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1499 EDA 2026&dnh=j8WWJknFVMtEHzR3pgKLEA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1500 EDA 2026",
+      "caption": "Com. v. Wells, I.",
+      "status": "Active",
+      "filing_date": "06/02/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1500 EDA 2026&dnh=Qpm%2Bwfo%2FdrrFcSJ73tNhxQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1501 EDA 2026",
+      "caption": "Com. v. Weigel, T.",
+      "status": "Active",
+      "filing_date": "06/02/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1501 EDA 2026&dnh=4l4d9j5LdH4nB8Dx1RNE6g%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1502 EDA 2026",
+      "caption": "Com. v. Douglas, T.",
+      "status": "Active",
+      "filing_date": "06/02/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1502 EDA 2026&dnh=BAYDflht9bzySlQmvL0fnQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1503 EDA 2026",
+      "caption": "Com. v. Agosto, T.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1503 EDA 2026&dnh=2qcMOIPU1biWN8KkXMF1cQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1504 EDA 2026",
+      "caption": "Com. v. Lilly, A.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1504 EDA 2026&dnh=5QozbefFsSySbifHAiLQzw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1505 EDA 2026",
+      "caption": "Com. v. Lilly, A.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1505 EDA 2026&dnh=TRoAtKuM8gZu8q%2BpNZWt6A%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1506 EDA 2026",
+      "caption": "Com. v. Coleman, S.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1506 EDA 2026&dnh=DXH9%2B6LA7Z%2FavdWaGi0ZSw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1507 EDA 2026",
+      "caption": "Com. v. Bolstridge, S.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1507 EDA 2026&dnh=vk1hFEm84wZ8HRG23gXVGQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1508 EDA 2026",
+      "caption": "Com. v. Santiago, J.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1508 EDA 2026&dnh=D8mx3SwKEMMVjP%2FMMZ3Kmg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1509 EDA 2026",
+      "caption": "Com. v. Pruitt, J.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1509 EDA 2026&dnh=FVERcp3V7AciPiuJRKhLPA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1510 EDA 2026",
+      "caption": "Com. v. Al-Azzam, A.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1510 EDA 2026&dnh=LVsfSnEVv9KtZvw0al5kQw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1511 EDA 2026",
+      "caption": "Com. v. Batson, J.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1511 EDA 2026&dnh=OcwryivcQ1LFPjPp3iSjcg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1512 EDA 2026",
+      "caption": "Com. v. Jones, T.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1512 EDA 2026&dnh=ThLjRgWC8sws7%2BvQAFnc5w%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1513 EDA 2026",
+      "caption": "Com. v. Fitzgerald, A.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1513 EDA 2026&dnh=Zf%2BQQlvGmjueJwTAYHngpQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1514 EDA 2026",
+      "caption": "Estate of J. Kinser v. Saber Healthcare",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1514 EDA 2026&dnh=jD7Y2VhQ0y29ppeWo7F%2F5Q%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1515 EDA 2026",
+      "caption": "SMS-GS Financial, LLC. v. D. Drakas",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1515 EDA 2026&dnh=l6WqVaKGLHzf6Rh333lw8Q%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1516 EDA 2026",
+      "caption": "Buckingham Partners v. Small, J.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1516 EDA 2026&dnh=7pIhBlFaPKW27cXADN8mrg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1517 EDA 2026",
+      "caption": "Hunte, R. v. King, C.",
+      "status": "Active",
+      "filing_date": "06/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1517 EDA 2026&dnh=abGl3Q6Do0pcGeec8F%2B27Q%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1518 EDA 2026",
+      "caption": "Pedano, F. v. Smart, E.",
+      "status": "Active",
+      "filing_date": "06/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1518 EDA 2026&dnh=O2j6IsH%2B%2BMLL5%2FGmCE8ucA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1519 EDA 2026",
+      "caption": "Com. v. Bennett, D.",
+      "status": "Active",
+      "filing_date": "06/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1519 EDA 2026&dnh=TPYvD%2B9JK%2F2iFd4tHSfy4g%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1520 EDA 2026",
+      "caption": "Com. v. Bennett, D.",
+      "status": "Active",
+      "filing_date": "06/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1520 EDA 2026&dnh=Dl8F6%2F8IYkPG99rPkboS8A%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1521 EDA 2026",
+      "caption": "Com. v. Grondin, S.",
+      "status": "Active",
+      "filing_date": "06/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1521 EDA 2026&dnh=OMrVSz29YBWJMIzAycxbOw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1522 EDA 2026",
+      "caption": "Losagio, J. v. Losagio, E.",
+      "status": "Active",
+      "filing_date": "06/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1522 EDA 2026&dnh=JF61TuVNREu3RqT06ZBQMA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1523 EDA 2026",
+      "caption": "Cousins, I. v. Taylor, J.",
+      "status": "Active",
+      "filing_date": "06/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1523 EDA 2026&dnh=SWO6jjmGcmdhAQwyhtreLA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1524 EDA 2026",
+      "caption": "In the Int. of: H.J.C., Appeal of: H.J.C.",
+      "status": "Active",
+      "filing_date": "06/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1524 EDA 2026&dnh=RdA97QOTPRW7KJb2TQ3tUQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1525 EDA 2026",
+      "caption": "Shah, D. v. Shah, V.",
+      "status": "Active",
+      "filing_date": "06/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1525 EDA 2026&dnh=UHwQG11kBQBgM9R%2FsFkMNQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1526 EDA 2026",
+      "caption": "Elzeiny, A. v. Kamel, M.",
+      "status": "Active",
+      "filing_date": "06/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1526 EDA 2026&dnh=wMLMYbyCQ%2BRxW78rfoCfiw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1527 EDA 2026",
+      "caption": "Madison Apt Group v. Sabatini, R",
+      "status": "Active",
+      "filing_date": "06/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1527 EDA 2026&dnh=kS3xVY9ziFqF6L72La52dA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1528 EDA 2026",
+      "caption": "Dear, J. v. Dear, H.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1528 EDA 2026&dnh=oag2gYMFYr%2FTmCavInBwJg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1529 EDA 2026",
+      "caption": "Dear, J. v. Dear, H.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1529 EDA 2026&dnh=kHnHfpYuJwznvY%2FXnC6YAA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1530 EDA 2026",
+      "caption": "Taylor, R. v. Taylor, P.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1530 EDA 2026&dnh=cnxB4ox59FtM7Ie5OmmabA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1531 EDA 2026",
+      "caption": "Bonaparte, C. v. Berry, D.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1531 EDA 2026&dnh=9MZLk7paqcxTg0ACVUqfDg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1532 EDA 2026",
+      "caption": "Lawton, K. v. UMB National Bank",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1532 EDA 2026&dnh=J5qNJkwfhFtZ4NAta9WnPQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1533 EDA 2026",
+      "caption": "Greenway, S. v. PENNDOT",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1533 EDA 2026&dnh=OgnHiNuWfxvqoavUKqNgpQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1534 EDA 2026",
+      "caption": "Carrillo, K. v. Dawson, M.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1534 EDA 2026&dnh=GxUYH27y4RdMDglH54%2BIuw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1535 EDA 2026",
+      "caption": "IS Jam, LLC v. 20 Armat Properties",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1535 EDA 2026&dnh=ky5KKEY1hwxGGy%2Bxq0w1ww%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1536 EDA 2026",
+      "caption": "HSBC Bank v. Zoccali, C",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1536 EDA 2026&dnh=FedUj4DwsPU2b%2FIyVFQ79w%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1537 EDA 2026",
+      "caption": "Com. v. Martin, T.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1537 EDA 2026&dnh=GQMqdC7VrxYuiSkz9m584Q%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1538 EDA 2026",
+      "caption": "Com. v. Moore, Q.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1538 EDA 2026&dnh=zarAhi4XBKdA09XtUDXzlg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1539 EDA 2026",
+      "caption": "Com. v. Dennis, R.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1539 EDA 2026&dnh=C9ig4WK8BN%2BVFbA0bd5KDQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1540 EDA 2026",
+      "caption": "Com. v. Downing, J.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1540 EDA 2026&dnh=oON6yCfADnDj6XDODWYO4A%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1541 EDA 2026",
+      "caption": "Com. v. Taylor, F.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1541 EDA 2026&dnh=xBqrmxWOakVWNFNrE7F4Nw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1542 EDA 2026",
+      "caption": "Cherry, T. v. Kelley, L.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1542 EDA 2026&dnh=7%2Fm%2B5fH5zDUHi1SA59qpRQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1543 EDA 2026",
+      "caption": "Com. v. Walton, M.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1543 EDA 2026&dnh=TCzP7LLg%2FonR3Rs3leevYA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1544 EDA 2026",
+      "caption": "Garcia, H. v. Kelley, L.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1544 EDA 2026&dnh=CgjZkZHrGh8rnITIRi7A7w%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1545 EDA 2026",
+      "caption": "Com. v. Kelly, P.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1545 EDA 2026&dnh=oE%2FvuPq21LsJgvgER4iQvA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1546 EDA 2026",
+      "caption": "Allan-Vanderbilt, A. v. Hosp. of Univ. of PA",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1546 EDA 2026&dnh=hlvSoEkkii3dFcc86DRk0w%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1547 EDA 2026",
+      "caption": "Com. v. Santiago, J.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1547 EDA 2026&dnh=bYJQF2KcqG88pSkb5A2GUA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1548 EDA 2026",
+      "caption": "Alma Real Estate v. Fenderson, E.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1548 EDA 2026&dnh=RPpdhqG7Oxkp8vZcZ1B2JQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1549 EDA 2026",
+      "caption": "Com. v. Seldon, T.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1549 EDA 2026&dnh=cTXp8geylPYo%2Fq9ujfi6Vg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1550 EDA 2026",
+      "caption": "Com. v. Seldon, T.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1550 EDA 2026&dnh=UjLgLWUnOKwCsW9KbWWM7g%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1551 EDA 2026",
+      "caption": "Johnson, M. v. State Farm Fire & Casualty Co.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1551 EDA 2026&dnh=ufvRkU%2Bpc3CcR6FrCM6jew%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1552 EDA 2026",
+      "caption": "928 N Leithgow v. Unknown Occupants",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1552 EDA 2026&dnh=xfWq2U1TcB9DWtxxT1fe7w%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1553 EDA 2026",
+      "caption": "Riley, D. v. Mayfair Operator",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1553 EDA 2026&dnh=OgaNDxG5axIi%2BtBz0nee%2BA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1554 EDA 2026",
+      "caption": "Com. v. Harrington, D.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1554 EDA 2026&dnh=81aD8DTr%2Bdk3HA5yHK2oAQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1555 EDA 2026",
+      "caption": "Com. v. Harrington, D.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1555 EDA 2026&dnh=yWaIJ%2F5QrrdPxITmGPk5KQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "97 EDM 2026",
+      "caption": "Swen, P. v. Dept. of Human Services",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=97 EDM 2026&dnh=tZcvUkINqORPKCV0a2iQqA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "855 MDA 2026",
+      "caption": "Keystone Advanced Remodeling v. Geaith, N.",
+      "status": "Active",
+      "filing_date": "06/02/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=855 MDA 2026&dnh=BVGiuytct8SL4bnLzIM7xA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "856 MDA 2026",
+      "caption": "Com. v. Burns, M.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=856 MDA 2026&dnh=QQWB%2FDjvNjd6ltSiPRnz7A%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "857 MDA 2026",
+      "caption": "Com. v. Parker, R.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=857 MDA 2026&dnh=nXkTogq4%2BLjD38ptq8%2BWVA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "858 MDA 2026",
+      "caption": "Com. v. Snader, B.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=858 MDA 2026&dnh=DTYMcugnF2Ey5HOWzaEGGw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "859 MDA 2026",
+      "caption": "Premier Capital, LLC., v. Dececco, D.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=859 MDA 2026&dnh=Eq3wsiyaOD%2BPXrw42Kkclg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "860 MDA 2026",
+      "caption": "Com. v. Thompson, S.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=860 MDA 2026&dnh=PqJcJWFh5lQgQf2s%2BA8RKw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "861 MDA 2026",
+      "caption": "Com. v. Herron, D.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=861 MDA 2026&dnh=NMfoeQ20mS%2BFTdGcfEUeqw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "862 MDA 2026",
+      "caption": "Com. v. Williams, P.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=862 MDA 2026&dnh=8lsriDKTZSPKb5kBD2jT0A%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "863 MDA 2026",
+      "caption": "Com. v. Williams, P.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=863 MDA 2026&dnh=bnAMqbWyK%2BwI2%2Fx32KSDzw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "864 MDA 2026",
+      "caption": "Barzyk, L. v. Withers, A.",
+      "status": "Active",
+      "filing_date": "06/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=864 MDA 2026&dnh=6NkEGFXK3EsCkDs%2B58l8SA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "865 MDA 2026",
+      "caption": "Weiler, B., v. Brett, D.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=865 MDA 2026&dnh=wurbYOkpUrkP3wKH4MZ9CQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "866 MDA 2026",
+      "caption": "Chopick, J.,v. Chopick, T.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=866 MDA 2026&dnh=%2B7iEphWNZKi7O3obChTcFw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "867 MDA 2026",
+      "caption": "Com. v. Greensfelder, M.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=867 MDA 2026&dnh=yQtrlDkszD%2F0h3uEepyTAw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "868 MDA 2026",
+      "caption": "Com. v. Jones, K.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=868 MDA 2026&dnh=%2BSY%2FeK11315WRhYcoLbdTQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "869 MDA 2026",
+      "caption": "Com. v. Hammaker, B.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=869 MDA 2026&dnh=ifh2rob66EfLzWEYUS1vig%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "870 MDA 2026",
+      "caption": "Com. v. Haleem, M.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=870 MDA 2026&dnh=wSxleY%2BwJ258eS3mCJaLGA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "871 MDA 2026",
+      "caption": "Com. v. McGurl, J.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=871 MDA 2026&dnh=XHw3e3uLf3N2Megl7eiMvA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "872 MDA 2026",
+      "caption": "Com. v. Maddox, T.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=872 MDA 2026&dnh=KB2K4lO8zavhbe9ehY8j5Q%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "873 MDA 2026",
+      "caption": "Gabel, M., v. Site Ready Constuction",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=873 MDA 2026&dnh=fT4H4eh2Uts20q7yecor2Q%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "874 MDA 2026",
+      "caption": "Com. v. Hockenberry, J.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=874 MDA 2026&dnh=3FxGhI%2FNwHt2KssVhTX9Xw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "41 MDM 2026",
+      "caption": "Medtrition, Inc. v. K. Heeps, Inc.",
+      "status": "Active",
+      "filing_date": "06/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=41 MDM 2026&dnh=iZ%2BDiPi7rjY4ScpjR3f62Q%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "719 WDA 2026",
+      "caption": "Altschuler, E. v. Allegheny Clinic",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=719 WDA 2026&dnh=6Nhx5bEygj0ekQ95KndJUA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "720 WDA 2026",
+      "caption": "Mardoian, R. v. Riverfront II",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=720 WDA 2026&dnh=%2FzYsxUmISZGJXBfVxk1htA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "721 WDA 2026",
+      "caption": "Wright, E. v. Isenberg, B.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=721 WDA 2026&dnh=2390HqxLmz5BicOcB4GvUw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "722 WDA 2026",
+      "caption": "Com. v. Foote, A.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=722 WDA 2026&dnh=wiMkp2uJLSGKgKGBwPNc9g%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "723 WDA 2026",
+      "caption": "Com. v. Barron, D.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=723 WDA 2026&dnh=tM7tTPw%2F5e9KveOOlzaTrg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "724 WDA 2026",
+      "caption": "Oswald, D. v. Oswald, D.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=724 WDA 2026&dnh=KqjplrHX911kHohF1y%2F9yQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "725 WDA 2026",
+      "caption": "Oswald, D. v. Oswald, D.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=725 WDA 2026&dnh=fx0XnzaPlIWMLtK8sMYV8A%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "726 WDA 2026",
+      "caption": "Fanning, J. v. Difelice, C.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=726 WDA 2026&dnh=D%2BTqxTdTQQwiymg8w9oMuQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "727 WDA 2026",
+      "caption": "Com. v. Woodell, N.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=727 WDA 2026&dnh=31P5FJZMYuqmt6iv9vOElA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "728 WDA 2026",
+      "caption": "Com. v. Thrush, C.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=728 WDA 2026&dnh=gESfJaCDhwDqcT8%2FinqaBA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "729 WDA 2026",
+      "caption": "Solosky, J. v. Manning, B.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=729 WDA 2026&dnh=mnMQJqWXtqOShYhRpa%2BUOw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "730 WDA 2026",
+      "caption": "Yoas, L. v. Oulare, E.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=730 WDA 2026&dnh=lGdFmcq1RmFKfZa8fP%2FEJA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "731 WDA 2026",
+      "caption": "Com. v. Frame, R.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=731 WDA 2026&dnh=iahaZc%2BGjdcR3B2XTlE3Og%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "733 WDA 2026",
+      "caption": "Flow, W. v. Campbell, T.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=733 WDA 2026&dnh=bVsH5a91IRZcg52o%2BAYdGQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "734 WDA 2026",
+      "caption": "Grande, K. v. Michael, J.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=734 WDA 2026&dnh=3IkFt5YnKYRfMbiUtNA9xw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "735 WDA 2026",
+      "caption": "Com. v. Rodriguez, S.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=735 WDA 2026&dnh=twwWYGxq9IEN0Dk8wLOy9g%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "736 WDA 2026",
+      "caption": "Federal Express Corp. v. National Union Fire",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=736 WDA 2026&dnh=xNYKih7AtRzaGHA3MLR%2B7g%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "737 WDA 2026",
+      "caption": "Mbomio, A. v. Demarco, J.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=737 WDA 2026&dnh=3%2B5vcb8C7IqDYIIn1561eg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "738 WDA 2026",
+      "caption": "Com. v. Griffiths, K.",
+      "status": "Active",
+      "filing_date": "06/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=738 WDA 2026&dnh=zgrQLEiTTte7QuR1aMZJzw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "739 WDA 2026",
+      "caption": "Com. v. Gausman, B.",
+      "status": "Active",
+      "filing_date": "06/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=739 WDA 2026&dnh=aiJ9ZuGNICUctAHTgOomaw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "740 WDA 2026",
+      "caption": "Satina, D. v. Satina, E.",
+      "status": "Active",
+      "filing_date": "06/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=740 WDA 2026&dnh=e%2F5YHtRONbOwmH5cy5bxQg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "741 WDA 2026",
+      "caption": "McIntyre, A. v. Alcantara, M. v. Piggott, C.",
+      "status": "Active",
+      "filing_date": "06/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=741 WDA 2026&dnh=jZbuEvyY8L1302TFbJQAzg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "742 WDA 2026",
+      "caption": "Com. v. Boggs, R.",
+      "status": "Active",
+      "filing_date": "06/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=742 WDA 2026&dnh=XjMKk1WDfQStLtPNWLZsaQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "743 WDA 2026",
+      "caption": "Com. v. Boggs, R.",
+      "status": "Active",
+      "filing_date": "06/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=743 WDA 2026&dnh=ntRjBDJaqH6Qxmbp75gHZQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "744 WDA 2026",
+      "caption": "Com. v. Boggs, R.",
+      "status": "Active",
+      "filing_date": "06/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=744 WDA 2026&dnh=QqhHbcYBNoO7gyzotFe%2F8Q%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "745 WDA 2026",
+      "caption": "Com. v. Weithers, C.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=745 WDA 2026&dnh=esUMkQRaJagCIFFCgOhKTw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "746 WDA 2026",
+      "caption": "In Re: Torres-Hobson, M. Appeal of:Torres, J.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=746 WDA 2026&dnh=LkOfHCO%2BHAiJd4peBOGY3w%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "747 WDA 2026",
+      "caption": "Pritts, K. v. Pritts, J.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=747 WDA 2026&dnh=85mUdfLb8djaHh9c5ShtSw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "746 CD 2026",
+      "caption": "Gonzalez, L. v. UCBR",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=746 CD 2026&dnh=P%2BzGI2b5RhcWRZmqUiSTZg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "753 CD 2026",
+      "caption": "O'Neill, J. v. SERB",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=753 CD 2026&dnh=1I9dLdkNukO7sS5HTcNTxw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "756 CD 2026",
+      "caption": "Maurer, M., et al. v. Dept. of M&V Affairs (OOR)",
+      "status": "Active",
+      "filing_date": "06/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=756 CD 2026&dnh=XSgaiElCH3EC2Ljs2%2B%2BGJg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "759 CD 2026",
+      "caption": "Bennett, D. v. UCBR",
+      "status": "Active",
+      "filing_date": "06/02/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=759 CD 2026&dnh=panZTgXvuUJ4JexXgTzteA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "761 CD 2026",
+      "caption": "Securus Technologies, LLC v. DOC",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=761 CD 2026&dnh=KAuDId%2BzD1RbvUOFWlM6mA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "763 CD 2026",
+      "caption": "DOC v. Revelle, A",
+      "status": "Active",
+      "filing_date": "06/02/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=763 CD 2026&dnh=w0VD7BcazCKcdCGERsXYHg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "766 CD 2026",
+      "caption": "Smart Communications Holding, Inc. v. DOC",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=766 CD 2026&dnh=BG5uS8u1rergaGqM44RgIg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "192 FR 2026",
+      "caption": "James J. Anderson Constr. Company v. Com. of Pa",
+      "status": "Active",
+      "filing_date": "06/02/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=192 FR 2026&dnh=E%2BXWveWS%2BUpSvoWSQDDI1A%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "193 FR 2026",
+      "caption": "Mariano Construction, Inc. v. Com. of Pa.",
+      "status": "Active",
+      "filing_date": "06/02/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=193 FR 2026&dnh=1zS22uERrYnHiCyWNdbaPw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "194 FR 2026",
+      "caption": "Amerihealth Caritas Services, LLC v. Com. of Pa.",
+      "status": "Active",
+      "filing_date": "06/02/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=194 FR 2026&dnh=Y6mppSDWHnsUU3OrYtQ8bA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "195 FR 2026",
+      "caption": "Graham Packaging Company, LP v. Com. of Pa.",
+      "status": "Active",
+      "filing_date": "06/02/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=195 FR 2026&dnh=sNwid6Tx3Zk9xrTsraVCgQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "196 FR 2026",
+      "caption": "JPC Group, Inc. v. Com. of Pa.",
+      "status": "Active",
+      "filing_date": "06/02/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=196 FR 2026&dnh=rEaweEvADb8j%2B2xSWdMsnw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "197 FR 2026",
+      "caption": "Penn National Gaming, Inc. v. Com. of Pa.",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=197 FR 2026&dnh=AANTjz2bc3p1CjBigfNgPA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "198 FR 2026",
+      "caption": "Greenberg 2016 Family Trust v. Com. of Pa.",
+      "status": "Active",
+      "filing_date": "06/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=198 FR 2026&dnh=5KCfgC8XwdUH%2FRJ5ShE1cw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "199 FR 2026",
+      "caption": "Foot Locker Retail, Inc. v. Cmmnwlth.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=199 FR 2026&dnh=qehvwdtea22hTtnUbLEwYg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "200 FR 2026",
+      "caption": "P.J. Dick Incorporated v. Cmmnwlth.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=200 FR 2026&dnh=psFdg6%2B0qdDxjeFPMJGIVQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "201 FR 2026",
+      "caption": "Mascaro Construction Company, LLC v. Cmmnwlth.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=201 FR 2026&dnh=CFWHgygw%2BlYzGepJnEwXhw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "202 FR 2026",
+      "caption": "Henkels & McCoy, Inc. v. Cmmnwlth.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=202 FR 2026&dnh=O1iCkXQ7dTH%2FafbMPyFEZQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "268 MD 2026",
+      "caption": "DEP v. Danville Hospitality Group",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=268 MD 2026&dnh=BQo6AYhIkxgvyvBvN2VC8Q%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "269 MD 2026",
+      "caption": "Arguedas, A. v. DHS et al",
+      "status": "Active",
+      "filing_date": "06/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=269 MD 2026&dnh=JD0aPPCrkRLL3%2BStwJAWbQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "272 MD 2026",
+      "caption": "DEP v. Campana, Y.",
+      "status": "Active",
+      "filing_date": "06/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=272 MD 2026&dnh=urY7hMLx80OmoHplPDZr%2FQ%3D%3D"
+    },
     {
       "type": "filing",
       "court": "SCOTUS",
@@ -264,36 +1794,6 @@
       "pub_date": "Tue, 02 Jun 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Supreme/out/260MAL2025 - 106804181360912492.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/260MAL2025 - 106804181360912492.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 14 WAL 2026",
-      "caption": "Commonwealth v. Hayden, J., Pet.",
-      "author": "Per Curiam",
-      "pub_date": "Mon, 01 Jun 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/14WAL2026 - 106803673360835123.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/14WAL2026 - 106803673360835123.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 249 WAL 2025",
-      "caption": "Hollidaysburg Watchdog, Pet. v. Boro of Hollidaysburg, et al",
-      "author": "Per Curiam",
-      "pub_date": "Mon, 01 Jun 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/249WAL2025 - 106802745360726662.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/249WAL2025 - 106802745360726662.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 53 MAL 2026",
-      "caption": "Commonwealth v. Griffin, L., Pet.",
-      "author": "Per Curiam",
-      "pub_date": "Mon, 01 Jun 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/53MAL2026 - 106802779360730038.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/53MAL2026 - 106802779360730038.pdf"
     },
     {
       "type": "opinion",
@@ -954,76 +2454,6 @@
       "pub_date": "Tue, 02 Jun 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/494CD25_6-2-26.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/494CD25_6-2-26.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Commonwealth Court",
-      "docket": "1583 C.D. 2024",
-      "caption": "G. Scott-Mohammad v. UCBR",
-      "author": "Fizzano Cannon, J.",
-      "pub_date": "Mon, 01 Jun 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1583CD24_6-1-26.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1583CD24_6-1-26.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Commonwealth Court",
-      "docket": "56 C.D. 2025",
-      "caption": "J. Paul v. PSP (OOR)",
-      "author": "Fizzano Cannon, J.",
-      "pub_date": "Mon, 01 Jun 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/56CD25_6-1-26.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/56CD25_6-1-26.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Commonwealth Court",
-      "docket": "1528 C.D. 2024",
-      "caption": "8515 W. Chester Pike, LLC &amp; Delaware County TCB v. Sunday Sunshine Enterprises, LLC",
-      "author": "Covey, J.",
-      "pub_date": "Mon, 01 Jun 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1528CD24_6-1-26.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1528CD24_6-1-26.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Commonwealth Court",
-      "docket": "1812 C.D. 2024",
-      "caption": "E. Martinez v. K. Ransom, et al.",
-      "author": "Fizzano Cannon, J.",
-      "pub_date": "Mon, 01 Jun 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1812CD24_6-1-26.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1812CD24_6-1-26.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Commonwealth Court",
-      "docket": "14 C.D. 2025",
-      "caption": "RSR Electric, LLC v. UCBR",
-      "author": "Dumas, J. ~ Dissenting Opinion by Covey, J.",
-      "pub_date": "Mon, 01 Jun 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/14CD25_6-1-26.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/14CD25_6-1-26.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Commonwealth Court",
-      "docket": "73 C.D. 2025",
-      "caption": "Veterans Way Solar 1, LLC v. Tyrone Twp. ZHB",
-      "author": "Wallace, J.",
-      "pub_date": "Mon, 01 Jun 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/73CD25_6-1-26.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/73CD25_6-1-26.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Commonwealth Court",
-      "docket": "97 M.D. 2025",
-      "caption": "E.-T. Parker Koger, et al. v. PHFA, et al.",
-      "author": "PER CURIAM",
-      "pub_date": "Mon, 01 Jun 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/97MD25_6-1-26.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/97MD25_6-1-26.pdf"
     },
     {
       "type": "opinion",
