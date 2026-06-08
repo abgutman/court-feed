@@ -8,6 +8,7 @@ import json
 import pathlib
 import re
 from datetime import datetime, timezone
+from auth_gate import inject_auth
 
 ROOT = pathlib.Path(__file__).parent
 DATA_FILE = ROOT / "data" / "calendar.json"
@@ -20,6 +21,7 @@ COURT_COLORS = {
     "PA Supreme Court": "#1a237e",
     "PA Superior Court": "#283593",
     "PA Commonwealth Court": "#303f9f",
+    "Montco CCP": "#00695c",
 }
 
 
@@ -196,6 +198,69 @@ def build_pa_cards(events: list[dict], court_key: str) -> str:
     return "\n".join(cards) if cards else "<p>No scheduled arguments.</p>"
 
 
+def _format_montco_date(dt_str: str) -> str:
+    """Parse '05/20/2026' into 'Wednesday, May 20, 2026'."""
+    try:
+        dt = datetime.strptime(dt_str, "%m/%d/%Y")
+        return dt.strftime("%A, %B %d, %Y")
+    except Exception:
+        return dt_str
+
+
+def build_montco_cards(events: list[dict]) -> str:
+    """Build Montgomery County CCP calendar cards grouped by date."""
+    by_date: dict[str, list] = {}
+    for e in events:
+        heading = _format_montco_date(e.get("date", ""))
+        by_date.setdefault(heading, []).append(e)
+
+    color = COURT_COLORS["Montco CCP"]
+    cards = []
+    for heading, day_events in by_date.items():
+        cards.append(f'<h4 class="date-heading">{html.escape(heading)}</h4>')
+        for e in day_events:
+            caption = html.escape(e.get("caption", "")) or "<em>No caption</em>"
+            case_num = html.escape(e.get("case_number", ""))
+            court_type = html.escape(e.get("court_type", ""))
+            judge = html.escape(e.get("judge", ""))
+            location = html.escape(e.get("location", ""))
+            time_display = html.escape(e.get("time", ""))
+
+            ct_lower = court_type.lower()
+            badge_bg = "#78909c"
+            if "trial" in ct_lower or "jury" in ct_lower:
+                badge_bg = "#c62828"
+            elif "motion" in ct_lower or "argument" in ct_lower:
+                badge_bg = "#1565c0"
+            elif "arbitration" in ct_lower:
+                badge_bg = "#e65100"
+            elif "conference" in ct_lower:
+                badge_bg = "#2e7d32"
+            elif "custody" in ct_lower or "family" in ct_lower:
+                badge_bg = "#6a1b9a"
+
+            meta_parts = [f'<span class="badge" style="background:{badge_bg}">{court_type}</span>']
+            if case_num:
+                meta_parts.append(f'<span class="docket">{case_num}</span>')
+            if judge:
+                meta_parts.append(f'<span class="judge">{judge}</span>')
+            if location:
+                meta_parts.append(f'<span class="location">{location}</span>')
+            if time_display:
+                meta_parts.append(f'<span class="time">{time_display}</span>')
+
+            cards.append(f"""<div class="card">
+  <div class="card-header" style="border-left:4px solid {color}">
+    <div class="card-title">{caption}</div>
+    <div class="card-meta">
+      {" ".join(meta_parts)}
+    </div>
+  </div>
+</div>""")
+
+    return "\n".join(cards) if cards else "<p>No scheduled events.</p>"
+
+
 def build_page(data: dict) -> str:
     generated = data.get("generated", "")
     try:
@@ -212,12 +277,14 @@ def build_page(data: dict) -> str:
     pa_supreme_events = data.get("pa_supreme", [])
     pa_superior_events = data.get("pa_superior", [])
     pa_commonwealth_events = data.get("pa_commonwealth", [])
+    montco_events = data.get("montco_ccp", [])
 
     edpa_html = build_edpa_cards(edpa_events)
     ca3_html = build_ca3_cards(ca3_events)
     pa_supreme_html = build_pa_cards(pa_supreme_events, "PA Supreme Court")
     pa_superior_html = build_pa_cards(pa_superior_events, "PA Superior Court")
     pa_commonwealth_html = build_pa_cards(pa_commonwealth_events, "PA Commonwealth Court")
+    montco_html = build_montco_cards(montco_events)
 
     tab_order = [
         ("edpa", len(edpa_events)),
@@ -369,7 +436,7 @@ footer a {{ color: #999; }}
 <body>
 <header>
   <h1>Court Calendars</h1>
-  <p>Federal &amp; PA Appellate Court Schedules</p>
+  <p>Federal, PA Appellate &amp; County Court Schedules</p>
   <p>Last updated: {html.escape(generated_display)}</p>
   <nav><a href="https://abgutman.github.io/av-tools/">Av's Tools Homepage</a> &middot; <a href="index.html">Filings &amp; Opinions</a></nav>
 </header>
@@ -402,6 +469,10 @@ footer a {{ color: #999; }}
   <div class="tab-content{' active' if default_tab == 'pacommonwealth' else ''}" id="pacommonwealth-tab">
     {pa_commonwealth_html}
   </div>
+
+  <div class="tab-content" id="montco-tab">
+    {montco_html}
+  </div>
 </div>
 
 <footer>
@@ -409,7 +480,8 @@ footer a {{ color: #999; }}
   <a href="https://www.ca3.uscourts.gov/calendar">Third Circuit</a> &bull;
   <a href="https://www.pacourts.us/courts/supreme-court/calendar">PA Supreme</a> &bull;
   <a href="https://www.pacourts.us/courts/superior-court/calendar">PA Superior</a> &bull;
-  <a href="https://www.pacourts.us/courts/commonwealth-court/calendar">PA Commonwealth</a><br>
+  <a href="https://www.pacourts.us/courts/commonwealth-court/calendar">PA Commonwealth</a> &bull;
+  <a href="https://courtsapp.montcopa.org/psi/v/search/courtCalendar">Montgomery County</a><br>
   Data refreshed automatically. Schedules are subject to change.
 </footer>
 
@@ -429,13 +501,14 @@ def main() -> None:
     data = json.loads(DATA_FILE.read_text())
     page = build_page(data)
     out = OUT_DIR / "calendar.html"
-    out.write_text(page)
+    out.write_text(inject_auth(page))
     counts = {
         "EDPA": len(data.get("edpa", [])),
         "Third Circuit": len(data.get("third_circuit", [])),
         "PA Supreme": len(data.get("pa_supreme", [])),
         "PA Superior": len(data.get("pa_superior", [])),
         "PA Commonwealth": len(data.get("pa_commonwealth", [])),
+        "Montco CCP": len(data.get("montco_ccp", [])),
     }
     summary = " + ".join(f"{v} {k}" for k, v in counts.items())
     print(f"Built calendar: {out} ({summary})")

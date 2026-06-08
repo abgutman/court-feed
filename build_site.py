@@ -8,6 +8,7 @@ import json
 import pathlib
 import re
 from datetime import datetime, timedelta, timezone
+from auth_gate import inject_auth
 
 ROOT = pathlib.Path(__file__).parent
 DATA_FILE = ROOT / "data" / "filings.json"
@@ -20,9 +21,16 @@ COURT_COLORS = {
     "PA Commonwealth Court": "#303f9f",
     "Third Circuit": "#4a148c",
     "SCOTUS": "#b71c1c",
+    "Montco CCP": "#00695c",
+    "Delco CCP": "#4e342e",
+    "Bucks CCP": "#bf360c",
 }
 
-COURT_ORDER = ["PA Supreme Court", "PA Superior Court", "PA Commonwealth Court", "Third Circuit", "SCOTUS"]
+COURT_ORDER = [
+    "PA Supreme Court", "PA Superior Court", "PA Commonwealth Court",
+    "Third Circuit", "SCOTUS",
+    "Montco CCP", "Delco CCP", "Bucks CCP",
+]
 
 PHILLY_AREA_KW = re.compile(
     r"philadelphia|phila\b|bucks county|chester county|montgomery county"
@@ -444,7 +452,7 @@ footer a {{ color: #999; }}
 <body>
 <header>
   <h1>Av's Court Feed</h1>
-  <p>New filings &amp; opinions from PA Supreme, Superior, Commonwealth, Third Circuit &amp; SCOTUS cert petitions</p>
+  <p>PA appellate courts, SCOTUS cert petitions &amp; Montgomery, Delaware &amp; Bucks County filings</p>
   <p>Last updated: {html.escape(generated_display)}</p>
   <nav style="margin-top:10px"><a href="https://abgutman.github.io/av-tools/" style="color:#90caf9;font-size:13px;text-decoration:none">Av's Tools Homepage</a> &middot; <a href="calendar.html" style="color:#90caf9;font-size:13px;text-decoration:none">Court Calendars &rarr;</a></nav>
 </header>
@@ -462,6 +470,9 @@ footer a {{ color: #999; }}
       <button class="filter-btn" onclick="filterCourt('filings', 'Superior')">Superior</button>
       <button class="filter-btn" onclick="filterCourt('filings', 'Commonwealth')">Commonwealth</button>
       <button class="filter-btn" onclick="filterCourt('filings', 'SCOTUS')">SCOTUS</button>
+      <button class="filter-btn" onclick="filterCourt('filings', 'Montco')">Montco</button>
+      <button class="filter-btn" onclick="filterCourt('filings', 'Delco')">Delco</button>
+      <button class="filter-btn" onclick="filterCourt('filings', 'Bucks')">Bucks</button>
     </div>
     <div class="view-by-date" id="filings-bydate">{filing_html_by_date}</div>
     <div class="view-by-court" id="filings-bycourt" style="display:none">{filing_html_by_court}</div>
@@ -533,7 +544,7 @@ def main() -> None:
     data = json.loads(DATA_FILE.read_text())
     page = build_page(data)
     out = OUT_DIR / "index.html"
-    out.write_text(page)
+    out.write_text(inject_auth(page))
     print(f"Built site: {out} ({len(data.get('filings', []))} filings, {len(data.get('opinions', []))} opinions)")
 
 
