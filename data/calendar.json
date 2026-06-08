@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-08T21:33:06.972667+00:00",
+  "generated": "2026-06-08T23:07:45.236495+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -561,6 +561,17 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621925"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/11/2026 12:30PM",
+      "case_number": "26-cv-3921",
+      "caption": "MORALES v. MULLIN et al",
+      "judge": "DISTRICT JUDGE RUFE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 17A",
+      "hearing_type": "Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655973"
     },
     {
       "court": "EDPA",
