@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-10T17:50:14.644587+00:00",
+  "generated": "2026-06-10T20:09:27.083375+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -11,17 +11,6 @@
       "courtroom": "Courtroom 13B",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631163"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/10/2026 11:00AM",
-      "case_number": "16-cr-0453",
-      "caption": "USA v. GRAY",
-      "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "Reading",
-      "courtroom": "Reading 5th Floor",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?523444"
     },
     {
       "court": "EDPA",
@@ -630,17 +619,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "06/15/2026 12:00PM",
-      "case_number": "10-cr-0420",
-      "caption": "USA v. WHITE",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10A",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?366103"
-    },
-    {
-      "court": "EDPA",
       "datetime": "06/15/2026 01:30PM",
       "case_number": "24-cr-0203",
       "caption": "USA v. HILL",
@@ -847,6 +825,17 @@
       "courtroom": "Telephone Conference",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650764"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/16/2026 11:00AM",
+      "case_number": "25-cv-6489",
+      "caption": "SHIMSHOCK v. WACO INSTRUMENTS,",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "",
+      "courtroom": "Telephone Conference",
+      "hearing_type": "Telephone Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646271"
     },
     {
       "court": "EDPA",
@@ -1155,6 +1144,17 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646169"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/18/2026 12:00PM",
+      "case_number": "22-cv-1229",
+      "caption": "W.C. v. DELAWARE COUNTY et al",
+      "judge": "MAGISTRATE JUDGE DONIO",
+      "city": "",
+      "courtroom": "Telephone Conference",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?595291"
     },
     {
       "court": "EDPA",
