@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-10T20:09:27.083375+00:00",
+  "generated": "2026-06-10T22:47:30.490154+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -319,6 +319,17 @@
       "courtroom": "Courtroom 5C",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655748"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/12/2026 01:30PM",
+      "case_number": "26-cv-3976",
+      "caption": "JENARI BONFIM DA SILVA v. JAMI",
+      "judge": "DISTRICT JUDGE RUFE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 17A",
+      "hearing_type": "Show Cause Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656115"
     },
     {
       "court": "EDPA",
@@ -1059,6 +1070,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "06/17/2026 11:00AM",
+      "case_number": "21-cr-0326",
+      "caption": "USA v. CLARK",
+      "judge": "DISTRICT JUDGE SANCHEZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14B",
+      "hearing_type": "Evidentiary Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?588015"
+    },
+    {
+      "court": "EDPA",
       "datetime": "06/17/2026 01:30PM",
       "case_number": "24-cr-0158",
       "caption": "USA v. QUINTERO",
@@ -1078,6 +1100,17 @@
       "courtroom": "Courtroom 10A",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628769"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/17/2026 03:00PM",
+      "case_number": "24-cv-0484",
+      "caption": "SATTERFIELD v. GALLO",
+      "judge": "DISTRICT JUDGE PEREZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618480"
     },
     {
       "court": "EDPA",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-10T20:07:37.873745+00:00",
+  "generated": "2026-06-10T22:45:47.224233+00:00",
   "filings": [
     {
       "type": "filing",
@@ -220,6 +220,15 @@
     {
       "type": "filing",
       "court": "PA Supreme Court",
+      "docket": "323 MAL 2026",
+      "caption": "Commonwealth v. Deater, K., Pet.",
+      "status": "Active",
+      "filing_date": "06/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=323 MAL 2026&dnh=ARUTgPPSEaftPyNFOP6Ppw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
       "docket": "36 MAP 2026",
       "caption": "Commonwealth v. McFarland, A., Aplt.",
       "status": "Active",
@@ -315,6 +324,15 @@
       "status": "Active",
       "filing_date": "06/08/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=136 WAL 2026&dnh=sBP3AvGmOjB1k%2Bv3NaI2Ig%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "137 WAL 2026",
+      "caption": "Com. v. Lloyd, J.",
+      "status": "Active",
+      "filing_date": "06/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=137 WAL 2026&dnh=aheaIkQ5bcwcAU4hyGJ1bQ%3D%3D"
     },
     {
       "type": "filing",
@@ -1251,6 +1269,15 @@
       "status": "Active",
       "filing_date": "06/10/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=103 EDM 2026&dnh=OTMALihoC9VQZzxYpd5mCQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "104 EDM 2026",
+      "caption": "Lerner, Helen v. Fifteen Hundred, LP, Philadelphia",
+      "status": "Active",
+      "filing_date": "06/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=104 EDM 2026&dnh=CZoereqMi1wJL4GI4o%2FrEQ%3D%3D"
     },
     {
       "type": "filing",
