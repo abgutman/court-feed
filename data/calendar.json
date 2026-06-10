@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-10T14:15:33.981956+00:00",
+  "generated": "2026-06-10T17:50:14.644587+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -11,50 +11,6 @@
       "courtroom": "Courtroom 13B",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631163"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/10/2026 09:30AM",
-      "case_number": "25-cv-3138",
-      "caption": "SAMPSON v. CITY OF PHILADELPHI",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5D",
-      "hearing_type": "Arbitration Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639285"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/10/2026 10:00AM",
-      "case_number": "26-cr-0207",
-      "caption": "USA v. GREEN",
-      "judge": "DISTRICT JUDGE PEREZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10B",
-      "hearing_type": "Plea Agreement Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654514"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/10/2026 10:00AM",
-      "case_number": "16-cv-5796",
-      "caption": "WICHTERMAN v. CITY OF PHILADEL",
-      "judge": "DISTRICT JUDGE YOUNGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?523838"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/10/2026 11:00AM",
-      "case_number": "25-cr-0380",
-      "caption": "USA v. ESPINAL INFANTE",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642879"
     },
     {
       "court": "EDPA",
@@ -752,6 +708,17 @@
     {
       "court": "EDPA",
       "datetime": "06/16/2026 09:30AM",
+      "case_number": "24-cr-0374",
+      "caption": "USA v. THOMAS",
+      "judge": "DISTRICT JUDGE SANCHEZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14B",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628802"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/16/2026 09:30AM",
       "case_number": "25-cr-0305",
       "caption": "USA v. HUNTER",
       "judge": "DISTRICT JUDGE WEILHEIMER",
@@ -983,17 +950,6 @@
     {
       "court": "EDPA",
       "datetime": "06/17/2026 09:30AM",
-      "case_number": "25-cr-0166",
-      "caption": "USA v. FERNANDES",
-      "judge": "DISTRICT JUDGE GALLAGHER",
-      "city": "Allentown",
-      "courtroom": "Cahn 4B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636395"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/17/2026 09:30AM",
       "case_number": "25-cv-6307",
       "caption": "Vazquez v. STATE FARM FIRE AND",
       "judge": "DISTRICT JUDGE HENRY",
@@ -1122,17 +1078,6 @@
       "courtroom": "Courtroom 14A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621216"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/17/2026 01:30PM",
-      "case_number": "26-cv-0191",
-      "caption": "PARKER v. HOME DEPOT USA, INC.",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Final Pretrial Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648340"
     },
     {
       "court": "EDPA",
@@ -1445,17 +1390,6 @@
     {
       "court": "EDPA",
       "datetime": "06/23/2026 09:30AM",
-      "case_number": "26-cv-0191",
-      "caption": "PARKER v. HOME DEPOT USA, INC.",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Bench Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648340"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/23/2026 09:30AM",
       "case_number": "25-cv-5913",
       "caption": "BENNETT v. GRENON et al",
       "judge": "DISTRICT JUDGE KEARNEY",
@@ -1683,17 +1617,6 @@
       "courtroom": "Courtroom 16B",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648472"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/23/2026 01:00PM",
-      "case_number": "25-cv-1007",
-      "caption": "SIRACUSA v. SHALEEMENTERPRISE3",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633946"
     },
     {
       "court": "EDPA",
@@ -1999,15 +1922,6 @@
       "date": "2026-06-10",
       "case_number": "25-2184",
       "caption": "Jose Mejia-Henriquez v. Attorney General United States of Am",
-      "panel": "HARDIMAN, BOVE, FISHER",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-06-10",
-      "case_number": "25-2538",
-      "caption": "Delaware River Port Authority v. Kevin Walsh",
       "panel": "HARDIMAN, BOVE, FISHER",
       "location_time": "Philadelphia, PA - Maris Courtroom / 9:30am",
       "disposition": "Argued"
@@ -2324,7 +2238,7 @@
       "case_number": "25-1459",
       "caption": "Cheryl Hileman v. West Penn Allegheny Health System Inc",
       "panel": "BIBAS, CHUNG, MASCOTT",
-      "location_time": "Wilmington, DE - 2B Courtroom / 2:30 pm",
+      "location_time": "Wilmington, DE - 2B Courtroom / 9:30 am",
       "disposition": "Argued"
     },
     {
@@ -2383,6 +2297,42 @@
     },
     {
       "court": "Third Circuit",
+      "date": "2026-06-29",
+      "case_number": "24-2742",
+      "caption": "USA v. Brandon Aumiller",
+      "panel": "SHWARTZ, PHIPPS, RENDELL",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-29",
+      "case_number": "25-2054",
+      "caption": "USA v. Luis Gomez",
+      "panel": "SHWARTZ, PHIPPS, RENDELL",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-29",
+      "case_number": "25-2493",
+      "caption": "Kantilal Patel v. Attorney General United States of America",
+      "panel": "SHWARTZ, PHIPPS, RENDELL",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-29",
+      "case_number": "25-2912",
+      "caption": "McGuire Memorial v. Teamsters Local 261, International Broth",
+      "panel": "SHWARTZ, PHIPPS, RENDELL",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
       "date": "2026-06-30",
       "case_number": "25-2762",
       "caption": "Gregory Hartmann et al v. Brian Chudzik et al",
@@ -2410,6 +2360,33 @@
     },
     {
       "court": "Third Circuit",
+      "date": "2026-06-30",
+      "case_number": "25-2587",
+      "caption": "Javokhir Attoev v. Attorney General United States of America",
+      "panel": "SHWARTZ, PHIPPS, RENDELL",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-30",
+      "case_number": "25-2995",
+      "caption": "USA v. Timothy Riddy",
+      "panel": "SHWARTZ, PHIPPS, RENDELL",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-30",
+      "case_number": "25-3188",
+      "caption": "Veronica Serpas-Joya et al  v. Attorney General United State",
+      "panel": "SHWARTZ, PHIPPS, RENDELL",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
       "date": "2026-07-01",
       "case_number": "25-1460, 25-1464, 25-1959, 25-1961",
       "caption": "Lower Susquehanna Riverkeeper et al v. FERC",
@@ -2425,6 +2402,105 @@
       "panel": "SHWARTZ, PHIPPS, RENDELL",
       "location_time": "Philadelphia, PA - Maris Courtroom / 9:30am",
       "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-07-01",
+      "case_number": "25-2029",
+      "caption": "USA v. Comprehensive Healthcare Management Services LLC",
+      "panel": "SHWARTZ, PHIPPS, MCKEE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-07-01",
+      "case_number": "25-2030",
+      "caption": "USA v. Mt Lebanon Operations LLC",
+      "panel": "SHWARTZ, PHIPPS, MCKEE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-07-01",
+      "case_number": "25-2231",
+      "caption": "Ariele Martins De Franca et al  v. Attorney General United S",
+      "panel": "SHWARTZ, PHIPPS, MCKEE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-07-01",
+      "case_number": "25-2842",
+      "caption": "USA v. Naajeh Torres",
+      "panel": "SHWARTZ, PHIPPS, MCKEE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-07-01",
+      "case_number": "25-2865",
+      "caption": "USA v. Naajeh Torres",
+      "panel": "SHWARTZ, PHIPPS, MCKEE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-07-01",
+      "case_number": "25-2931",
+      "caption": "USA v. Dennis Bastian",
+      "panel": "SHWARTZ, PHIPPS, MCKEE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-07-01",
+      "case_number": "25-3195",
+      "caption": "Maura Jenkins v. Harrisburg Rotary Club et al",
+      "panel": "SHWARTZ, PHIPPS, MCKEE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-07-02",
+      "case_number": "25-2264",
+      "caption": "Carol Sikina v. Postmaster General of the United States",
+      "panel": "SHWARTZ, PHIPPS, MCKEE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-07-02",
+      "case_number": "25-3067",
+      "caption": "USA v. David Cunningham",
+      "panel": "SHWARTZ, PHIPPS, MCKEE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-07-02",
+      "case_number": "25-3098",
+      "caption": "Cristofer Ortega-Varela v. Attorney General United States of",
+      "panel": "SHWARTZ, PHIPPS, MCKEE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-07-02",
+      "case_number": "25-3131",
+      "caption": "J. F. v. Delaware Department of Education",
+      "panel": "SHWARTZ, PHIPPS, MCKEE",
+      "location_time": "",
+      "disposition": "Submitted"
     }
   ],
   "pa_supreme": [],
@@ -4007,18 +4083,6 @@
       "docket_number": "169 EDA 2026",
       "journal_number": "J-A17037-26",
       "caption": "In the Int. of: G.C., Appeal of: G.C.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "17th Floor , 530 Walnut St ., Philadelphia",
-      "city": "Philadelphia",
-      "panel": "17-ARGUMENT-2026-2",
-      "judges": "NICHOLS ; NEUMAN , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "07/08/2026",
-      "docket_number": "3219 EDA 2025",
-      "journal_number": "J-A17038-26",
-      "caption": "In the Int. of: S.T.-H., Appeal of: S.T.-H.",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
