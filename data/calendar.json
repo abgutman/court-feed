@@ -1,17 +1,6 @@
 {
-  "generated": "2026-06-10T10:48:05.180531+00:00",
+  "generated": "2026-06-10T14:15:33.981956+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "06/10/2026 09:30AM",
-      "case_number": "24-cr-0156",
-      "caption": "USA v. GLASS",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621158"
-    },
     {
       "court": "EDPA",
       "datetime": "06/10/2026 09:30AM",
@@ -422,17 +411,6 @@
     {
       "court": "EDPA",
       "datetime": "06/15/2026 09:30AM",
-      "case_number": "25-cr-0380",
-      "caption": "USA v. ESPINAL INFANTE",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642879"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/15/2026 09:30AM",
       "case_number": "25-cr-0414",
       "caption": "USA v. LONDON, JR.",
       "judge": "DISTRICT JUDGE HENRY",
@@ -704,17 +682,6 @@
       "courtroom": "Courtroom 10A",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?366103"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/15/2026 01:30PM",
-      "case_number": "24-cr-0059",
-      "caption": "USA v. ROGERSON",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618980"
     },
     {
       "court": "EDPA",
@@ -1243,6 +1210,17 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646169"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/18/2026 12:00PM",
+      "case_number": "22-cv-1245",
+      "caption": "A.H. v. DELAWARE COUNTY et al",
+      "judge": "MAGISTRATE JUDGE DONIO",
+      "city": "",
+      "courtroom": "Telephone Conference",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?595321"
     },
     {
       "court": "EDPA",
@@ -2402,6 +2380,51 @@
       "panel": "BIBAS, CHUNG, MASCOTT",
       "location_time": "",
       "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-30",
+      "case_number": "25-2762",
+      "caption": "Gregory Hartmann et al v. Brian Chudzik et al",
+      "panel": "SHWARTZ, PHIPPS, RENDELL",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 2:30pm",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-30",
+      "case_number": "25-3012",
+      "caption": "USA v. Diego Aleman-Lozano",
+      "panel": "SHWARTZ, PHIPPS, MCKEE",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 2:30pm",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-30",
+      "case_number": "26-1291",
+      "caption": "Stanford Williams v. Superintendent Fayette SCI et al",
+      "panel": "SHWARTZ, PHIPPS, BOVE",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 1:30pm",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-07-01",
+      "case_number": "25-1460, 25-1464, 25-1959, 25-1961",
+      "caption": "Lower Susquehanna Riverkeeper et al v. FERC",
+      "panel": "SHWARTZ, PHIPPS, RENDELL",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-07-01",
+      "case_number": "25-2279",
+      "caption": "Felishatay Alvarado v. City of Philadelphia et al",
+      "panel": "SHWARTZ, PHIPPS, RENDELL",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30am",
+      "disposition": "Argued"
     }
   ],
   "pa_supreme": [],

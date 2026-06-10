@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-10T10:46:45.960854+00:00",
+  "generated": "2026-06-10T14:14:00.271745+00:00",
   "filings": [
     {
       "type": "filing",
@@ -198,6 +198,15 @@
       "status": "Active",
       "filing_date": "06/05/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=317 MAL 2026&dnh=fNwJKwl9KLEyDuCfCQ3HAQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "36 MAP 2026",
+      "caption": "Commonwealth v. McFarland, A., Aplt.",
+      "status": "Active",
+      "filing_date": "06/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=36 MAP 2026&dnh=B2mcd1aPK%2FJFJ4OovfTSpQ%3D%3D"
     },
     {
       "type": "filing",
@@ -1030,6 +1039,24 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "1599 EDA 2026",
+      "caption": "In the Int. of: A.R.F., Appeal of: J.B.",
+      "status": "Active",
+      "filing_date": "06/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1599 EDA 2026&dnh=7G5lnx9rJ26IsiJ9k67Z2Q%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1600 EDA 2026",
+      "caption": "Stillwaggon, L. v. Bishop, A.",
+      "status": "Active",
+      "filing_date": "06/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1600 EDA 2026&dnh=UIM2R4KSkp3rtO6FOv6iVw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "97 EDM 2026",
       "caption": "Swen, P. v. Dept. of Human Services",
       "status": "Active",
@@ -1080,6 +1107,15 @@
       "status": "Active",
       "filing_date": "06/08/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=102 EDM 2026&dnh=NPcZy8KM9H%2B%2BZ6ejqGINcg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "103 EDM 2026",
+      "caption": "Wilson, D. v. Lopez, M.",
+      "status": "Active",
+      "filing_date": "06/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=103 EDM 2026&dnh=OTMALihoC9VQZzxYpd5mCQ%3D%3D"
     },
     {
       "type": "filing",
@@ -1363,11 +1399,29 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
-      "docket": "895 MDA 2026",
-      "caption": "Com. v. Ortiz, S.",
+      "docket": "896 MDA 2026",
+      "caption": "In the Int. of: A.M., a Minor",
       "status": "Active",
-      "filing_date": "06/09/2026",
-      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=895 MDA 2026&dnh=3J2Xe7XIkU%2F285TjWo9R3w%3D%3D"
+      "filing_date": "06/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=896 MDA 2026&dnh=Dab0%2FHrD6oKURYx2QPjKkQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "897 MDA 2026",
+      "caption": "In the Int. of: J.M., a Minor",
+      "status": "Active",
+      "filing_date": "06/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=897 MDA 2026&dnh=OkrGeNmI3n0%2ByR7DAXnofQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "898 MDA 2026",
+      "caption": "Segundo, T. v. Segundo, D.",
+      "status": "Active",
+      "filing_date": "06/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=898 MDA 2026&dnh=sDWtkOWzmj2lM3fA%2BaPOpQ%3D%3D"
     },
     {
       "type": "filing",
@@ -1696,15 +1750,6 @@
     {
       "type": "filing",
       "court": "PA Commonwealth Court",
-      "docket": "771 CD 2026",
-      "caption": "PLCB v. Germantown Nest No. 1624",
-      "status": "Active",
-      "filing_date": "06/08/2026",
-      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=771 CD 2026&dnh=2TvNuBa0KHFGw3LZv14ZhA%3D%3D"
-    },
-    {
-      "type": "filing",
-      "court": "PA Commonwealth Court",
       "docket": "776 CD 2026",
       "caption": "Hurst, C. v. DHS",
       "status": "Active",
@@ -1728,6 +1773,15 @@
       "status": "Active",
       "filing_date": "06/09/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=779 CD 2026&dnh=X03LKGhuhEaQv0EJlzbivg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "783 CD 2026",
+      "caption": "Strohecker, M. v. UCBR",
+      "status": "Active",
+      "filing_date": "06/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=783 CD 2026&dnh=z0UZsIp7arT4kSvciLU3Lw%3D%3D"
     },
     {
       "type": "filing",
@@ -2540,6 +2594,76 @@
       "pub_date": "Fri, 05 Jun 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S09045-26m - 106809052361493604.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S09045-26m - 106809052361493604.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "936 C.D. 2025",
+      "caption": "Overbrook Golf Club and Radnor Valley Country Club v. Radnor Twp.",
+      "author": "McCullough, J.",
+      "pub_date": "Wed, 10 Jun 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/936CD25_6-10-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/936CD25_6-10-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "94 C.D. 2025",
+      "caption": "County of Delaware TCB v. L.P. Diffenbach, Jr. and Rose Tree Media SD",
+      "author": "Covey, J.",
+      "pub_date": "Wed, 10 Jun 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/94CD25_6-10-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/94CD25_6-10-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "1784 C.D. 2024",
+      "caption": "S. Hoff and Executive African Food &amp; Fashion v. Dept. of Health",
+      "author": "Cohn Jubelirer, President Judge",
+      "pub_date": "Wed, 10 Jun 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1784CD24_6-10-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1784CD24_6-10-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "487 C.D. 2025",
+      "caption": "Wouch Maloney &amp; Co. LLP v. UCBR",
+      "author": "McCullough, J.",
+      "pub_date": "Wed, 10 Jun 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/487CD25_6-10-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/487CD25_6-10-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "1476 C.D. 2024",
+      "caption": "A. Jackson-Johnson v. Wilkes-Barre Housing Authority",
+      "author": "Covey, J.",
+      "pub_date": "Wed, 10 Jun 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1476CD24_6-10-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1476CD24_6-10-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "96 C.D. 2025",
+      "caption": "C. Murray v. UCBR",
+      "author": "Dumas, J.",
+      "pub_date": "Wed, 10 Jun 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/96CD25_6-10-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/96CD25_6-10-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "533 C.D. 2025",
+      "caption": "C. Medina v. PennDOT, et al.",
+      "author": "Leadbetter, Senior Judge",
+      "pub_date": "Wed, 10 Jun 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/533CD25_6-10-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/533CD25_6-10-26.pdf"
     },
     {
       "type": "opinion",
