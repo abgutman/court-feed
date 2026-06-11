@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-11T10:00:59.646215+00:00",
+  "generated": "2026-06-11T13:58:38.382378+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -253,6 +253,28 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635736"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/12/2026 01:30PM",
+      "case_number": "26-cr-0245",
+      "caption": "USA v. SMALLS",
+      "judge": "MAGISTRATE JUDGE SITARSKI",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5C",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655484"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/12/2026 01:30PM",
+      "case_number": "26-cr-0245",
+      "caption": "USA v. SMALLS",
+      "judge": "MAGISTRATE JUDGE SITARSKI",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5C",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655484"
     },
     {
       "court": "EDPA",
@@ -851,17 +873,6 @@
     {
       "court": "EDPA",
       "datetime": "06/17/2026 09:30AM",
-      "case_number": "25-cr-0530",
-      "caption": "USA v. ANDERSON",
-      "judge": "DISTRICT JUDGE BARTLE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647492"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/17/2026 09:30AM",
       "case_number": "25-cv-6307",
       "caption": "Vazquez v. STATE FARM FIRE AND",
       "judge": "DISTRICT JUDGE HENRY",
@@ -1089,17 +1100,6 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646169"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/18/2026 12:00PM",
-      "case_number": "22-cv-1229",
-      "caption": "W.C. v. DELAWARE COUNTY et al",
-      "judge": "MAGISTRATE JUDGE DONIO",
-      "city": "",
-      "courtroom": "Telephone Conference",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?595291"
     },
     {
       "court": "EDPA",
@@ -2101,6 +2101,17 @@
       "courtroom": "Courtroom 10A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652843"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/25/2026 10:30PM",
+      "case_number": "26-cv-3370",
+      "caption": "Wadi et al v. JBT Martel Corp.",
+      "judge": "DISTRICT JUDGE MARSTON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16B",
+      "hearing_type": "Pretrial Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654862"
     }
   ],
   "third_circuit": [
@@ -2363,15 +2374,6 @@
       "caption": "USA v. Davone Walker",
       "panel": "BIBAS, CHUNG, MASCOTT",
       "location_time": "Wilmington, DE - 2B / Courtroom / 9:30 am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-06-25",
-      "case_number": "25-2785",
-      "caption": "Ahmad Williams v. Thumbtack Inc et al",
-      "panel": "BIBAS, CHUNG, MASCOTT",
-      "location_time": "Wilmington, DE - 2B Courtroom / 2:30 pm",
       "disposition": "Argued"
     },
     {

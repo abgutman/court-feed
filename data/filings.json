@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-11T09:59:18.560341+00:00",
+  "generated": "2026-06-11T13:57:02.537549+00:00",
   "filings": [
     {
       "type": "filing",
@@ -36,6 +36,15 @@
       "status": "Active",
       "filing_date": "06/08/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=191 EAL 2026&dnh=E%2BhXo%2BqV68UY0Bvh9ANl8w%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "192 EAL 2026",
+      "caption": "Commonwealth v. Ragin, D., Pet.",
+      "status": "Active",
+      "filing_date": "06/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=192 EAL 2026&dnh=bJOvorR%2FRIKQV3dzEl1llg%3D%3D"
     },
     {
       "type": "filing",
@@ -130,6 +139,24 @@
     {
       "type": "filing",
       "court": "PA Supreme Court",
+      "docket": "324 MAL 2026",
+      "caption": "Commonwealth v. Reed, J., Pet.",
+      "status": "Active",
+      "filing_date": "06/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=324 MAL 2026&dnh=WOAH1UJdyNkMqDOK%2BhSXVQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "325 MAL 2026",
+      "caption": "Commonwealth v. Reed, J., Pet.",
+      "status": "Active",
+      "filing_date": "06/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=325 MAL 2026&dnh=we1XUgV0j6FrEuXTdmyG2w%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
       "docket": "36 MAP 2026",
       "caption": "Commonwealth v. McFarland, A., Aplt.",
       "status": "Active",
@@ -194,10 +221,19 @@
       "type": "filing",
       "court": "PA Supreme Court",
       "docket": "137 WAL 2026",
-      "caption": "Com. v. Lloyd, J.",
+      "caption": "Commonwealth v. Lloyd, J., Pet.",
       "status": "Active",
       "filing_date": "06/10/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=137 WAL 2026&dnh=aheaIkQ5bcwcAU4hyGJ1bQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "138 WAL 2026",
+      "caption": "County of Somerset et al. v. DeLuca, A., Pet.",
+      "status": "Active",
+      "filing_date": "06/11/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=138 WAL 2026&dnh=WySvZKuB%2FMWbfljdhBH0NQ%3D%3D"
     },
     {
       "type": "filing",
@@ -967,6 +1003,15 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "1613 EDA 2026",
+      "caption": "Com. v. Edwards, C.",
+      "status": "Active",
+      "filing_date": "06/11/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1613 EDA 2026&dnh=6JPD5umVlw54de5%2Fpd%2FcKQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "97 EDM 2026",
       "caption": "Herndo, B. v. Swen, P.",
       "status": "Active",
@@ -1031,7 +1076,7 @@
       "type": "filing",
       "court": "PA Superior Court",
       "docket": "104 EDM 2026",
-      "caption": "Lerner, Helen v. Fifteen Hundred, LP, Philadelphia",
+      "caption": "Lerner, H. v. Fifteen Hundred, LP Philadelphia",
       "status": "Active",
       "filing_date": "06/10/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=104 EDM 2026&dnh=CZoereqMi1wJL4GI4o%2FrEQ%3D%3D"
@@ -1422,6 +1467,33 @@
       "status": "Active",
       "filing_date": "06/10/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=908 MDA 2026&dnh=bq2UbLFxBfIUSVebddzgYQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "909 MDA 2026",
+      "caption": "Burkholder, P. v. Leid, J. & M.",
+      "status": "Active",
+      "filing_date": "06/11/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=909 MDA 2026&dnh=JKXyAcAZbzT7XlrpN4jicw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "910 MDA 2026",
+      "caption": "In the Int. of: D.E., a Minor",
+      "status": "Active",
+      "filing_date": "06/11/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=910 MDA 2026&dnh=Qo5AH68BVB29rb%2BQMKZxFw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "911 MDA 2026",
+      "caption": "In Re: Adopt. of: H.C.D.H.",
+      "status": "Active",
+      "filing_date": "06/11/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=911 MDA 2026&dnh=dIPnFPrZVvOWXltl28PXbA%3D%3D"
     },
     {
       "type": "filing",
@@ -2840,6 +2912,16 @@
       "pub_date": "Fri, 05 Jun 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S18005-26m - 106808980361483278.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S18005-26m - 106808980361483278.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "1018 C.D. 2025",
+      "caption": "Jim's Commercial Service v. A. DiJoseph (WCAB)",
+      "author": "Wolf, J.",
+      "pub_date": "Thu, 11 Jun 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1018CD25_6-11-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1018CD25_6-11-26.pdf"
     },
     {
       "type": "opinion",
