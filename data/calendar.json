@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-12T18:57:51.752477+00:00",
+  "generated": "2026-06-12T21:01:25.127055+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -471,7 +471,7 @@
       "judge": "DISTRICT JUDGE MCHUGH",
       "city": "Philadelphia",
       "courtroom": "Courtroom 9B",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "hearing_type": "Bond Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?611771"
     },
     {
@@ -704,6 +704,17 @@
       "courtroom": "Cahn 4A",
       "hearing_type": "Arbitration Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645942"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/17/2026 09:30AM",
+      "case_number": "25-cr-0482",
+      "caption": "USA v. WHITAKER",
+      "judge": "DISTRICT JUDGE SANCHEZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14B",
+      "hearing_type": "Attorney Appointment Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645881"
     },
     {
       "court": "EDPA",
@@ -1221,17 +1232,6 @@
       "courtroom": "Courtroom 5D",
       "hearing_type": "Arbitration Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636652"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/23/2026 10:00AM",
-      "case_number": "26-cv-2706",
-      "caption": "ALOMAR v. CITY OF PHILADELPHIA",
-      "judge": "DISTRICT JUDGE KENNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653465"
     },
     {
       "court": "EDPA",
@@ -1928,17 +1928,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "06/25/2026 12:15PM",
-      "case_number": "25-cr-0426",
-      "caption": "USA v. BEASLEY",
-      "judge": "DISTRICT JUDGE KEARNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644035"
-    },
-    {
-      "court": "EDPA",
       "datetime": "06/25/2026 01:00PM",
       "case_number": "25-cv-1007",
       "caption": "SIRACUSA v. SHALEEMENTERPRISE3",
@@ -2463,18 +2452,6 @@
       "docket_number": "2927 EDA 2025",
       "journal_number": "J-A14001-26",
       "caption": "Jefferson, S. v. Smith, R.",
-      "consideration_type": "Expedited \u2014 Argument Panel",
-      "location": "17th Floor , 530 Walnut St ., Philadelphia",
-      "city": "Philadelphia",
-      "panel": "14-ARGUMENT-2026-2",
-      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "06/15/2026",
-      "docket_number": "2059 EDA 2025",
-      "journal_number": "J-A14003-26",
-      "caption": "Com. v. Scanlon, C.",
       "consideration_type": "Expedited \u2014 Argument Panel",
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",

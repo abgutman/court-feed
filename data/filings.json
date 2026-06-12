@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-12T18:56:22.229572+00:00",
+  "generated": "2026-06-12T20:59:47.348975+00:00",
   "filings": [
     {
       "type": "filing",
@@ -117,6 +117,24 @@
       "status": "Active",
       "filing_date": "06/12/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=330 MAL 2026&dnh=wHYzOFnPt77skeHTmE8zjg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "331 MAL 2026",
+      "caption": "Commonwealth v. Patel, D., Pet.",
+      "status": "Active",
+      "filing_date": "06/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=331 MAL 2026&dnh=bEaNhrzntAPqRUzuMIXh%2Bg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "332 MAL 2026",
+      "caption": "Duffield, W. v. Legend Spine, et al, Pet of: Wagener, C.",
+      "status": "Active",
+      "filing_date": "06/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=332 MAL 2026&dnh=lrtdr4u39J5CiY3%2FtZKXlw%3D%3D"
     },
     {
       "type": "filing",
@@ -1035,6 +1053,24 @@
       "status": "Active",
       "filing_date": "06/12/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1648 EDA 2026&dnh=B7s%2FOsNPK5Kk4d7gmOAEhQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1649 EDA 2026",
+      "caption": "Com. v. Riddick, C.",
+      "status": "Active",
+      "filing_date": "06/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1649 EDA 2026&dnh=5IY2TKoao0OOEssAobis5A%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1650 EDA 2026",
+      "caption": "Com. v. Robertson, C.",
+      "status": "Active",
+      "filing_date": "06/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1650 EDA 2026&dnh=1ifzM2OJ1vO3W9kES2iKCg%3D%3D"
     },
     {
       "type": "filing",
@@ -2148,45 +2184,39 @@
       "lower_court": "United States Court of Appeals for the Third Circuit",
       "lower_court_docket": "(24-1506)",
       "case_type": "IFP"
-    },
-    {
-      "type": "filing",
-      "court": "SCOTUS",
-      "docket": "25-7482",
-      "caption": "Djavon Holland v. United States",
-      "status": "Cert Petition",
-      "filing_date": "05/28/2026",
-      "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-7482.html",
-      "lower_court": "United States Court of Appeals for the Third Circuit",
-      "lower_court_docket": "(25-1019)",
-      "case_type": "IFP"
-    },
-    {
-      "type": "filing",
-      "court": "SCOTUS",
-      "docket": "25-7492",
-      "caption": "Shanni Snyd v. Christine Biros",
-      "status": "Cert Petition",
-      "filing_date": "05/29/2026",
-      "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-7492.html",
-      "lower_court": "United States Court of Appeals for the Third Circuit",
-      "lower_court_docket": "(24-1842, 24-3134)",
-      "case_type": "IFP"
-    },
-    {
-      "type": "filing",
-      "court": "SCOTUS",
-      "docket": "25-7559",
-      "caption": "Caleb L. McGillvary v. Jennifer Davenport, Attorney General of New Jersey, et al.",
-      "status": "Cert Petition",
-      "filing_date": "06/10/2026",
-      "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-7559.html",
-      "lower_court": "United States Court of Appeals for the Third Circuit",
-      "lower_court_docket": "(25-2159)",
-      "case_type": "IFP"
     }
   ],
   "opinions": [
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 48 MM 2026",
+      "caption": "Commonwealth v. Keeling, M., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Fri, 12 Jun 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/48MM2026 - 106817604362470770.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/48MM2026 - 106817604362470770.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 43 MM 2026",
+      "caption": "Brown, K., Jr., Pet. v. Supt. McGinley, et al.",
+      "author": "Per Curiam",
+      "pub_date": "Fri, 12 Jun 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/43MM2026 - 106817576362468390.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/43MM2026 - 106817576362468390.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 42 WM 2026",
+      "caption": "Shah, S., Pet. v. BPOA",
+      "author": "Per Curiam",
+      "pub_date": "Fri, 12 Jun 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/42WM2026 - 106817287362437977.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/42WM2026 - 106817287362437977.pdf"
+    },
     {
       "type": "opinion",
       "court": "PA Supreme Court",
@@ -2659,36 +2689,6 @@
     },
     {
       "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 1050 Supreme Court Rules",
-      "caption": "In Re: Appointment to Judicial Conduct Board",
-      "author": "Per Curiam",
-      "pub_date": "Mon, 08 Jun 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/Order Entered - 106810617361678585.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/Order Entered - 106810617361678585.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 71 MM 2026",
-      "caption": "Commonwealth v. Faust, W., Pet.",
-      "author": "Per Curiam",
-      "pub_date": "Mon, 08 Jun 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/71MM2026 - 106811452361760820.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/71MM2026 - 106811452361760820.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 109 MM 2026",
-      "caption": "Hines, C., Pet. v. Delaware County Domestic Relations, et al.",
-      "author": "Per Curiam",
-      "pub_date": "Mon, 08 Jun 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/109MM2026 - 106811542361767359.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/109MM2026 - 106811542361767359.pdf"
-    },
-    {
-      "type": "opinion",
       "court": "PA Superior Court",
       "docket": "",
       "caption": "Reargument Table",
@@ -2726,6 +2726,26 @@
       "pub_date": "Fri, 12 Jun 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-A10029-26o - 106817447362454944.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-A10029-26o - 106817447362454944.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Superior Court",
+      "docket": "",
+      "caption": "Judgment Lists",
+      "author": "",
+      "pub_date": "Fri, 12 Jun 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/061226 E.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/061226 E.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Superior Court",
+      "docket": "",
+      "caption": "Judgment Lists",
+      "author": "",
+      "pub_date": "Fri, 12 Jun 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/061226 M.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/061226 M.pdf"
     },
     {
       "type": "opinion",
@@ -3246,16 +3266,6 @@
       "pub_date": "Mon, 08 Jun 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S15005-26m - 106810708361690094.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S15005-26m - 106810708361690094.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Superior Court",
-      "docket": "No. 2371 EDA 2025",
-      "caption": "Com. v. Bowens, J.",
-      "author": "Olson, J.",
-      "pub_date": "Mon, 08 Jun 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S15015-26m - 106810731361694330.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S15015-26m - 106810731361694330.pdf"
     },
     {
       "type": "opinion",
