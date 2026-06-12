@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-12T09:53:00.766632+00:00",
+  "generated": "2026-06-12T12:48:35.202226+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -561,6 +561,17 @@
       "courtroom": "Courtroom 9A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614562"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/16/2026 11:30AM",
+      "case_number": "26-cr-0118",
+      "caption": "USA v. ENRIQUEZ-ARZAGA",
+      "judge": "DISTRICT JUDGE MARSTON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16B",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651505"
     },
     {
       "court": "EDPA",
@@ -1920,15 +1931,6 @@
       "date": "2026-06-12",
       "case_number": "25-2526",
       "caption": "Diego Buri Mora v. Attorney General United States of America",
-      "panel": "RESTREPO, MONTGOMERY-REEVES, BOVE",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-06-12",
-      "case_number": "25-2625",
-      "caption": "Matthew Kanapesky v. Township of East Brandywine et al",
       "panel": "RESTREPO, MONTGOMERY-REEVES, BOVE",
       "location_time": "",
       "disposition": "Submitted"
