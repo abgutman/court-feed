@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-12T21:01:25.127055+00:00",
+  "generated": "2026-06-12T22:24:29.962006+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -1133,6 +1133,17 @@
       "courtroom": "Courtroom 17B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?504369"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/22/2026 11:00AM",
+      "case_number": "26-cr-0249",
+      "caption": "USA v. TORRES",
+      "judge": "DISTRICT JUDGE SANCHEZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14B",
+      "hearing_type": "Plea Agreement Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655678"
     },
     {
       "court": "EDPA",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-12T20:59:47.348975+00:00",
+  "generated": "2026-06-12T22:23:00.527276+00:00",
   "filings": [
     {
       "type": "filing",
@@ -2183,6 +2183,42 @@
       "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-7463.html",
       "lower_court": "United States Court of Appeals for the Third Circuit",
       "lower_court_docket": "(24-1506)",
+      "case_type": "IFP"
+    },
+    {
+      "type": "filing",
+      "court": "SCOTUS",
+      "docket": "25-7482",
+      "caption": "Djavon Holland v. United States",
+      "status": "Cert Petition",
+      "filing_date": "05/28/2026",
+      "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-7482.html",
+      "lower_court": "United States Court of Appeals for the Third Circuit",
+      "lower_court_docket": "(25-1019)",
+      "case_type": "IFP"
+    },
+    {
+      "type": "filing",
+      "court": "SCOTUS",
+      "docket": "25-7492",
+      "caption": "Shanni Snyd v. Christine Biros",
+      "status": "Cert Petition",
+      "filing_date": "05/29/2026",
+      "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-7492.html",
+      "lower_court": "United States Court of Appeals for the Third Circuit",
+      "lower_court_docket": "(24-1842, 24-3134)",
+      "case_type": "IFP"
+    },
+    {
+      "type": "filing",
+      "court": "SCOTUS",
+      "docket": "25-7559",
+      "caption": "Caleb L. McGillvary v. Jennifer Davenport, Attorney General of New Jersey, et al.",
+      "status": "Cert Petition",
+      "filing_date": "06/10/2026",
+      "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-7559.html",
+      "lower_court": "United States Court of Appeals for the Third Circuit",
+      "lower_court_docket": "(25-2159)",
       "case_type": "IFP"
     }
   ],
