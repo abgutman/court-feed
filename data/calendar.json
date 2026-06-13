@@ -1,61 +1,6 @@
 {
-  "generated": "2026-06-12T22:24:29.962006+00:00",
+  "generated": "2026-06-13T00:12:33.397334+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "06/12/2026 01:30PM",
-      "case_number": "26-cr-0251",
-      "caption": "USA v. AUGUSTUS",
-      "judge": "DISTRICT JUDGE MCHUGH",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5C",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655748"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/12/2026 01:30PM",
-      "case_number": "26-cv-3976",
-      "caption": "JENARI BONFIM DA SILVA v. JAMI",
-      "judge": "DISTRICT JUDGE RUFE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 17A",
-      "hearing_type": "Show Cause Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656115"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/12/2026 01:30PM",
-      "case_number": "25-cr-0134",
-      "caption": "USA v. MATTHEWS",
-      "judge": "MAGISTRATE JUDGE SITARSKI",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635736"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/12/2026 01:30PM",
-      "case_number": "26-cr-0245",
-      "caption": "USA v. SMALLS",
-      "judge": "MAGISTRATE JUDGE SITARSKI",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5C",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655484"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/12/2026 01:30PM",
-      "case_number": "26-cr-0245",
-      "caption": "USA v. SMALLS",
-      "judge": "MAGISTRATE JUDGE SITARSKI",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5C",
-      "hearing_type": "Detention Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655484"
-    },
     {
       "court": "EDPA",
       "datetime": "06/15/2026 09:00AM",
@@ -2049,60 +1994,6 @@
     }
   ],
   "third_circuit": [
-    {
-      "court": "Third Circuit",
-      "date": "2026-06-12",
-      "case_number": "25-2517",
-      "caption": "USA v. Brian Albelli",
-      "panel": "RESTREPO, MONTGOMERY-REEVES, BOVE",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-06-12",
-      "case_number": "25-2526",
-      "caption": "Diego Buri Mora v. Attorney General United States of America",
-      "panel": "RESTREPO, MONTGOMERY-REEVES, BOVE",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-06-12",
-      "case_number": "25-2652",
-      "caption": "Tiffany Turner v. Philadelphia FIGHT",
-      "panel": "HARDIMAN, BOVE, FISHER",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-06-12",
-      "case_number": "25-2665",
-      "caption": "Issac Flores et al  v. Brian Emig et al",
-      "panel": "RESTREPO, MONTGOMERY-REEVES, BOVE",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-06-12",
-      "case_number": "25-2885",
-      "caption": "Nelson Alvarenga-Molina v. Attorney General United States of",
-      "panel": "RESTREPO, MONTGOMERY-REEVES, BOVE",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-06-12",
-      "case_number": "25-3143",
-      "caption": "Shichin Chang v. Attorney General United States of America",
-      "panel": "RESTREPO, MONTGOMERY-REEVES, BOVE",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
     {
       "court": "Third Circuit",
       "date": "2026-06-23",
