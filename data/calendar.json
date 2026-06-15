@@ -1,17 +1,6 @@
 {
-  "generated": "2026-06-15T09:50:46.181423+00:00",
+  "generated": "2026-06-15T15:35:54.328737+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "06/15/2026 09:00AM",
-      "case_number": "26-cr-0107",
-      "caption": "USA v. BAEZ",
-      "judge": "DISTRICT JUDGE BARTLE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16A",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651102"
-    },
     {
       "court": "EDPA",
       "datetime": "06/15/2026 09:30AM",
@@ -176,17 +165,6 @@
       "courtroom": "Courtroom TBD",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640495"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/15/2026 10:00AM",
-      "case_number": "26-cr-0107",
-      "caption": "USA v. BAEZ",
-      "judge": "DISTRICT JUDGE BARTLE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16A",
-      "hearing_type": "Jury Selection",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651102"
     },
     {
       "court": "EDPA",
@@ -795,6 +773,28 @@
     },
     {
       "court": "EDPA",
+      "datetime": "06/17/2026 01:30PM",
+      "case_number": "26-cr-0244",
+      "caption": "USA v. SEGERS",
+      "judge": "MAGISTRATE JUDGE REID",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655488"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/17/2026 01:30PM",
+      "case_number": "26-cr-0244",
+      "caption": "USA v. SEGERS",
+      "judge": "MAGISTRATE JUDGE REID",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655488"
+    },
+    {
+      "court": "EDPA",
       "datetime": "06/17/2026 02:00PM",
       "case_number": "24-cr-0368",
       "caption": "USA v. BUSTAMANTE",
@@ -825,17 +825,6 @@
       "courtroom": "Telephone Conference",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647394"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/18/2026 09:30AM",
-      "case_number": "26-cv-2642",
-      "caption": "Falzarano v. FRAMARBED, LLC",
-      "judge": "DISTRICT JUDGE GALLAGHER",
-      "city": "",
-      "courtroom": "unlisted",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653309"
     },
     {
       "court": "EDPA",
@@ -1023,6 +1012,17 @@
       "courtroom": "Courtroom 15B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635977"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/22/2026 10:00AM",
+      "case_number": "25-cv-6397",
+      "caption": "ROBERTSON v. LEGEND SENIOR LIV",
+      "judge": "MAGISTRATE JUDGE REID",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3C",
+      "hearing_type": "Settlement Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646071"
     },
     {
       "court": "EDPA",
@@ -1221,6 +1221,17 @@
       "courtroom": "Courtroom 11A",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635778"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/23/2026 10:00AM",
+      "case_number": "24-cv-6903",
+      "caption": "DOE v. TAYLOR AVENUE ASSOCIATE",
+      "judge": "MAGISTRATE JUDGE REID",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3C",
+      "hearing_type": "Settlement Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631670"
     },
     {
       "court": "EDPA",
@@ -1906,6 +1917,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "06/25/2026 01:30PM",
+      "case_number": "26-cv-2642",
+      "caption": "Falzarano v. FRAMARBED, LLC",
+      "judge": "DISTRICT JUDGE GALLAGHER",
+      "city": "Philadelphia",
+      "courtroom": "Judge's Chambers",
+      "hearing_type": "Pretrial Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653309"
+    },
+    {
+      "court": "EDPA",
       "datetime": "06/25/2026 02:00PM",
       "case_number": "24-cr-0250",
       "caption": "USA v. WILLIAMS",
@@ -2035,6 +2057,17 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630322"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/29/2026 10:00AM",
+      "case_number": "26-cr-0016",
+      "caption": "USA v. HAIR",
+      "judge": "DISTRICT JUDGE COSTELLO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 6A",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648192"
     },
     {
       "court": "EDPA",
