@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-15T19:36:34.219363+00:00",
+  "generated": "2026-06-15T22:08:40.970665+00:00",
   "filings": [
     {
       "type": "filing",
@@ -1003,6 +1003,15 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "1658 EDA 2026",
+      "caption": "Com. v. Keiner, M.",
+      "status": "Active",
+      "filing_date": "06/15/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1658 EDA 2026&dnh=0Gvcx%2FIXzIZf%2Fk6AssfCCw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "103 EDM 2026",
       "caption": "Wilson, D. v. Lopez, M.",
       "status": "Active",
@@ -1458,6 +1467,33 @@
       "status": "Active",
       "filing_date": "06/15/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=930 MDA 2026&dnh=yPjEdqM3sGPAoMAXr03vXw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "931 MDA 2026",
+      "caption": "Com. v. Anderson, R.",
+      "status": "Active",
+      "filing_date": "06/15/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=931 MDA 2026&dnh=VFb8H1R5lHeN4ZdM4AJiHA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "932 MDA 2026",
+      "caption": "Com. v. Anderson, R.",
+      "status": "Active",
+      "filing_date": "06/15/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=932 MDA 2026&dnh=Ag8ANXpbMrP%2BJNsOkQXz2w%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "933 MDA 2026",
+      "caption": "Com. v. Anderson, R.",
+      "status": "Active",
+      "filing_date": "06/15/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=933 MDA 2026&dnh=R%2BLlRPSbG1YulT6gwDizyw%3D%3D"
     },
     {
       "type": "filing",
@@ -2178,6 +2214,86 @@
     {
       "type": "opinion",
       "court": "PA Supreme Court",
+      "docket": "No. 50 MAP 2024",
+      "caption": "In re: Three PA Skill Amusement; Apl. of:  Comm",
+      "author": "Justice David Wecht",
+      "pub_date": "Mon, 15 Jun 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/J-96-2025mo - 106820258362749716.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/J-96-2025mo - 106820258362749716.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 50 MAP 2024",
+      "caption": "In re: Three PA Skill Amusement; Apl. of:  Comm",
+      "author": "Justice Christine Donohue",
+      "pub_date": "Mon, 15 Jun 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/J-96-2025co - 106820258362749725.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/J-96-2025co - 106820258362749725.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 50 MAP 2024",
+      "caption": "In re: Three PA Skill Amusement; Apl. of:  Comm",
+      "author": "Justice P. Kevin Brobson",
+      "pub_date": "Mon, 15 Jun 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/J-96-2025cdo - 106820258362749736.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/J-96-2025cdo - 106820258362749736.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 2 EAP 2024",
+      "caption": "POM of PA v. Dep't of Rev., et al.; Apl. of: Dep't of Rev.",
+      "author": "Justice David Wecht",
+      "pub_date": "Mon, 15 Jun 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/J-97-2025mo - 106820251362749440.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/J-97-2025mo - 106820251362749440.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 2 EAP 2024",
+      "caption": "POM of PA v. Dep't of Rev., et al.; Apl. of: Dep't of Rev.",
+      "author": "Justice Christine Donohue",
+      "pub_date": "Mon, 15 Jun 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/J-97-2025co - 106820251362749579.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/J-97-2025co - 106820251362749579.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 2 EAP 2024",
+      "caption": "POM of PA v. Dep't of Rev., et al.; Apl. of: Dep't of Rev.",
+      "author": "Justice P. Kevin Brobson",
+      "pub_date": "Mon, 15 Jun 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/J-97-2025cdo - 106820251362749455.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/J-97-2025cdo - 106820251362749455.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 77 MM 2026",
+      "caption": "Pavlinchak, S., Pet. v. Wyoming County CCP Judge",
+      "author": "Per Curiam",
+      "pub_date": "Mon, 15 Jun 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/77MM2026 - 106819916362733260.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/77MM2026 - 106819916362733260.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 76 MM 2026",
+      "caption": "Pavlinchak, S., Pet. v. Wyoming Co CCP Judge",
+      "author": "Per Curiam",
+      "pub_date": "Mon, 15 Jun 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/76MM2026 - 106819887362731341.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/76MM2026 - 106819887362731341.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
       "docket": "No. 22 WAL 2026",
       "caption": "Sangueza, O., et al., Pet. v. Rabkin Dermatopathology, et al.",
       "author": "Per Curiam",
@@ -2634,46 +2750,6 @@
       "pub_date": "Wed, 10 Jun 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Supreme/out/43MAL2026 - 106814317362086398.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/43MAL2026 - 106814317362086398.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 28 MAL 2026",
-      "caption": "Commonwealth v. Illiano, A., Pet.",
-      "author": "Per Curiam",
-      "pub_date": "Wed, 10 Jun 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/28MAL2026 - 106814307362085351.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/28MAL2026 - 106814307362085351.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 16 MAL 2026",
-      "caption": "Commonwealth. v. Travinski, J., Pet.",
-      "author": "Per Curiam",
-      "pub_date": "Wed, 10 Jun 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/16MAL2026 - 106814306362085496.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/16MAL2026 - 106814306362085496.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 569 MAL 2025",
-      "caption": "Linde, B., et al., Pets. v. Linde, E.",
-      "author": "Per Curiam",
-      "pub_date": "Wed, 10 Jun 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/569MAL2025 - 106814048362048552.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/569MAL2025 - 106814048362048552.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 105 MM 2026",
-      "caption": "In the Int. of: I.U.Y., a Minor",
-      "author": "Per Curiam",
-      "pub_date": "Wed, 10 Jun 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/105MM2026 - 106814262362077330.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/105MM2026 - 106814262362077330.pdf"
     },
     {
       "type": "opinion",
@@ -3419,6 +3495,18 @@
       "url": "https://www2.ca3.uscourts.gov/opinarch/241861p.pdf",
       "guid": "ca3-24-1861-241861p.pdf",
       "precedential": true,
+      "origin": "USDC for the Eastern District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-2750",
+      "caption": "S. M. v. Chichester School District",
+      "author": "",
+      "pub_date": "Mon, 15 Jun 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/252750npo.pdf",
+      "guid": "ca3-25-2750-252750npo.pdf",
+      "precedential": false,
       "origin": "USDC for the Eastern District of Pennsylvania"
     },
     {

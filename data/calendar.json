@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-15T19:37:57.099482+00:00",
+  "generated": "2026-06-15T22:10:01.832267+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -11,17 +11,6 @@
       "courtroom": "Easton 4th Floor",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643818"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/15/2026 10:00AM",
-      "case_number": "25-cv-1619",
-      "caption": "DE LAGE LANDEN FINANCIAL SERVI",
-      "judge": "DISTRICT JUDGE PEREZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10B",
-      "hearing_type": "Bench Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635501"
     },
     {
       "court": "EDPA",
@@ -143,6 +132,17 @@
       "courtroom": "Courtroom 9B",
       "hearing_type": "Bond Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?611771"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/16/2026 10:00AM",
+      "case_number": "25-cv-1619",
+      "caption": "DE LAGE LANDEN FINANCIAL SERVI",
+      "judge": "DISTRICT JUDGE PEREZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10B",
+      "hearing_type": "Bench Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635501"
     },
     {
       "court": "EDPA",
@@ -663,17 +663,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "06/22/2026 10:00AM",
-      "case_number": "25-cv-6397",
-      "caption": "ROBERTSON v. LEGEND SENIOR LIV",
-      "judge": "MAGISTRATE JUDGE REID",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3C",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646071"
-    },
-    {
-      "court": "EDPA",
       "datetime": "06/22/2026 10:30AM",
       "case_number": "26-cv-0816",
       "caption": "MOCK et al v. COMMONWEALTH OF",
@@ -1015,17 +1004,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "06/23/2026 02:30PM",
-      "case_number": "25-cv-6068",
-      "caption": "PICKENS et al v. NATIONWIDE GE",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645352"
-    },
-    {
-      "court": "EDPA",
       "datetime": "06/23/2026 03:00PM",
       "case_number": "25-cr-0170",
       "caption": "USA v. BURTON",
@@ -1122,6 +1100,17 @@
       "courtroom": "Courtroom 13B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636403"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/24/2026 10:30AM",
+      "case_number": "25-cv-6068",
+      "caption": "PICKENS et al v. NATIONWIDE GE",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645352"
     },
     {
       "court": "EDPA",
@@ -1763,17 +1752,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "06/29/2026 02:00PM",
-      "case_number": "20-cr-0322",
-      "caption": "USA v. BRADLEY",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12B",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?576052"
-    },
-    {
-      "court": "EDPA",
       "datetime": "06/29/2026 03:00PM",
       "case_number": "24-cr-0319",
       "caption": "USA v. ORTEGA-CONTRERAS",
@@ -1782,6 +1760,17 @@
       "courtroom": "Gateway 5th Floor",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627335"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/29/2026 03:00PM",
+      "case_number": "20-cr-0322",
+      "caption": "USA v. BRADLEY",
+      "judge": "DISTRICT JUDGE WOLSON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12B",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?576052"
     }
   ],
   "third_circuit": [
@@ -2249,18 +2238,6 @@
     },
     {
       "court": "PA Superior Court",
-      "date": "06/15/2026",
-      "docket_number": "259 EDA 2025",
-      "journal_number": "J-A14014-26",
-      "caption": "Com. v. Matas, M.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "17th Floor , 530 Walnut St ., Philadelphia",
-      "city": "Philadelphia",
-      "panel": "14-ARGUMENT-2026-2",
-      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
-    },
-    {
-      "court": "PA Superior Court",
       "date": "06/16/2026",
       "docket_number": "1703 EDA 2025",
       "journal_number": "J-A14010-26",
@@ -2277,18 +2254,6 @@
       "docket_number": "1882 EDA 2025",
       "journal_number": "J-A14016-26",
       "caption": "Com. v. Pressley, J.",
-      "consideration_type": "Expedited \u2014 Argument Panel",
-      "location": "17th Floor , 530 Walnut St ., Philadelphia",
-      "city": "Philadelphia",
-      "panel": "14-ARGUMENT-2026-2",
-      "judges": "STABILE ; NICHOLS ; MURRAY , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "06/16/2026",
-      "docket_number": "1063 EDA 2025",
-      "journal_number": "J-A14017-26",
-      "caption": "Nichols, R. v. Pro-Sport & Luxury of WC",
       "consideration_type": "Expedited \u2014 Argument Panel",
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
