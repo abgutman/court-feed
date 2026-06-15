@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-15T03:32:22.581950+00:00",
+  "generated": "2026-06-15T09:50:46.181423+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -2126,6 +2126,33 @@
     }
   ],
   "third_circuit": [
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-23",
+      "case_number": "25-2116",
+      "caption": "Travelodge Hotels v. Durga LLC et al",
+      "panel": "BIBAS, CHUNG, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-23",
+      "case_number": "25-2629",
+      "caption": "Odunayo Ekundayo v. Attorney General United States of Americ",
+      "panel": "BIBAS, CHUNG, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-23",
+      "case_number": "25-2630",
+      "caption": "Gersen Gabriel v. DSM Biomedical Inc",
+      "panel": "BIBAS, CHUNG, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
     {
       "court": "Third Circuit",
       "date": "2026-06-24",
