@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-16T16:46:44.435520+00:00",
+  "generated": "2026-06-16T20:02:17.466638+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -11,28 +11,6 @@
       "courtroom": "Courtroom 6B",
       "hearing_type": "Jury Selection",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644490"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/16/2026 09:00AM",
-      "case_number": "25-cv-5731",
-      "caption": "Dennis v. HEADS et al",
-      "judge": "DISTRICT JUDGE KEARNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644490"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/16/2026 09:30AM",
-      "case_number": "24-cr-0374",
-      "caption": "USA v. THOMAS",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628802"
     },
     {
       "court": "EDPA",
@@ -103,17 +81,6 @@
     {
       "court": "EDPA",
       "datetime": "06/16/2026 01:00PM",
-      "case_number": "25-cv-6185",
-      "caption": "CITY OF PHILADELPHIA v. CVS HE",
-      "judge": "DISTRICT JUDGE PAPPERT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11A",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645595"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/16/2026 01:00PM",
       "case_number": "26-cv-0805",
       "caption": "Ultimo Global Holdings, LLC et",
       "judge": "DISTRICT JUDGE SAVAGE",
@@ -170,28 +137,6 @@
       "court": "EDPA",
       "datetime": "06/16/2026 01:30PM",
       "case_number": "26-cr-0264",
-      "caption": "USA v. ALMONTE-ORTIZ",
-      "judge": "MAGISTRATE JUDGE REID",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656134"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/16/2026 01:30PM",
-      "case_number": "26-cr-0264",
-      "caption": "USA v. ALMONTE-ORTIZ",
-      "judge": "MAGISTRATE JUDGE REID",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Detention Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656134"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/16/2026 01:30PM",
-      "case_number": "26-cr-0264",
       "caption": "USA v. PIMENTEL",
       "judge": "MAGISTRATE JUDGE REID",
       "city": "Philadelphia",
@@ -231,6 +176,17 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Detention Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656138"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/17/2026 09:00AM",
+      "case_number": "25-cv-5731",
+      "caption": "Dennis v. HEADS et al",
+      "judge": "DISTRICT JUDGE KEARNEY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 6B",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644490"
     },
     {
       "court": "EDPA",
@@ -418,17 +374,6 @@
       "courtroom": "Courtroom 14A",
       "hearing_type": "Miscellaneous Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653288"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/18/2026 01:30PM",
-      "case_number": "24-cv-4568",
-      "caption": "Alexander et al v. Seaworld Pa",
-      "judge": "DISTRICT JUDGE GALLAGHER",
-      "city": "Allentown",
-      "courtroom": "Cahn 4B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626867"
     },
     {
       "court": "EDPA",
@@ -818,6 +763,28 @@
     {
       "court": "EDPA",
       "datetime": "06/23/2026 01:30PM",
+      "case_number": "26-cr-0264",
+      "caption": "USA v. ALMONTE-ORTIZ",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "",
+      "courtroom": "unlisted",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656134"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/23/2026 01:30PM",
+      "case_number": "26-cr-0264",
+      "caption": "USA v. ALMONTE-ORTIZ",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "",
+      "courtroom": "unlisted",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656134"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/23/2026 01:30PM",
       "case_number": "25-cr-0379",
       "caption": "USA v. HERRERA-ORTEGA",
       "judge": "DISTRICT JUDGE DIAMOND",
@@ -1060,6 +1027,17 @@
     {
       "court": "EDPA",
       "datetime": "06/24/2026 01:00PM",
+      "case_number": "24-cv-1656",
+      "caption": "LAST CHANCE RANCH v. MCCUTCHEO",
+      "judge": "DISTRICT JUDGE HENRY",
+      "city": "Easton",
+      "courtroom": "Easton 4th Floor",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621327"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/24/2026 01:00PM",
       "case_number": "26-cv-0598",
       "caption": "BRUN v. ADELPHI RESEARCH BY DE",
       "judge": "DISTRICT JUDGE MARSTON",
@@ -1166,17 +1144,6 @@
       "courtroom": "Courtroom TBD",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643380"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/25/2026 09:30AM",
-      "case_number": "25-cv-6822",
-      "caption": "Pelaez Cardona v. AMAZON.COM,",
-      "judge": "DISTRICT JUDGE HENRY",
-      "city": "Allentown",
-      "courtroom": "Cahn 4A",
-      "hearing_type": "Arbitration Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646958"
     },
     {
       "court": "EDPA",
@@ -1533,17 +1500,6 @@
     {
       "court": "EDPA",
       "datetime": "06/29/2026 10:00AM",
-      "case_number": "24-cr-0412",
-      "caption": "USA v. REZINIKOV",
-      "judge": "DISTRICT JUDGE MURPHY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630014"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/29/2026 10:00AM",
       "case_number": "24-cv-4396",
       "caption": "SHINDER v. GREENWOOD GAMING &",
       "judge": "MAGISTRATE JUDGE WELLS",
@@ -1573,6 +1529,17 @@
       "courtroom": "Courtroom 8B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622828"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/29/2026 01:00PM",
+      "case_number": "26-cr-0261",
+      "caption": "USA v. TROCHE",
+      "judge": "DISTRICT JUDGE HENRY",
+      "city": "Philadelphia",
+      "courtroom": "Philadelphia",
+      "hearing_type": "Plea Agreement Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655966"
     },
     {
       "court": "EDPA",
@@ -2739,18 +2706,6 @@
       "docket_number": "56 MDA 2025",
       "journal_number": "J-A15034-26",
       "caption": "US Bank Trust N.A. v. Lagrassa, R. & M.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "Courtroom 437-Main Capitol , Harrisburg",
-      "city": "Harrisburg",
-      "panel": "15-ARGUMENT-2026-2",
-      "judges": "KUNSELMAN ; LANE , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "06/24/2026",
-      "docket_number": "1170 MDA 2025",
-      "journal_number": "J-A15037-26",
-      "caption": "Com. v. Morrison, M.",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "Courtroom 437-Main Capitol , Harrisburg",
       "city": "Harrisburg",
