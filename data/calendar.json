@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-16T20:02:17.466638+00:00",
+  "generated": "2026-06-16T22:12:42.923311+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -58,17 +58,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "06/16/2026 12:30PM",
-      "case_number": "24-cr-0303",
-      "caption": "USA v. HEIMBACH",
-      "judge": "DISTRICT JUDGE YOUNGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626545"
-    },
-    {
-      "court": "EDPA",
       "datetime": "06/16/2026 9:30AM",
       "case_number": "25-cv-1619",
       "caption": "DE LAGE LANDEN FINANCIAL SERVI",
@@ -80,17 +69,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "06/16/2026 01:00PM",
-      "case_number": "26-cv-0805",
-      "caption": "Ultimo Global Holdings, LLC et",
-      "judge": "DISTRICT JUDGE SAVAGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9A",
-      "hearing_type": "Show Cause Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649574"
-    },
-    {
-      "court": "EDPA",
       "datetime": "06/16/2026 01:30PM",
       "case_number": "26-cr-0256",
       "caption": "USA v. BYRD",
@@ -99,83 +77,6 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655832"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/16/2026 01:30PM",
-      "case_number": "26-cr-0256",
-      "caption": "USA v. BYRD",
-      "judge": "MAGISTRATE JUDGE REID",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Initial Appearance",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655832"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/16/2026 01:30PM",
-      "case_number": "26-cr-0263",
-      "caption": "USA v. MERCED-RIVERA",
-      "judge": "MAGISTRATE JUDGE REID",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656113"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/16/2026 01:30PM",
-      "case_number": "26-cr-0263",
-      "caption": "USA v. RONDON-HERRERA",
-      "judge": "MAGISTRATE JUDGE REID",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656114"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/16/2026 01:30PM",
-      "case_number": "26-cr-0264",
-      "caption": "USA v. PIMENTEL",
-      "judge": "MAGISTRATE JUDGE REID",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656135"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/16/2026 01:30PM",
-      "case_number": "26-cr-0264",
-      "caption": "USA v. PIMENTEL",
-      "judge": "MAGISTRATE JUDGE REID",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Detention Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656135"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/16/2026 01:30PM",
-      "case_number": "26-cr-0264",
-      "caption": "USA v. BATISTA FLETE",
-      "judge": "MAGISTRATE JUDGE REID",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656138"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/16/2026 01:30PM",
-      "case_number": "26-cr-0264",
-      "caption": "USA v. BATISTA FLETE",
-      "judge": "MAGISTRATE JUDGE REID",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Detention Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656138"
     },
     {
       "court": "EDPA",
@@ -374,6 +275,17 @@
       "courtroom": "Courtroom 14A",
       "hearing_type": "Miscellaneous Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653288"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/18/2026 02:30PM",
+      "case_number": "26-cr-0250",
+      "caption": "USA v. REED",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Plea Agreement Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655676"
     },
     {
       "court": "EDPA",
@@ -763,6 +675,17 @@
     {
       "court": "EDPA",
       "datetime": "06/23/2026 01:30PM",
+      "case_number": "26-cr-0263",
+      "caption": "USA v. RONDON-HERRERA",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656114"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/23/2026 01:30PM",
       "case_number": "26-cr-0264",
       "caption": "USA v. ALMONTE-ORTIZ",
       "judge": "MAGISTRATE JUDGE ARTEAGA",
@@ -781,6 +704,28 @@
       "courtroom": "unlisted",
       "hearing_type": "Detention Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656134"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/23/2026 01:30PM",
+      "case_number": "26-cr-0264",
+      "caption": "USA v. PIMENTEL",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656135"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/23/2026 01:30PM",
+      "case_number": "26-cr-0264",
+      "caption": "USA v. PIMENTEL",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656135"
     },
     {
       "court": "EDPA",
