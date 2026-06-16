@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-16T06:20:28.442668+00:00",
+  "generated": "2026-06-16T11:59:49.790597+00:00",
   "filings": [
     {
       "type": "filing",
@@ -1619,6 +1619,18 @@
       "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-7492.html",
       "lower_court": "United States Court of Appeals for the Third Circuit",
       "lower_court_docket": "(24-1842, 24-3134)",
+      "case_type": "IFP"
+    },
+    {
+      "type": "filing",
+      "court": "SCOTUS",
+      "docket": "25-7559",
+      "caption": "Caleb L. McGillvary v. Jennifer Davenport, Attorney General of New Jersey, et al.",
+      "status": "Cert Petition",
+      "filing_date": "06/10/2026",
+      "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-7559.html",
+      "lower_court": "United States Court of Appeals for the Third Circuit",
+      "lower_court_docket": "(25-2159)",
       "case_type": "IFP"
     }
   ],
