@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-17T14:23:01.191675+00:00",
+  "generated": "2026-06-17T17:43:01.342991+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -15,17 +15,6 @@
     {
       "court": "EDPA",
       "datetime": "06/17/2026 09:30AM",
-      "case_number": "25-cv-6307",
-      "caption": "Vazquez v. STATE FARM FIRE AND",
-      "judge": "DISTRICT JUDGE HENRY",
-      "city": "Allentown",
-      "courtroom": "Cahn 4A",
-      "hearing_type": "Arbitration Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645942"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/17/2026 09:30AM",
       "case_number": "25-cv-1619",
       "caption": "DE LAGE LANDEN FINANCIAL SERVI",
       "judge": "DISTRICT JUDGE PEREZ",
@@ -37,17 +26,6 @@
     {
       "court": "EDPA",
       "datetime": "06/17/2026 10:00AM",
-      "case_number": "26-cr-0107",
-      "caption": "USA v. BAEZ",
-      "judge": "DISTRICT JUDGE BARTLE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16A",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651102"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/17/2026 10:00AM",
       "case_number": "25-cv-2919",
       "caption": "ROBINSON v. CLINICAL CARE ASSO",
       "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
@@ -55,17 +33,6 @@
       "courtroom": "Courtroom 3D",
       "hearing_type": "Settlement Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638722"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/17/2026 10:30AM",
-      "case_number": "24-cr-0418",
-      "caption": "USA v. EL",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630322"
     },
     {
       "court": "EDPA",
@@ -132,17 +99,6 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Attorney Appointment Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645881"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/17/2026 03:00PM",
-      "case_number": "24-cv-0484",
-      "caption": "SATTERFIELD v. GALLO",
-      "judge": "DISTRICT JUDGE PEREZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618480"
     },
     {
       "court": "EDPA",
@@ -374,6 +330,17 @@
       "courtroom": "Courtroom 17B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?504369"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/22/2026 11:00AM",
+      "case_number": "24-cv-0484",
+      "caption": "SATTERFIELD v. GALLO",
+      "judge": "DISTRICT JUDGE PEREZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618480"
     },
     {
       "court": "EDPA",
@@ -1037,17 +1004,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "06/24/2026 02:30PM",
-      "case_number": "24-cr-0418",
-      "caption": "USA v. EL",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630322"
-    },
-    {
-      "court": "EDPA",
       "datetime": "06/24/2026 03:00PM",
       "case_number": "25-cr-0400",
       "caption": "USA v. DARAVINA",
@@ -1342,17 +1298,6 @@
       "courtroom": "Courtroom 11A",
       "hearing_type": "Trial Date",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642774"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/29/2026 09:30AM",
-      "case_number": "24-cr-0418",
-      "caption": "USA v. EL",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630322"
     },
     {
       "court": "EDPA",
@@ -1694,28 +1639,6 @@
       "courtroom": "Reading 5th Floor",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637188"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/01/2026 09:30AM",
-      "case_number": "26-cr-0107",
-      "caption": "USA v. BAEZ",
-      "judge": "DISTRICT JUDGE BARTLE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651102"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/01/2026 09:30AM",
-      "case_number": "24-cv-5750",
-      "caption": "BENDER v. HAIER US APPLIANCE S",
-      "judge": "DISTRICT JUDGE GALLAGHER",
-      "city": "Allentown",
-      "courtroom": "Cahn 4B",
-      "hearing_type": "Final Pretrial Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629268"
     },
     {
       "court": "EDPA",
