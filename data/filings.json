@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-17T10:21:27.824330+00:00",
+  "generated": "2026-06-17T14:21:34.104836+00:00",
   "filings": [
     {
       "type": "filing",
@@ -27,6 +27,15 @@
       "status": "Active",
       "filing_date": "06/15/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=195 EAL 2026&dnh=nRuf93IvdeeBjtPXgVD2Aw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "196 EAL 2026",
+      "caption": "Goodall, A. v. Grose, B., Pet.",
+      "status": "Active",
+      "filing_date": "06/13/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=196 EAL 2026&dnh=5jL%2BQ7ywIlQD15tB6vgGrQ%3D%3D"
     },
     {
       "type": "filing",
@@ -661,6 +670,42 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "1666 EDA 2026",
+      "caption": "Com. v. Jones, M.",
+      "status": "Active",
+      "filing_date": "06/17/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1666 EDA 2026&dnh=kBlF%2F9B2dIPfktbAOS6Q2g%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1667 EDA 2026",
+      "caption": "Com. v. Estevez Cabrera, G.",
+      "status": "Active",
+      "filing_date": "06/17/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1667 EDA 2026&dnh=6%2BvIm0U4h%2BRVEIDxFs%2FLBw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1668 EDA 2026",
+      "caption": "Com. v. Fegely, D.",
+      "status": "Active",
+      "filing_date": "06/17/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1668 EDA 2026&dnh=cm%2BWUFK%2Bs6WgQ6OdUZCjPg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1669 EDA 2026",
+      "caption": "Com. v. Fegely, D.",
+      "status": "Active",
+      "filing_date": "06/17/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1669 EDA 2026&dnh=1AMK0YiF2RAtGJKwNcFMow%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "105 EDM 2026",
       "caption": "Com. v. Abrams, J.",
       "status": "Active",
@@ -963,6 +1008,15 @@
       "status": "Active",
       "filing_date": "06/16/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=939 MDA 2026&dnh=LGpiou0Pu%2BBYkzaux6ulYg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "940 MDA 2026",
+      "caption": "Vazquez, J. v. Felix, R.",
+      "status": "Active",
+      "filing_date": "06/17/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=940 MDA 2026&dnh=U98dHlTiI0acQo5fxNzhBQ%3D%3D"
     },
     {
       "type": "filing",
@@ -1278,6 +1332,15 @@
       "status": "Active",
       "filing_date": "06/12/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=67 WDM 2026&dnh=yC5PxWbn2O1ePj76cPcR9Q%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "68 WDM 2026",
+      "caption": "Com. v. Phillips, E.",
+      "status": "Active",
+      "filing_date": "06/16/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=68 WDM 2026&dnh=gX7mp9OxUvHd%2F7%2F6RjGksg%3D%3D"
     },
     {
       "type": "filing",
@@ -2648,6 +2711,16 @@
       "pub_date": "Thu, 11 Jun 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Superior/out/061126 W.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Superior/out/061126 W.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "944 &amp; 1162-1169 C.D. 2023",
+      "caption": "Misingwa Land Trust v. Board of Commissioners of the County of Beaver, et al.",
+      "author": "Leavitt, President Judge Emerita",
+      "pub_date": "Wed, 17 Jun 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/944CD23_6-17-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/944CD23_6-17-26.pdf"
     },
     {
       "type": "opinion",
