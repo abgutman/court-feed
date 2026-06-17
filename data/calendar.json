@@ -1,17 +1,6 @@
 {
-  "generated": "2026-06-17T17:43:01.342991+00:00",
+  "generated": "2026-06-17T19:55:47.671733+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "06/17/2026 09:00AM",
-      "case_number": "25-cv-5731",
-      "caption": "Dennis v. HEADS et al",
-      "judge": "DISTRICT JUDGE KEARNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644490"
-    },
     {
       "court": "EDPA",
       "datetime": "06/17/2026 09:30AM",
@@ -33,17 +22,6 @@
       "courtroom": "Courtroom 3D",
       "hearing_type": "Settlement Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638722"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/17/2026 11:00AM",
-      "case_number": "21-cr-0326",
-      "caption": "USA v. CLARK",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Evidentiary Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?588015"
     },
     {
       "court": "EDPA",
@@ -80,28 +58,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "06/17/2026 02:00PM",
-      "case_number": "24-cr-0368",
-      "caption": "USA v. BUSTAMANTE",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10A",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628769"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/17/2026 02:30PM",
-      "case_number": "25-cr-0482",
-      "caption": "USA v. WHITAKER",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Attorney Appointment Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645881"
-    },
-    {
-      "court": "EDPA",
       "datetime": "06/18/2026 08:45AM",
       "case_number": "25-cv-7057",
       "caption": "HAZARD v. B&B HOTELS US, INC.",
@@ -110,6 +66,17 @@
       "courtroom": "Telephone Conference",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647394"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/18/2026 09:00AM",
+      "case_number": "25-cv-5731",
+      "caption": "Dennis v. HEADS et al",
+      "judge": "DISTRICT JUDGE KEARNEY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 6B",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644490"
     },
     {
       "court": "EDPA",
@@ -570,6 +537,17 @@
       "judge": "DISTRICT JUDGE HODGE",
       "city": "Philadelphia",
       "courtroom": "Courtroom 15A",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630318"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/23/2026 01:00PM",
+      "case_number": "24-cr-0416",
+      "caption": "USA v. AGEE",
+      "judge": "DISTRICT JUDGE HODGE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 15A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630318"
     },
@@ -961,6 +939,17 @@
     {
       "court": "EDPA",
       "datetime": "06/24/2026 01:30PM",
+      "case_number": "25-cr-0513",
+      "caption": "USA v. PEPPERS",
+      "judge": "MAGISTRATE JUDGE STRAW",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646993"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/24/2026 01:30PM",
       "case_number": "25-cv-6962",
       "caption": "JIMENEZ v. INDEPENDENCE MISSIO",
       "judge": "DISTRICT JUDGE WEILHEIMER",
@@ -1034,17 +1023,6 @@
       "courtroom": "Courtroom 13B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648150"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/25/2026 10:00AM",
-      "case_number": "26-cv-0255",
-      "caption": "Colbert v. NEWREZ, LLC et al",
-      "judge": "DISTRICT JUDGE MCHUGH",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648522"
     },
     {
       "court": "EDPA",
@@ -1199,6 +1177,17 @@
       "courtroom": "Courtroom 10A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624189"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/25/2026 02:30PM",
+      "case_number": "17-cr-0208",
+      "caption": "USA v. LUCAS",
+      "judge": "DISTRICT JUDGE MCHUGH",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 9B",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?529440"
     },
     {
       "court": "EDPA",
@@ -1562,17 +1551,6 @@
       "courtroom": "Cahn 4B",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649732"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/30/2026 10:30AM",
-      "case_number": "16-cr-0455",
-      "caption": "USA v. PARRIS",
-      "judge": "DISTRICT JUDGE HENRY",
-      "city": "Philadelphia",
-      "courtroom": "Philadelphia",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?541262"
     },
     {
       "court": "EDPA",
