@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-18T20:05:04.471021+00:00",
+  "generated": "2026-06-18T22:50:37.983329+00:00",
   "filings": [
     {
       "type": "filing",
@@ -81,6 +81,15 @@
       "status": "Active",
       "filing_date": "06/18/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=202 EAL 2026&dnh=6m9w4GNnkXyysPAA5Qbw7A%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "203 EAL 2026",
+      "caption": "Commonwealth v. Rannels, C., Pet.",
+      "status": "Active",
+      "filing_date": "06/18/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=203 EAL 2026&dnh=MbAt3hbmgJ3Ne2s%2BOUqlww%3D%3D"
     },
     {
       "type": "filing",
@@ -216,6 +225,15 @@
       "status": "Active",
       "filing_date": "06/18/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=347 MAL 2026&dnh=FCzoEmX4HnDN1v%2BmAAaLtw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "348 MAL 2026",
+      "caption": "Commonwealth, Pet. v. Broomes, E.",
+      "status": "Active",
+      "filing_date": "06/18/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=348 MAL 2026&dnh=OGXlSUvH4iFAVFJN%2BwDAXg%3D%3D"
     },
     {
       "type": "filing",
@@ -2690,6 +2708,16 @@
     {
       "type": "opinion",
       "court": "PA Superior Court",
+      "docket": "",
+      "caption": "Reargumnet Table",
+      "author": "",
+      "pub_date": "Thu, 18 Jun 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/WestReport061826.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/WestReport061826.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Superior Court",
       "docket": "No. 644 WDA 2025",
       "caption": "Cobb, G. v. Heritage Valley Health System",
       "author": "Beck, J.",
@@ -2986,16 +3014,6 @@
       "pub_date": "Mon, 15 Jun 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S19024-26m - 106818942362653248.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S19024-26m - 106818942362653248.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Superior Court",
-      "docket": "No. 461 MDA 2025",
-      "caption": "Com. v. Monroe, A.",
-      "author": "Olson, J.",
-      "pub_date": "Mon, 15 Jun 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S07029-26m.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S07029-26m.pdf"
     },
     {
       "type": "opinion",
