@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-17T23:15:28.727048+00:00",
+  "generated": "2026-06-18T02:13:28.114522+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -1617,6 +1617,17 @@
       "courtroom": "Courtroom 12B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648821"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/02/2026 10:30AM",
+      "case_number": "26-cr-0186",
+      "caption": "USA v. WILSON",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653445"
     }
   ],
   "third_circuit": [
