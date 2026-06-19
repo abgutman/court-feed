@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-19T06:04:41.323030+00:00",
+  "generated": "2026-06-19T11:10:23.422231+00:00",
   "filings": [
     {
       "type": "filing",
@@ -1559,18 +1559,6 @@
       "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-7559.html",
       "lower_court": "United States Court of Appeals for the Third Circuit",
       "lower_court_docket": "(25-2159)",
-      "case_type": "IFP"
-    },
-    {
-      "type": "filing",
-      "court": "SCOTUS",
-      "docket": "25-7639",
-      "caption": "Russell Rob v. United States",
-      "status": "Cert Petition",
-      "filing_date": "06/18/2026",
-      "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-7639.html",
-      "lower_court": "United States Court of Appeals for the Third Circuit",
-      "lower_court_docket": "(24-2655)",
       "case_type": "IFP"
     }
   ],
