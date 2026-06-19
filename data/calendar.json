@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-19T11:11:41.129440+00:00",
+  "generated": "2026-06-19T14:37:05.324541+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -157,17 +157,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "06/23/2026 09:30AM",
-      "case_number": "26-cr-0095",
-      "caption": "USA v. JOHNSON",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650784"
-    },
-    {
-      "court": "EDPA",
       "datetime": "06/23/2026 10:00AM",
       "case_number": "25-cv-6489",
       "caption": "SHIMSHOCK v. WACO INSTRUMENTS,",
@@ -275,6 +264,17 @@
       "courtroom": "Courtroom 9A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?611026"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/23/2026 11:30AM",
+      "case_number": "26-cr-0095",
+      "caption": "USA v. JOHNSON",
+      "judge": "DISTRICT JUDGE SCOTT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13B",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650784"
     },
     {
       "court": "EDPA",
