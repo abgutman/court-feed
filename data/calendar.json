@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-22T06:18:01.204013+00:00",
+  "generated": "2026-06-22T12:42:04.707775+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -33,6 +33,17 @@
       "courtroom": "Courtroom 15B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635977"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/22/2026 10:00AM",
+      "case_number": "26-cv-0816",
+      "caption": "MOCK et al v. COMMONWEALTH OF",
+      "judge": "DISTRICT JUDGE BARTLE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649591"
     },
     {
       "court": "EDPA",
@@ -176,17 +187,6 @@
       "courtroom": "Courtroom 9B",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649964"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/23/2026 10:00AM",
-      "case_number": "25-cr-0381",
-      "caption": "USA v. HARRIS",
-      "judge": "DISTRICT JUDGE MURPHY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642987"
     },
     {
       "court": "EDPA",
@@ -1836,6 +1836,150 @@
       "case_number": "25-3131",
       "caption": "J. F. v. Delaware Department of Education",
       "panel": "SHWARTZ, PHIPPS, MCKEE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-07-06",
+      "case_number": "25-2657",
+      "caption": "PMAI et al  v. Eshai Corp et al",
+      "panel": "KRAUSE, FREEMAN, ROTH",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-07-06",
+      "case_number": "25-2833",
+      "caption": "Sarita Huaman-Hernandez v. Attorney General United States of",
+      "panel": "KRAUSE, FREEMAN, ROTH",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-07-06",
+      "case_number": "25-2851",
+      "caption": "Serey Van v. Attorney General United States of America",
+      "panel": "KRAUSE, FREEMAN, ROTH",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-07-07",
+      "case_number": "22-1721",
+      "caption": "USA v. Alfred Stewart",
+      "panel": "KRAUSE, FREEMAN, ROTH",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-07-07",
+      "case_number": "22-1722",
+      "caption": "USA v. Alfred Stewart",
+      "panel": "KRAUSE, FREEMAN, ROTH",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-07-07",
+      "case_number": "25-1107",
+      "caption": "USA v. Christian Walther",
+      "panel": "KRAUSE, FREEMAN, ROTH",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-07-07",
+      "case_number": "25-2735",
+      "caption": "In Re: Invitae Corporation et al",
+      "panel": "KRAUSE, FREEMAN, ROTH",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-07-07",
+      "case_number": "25-2890",
+      "caption": "In re: Nu Ride Inc et al",
+      "panel": "KRAUSE, FREEMAN, ROTH",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-07-09",
+      "case_number": "25-2681",
+      "caption": "Gurmit Kahlon v. Attorney General United States of America",
+      "panel": "KRAUSE, FREEMAN, ROTH",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-07-09",
+      "case_number": "25-2684",
+      "caption": "Aislin Magalengo v. Pennsylvania Interscholastic Athletic As",
+      "panel": "KRAUSE, FREEMAN, ROTH",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-07-09",
+      "case_number": "25-2805",
+      "caption": "In re: Artesanias Hacienda Real S. A. DE C.V.",
+      "panel": "KRAUSE, FREEMAN, ROTH",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-07-10",
+      "case_number": "25-1934",
+      "caption": "Keith McBride et al  v. Commissioner New Jersey Department o",
+      "panel": "KRAUSE, FREEMAN, ROTH",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-07-10",
+      "case_number": "25-3009",
+      "caption": "Sa'Raya Harden v. West Side Career & Technology Center et al",
+      "panel": "KRAUSE, FREEMAN, ROTH",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-07-10",
+      "case_number": "25-3074",
+      "caption": "Sharon Griswold v. Drexel University et al",
+      "panel": "KRAUSE, FREEMAN, ROTH",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-07-10",
+      "case_number": "25-3081",
+      "caption": "USA v. Dontae Devero",
+      "panel": "KRAUSE, FREEMAN, ROTH",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-07-10",
+      "case_number": "25-3398",
+      "caption": "USA v. Carlos Cegledi",
+      "panel": "KRAUSE, FREEMAN, ROTH",
       "location_time": "",
       "disposition": "Submitted"
     }
