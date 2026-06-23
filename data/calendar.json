@@ -1,39 +1,6 @@
 {
-  "generated": "2026-06-23T13:36:26.845307+00:00",
+  "generated": "2026-06-23T16:20:31.499262+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "06/23/2026 09:00AM",
-      "case_number": "26-cv-1038",
-      "caption": "MONTGOMERY v. ALLSTATE INSURAN",
-      "judge": "DISTRICT JUDGE KENNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650024"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/23/2026 09:30AM",
-      "case_number": "25-cv-5913",
-      "caption": "BENNETT v. GRENON et al",
-      "judge": "DISTRICT JUDGE KEARNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644969"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/23/2026 10:00AM",
-      "case_number": "25-cv-6489",
-      "caption": "SHIMSHOCK v. WACO INSTRUMENTS,",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10A",
-      "hearing_type": "Discovery Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646271"
-    },
     {
       "court": "EDPA",
       "datetime": "06/23/2026 10:00AM",
@@ -235,17 +202,6 @@
     {
       "court": "EDPA",
       "datetime": "06/23/2026 03:00PM",
-      "case_number": "26-cv-4231",
-      "caption": "CITIZENS SECURITIES, INC. v. V",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656633"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/23/2026 03:00PM",
       "case_number": "25-cr-0170",
       "caption": "USA v. BURTON",
       "judge": "DISTRICT JUDGE PEREZ",
@@ -256,7 +212,7 @@
     },
     {
       "court": "EDPA",
-      "datetime": "06/23/2026 03:00PM",
+      "datetime": "06/24/2026 09:00AM",
       "case_number": "23-cr-0522",
       "caption": "USA v. LAWSON",
       "judge": "DISTRICT JUDGE WEILHEIMER",
@@ -407,6 +363,17 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?612010"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/24/2026 11:30AM",
+      "case_number": "25-cv-6489",
+      "caption": "SHIMSHOCK v. WACO INSTRUMENTS,",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Discovery Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646271"
     },
     {
       "court": "EDPA",
@@ -708,6 +675,17 @@
     {
       "court": "EDPA",
       "datetime": "06/26/2026 10:00AM",
+      "case_number": "26-cv-4231",
+      "caption": "CITIZENS SECURITIES, INC. v. V",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656633"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/26/2026 10:00AM",
       "case_number": "26-cv-3747",
       "caption": "TREMEBIO INC. v. KIM",
       "judge": "DISTRICT JUDGE SCOTT",
@@ -858,6 +836,17 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Detention Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646993"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/29/2026 01:30PM",
+      "case_number": "26-cr-0145",
+      "caption": "USA v. HERNANDEZ",
+      "judge": "DISTRICT JUDGE SANCHEZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14B",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652002"
     },
     {
       "court": "EDPA",
@@ -1103,6 +1092,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "06/30/2026 02:30PM",
+      "case_number": "25-cv-2649",
+      "caption": "GENESIS CAPITAL, LLC v. AGENTS",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638066"
+    },
+    {
+      "court": "EDPA",
       "datetime": "07/01/2026 09:30AM",
       "case_number": "25-cv-4766",
       "caption": "RIDEOUT v. LB WATER et al",
@@ -1298,17 +1298,6 @@
       "courtroom": "Courtroom 12A",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653307"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/07/2026 09:30AM",
-      "case_number": "24-cr-0085",
-      "caption": "USA v. SINGLEY",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?619667"
     },
     {
       "court": "EDPA",
