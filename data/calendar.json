@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-23T21:02:40.810046+00:00",
+  "generated": "2026-06-23T22:15:00.153543+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -66,17 +66,6 @@
       "courtroom": "Courtroom 16B",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648472"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/23/2026 01:30PM",
-      "case_number": "26-cr-0263",
-      "caption": "USA v. RONDON-HERRERA",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656114"
     },
     {
       "court": "EDPA",
@@ -539,6 +528,28 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656617"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/25/2026 01:30PM",
+      "case_number": "26-cr-0284",
+      "caption": "USA v. JAMES",
+      "judge": "MAGISTRATE JUDGE STRAW",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656623"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/25/2026 01:30PM",
+      "case_number": "26-cr-0284",
+      "caption": "USA v. JAMES",
+      "judge": "MAGISTRATE JUDGE STRAW",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656623"
     },
     {
       "court": "EDPA",
