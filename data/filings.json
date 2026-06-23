@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-23T18:59:57.069658+00:00",
+  "generated": "2026-06-23T21:00:36.706946+00:00",
   "filings": [
     {
       "type": "filing",
@@ -72,6 +72,15 @@
       "status": "Active",
       "filing_date": "06/22/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=204 EAL 2026&dnh=Xgv0DjK59xfjPP75ZF20nw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "205 EAL 2026",
+      "caption": "Keita, F., Pet. v. UCBR",
+      "status": "Active",
+      "filing_date": "06/23/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=205 EAL 2026&dnh=EWN0w2FDNKTeD%2FiehyFufw%3D%3D"
     },
     {
       "type": "filing",
@@ -180,6 +189,15 @@
       "status": "Active",
       "filing_date": "06/22/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=355 MAL 2026&dnh=wYTS%2FYKy40ad2py2mPksPA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "356 MAL 2026",
+      "caption": "Commonwealth v. Aboulah, R., Pet.",
+      "status": "Active",
+      "filing_date": "06/23/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=356 MAL 2026&dnh=0bb36Q%2BmM0aBEQEQudPkjA%3D%3D"
     },
     {
       "type": "filing",
@@ -828,6 +846,15 @@
       "status": "Active",
       "filing_date": "06/23/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1720 EDA 2026&dnh=aCUkLqI29XdcBpb8f1My0A%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1721 EDA 2026",
+      "caption": "Mitchell Commons, LLC. v. H.C. Pody Co.",
+      "status": "Active",
+      "filing_date": "06/23/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1721 EDA 2026&dnh=ZUKS8FCGCSGMBue5XZyulg%3D%3D"
     },
     {
       "type": "filing",
@@ -1579,6 +1606,15 @@
     {
       "type": "filing",
       "court": "PA Commonwealth Court",
+      "docket": "853 CD 2026",
+      "caption": "County of Bucks v. Kovach, A. (WCAB)",
+      "status": "Active",
+      "filing_date": "06/23/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=853 CD 2026&dnh=9Thgw0qQ7cuPJLMNmVFVEw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
       "docket": "213 FR 2026",
       "caption": "Gilead Sciences Inc. v. Com. of Pa.",
       "status": "Active",
@@ -1827,6 +1863,16 @@
     }
   ],
   "opinions": [
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 659 Judicial Administration 2026",
+      "caption": "In Re: Amendments to Rule 701 of the Pennsylvania Rules of Judicial Adminstration",
+      "author": "Per Curiam",
+      "pub_date": "Tue, 23 Jun 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/Order Entered - 106829433363723027.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/Order Entered - 106829433363723027.pdf"
+    },
     {
       "type": "opinion",
       "court": "PA Supreme Court",
@@ -2316,16 +2362,6 @@
       "pub_date": "Tue, 23 Jun 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Supreme/out/245MAL2026 - 106827987363587482.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/245MAL2026 - 106827987363587482.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 622 MAL 2025",
-      "caption": "Commonwealth v. Winter, B., Pet.",
-      "author": "Per Curiam",
-      "pub_date": "Tue, 23 Jun 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/622MAL2025 - 106827851363570508.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/622MAL2025 - 106827851363570508.pdf"
     },
     {
       "type": "opinion",
