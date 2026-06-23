@@ -1,17 +1,6 @@
 {
-  "generated": "2026-06-23T16:20:31.499262+00:00",
+  "generated": "2026-06-23T19:02:08.504447+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "06/23/2026 10:00AM",
-      "case_number": "26-cr-0068",
-      "caption": "USA v. HICKMAN",
-      "judge": "DISTRICT JUDGE MCHUGH",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9B",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649964"
-    },
     {
       "court": "EDPA",
       "datetime": "06/23/2026 10:00AM",
@@ -55,17 +44,6 @@
       "courtroom": "Courtroom 16B",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648483"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/23/2026 11:30AM",
-      "case_number": "26-cr-0095",
-      "caption": "USA v. JOHNSON",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650784"
     },
     {
       "court": "EDPA",
@@ -763,6 +741,17 @@
     {
       "court": "EDPA",
       "datetime": "06/29/2026 10:30AM",
+      "case_number": "24-cr-0017",
+      "caption": "USA v. ARMSTEAD",
+      "judge": "DISTRICT JUDGE BAYLSON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3A",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617743"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/29/2026 10:30AM",
       "case_number": "24-cr-0061",
       "caption": "USA v. WILLIAMS",
       "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
@@ -895,17 +884,6 @@
     {
       "court": "EDPA",
       "datetime": "06/30/2026 09:30AM",
-      "case_number": "26-cv-2862",
-      "caption": "MOORE v. STATE FARM FIRE AND C",
-      "judge": "DISTRICT JUDGE KENNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653819"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/30/2026 09:30AM",
       "case_number": "25-cv-0939",
       "caption": "LILLY v. RYOBI TECHNOLOGIES, I",
       "judge": "DISTRICT JUDGE SANCHEZ",
@@ -979,17 +957,6 @@
       "courtroom": "Courtroom 6A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636680"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/30/2026 10:00AM",
-      "case_number": "24-cr-0369",
-      "caption": "USA v. DAWKINS",
-      "judge": "DISTRICT JUDGE SAVAGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628754"
     },
     {
       "court": "EDPA",
@@ -1368,6 +1335,17 @@
     {
       "court": "EDPA",
       "datetime": "07/07/2026 10:00AM",
+      "case_number": "26-cv-3873",
+      "caption": "WANG v. JAMISON et al",
+      "judge": "DISTRICT JUDGE BARTLE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16A",
+      "hearing_type": "Evidentiary Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655875"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/07/2026 10:00AM",
       "case_number": "25-cr-0130",
       "caption": "USA v. KUPPUSAMY",
       "judge": "DISTRICT JUDGE COSTELLO",
@@ -1463,6 +1441,17 @@
       "courtroom": "Courtroom 9A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614637"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/07/2026 12:00PM",
+      "case_number": "24-cr-0369",
+      "caption": "USA v. DAWKINS",
+      "judge": "DISTRICT JUDGE SAVAGE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 9A",
+      "hearing_type": "Sentencing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628754"
     },
     {
       "court": "EDPA",
