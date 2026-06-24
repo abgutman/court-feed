@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-24T16:17:08.624168+00:00",
+  "generated": "2026-06-24T18:28:29.616254+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -22,28 +22,6 @@
       "courtroom": "Courtroom 10A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641577"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/24/2026 10:00AM",
-      "case_number": "26-cr-0091",
-      "caption": "USA v. DECENZI",
-      "judge": "DISTRICT JUDGE HODGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15A",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650761"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/24/2026 10:00AM",
-      "case_number": "25-cv-0768",
-      "caption": "KUJAWA v. TATE & KIRLIN ASSOCI",
-      "judge": "DISTRICT JUDGE MCHUGH",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9B",
-      "hearing_type": "Miscellaneous Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633439"
     },
     {
       "court": "EDPA",
@@ -1056,6 +1034,17 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Initial Appearance",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655453"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/06/2026 02:00PM",
+      "case_number": "26-cr-0042",
+      "caption": "USA v. MARCUS",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648857"
     },
     {
       "court": "EDPA",

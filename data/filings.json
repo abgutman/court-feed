@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-24T16:15:13.381056+00:00",
+  "generated": "2026-06-24T18:26:35.905525+00:00",
   "filings": [
     {
       "type": "filing",
@@ -805,6 +805,15 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "1729 EDA 2026",
+      "caption": "In the Int. of: T.W., Appeal of: S.W.",
+      "status": "Active",
+      "filing_date": "06/24/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1729 EDA 2026&dnh=llGZxBR4bigFE5VrWInn1Q%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "957 MDA 2026",
       "caption": "Shover Investment Group v. Zellers, A.",
       "status": "Active",
@@ -1480,6 +1489,15 @@
     {
       "type": "filing",
       "court": "PA Commonwealth Court",
+      "docket": "856 CD 2026",
+      "caption": "Rush, R. v. UCBR",
+      "status": "Active",
+      "filing_date": "06/22/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=856 CD 2026&dnh=U%2FCoV6Q6uKJoIfosWrptQA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
       "docket": "218 FR 2026",
       "caption": "United Rentals, Inc. v. Com. of Pa.",
       "status": "Active",
@@ -1632,6 +1650,15 @@
     },
     {
       "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "294 MD 2026",
+      "caption": "Brayboy, R. v. DOC",
+      "status": "Active",
+      "filing_date": "06/18/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=294 MD 2026&dnh=UJcZ5NJZejGDB7Giz1JumA%3D%3D"
+    },
+    {
+      "type": "filing",
       "court": "SCOTUS",
       "docket": "25-7559",
       "caption": "Caleb L. McGillvary v. Jennifer Davenport, Attorney General of New Jersey, et al.",
@@ -1656,6 +1683,16 @@
     }
   ],
   "opinions": [
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 3199 DD3",
+      "caption": "In the Matter of: Andrew Neville",
+      "author": "Per Curiam",
+      "pub_date": "Tue, 23 Jun 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/3199DD3 - 106828129363604666.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/3199DD3 - 106828129363604666.pdf"
+    },
     {
       "type": "opinion",
       "court": "PA Supreme Court",
@@ -2145,16 +2182,6 @@
       "pub_date": "Tue, 23 Jun 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Supreme/out/91MAL2026 - 106827710363540566.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/91MAL2026 - 106827710363540566.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 113 MAL 2026",
-      "caption": "Sarpehfio, B., Pet. v. Paul Davis of Susq. Valley",
-      "author": "Per Curiam",
-      "pub_date": "Tue, 23 Jun 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/113MAL2026 - 106827853363571432.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/113MAL2026 - 106827853363571432.pdf"
     },
     {
       "type": "opinion",
@@ -2969,6 +2996,30 @@
     {
       "type": "opinion",
       "court": "Third Circuit",
+      "docket": "25-1723",
+      "caption": "Jeffrey Ahn v. Cigna Health and Life Insurance Co",
+      "author": "",
+      "pub_date": "Wed, 24 Jun 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/251723p.pdf",
+      "guid": "ca3-25-1723-251723p.pdf",
+      "precedential": true,
+      "origin": "USDC for the District of New Jersey"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "24-2999",
+      "caption": "Jeffrey Steidle v. United States Liability Insurance Co Inc",
+      "author": "",
+      "pub_date": "Wed, 24 Jun 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/242999p.pdf",
+      "guid": "ca3-24-2999-242999p.pdf",
+      "precedential": true,
+      "origin": "USDC for the Eastern District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
       "docket": "24-2866",
       "caption": "Lawanda House Johnson v. Quest Diagnostics Inc",
       "author": "",
@@ -3001,6 +3052,30 @@
       "guid": "ca3-24-2967-242967p.pdf",
       "precedential": true,
       "origin": "USDC for the District of New Jersey"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-3115",
+      "caption": "Chryssoula Arsenis v. M&T Bank",
+      "author": "",
+      "pub_date": "Wed, 24 Jun 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/253115np.pdf",
+      "guid": "ca3-25-3115-253115np.pdf",
+      "precedential": false,
+      "origin": "USDC for the District of New Jersey"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "24-3091",
+      "caption": "USA v. David  Darby",
+      "author": "",
+      "pub_date": "Wed, 24 Jun 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/243091np.pdf",
+      "guid": "ca3-24-3091-243091np.pdf",
+      "precedential": false,
+      "origin": "USDC for the Middle District of Pennsylvania"
     },
     {
       "type": "opinion",
