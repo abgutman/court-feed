@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-24T18:26:35.905525+00:00",
+  "generated": "2026-06-24T20:26:03.435978+00:00",
   "filings": [
     {
       "type": "filing",
@@ -54,6 +54,24 @@
       "status": "Active",
       "filing_date": "06/24/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=206 EAL 2026&dnh=OOfInO%2F4msuYteA%2FW6IdgQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "207 EAL 2026",
+      "caption": "Commonwealth v. Caruso, J., Pet.",
+      "status": "Active",
+      "filing_date": "06/24/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=207 EAL 2026&dnh=tvVcRcHcQi3KbCurejYXCg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "208 EAL 2026",
+      "caption": "Commonwealth v. Misseri, A., Pet.",
+      "status": "Active",
+      "filing_date": "06/18/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=208 EAL 2026&dnh=kuXa%2FiDPem4jwfNtzeRxoQ%3D%3D"
     },
     {
       "type": "filing",
@@ -814,6 +832,60 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "1730 EDA 2026",
+      "caption": "In the Int. of: S.P., Appeal of: M.P.",
+      "status": "Active",
+      "filing_date": "06/24/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1730 EDA 2026&dnh=utxyA8kgXW18ghzpymA%2FjQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1731 EDA 2026",
+      "caption": "In the Int. of: S.H.P., Appeal of: M.P.",
+      "status": "Active",
+      "filing_date": "06/24/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1731 EDA 2026&dnh=OQGPOUvZQmoCd5cIIWGkIQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1732 EDA 2026",
+      "caption": "In the Int. of: K.P., Appeal of: M.P.",
+      "status": "Active",
+      "filing_date": "06/24/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1732 EDA 2026&dnh=gFtiN2baUWFmVOcDeij1xw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1733 EDA 2026",
+      "caption": "In the Int. of: K.J.P., Appeal of: M.P.",
+      "status": "Active",
+      "filing_date": "06/24/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1733 EDA 2026&dnh=PyFQXl2lf0aOL%2FdZXmtrUQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1734 EDA 2026",
+      "caption": "In the Int. of: D.P., Appeal of: M.P.",
+      "status": "Active",
+      "filing_date": "06/24/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1734 EDA 2026&dnh=ffVH9fJKgmikpP%2F7%2FVwPXg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1735 EDA 2026",
+      "caption": "In the Int. of: D.Y.P., Appeal of: M.P.",
+      "status": "Active",
+      "filing_date": "06/24/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1735 EDA 2026&dnh=KjQw8qXfA9eTsTdNjQBGDA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "957 MDA 2026",
       "caption": "Shover Investment Group v. Zellers, A.",
       "status": "Active",
@@ -1494,6 +1566,15 @@
       "status": "Active",
       "filing_date": "06/22/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=856 CD 2026&dnh=U%2FCoV6Q6uKJoIfosWrptQA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "860 CD 2026",
+      "caption": "People's Property et al v. Lower Nazareth Twp ZHB",
+      "status": "Active",
+      "filing_date": "06/18/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=860 CD 2026&dnh=sBw1KTkytEHNQjjBlKDgeA%3D%3D"
     },
     {
       "type": "filing",
@@ -3052,6 +3133,30 @@
       "guid": "ca3-24-2967-242967p.pdf",
       "precedential": true,
       "origin": "USDC for the District of New Jersey"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "26-1509",
+      "caption": "Idowu Raji v.",
+      "author": "",
+      "pub_date": "Wed, 24 Jun 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/261509np.pdf",
+      "guid": "ca3-26-1509-261509np.pdf",
+      "precedential": false,
+      "origin": "USDC for the Middle District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-3118",
+      "caption": "Eric Watson v. Cody Reese",
+      "author": "",
+      "pub_date": "Wed, 24 Jun 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/253118np.pdf",
+      "guid": "ca3-25-3118-253118np.pdf",
+      "precedential": false,
+      "origin": "USDC for the Western District of Pennsylvania"
     },
     {
       "type": "opinion",
