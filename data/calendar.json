@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-24T01:56:00.179426+00:00",
+  "generated": "2026-06-24T05:58:48.371393+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -1364,6 +1364,17 @@
       "courtroom": "Gateway 5th Floor",
       "hearing_type": "Final Pretrial Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614161"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/08/2026 02:00AM",
+      "case_number": "26-cv-1982",
+      "caption": "COLUR WORLD, LLC v. JMU Dental",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651926"
     },
     {
       "court": "EDPA",
