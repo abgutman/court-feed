@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-24T11:39:07.210788+00:00",
+  "generated": "2026-06-24T14:01:40.636645+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -235,6 +235,28 @@
     {
       "court": "EDPA",
       "datetime": "06/24/2026 01:30PM",
+      "case_number": "26-cr-0264",
+      "caption": "USA v. PIMENTEL",
+      "judge": "MAGISTRATE JUDGE STRAW",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656135"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/24/2026 01:30PM",
+      "case_number": "26-cr-0264",
+      "caption": "USA v. PIMENTEL",
+      "judge": "MAGISTRATE JUDGE STRAW",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656135"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/24/2026 01:30PM",
       "case_number": "25-cv-6962",
       "caption": "JIMENEZ v. INDEPENDENCE MISSIO",
       "judge": "DISTRICT JUDGE WEILHEIMER",
@@ -378,6 +400,28 @@
     {
       "court": "EDPA",
       "datetime": "06/25/2026 01:30PM",
+      "case_number": "26-cr-0268",
+      "caption": "USA v. DINGMAN",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656209"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/25/2026 01:30PM",
+      "case_number": "26-cr-0268",
+      "caption": "USA v. DINGMAN",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656209"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/25/2026 01:30PM",
       "case_number": "24-cv-2463",
       "caption": "COOPER v. LETIZIO et al",
       "judge": "DISTRICT JUDGE DIAMOND",
@@ -385,17 +429,6 @@
       "courtroom": "Courtroom 14A",
       "hearing_type": "Miscellaneous Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623139"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/25/2026 01:30PM",
-      "case_number": "26-cv-2642",
-      "caption": "Falzarano v. FRAMARBED, LLC",
-      "judge": "DISTRICT JUDGE GALLAGHER",
-      "city": "Philadelphia",
-      "courtroom": "Judge's Chambers",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653309"
     },
     {
       "court": "EDPA",
@@ -553,17 +586,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "06/29/2026 10:00AM",
-      "case_number": "24-cv-4396",
-      "caption": "SHINDER v. GREENWOOD GAMING &",
-      "judge": "MAGISTRATE JUDGE WELLS",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3F",
-      "hearing_type": "Trial Date",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626514"
-    },
-    {
-      "court": "EDPA",
       "datetime": "06/29/2026 10:30AM",
       "case_number": "24-cr-0017",
       "caption": "USA v. ARMSTEAD",
@@ -636,7 +658,7 @@
       "judge": "DISTRICT JUDGE PEREZ",
       "city": "Philadelphia",
       "courtroom": "Courtroom 10B",
-      "hearing_type": "Motion Hearing",
+      "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648194"
     },
     {
@@ -682,17 +704,6 @@
       "courtroom": "Courtroom 12B",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?576052"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/30/2026 04:00AM",
-      "case_number": "26-cv-0620",
-      "caption": "AUGUSTINE v. HICKS et al",
-      "judge": "MAGISTRATE JUDGE WELLS",
-      "city": "",
-      "courtroom": "Video Conference",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649182"
     },
     {
       "court": "EDPA",
@@ -982,28 +993,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "07/06/2026 10:00AM",
-      "case_number": "26-cv-0878",
-      "caption": "CHIUSOLO v. HARTFORD LIFE AND",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Judge's Chambers",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649708"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/06/2026 10:00AM",
-      "case_number": "26-cv-1517",
-      "caption": "SILVERMAN v. UNUM LIFE INSURAN",
-      "judge": "MAGISTRATE JUDGE STRAW",
-      "city": "",
-      "courtroom": "Video Conference",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650969"
-    },
-    {
-      "court": "EDPA",
       "datetime": "07/06/2026 10:30AM",
       "case_number": "25-cr-0212",
       "caption": "USA v. ALVAREZ",
@@ -1188,17 +1177,6 @@
       "courtroom": "Courtroom 6A",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648192"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/07/2026 10:00AM",
-      "case_number": "25-cv-7060",
-      "caption": "LEE v. NATIONAL RAILROAD PASSE",
-      "judge": "DISTRICT JUDGE PAPPERT",
-      "city": "",
-      "courtroom": "Video Conference",
-      "hearing_type": "Arbitration Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647399"
     },
     {
       "court": "EDPA",
@@ -2497,18 +2475,6 @@
       "docket_number": "958 WDA 2025",
       "journal_number": "J-A16023-26",
       "caption": "Com. v. Smith, A.",
-      "consideration_type": "Expedited \u2014 Argument Panel",
-      "location": "",
-      "city": "Pittsburgh",
-      "panel": "16-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; KING , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "06/24/2026",
-      "docket_number": "2 WDA 2025",
-      "journal_number": "J-A16024-26",
-      "caption": "Volk, S. v. Volk, K.",
       "consideration_type": "Expedited \u2014 Argument Panel",
       "location": "",
       "city": "Pittsburgh",
