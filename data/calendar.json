@@ -1,28 +1,6 @@
 {
-  "generated": "2026-06-25T13:59:01.866502+00:00",
+  "generated": "2026-06-25T16:15:39.196895+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "06/25/2026 09:30AM",
-      "case_number": "26-cr-0028",
-      "caption": "USA v. KANTE",
-      "judge": "DISTRICT JUDGE PAPPERT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11A",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648536"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/25/2026 10:30AM",
-      "case_number": "26-cv-3370",
-      "caption": "Wadi et al v. JBT Martel Corp.",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654862"
-    },
     {
       "court": "EDPA",
       "datetime": "06/25/2026 10:30AM",
@@ -33,17 +11,6 @@
       "courtroom": "Courtroom 16B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656033"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/25/2026 10:30AM",
-      "case_number": "23-cv-1049",
-      "caption": "MCQUILKIN v. ROTHMAN NATIONAL",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?607409"
     },
     {
       "court": "EDPA",
@@ -69,17 +36,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "06/25/2026 01:00PM",
-      "case_number": "25-cv-1007",
-      "caption": "SIRACUSA v. SHALEEMENTERPRISE3",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633946"
-    },
-    {
-      "court": "EDPA",
       "datetime": "06/25/2026 01:30PM",
       "case_number": "26-cr-0268",
       "caption": "USA v. DINGMAN",
@@ -99,17 +55,6 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Detention Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656209"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/25/2026 01:30PM",
-      "case_number": "24-cv-2463",
-      "caption": "COOPER v. LETIZIO et al",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Miscellaneous Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623139"
     },
     {
       "court": "EDPA",
@@ -213,17 +158,6 @@
     {
       "court": "EDPA",
       "datetime": "06/26/2026 11:00AM",
-      "case_number": "26-cv-4318",
-      "caption": "RIVAS COY-PEC v. JAMISON et al",
-      "judge": "DISTRICT JUDGE RUFE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 17A",
-      "hearing_type": "Miscellaneous Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656812"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/26/2026 11:00AM",
       "case_number": "24-cr-0376",
       "caption": "USA v. BARRERA",
       "judge": "DISTRICT JUDGE SCHMEHL",
@@ -264,6 +198,17 @@
       "courtroom": "Courtroom 9B",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?611771"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "06/29/2026 10:00AM",
+      "case_number": "25-cv-4726",
+      "caption": "MAHRT et al v. XU",
+      "judge": "DISTRICT JUDGE MURPHY",
+      "city": "",
+      "courtroom": "Video Conference",
+      "hearing_type": "Scheduling Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642417"
     },
     {
       "court": "EDPA",
@@ -374,17 +319,6 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652002"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/29/2026 03:00PM",
-      "case_number": "24-cr-0319",
-      "caption": "USA v. ORTEGA-CONTRERAS",
-      "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "Reading",
-      "courtroom": "Gateway 5th Floor",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627335"
     },
     {
       "court": "EDPA",
@@ -752,6 +686,17 @@
     {
       "court": "EDPA",
       "datetime": "07/06/2026 02:00PM",
+      "case_number": "25-cv-6229",
+      "caption": "COMPUTERSHARE TRUST COMPANY, N",
+      "judge": "DISTRICT JUDGE WEILHEIMER",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 7B",
+      "hearing_type": "Show Cause Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645709"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/06/2026 02:00PM",
       "case_number": "25-cr-0023",
       "caption": "USA v. FARRELL",
       "judge": "DISTRICT JUDGE WOLSON",
@@ -759,17 +704,6 @@
       "courtroom": "Courtroom 12B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632342"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/07/2026 09:30AM",
-      "case_number": "25-cr-0400",
-      "caption": "USA v. MOLINA",
-      "judge": "DISTRICT JUDGE RUFE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653307"
     },
     {
       "court": "EDPA",
