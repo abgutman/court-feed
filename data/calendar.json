@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-25T11:35:20.259205+00:00",
+  "generated": "2026-06-25T13:59:01.866502+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -14,14 +14,14 @@
     },
     {
       "court": "EDPA",
-      "datetime": "06/25/2026 09:30AM",
-      "case_number": "26-cr-0014",
-      "caption": "USA v. HADJ ALI",
-      "judge": "DISTRICT JUDGE SCOTT",
+      "datetime": "06/25/2026 10:30AM",
+      "case_number": "26-cv-3370",
+      "caption": "Wadi et al v. JBT Martel Corp.",
+      "judge": "DISTRICT JUDGE MARSTON",
       "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648150"
+      "courtroom": "Courtroom 16B",
+      "hearing_type": "Pretrial Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654862"
     },
     {
       "court": "EDPA",
@@ -187,17 +187,6 @@
       "courtroom": "Telephone Conference",
       "hearing_type": "Telephone Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642587"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/25/2026 10:30PM",
-      "case_number": "26-cv-3370",
-      "caption": "Wadi et al v. JBT Martel Corp.",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654862"
     },
     {
       "court": "EDPA",
@@ -847,17 +836,6 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653445"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/07/2026 10:00AM",
-      "case_number": "26-cv-3873",
-      "caption": "WANG v. JAMISON et al",
-      "judge": "DISTRICT JUDGE BARTLE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16A",
-      "hearing_type": "Evidentiary Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655875"
     },
     {
       "court": "EDPA",

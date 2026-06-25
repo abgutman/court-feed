@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-25T11:33:35.051347+00:00",
+  "generated": "2026-06-25T13:57:13.017750+00:00",
   "filings": [
     {
       "type": "filing",
@@ -643,6 +643,15 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "1736 EDA 2026",
+      "caption": "McCullough, L. v. Brown, K.",
+      "status": "Active",
+      "filing_date": "06/25/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1736 EDA 2026&dnh=PA87BmB6mjqgW68x7ed9Ng%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "109 EDM 2026",
       "caption": "Clegg, B. v. Garcia-Marcinkiewicz, A",
       "status": "Active",
@@ -1210,6 +1219,24 @@
     {
       "type": "filing",
       "court": "PA Commonwealth Court",
+      "docket": "861 CD 2026",
+      "caption": "Heineman, D. v. Central Bucks SD",
+      "status": "Active",
+      "filing_date": "06/24/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=861 CD 2026&dnh=GzRWPGOl%2FK4GOLcZa8lQkw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "862 CD 2026",
+      "caption": "Stalkie, K. v. UCBR",
+      "status": "Active",
+      "filing_date": "06/25/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=862 CD 2026&dnh=f1T93%2FwEoQmF4YtbNTgCig%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
       "docket": "231 FR 2026",
       "caption": "eResearch Technology, Inc. v. Com. of Pa.",
       "status": "Active",
@@ -1303,11 +1330,11 @@
       "type": "opinion",
       "court": "PA Supreme Court",
       "docket": "No. 659 Judicial Administration 2026",
-      "caption": "In Re: Amendments to Rule 701 of the Pennsylvania Rules of Judicial Adminstration",
+      "caption": "In Re: Amendments to Rule 701 of the Pennsylvania Rules of Judicial Administration",
       "author": "Per Curiam",
       "pub_date": "Tue, 23 Jun 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/Order Entered - 106829433363723027.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/Order Entered - 106829433363723027.pdf"
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/Order Entered - 2020106829433363723027.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/Order Entered - 2020106829433363723027.pdf"
     },
     {
       "type": "opinion",
