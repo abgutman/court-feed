@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-26T05:03:34.903901+00:00",
+  "generated": "2026-06-26T08:46:55.205632+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -1391,6 +1391,42 @@
       "case_number": "25-2715",
       "caption": "Rosa Valdivia-Rios et al  v. Attorney General United States",
       "panel": "BIBAS, CHUNG, MASCOTT",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-29",
+      "case_number": "24-2742",
+      "caption": "USA v. Brandon Aumiller",
+      "panel": "SHWARTZ, PHIPPS, RENDELL",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-29",
+      "case_number": "25-2054",
+      "caption": "USA v. Luis Gomez",
+      "panel": "SHWARTZ, PHIPPS, RENDELL",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-29",
+      "case_number": "25-2493",
+      "caption": "Kantilal Patel v. Attorney General United States of America",
+      "panel": "SHWARTZ, PHIPPS, RENDELL",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-06-29",
+      "case_number": "25-2912",
+      "caption": "McGuire Memorial v. Teamsters Local 261, International Broth",
+      "panel": "SHWARTZ, PHIPPS, RENDELL",
       "location_time": "",
       "disposition": "Submitted"
     },
