@@ -1,61 +1,6 @@
 {
-  "generated": "2026-06-25T22:16:23.227913+00:00",
+  "generated": "2026-06-26T00:04:28.491791+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "06/25/2026 01:30PM",
-      "case_number": "26-cr-0268",
-      "caption": "USA v. DINGMAN",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656209"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/25/2026 01:30PM",
-      "case_number": "26-cr-0268",
-      "caption": "USA v. DINGMAN",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Detention Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656209"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/25/2026 01:30PM",
-      "case_number": "26-cr-0269",
-      "caption": "USA v. TURNER",
-      "judge": "MAGISTRATE JUDGE STRAW",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Detention Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656195"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/25/2026 02:30PM",
-      "case_number": "17-cr-0208",
-      "caption": "USA v. LUCAS",
-      "judge": "DISTRICT JUDGE MCHUGH",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9B",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?529440"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/25/2026 02:30PM",
-      "case_number": "25-cr-0362",
-      "caption": "USA v. REID",
-      "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "",
-      "courtroom": "Telephone Conference",
-      "hearing_type": "Telephone Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642587"
-    },
     {
       "court": "EDPA",
       "datetime": "06/26/2026 10:00AM",
@@ -1364,54 +1309,64 @@
       "courtroom": "Courtroom 3B",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655756"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/10/2026 09:00AM",
+      "case_number": "25-cv-4766",
+      "caption": "RIDEOUT v. LB WATER et al",
+      "judge": "DISTRICT JUDGE GALLAGHER",
+      "city": "Philadelphia",
+      "courtroom": "Philadelphia",
+      "hearing_type": "Jury Selection",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642497"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/10/2026 10:00AM",
+      "case_number": "25-cr-0458",
+      "caption": "USA v. MURRAY",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645058"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/10/2026 10:30AM",
+      "case_number": "23-cr-0404",
+      "caption": "USA v. MOSKAITIS",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?613677"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/10/2026 10:30AM",
+      "case_number": "23-cr-0404",
+      "caption": "USA v. MOSKAITIS",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Pretrial Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?613677"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/10/2026 02:00PM",
+      "case_number": "25-cr-0425",
+      "caption": "USA v. BROWN",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Sentencing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644038"
     }
   ],
   "third_circuit": [
-    {
-      "court": "Third Circuit",
-      "date": "2026-06-25",
-      "case_number": "20-3216, 20-3242, 25-2003",
-      "caption": "USA v. Race Miner",
-      "panel": "BIBAS, CHUNG, MASCOTT",
-      "location_time": "Wilmington, DE - 2B Courtroom / 9:30 am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-06-25",
-      "case_number": "25-1281",
-      "caption": "USA v. Michael Bragg",
-      "panel": "BIBAS, CHUNG, MASCOTT",
-      "location_time": "Wilmington, DE - 2B Courtroom / 9:30 am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-06-25",
-      "case_number": "25-1459",
-      "caption": "Cheryl Hileman v. West Penn Allegheny Health System Inc",
-      "panel": "BIBAS, CHUNG, MASCOTT",
-      "location_time": "Wilmington, DE - 2B Courtroom / 9:30 am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-06-25",
-      "case_number": "25-2118",
-      "caption": "USA v. Davone Walker",
-      "panel": "BIBAS, CHUNG, MASCOTT",
-      "location_time": "Wilmington, DE - 2B / Courtroom / 9:30 am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-06-25",
-      "case_number": "25-2911",
-      "caption": "Jiaherb Inc v. MTC Industries Inc",
-      "panel": "BIBAS, CHUNG, MASCOTT",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
     {
       "court": "Third Circuit",
       "date": "2026-06-26",
