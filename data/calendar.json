@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-26T13:55:53.317836+00:00",
+  "generated": "2026-06-26T16:07:01.676464+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -140,7 +140,7 @@
       "caption": "USA v. TROCHE",
       "judge": "DISTRICT JUDGE HENRY",
       "city": "Philadelphia",
-      "courtroom": "Philadelphia",
+      "courtroom": "Courtroom 12B",
       "hearing_type": "Plea Agreement Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655966"
     },
@@ -531,12 +531,12 @@
     },
     {
       "court": "EDPA",
-      "datetime": "07/06/2026 02:00PM",
+      "datetime": "07/06/2026 01:30PM",
       "case_number": "26-cr-0042",
       "caption": "USA v. MARCUS",
       "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
+      "city": "",
+      "courtroom": "unlisted",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648857"
     },
@@ -561,6 +561,17 @@
       "courtroom": "Courtroom 12B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632342"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/07/2026 09:30AM",
+      "case_number": "26-cr-0226",
+      "caption": "USA v. CLARKE",
+      "judge": "DISTRICT JUDGE KENNEY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 11B",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654978"
     },
     {
       "court": "EDPA",
@@ -913,17 +924,6 @@
       "courtroom": "Courtroom 13B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641590"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/08/2026 01:00PM",
-      "case_number": "25-cr-0167",
-      "caption": "USA v. COLEMAN",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636404"
     },
     {
       "court": "EDPA",
