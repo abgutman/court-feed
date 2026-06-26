@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-26T11:36:44.512326+00:00",
+  "generated": "2026-06-26T13:54:21.551083+00:00",
   "filings": [
     {
       "type": "filing",
@@ -720,6 +720,69 @@
       "status": "Active",
       "filing_date": "06/25/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1744 EDA 2026&dnh=S1%2F0VOBl7FelElQnRJB1UQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1745 EDA 2026",
+      "caption": "In the Int. of: I.D., Appeal of: L.R.",
+      "status": "Active",
+      "filing_date": "06/26/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1745 EDA 2026&dnh=7OkJh0Ih7TTGTlaAmxPIbg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1746 EDA 2026",
+      "caption": "In the Int. of: I.A.M.D., Appeal of: L.R.",
+      "status": "Active",
+      "filing_date": "06/26/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1746 EDA 2026&dnh=Kh3cJ%2Bypz1EdWBZ1OhZiIA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1747 EDA 2026",
+      "caption": "In the Int. of: L.W., Appeal of: L.R.",
+      "status": "Active",
+      "filing_date": "06/26/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1747 EDA 2026&dnh=dt2jg9NF6NxAAo8wXOoF5w%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1748 EDA 2026",
+      "caption": "In the Int. of: L.S.W., Appeal of: L.R.",
+      "status": "Active",
+      "filing_date": "06/26/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1748 EDA 2026&dnh=g%2BCtHOtGOk%2FfASFoDkopxA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1749 EDA 2026",
+      "caption": "Yarbrough, H. v. Naryan Auto Group",
+      "status": "Active",
+      "filing_date": "06/26/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1749 EDA 2026&dnh=hZ7WLQynMfAK2lweBkJ5zQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1750 EDA 2026",
+      "caption": "In the Int. of: E.P., Appeal of: L.R.",
+      "status": "Active",
+      "filing_date": "06/26/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1750 EDA 2026&dnh=%2FpdNCEqNPTyBujBgbFYpYw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1751 EDA 2026",
+      "caption": "In the Int. of: E.L.I.P., Appeal of: L.R.",
+      "status": "Active",
+      "filing_date": "06/26/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1751 EDA 2026&dnh=iRP%2FGhLtV5s4CuWZj%2ByBQg%3D%3D"
     },
     {
       "type": "filing",
@@ -1961,6 +2024,16 @@
     {
       "type": "opinion",
       "court": "PA Superior Court",
+      "docket": "",
+      "caption": "Reargument Table",
+      "author": "",
+      "pub_date": "Fri, 26 Jun 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/WestReport062626.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/WestReport062626.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Superior Court",
       "docket": "No. 1102 MDA 2025",
       "caption": "Staver. R. and P. v. Glaser, D. and J.",
       "author": "Beck, J.",
@@ -2510,13 +2583,53 @@
     },
     {
       "type": "opinion",
-      "court": "PA Superior Court",
-      "docket": "No. 2971 EDA 2025",
-      "caption": "Com. v. Kwortnick, W.",
-      "author": "Lane, J.",
-      "pub_date": "Mon, 22 Jun 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S22028-26m - 106825724363384694.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S22028-26m - 106825724363384694.pdf"
+      "court": "PA Commonwealth Court",
+      "docket": "205 C.D. 2025",
+      "caption": "G. Wilkins v. PA OAG (OOR)",
+      "author": "PER CURIAM",
+      "pub_date": "Fri, 26 Jun 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/205CD25_6-26-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/205CD25_6-26-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "239 C.D. 2025",
+      "caption": "P. McDuffie v. PHRC",
+      "author": "Fizzano Cannon, J.",
+      "pub_date": "Fri, 26 Jun 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/239CD25_6-26-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/239CD25_6-26-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "193 M.D. 2025",
+      "caption": "Applied Medico-Legal Solutions Risk Retention Group, Inc. v. ProAssurance Specialty Ins. Co., Inc. &amp; the Mcare Fund",
+      "author": "Fizzano Cannon, J.",
+      "pub_date": "Fri, 26 Jun 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/193MD25_6-26-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/193MD25_6-26-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "85 C.D. 2025",
+      "caption": "B.E. Griffin v. M. Thompson &amp; Prison Medical Dept.",
+      "author": "Dumas, J.",
+      "pub_date": "Fri, 26 Jun 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/85CD25_6-26-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/85CD25_6-26-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "229 C.D. 2025",
+      "caption": "G. Wilkins v. PA OAG (OOR)",
+      "author": "PER CURIAM",
+      "pub_date": "Fri, 26 Jun 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/229CD25_6-26-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/229CD25_6-26-26.pdf"
     },
     {
       "type": "opinion",
