@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-29T07:19:55.552903+00:00",
+  "generated": "2026-06-29T12:22:04.804745+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -814,6 +814,17 @@
       "courtroom": "Courtroom TBD",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?541262"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/07/2026 01:30PM",
+      "case_number": "25-cv-6501",
+      "caption": "FOLSE v. GOVERNOR SPROUL ASSOC",
+      "judge": "DISTRICT JUDGE MARSTON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646343"
     },
     {
       "court": "EDPA",
