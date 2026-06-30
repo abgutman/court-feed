@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-30T13:02:43.199334+00:00",
+  "generated": "2026-06-30T15:30:05.723118+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -279,6 +279,17 @@
     {
       "court": "EDPA",
       "datetime": "07/01/2026 01:30PM",
+      "case_number": "26-cr-0283",
+      "caption": "USA v. HOWARD",
+      "judge": "MAGISTRATE JUDGE CARLOS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656626"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/01/2026 01:30PM",
       "case_number": "25-cr-0460",
       "caption": "USA v. CASTRO RODRIGUEZ",
       "judge": "MAGISTRATE JUDGE CARLOS",
@@ -341,17 +352,6 @@
       "courtroom": "Courtroom 12B",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?576052"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/06/2026 10:30AM",
-      "case_number": "25-cr-0212",
-      "caption": "USA v. ALVAREZ",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637611"
     },
     {
       "court": "EDPA",
@@ -495,17 +495,6 @@
       "courtroom": "Courtroom 13B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649418"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/07/2026 10:00AM",
-      "case_number": "25-cr-0130",
-      "caption": "USA v. KUPPUSAMY",
-      "judge": "DISTRICT JUDGE COSTELLO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635673"
     },
     {
       "court": "EDPA",
@@ -968,50 +957,6 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631457"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/09/2026 09:30AM",
-      "case_number": "25-cr-0066",
-      "caption": "USA v. ARROYO",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633967"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/09/2026 09:30AM",
-      "case_number": "25-cr-0066",
-      "caption": "USA v. JORGE-ORTIZ",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633968"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/09/2026 09:30AM",
-      "case_number": "25-cr-0066",
-      "caption": "USA v. PEREZ",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633969"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/09/2026 09:30AM",
-      "case_number": "25-cr-0066",
-      "caption": "USA v. LEANDRY",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633970"
     },
     {
       "court": "EDPA",
