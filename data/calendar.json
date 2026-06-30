@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-30T15:30:05.723118+00:00",
+  "generated": "2026-06-30T17:46:35.740568+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -11,17 +11,6 @@
       "courtroom": "Cahn 4B",
       "hearing_type": "Miscellaneous Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633098"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/30/2026 09:30AM",
-      "case_number": "25-cv-0939",
-      "caption": "LILLY v. RYOBI TECHNOLOGIES, I",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633794"
     },
     {
       "court": "EDPA",
@@ -91,39 +80,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "06/30/2026 10:00AM",
-      "case_number": "19-cr-0022",
-      "caption": "USA v. JAMES",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12B",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?551818"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/30/2026 10:00AM",
-      "case_number": "25-cv-6251",
-      "caption": "INVERSE PARADOX, LLC v. MUSICB",
-      "judge": "DISTRICT JUDGE YOUNGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645761"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/30/2026 10:30AM",
-      "case_number": "26-cr-0061",
-      "caption": "USA v. ORTIZ-SANABRIA",
-      "judge": "DISTRICT JUDGE GALLAGHER",
-      "city": "Allentown",
-      "courtroom": "Cahn 4B",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649732"
-    },
-    {
-      "court": "EDPA",
       "datetime": "06/30/2026 10:30AM",
       "case_number": "26-cv-0170",
       "caption": "Huertas v. Borough of East Gre",
@@ -154,17 +110,6 @@
       "courtroom": "Courtroom 16A",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656702"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/30/2026 02:00PM",
-      "case_number": "24-cv-1001",
-      "caption": "SPARACINO v. WIDENER UNIVERSIT",
-      "judge": "DISTRICT JUDGE COSTELLO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6A",
-      "hearing_type": "Miscellaneous Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?619739"
     },
     {
       "court": "EDPA",
@@ -631,6 +576,17 @@
     {
       "court": "EDPA",
       "datetime": "07/07/2026 01:30PM",
+      "case_number": "25-cr-0460",
+      "caption": "USA v. SIERRA OCASIO",
+      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656907"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/07/2026 01:30PM",
       "case_number": "16-cr-0455",
       "caption": "USA v. PARRIS",
       "judge": "DISTRICT JUDGE HENRY",
@@ -990,17 +946,6 @@
       "courtroom": "Courtroom 16A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?582831"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/09/2026 10:00AM",
-      "case_number": "26-cr-0134",
-      "caption": "USA v. RAKHMATOV",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651868"
     },
     {
       "court": "EDPA",
@@ -1584,6 +1529,17 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655165"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/14/2026 02:00PM",
+      "case_number": "26-cv-3249",
+      "caption": "AJETI et al v. LIFE INSURANCE",
+      "judge": "DISTRICT JUDGE BARTLE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654577"
     },
     {
       "court": "EDPA",
