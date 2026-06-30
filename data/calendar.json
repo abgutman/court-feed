@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-30T21:23:20.621422+00:00",
+  "generated": "2026-06-30T23:03:28.544822+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -323,6 +323,17 @@
     {
       "court": "EDPA",
       "datetime": "07/06/2026 01:30PM",
+      "case_number": "26-mj-1267",
+      "caption": "USA v. CHIRINOS AMADOR",
+      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657060"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/06/2026 01:30PM",
       "case_number": "26-cr-0042",
       "caption": "USA v. MARCUS",
       "judge": "DISTRICT JUDGE SLOMSKY",
@@ -543,6 +554,28 @@
     {
       "court": "EDPA",
       "datetime": "07/07/2026 01:30PM",
+      "case_number": "26-cr-0187",
+      "caption": "USA v. YOUNG",
+      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653470"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/07/2026 01:30PM",
+      "case_number": "26-cr-0187",
+      "caption": "USA v. YOUNG",
+      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653470"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/07/2026 01:30PM",
       "case_number": "25-cr-0460",
       "caption": "USA v. SIERRA OCASIO",
       "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
@@ -693,6 +726,17 @@
       "courtroom": "Gateway 5th Floor",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628840"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/08/2026 11:00AM",
+      "case_number": "26-cv-4528",
+      "caption": "Montero v. MULLIN et al",
+      "judge": "DISTRICT JUDGE RUFE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12A",
+      "hearing_type": "Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657195"
     },
     {
       "court": "EDPA",
