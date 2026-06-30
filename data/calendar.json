@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-30T17:46:35.740568+00:00",
+  "generated": "2026-06-30T19:29:10.909219+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -59,17 +59,6 @@
     {
       "court": "EDPA",
       "datetime": "06/30/2026 10:00AM",
-      "case_number": "25-cv-2758",
-      "caption": "GRAFF BAEHMANN v. ARAMARK et a",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10A",
-      "hearing_type": "Evidentiary Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638315"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/30/2026 10:00AM",
       "case_number": "25-cr-0175",
       "caption": "USA v. SMITH",
       "judge": "DISTRICT JUDGE COSTELLO",
@@ -77,28 +66,6 @@
       "courtroom": "Courtroom 6A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636680"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/30/2026 10:30AM",
-      "case_number": "26-cv-0170",
-      "caption": "Huertas v. Borough of East Gre",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648297"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "06/30/2026 01:30PM",
-      "case_number": "26-cv-0007",
-      "caption": "CM v. Dayspring Christian Acad",
-      "judge": "DISTRICT JUDGE GALLAGHER",
-      "city": "Allentown",
-      "courtroom": "Cahn 4B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647973"
     },
     {
       "court": "EDPA",
@@ -264,6 +231,17 @@
       "courtroom": "Courtroom 12B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648821"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/01/2026 02:30PM",
+      "case_number": "08-cr-0323",
+      "caption": "USA v. HERNANDEZ",
+      "judge": "DISTRICT JUDGE SCHMEHL",
+      "city": "",
+      "courtroom": "Telephone Conference",
+      "hearing_type": "Telephone Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?271868"
     },
     {
       "court": "EDPA",
@@ -506,17 +484,6 @@
       "courtroom": "Courtroom 16B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652683"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/07/2026 11:00AM",
-      "case_number": "26-cv-2683",
-      "caption": "GONZALEZ DE ARMAS v. JAMISON e",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653439"
     },
     {
       "court": "EDPA",
@@ -913,17 +880,6 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631457"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/09/2026 09:30AM",
-      "case_number": "25-cr-0066",
-      "caption": "USA v. LAKE",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633971"
     },
     {
       "court": "EDPA",
