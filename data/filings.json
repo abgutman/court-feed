@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-30T19:27:56.610653+00:00",
+  "generated": "2026-06-30T21:21:56.936494+00:00",
   "filings": [
     {
       "type": "filing",
@@ -252,6 +252,15 @@
       "status": "Active",
       "filing_date": "06/30/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=375 MAL 2026&dnh=HPgta94Rmob2koOXlu9feA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "376 MAL 2026",
+      "caption": "Commonwealth v. Pizarro, J., Pet.",
+      "status": "Active",
+      "filing_date": "06/30/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=376 MAL 2026&dnh=erp%2F4ICxv7LZxLjYZ38H5Q%3D%3D"
     },
     {
       "type": "filing",
@@ -1165,6 +1174,15 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "1812 EDA 2026",
+      "caption": "Estate of: Gloria Capobianco Appeal of: Jones, G.",
+      "status": "Active",
+      "filing_date": "06/30/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1812 EDA 2026&dnh=z30Ez5Q3xuP%2B6oB%2FALNcIw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "109 EDM 2026",
       "caption": "Clegg, B. v. Garcia-Marcinkiewicz, A",
       "status": "Active",
@@ -1992,6 +2010,16 @@
     {
       "type": "opinion",
       "court": "PA Supreme Court",
+      "docket": "No. 135 MM 2026",
+      "caption": "Zlock, K., et al., Pets. v. Judge, Bucks Co. Family Court",
+      "author": "Per Curiam",
+      "pub_date": "Tue, 30 Jun 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/135MM2026 - 106837935364626418.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/135MM2026 - 106837935364626418.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
       "docket": "No. 21 EAL 2026",
       "caption": "Commonwealth v. Harris, J., Pet.",
       "author": "Justice David Wecht",
@@ -2436,8 +2464,8 @@
       "caption": "Chiavetta, C. v. Claussen, M.",
       "author": "Olson, J.",
       "pub_date": "Tue, 30 Jun 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-A13024-26m - 106836670364481274.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-A13024-26m - 106836670364481274.pdf"
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-A13024-26m.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-A13024-26m.pdf"
     },
     {
       "type": "opinion",
@@ -2706,8 +2734,8 @@
       "caption": "Com. v. Westbrook, G.",
       "author": "Stabile, J.",
       "pub_date": "Tue, 30 Jun 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S39009-25m - 106837079364524985.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S39009-25m - 106837079364524985.pdf"
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S39009-25m.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S39009-25m.pdf"
     },
     {
       "type": "opinion",
@@ -2776,8 +2804,8 @@
       "caption": "Com. v. James, E.",
       "author": "King, J.",
       "pub_date": "Tue, 30 Jun 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S13031-26m - 106836680364482436.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S13031-26m - 106836680364482436.pdf"
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S15001-26m.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S15001-26m.pdf"
     },
     {
       "type": "opinion",
@@ -3128,6 +3156,18 @@
       "guid": "ca3-25-2840-252840np.pdf",
       "precedential": false,
       "origin": "USDC for the Western District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-1745",
+      "caption": "Michael Nelson v. Taylor",
+      "author": "",
+      "pub_date": "Tue, 30 Jun 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/251745np.pdf",
+      "guid": "ca3-25-1745-251745np.pdf",
+      "precedential": false,
+      "origin": "USDC for the Middle District of Pennsylvania"
     },
     {
       "type": "opinion",
