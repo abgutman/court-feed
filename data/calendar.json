@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-01T20:46:13.828212+00:00",
+  "generated": "2026-07-01T22:12:50.011546+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -22,28 +22,6 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Detention Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656626"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/01/2026 01:30PM",
-      "case_number": "25-cr-0460",
-      "caption": "USA v. CASTRO RODRIGUEZ",
-      "judge": "MAGISTRATE JUDGE CARLOS",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656908"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/01/2026 01:30PM",
-      "case_number": "25-cr-0460",
-      "caption": "USA v. CASTRO RODRIGUEZ",
-      "judge": "MAGISTRATE JUDGE CARLOS",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Detention Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656908"
     },
     {
       "court": "EDPA",
@@ -462,6 +440,28 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656907"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/07/2026 01:30PM",
+      "case_number": "25-cr-0460",
+      "caption": "USA v. CASTRO RODRIGUEZ",
+      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656908"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/07/2026 01:30PM",
+      "case_number": "25-cr-0460",
+      "caption": "USA v. CASTRO RODRIGUEZ",
+      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656908"
     },
     {
       "court": "EDPA",
@@ -1529,83 +1529,6 @@
       "courtroom": "Courtroom 5D",
       "hearing_type": "Arbitration Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649357"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/15/2026 09:30AM",
-      "case_number": "25-cr-0305",
-      "caption": "USA v. HUNTER",
-      "judge": "DISTRICT JUDGE WEILHEIMER",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom TBD",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640489"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/15/2026 09:30AM",
-      "case_number": "25-cr-0305",
-      "caption": "USA v. TABBS",
-      "judge": "DISTRICT JUDGE WEILHEIMER",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom TBD",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640490"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/15/2026 09:30AM",
-      "case_number": "25-cr-0305",
-      "caption": "USA v. TABBS",
-      "judge": "DISTRICT JUDGE WEILHEIMER",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom TBD",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640491"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/15/2026 09:30AM",
-      "case_number": "25-cr-0305",
-      "caption": "USA v. HUNTER",
-      "judge": "DISTRICT JUDGE WEILHEIMER",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom TBD",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640492"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/15/2026 09:30AM",
-      "case_number": "25-cr-0305",
-      "caption": "USA v. STALLWORTH",
-      "judge": "DISTRICT JUDGE WEILHEIMER",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom TBD",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640493"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/15/2026 09:30AM",
-      "case_number": "25-cr-0305",
-      "caption": "USA v. SAEED",
-      "judge": "DISTRICT JUDGE WEILHEIMER",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom TBD",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640494"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/15/2026 09:30AM",
-      "case_number": "25-cr-0305",
-      "caption": "USA v. PINKNEY",
-      "judge": "DISTRICT JUDGE WEILHEIMER",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom TBD",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640495"
     },
     {
       "court": "EDPA",
