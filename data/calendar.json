@@ -1,28 +1,6 @@
 {
-  "generated": "2026-07-01T13:31:14.578339+00:00",
+  "generated": "2026-07-01T16:15:01.034988+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "07/01/2026 09:30AM",
-      "case_number": "25-cv-4766",
-      "caption": "RIDEOUT v. LB WATER et al",
-      "judge": "DISTRICT JUDGE GALLAGHER",
-      "city": "Allentown",
-      "courtroom": "Cahn 4B",
-      "hearing_type": "Final Pretrial Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642497"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/01/2026 10:00AM",
-      "case_number": "25-cv-7022",
-      "caption": "STRAND v. TRIPLE CANOPY INC",
-      "judge": "DISTRICT JUDGE KEARNEY",
-      "city": "",
-      "courtroom": "Telephone Conference",
-      "hearing_type": "Scheduling Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647317"
-    },
     {
       "court": "EDPA",
       "datetime": "07/01/2026 10:00AM",
@@ -33,17 +11,6 @@
       "courtroom": "Courtroom 12B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653892"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/01/2026 10:00AM",
-      "case_number": "25-cr-0144",
-      "caption": "USA v. SALGUERO",
-      "judge": "DISTRICT JUDGE YOUNGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15B",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635977"
     },
     {
       "court": "EDPA",
@@ -249,10 +216,32 @@
       "case_number": "26-cr-0042",
       "caption": "USA v. MARCUS",
       "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Initial Appearance",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648857"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/06/2026 01:30PM",
+      "case_number": "26-cr-0042",
+      "caption": "USA v. MARCUS",
+      "judge": "DISTRICT JUDGE SLOMSKY",
       "city": "",
       "courtroom": "unlisted",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648857"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/06/2026 02:00PM",
+      "case_number": "25-cr-0432",
+      "caption": "USA v. HUGHES-MURCHISON",
+      "judge": "DISTRICT JUDGE MARSTON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16B",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644132"
     },
     {
       "court": "EDPA",
@@ -553,17 +542,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "07/07/2026 02:00PM",
-      "case_number": "25-cr-0403",
-      "caption": "USA v. ANDREWS",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643445"
-    },
-    {
-      "court": "EDPA",
       "datetime": "07/07/2026 03:00PM",
       "case_number": "26-cv-1378",
       "caption": "FREDERICKS v. ASSURANT SPECIAL",
@@ -649,17 +627,6 @@
       "courtroom": "Courtroom 12A",
       "hearing_type": "Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657195"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/08/2026 11:00AM",
-      "case_number": "22-cr-0340",
-      "caption": "USA v. WATTS",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?601270"
     },
     {
       "court": "EDPA",
@@ -1009,7 +976,18 @@
       "caption": "RIDEOUT v. LB WATER et al",
       "judge": "DISTRICT JUDGE GALLAGHER",
       "city": "Philadelphia",
-      "courtroom": "Philadelphia",
+      "courtroom": "Courtroom 8B",
+      "hearing_type": "Final Pretrial Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642497"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/10/2026 09:00AM",
+      "case_number": "25-cv-4766",
+      "caption": "RIDEOUT v. LB WATER et al",
+      "judge": "DISTRICT JUDGE GALLAGHER",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 8B",
       "hearing_type": "Jury Selection",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642497"
     },

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-01T13:30:00.133460+00:00",
+  "generated": "2026-07-01T16:13:50.745732+00:00",
   "filings": [
     {
       "type": "filing",
@@ -90,6 +90,15 @@
       "status": "Active",
       "filing_date": "06/29/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=222 EAL 2026&dnh=gYby2%2F9w%2FaYsllVw7vYl2A%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "223 EAL 2026",
+      "caption": "Bass-Brookins, W. v. Abney, T.",
+      "status": "Active",
+      "filing_date": "07/01/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=223 EAL 2026&dnh=84frSogGDc0NBsitjSBhrw%3D%3D"
     },
     {
       "type": "filing",
@@ -329,7 +338,7 @@
       "type": "filing",
       "court": "PA Supreme Court",
       "docket": "68 WM 2026",
-      "caption": "Commonwealth. v. Swazuk, S., Pet.",
+      "caption": "Swazuk, S., Pet. v. CCP Allegheny County",
       "status": "Active",
       "filing_date": "06/30/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=68 WM 2026&dnh=OxjcWSiySYvl%2FGKuhGYXOw%3D%3D"
@@ -1066,6 +1075,33 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "1817 EDA 2026",
+      "caption": "Thompson, K. v. Logan, A.",
+      "status": "Active",
+      "filing_date": "07/01/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1817 EDA 2026&dnh=LlXUpe%2FrYr39mmcdIcSHoQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1818 EDA 2026",
+      "caption": "In the Int. of: A.S., Appeal of: T.W.",
+      "status": "Active",
+      "filing_date": "07/01/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1818 EDA 2026&dnh=lDQh1Ks2y1dedbK7JiH52g%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1819 EDA 2026",
+      "caption": "Cabiness, F. v. Rivera, A.",
+      "status": "Active",
+      "filing_date": "07/01/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1819 EDA 2026&dnh=smafGeQU87Q4ZnHmhdj%2BRg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "110 EDM 2026",
       "caption": "Corrocher, A. v. B. Braun Melsungen",
       "status": "Active",
@@ -1489,6 +1525,42 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "858 WDA 2026",
+      "caption": "In Re: Coles, A. Appeal of: O'Neil, A.",
+      "status": "Active",
+      "filing_date": "07/01/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=858 WDA 2026&dnh=KozdxyaCgB086sm0r2bFsQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "859 WDA 2026",
+      "caption": "In Re: Coles, A. Appeal of:Coles, T.",
+      "status": "Active",
+      "filing_date": "07/01/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=859 WDA 2026&dnh=JFIV9bbWN1gbvMSxpAX7xw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "860 WDA 2026",
+      "caption": "Harris-Cordoba, S. v. Peterson, K.",
+      "status": "Active",
+      "filing_date": "07/01/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=860 WDA 2026&dnh=P3L1vdRCKHn3RZpJrpO1sw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "861 WDA 2026",
+      "caption": "Wilmington Savings Fund v. Kimmel, P.",
+      "status": "Active",
+      "filing_date": "07/01/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=861 WDA 2026&dnh=cEB8cdJHpjbgMHzp9cirpg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "72 WDM 2026",
       "caption": "Com. v. Tuttle-Kasper, T.",
       "status": "Active",
@@ -1530,15 +1602,6 @@
       "status": "Active",
       "filing_date": "06/26/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=873 CD 2026&dnh=tnAyUPEbmk5auLYuiTPa0Q%3D%3D"
-    },
-    {
-      "type": "filing",
-      "court": "PA Commonwealth Court",
-      "docket": "875 CD 2026",
-      "caption": "Aulder, J. v. Com. of PA",
-      "status": "Active",
-      "filing_date": "06/26/2026",
-      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=875 CD 2026&dnh=1ybCYJjZdOJPAgN9T6m9JQ%3D%3D"
     },
     {
       "type": "filing",
@@ -1647,6 +1710,15 @@
       "status": "Active",
       "filing_date": "06/30/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=239 FR 2026&dnh=aiw2pbD2fIoxLny5vay6fQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "240 FR 2026",
+      "caption": "Lindy Property Management v. Com. of Pa.",
+      "status": "Active",
+      "filing_date": "07/01/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=240 FR 2026&dnh=4lFsFDSJvj6OiSDK2hj1fw%3D%3D"
     },
     {
       "type": "filing",
