@@ -1,28 +1,6 @@
 {
-  "generated": "2026-07-01T18:55:07.408884+00:00",
+  "generated": "2026-07-01T20:46:13.828212+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "07/01/2026 10:00AM",
-      "case_number": "26-cv-2902",
-      "caption": "ZEPEDA GALICIA v. JAMISON et a",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653892"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/01/2026 11:00AM",
-      "case_number": "25-cr-0528",
-      "caption": "USA v. BRANCH",
-      "judge": "DISTRICT JUDGE COSTELLO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647462"
-    },
     {
       "court": "EDPA",
       "datetime": "07/01/2026 11:00AM",
@@ -66,17 +44,6 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Detention Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656908"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/01/2026 02:00PM",
-      "case_number": "26-cr-0037",
-      "caption": "USA v. VASQUEZ-LADINO",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648821"
     },
     {
       "court": "EDPA",
@@ -143,6 +110,28 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637611"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/06/2026 01:30PM",
+      "case_number": "26-cr-0236",
+      "caption": "USA v. SEHUANCATZI-ROJAS",
+      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655348"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/06/2026 01:30PM",
+      "case_number": "26-cr-0236",
+      "caption": "USA v. SEHUANCATZI-ROJAS",
+      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655348"
     },
     {
       "court": "EDPA",
@@ -587,17 +576,6 @@
     {
       "court": "EDPA",
       "datetime": "07/08/2026 10:30AM",
-      "case_number": "24-cr-0376",
-      "caption": "USA v. REDMOND",
-      "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "Reading",
-      "courtroom": "Gateway 5th Floor",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628840"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/08/2026 10:30AM",
       "case_number": "26-cr-0178",
       "caption": "USA v. LOUD",
       "judge": "DISTRICT JUDGE SLOMSKY",
@@ -660,17 +638,6 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?594201"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/08/2026 01:30PM",
-      "case_number": "19-cr-0563",
-      "caption": "USA v. KEY",
-      "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "Reading",
-      "courtroom": "Reading 5th Floor",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?562230"
     },
     {
       "court": "EDPA",
@@ -770,17 +737,6 @@
       "courtroom": "Courtroom 16B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648824"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/09/2026 09:30AM",
-      "case_number": "24-cr-0451",
-      "caption": "USA v. CLAITT",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631457"
     },
     {
       "court": "EDPA",
@@ -906,6 +862,28 @@
     {
       "court": "EDPA",
       "datetime": "07/09/2026 01:30PM",
+      "case_number": "26-cr-0238",
+      "caption": "USA v. CAMMARATA",
+      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655436"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/09/2026 01:30PM",
+      "case_number": "26-cr-0238",
+      "caption": "USA v. CAMMARATA",
+      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655436"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/09/2026 01:30PM",
       "case_number": "26-mj-1267",
       "caption": "USA v. ROSS",
       "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
@@ -990,6 +968,17 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?613677"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/10/2026 02:30PM",
+      "case_number": "01-cr-0169",
+      "caption": "USA v. HOFFMAN",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Sentencing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?112447"
     },
     {
       "court": "EDPA",
