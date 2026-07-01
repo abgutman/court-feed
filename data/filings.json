@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-01T10:42:40.067364+00:00",
+  "generated": "2026-07-01T13:30:00.133460+00:00",
   "filings": [
     {
       "type": "filing",
@@ -90,6 +90,15 @@
       "status": "Active",
       "filing_date": "06/29/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=222 EAL 2026&dnh=gYby2%2F9w%2FaYsllVw7vYl2A%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "28 EAP 2026",
+      "caption": "Goldata Computer Services, Inc. et al., Aplts. v. Dep't of Banking and Securities",
+      "status": "Active",
+      "filing_date": "07/01/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=28 EAP 2026&dnh=4TkHkXVwQ%2BXli%2BhWyurLNQ%3D%3D"
     },
     {
       "type": "filing",
@@ -329,7 +338,7 @@
       "type": "filing",
       "court": "PA Supreme Court",
       "docket": "69 WM 2026",
-      "caption": "Commonwealth. v. Swazuk, S., Pet.",
+      "caption": "Swazuk, S., Pet. v. CCP Allegheny County",
       "status": "Active",
       "filing_date": "06/30/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=69 WM 2026&dnh=2sdf%2F29mzDNsgJeS1ZuT0Q%3D%3D"
@@ -1021,6 +1030,42 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "1813 EDA 2026",
+      "caption": "Com. v. Taner, R.",
+      "status": "Active",
+      "filing_date": "07/01/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1813 EDA 2026&dnh=aKjXEmVowXtucKYUen6NzA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1814 EDA 2026",
+      "caption": "Com. v. Chamberlain, S.",
+      "status": "Active",
+      "filing_date": "07/01/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1814 EDA 2026&dnh=dLQ7Kl3lGUA%2BUaElwZ6VBQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1815 EDA 2026",
+      "caption": "Reinboth, A. v. LaSorsa, V.",
+      "status": "Active",
+      "filing_date": "07/01/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1815 EDA 2026&dnh=hFr009l3fHPJs8Khm0LJKA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1816 EDA 2026",
+      "caption": "Trumark Federal Credit Union v. Shah, R.",
+      "status": "Active",
+      "filing_date": "07/01/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1816 EDA 2026&dnh=K%2FXyJS3yzCg5GORfC7gtKw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "110 EDM 2026",
       "caption": "Corrocher, A. v. B. Braun Melsungen",
       "status": "Active",
@@ -1246,9 +1291,18 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "1010 MDA 2026",
+      "caption": "Rosamilia, C. v. Hoover, S.",
+      "status": "Active",
+      "filing_date": "07/01/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1010 MDA 2026&dnh=jc52pblCwQedIUVHAqNBVg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "45 MDM 2026",
       "caption": "Com. v. Easter, T.",
-      "status": "Active",
+      "status": "Closed",
       "filing_date": "06/26/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=45 MDM 2026&dnh=RGZWQ96Dfyb85Bv%2FV5FgRA%3D%3D"
     },
@@ -1543,6 +1597,15 @@
     {
       "type": "filing",
       "court": "PA Commonwealth Court",
+      "docket": "898 CD 2026",
+      "caption": "UPMC Work Partners v. North Pointe Surgery",
+      "status": "Active",
+      "filing_date": "06/30/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=898 CD 2026&dnh=8nPdJIU7IN1U3gEADUbUmg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
       "docket": "235 FR 2026",
       "caption": "Camp Camino, Inc. v. Com. of Pa.",
       "status": "Active",
@@ -1579,11 +1642,29 @@
     {
       "type": "filing",
       "court": "PA Commonwealth Court",
+      "docket": "239 FR 2026",
+      "caption": "Serena, J. et al v. Com. of Pa.",
+      "status": "Active",
+      "filing_date": "06/30/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=239 FR 2026&dnh=aiw2pbD2fIoxLny5vay6fQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
       "docket": "296 MD 2026",
       "caption": "Enterprise Bank v. Dept. of Banking and Securites",
       "status": "Active",
       "filing_date": "06/26/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=296 MD 2026&dnh=f6JMzzz%2BQiXGQ3qw1GVO%2Bg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "297 MD 2026",
+      "caption": "DEP v. Medina Resource Dev. Company",
+      "status": "Active",
+      "filing_date": "06/30/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=297 MD 2026&dnh=6keRkTg7ATjuvJBy0dCouw%3D%3D"
     },
     {
       "type": "filing",
@@ -2566,6 +2647,46 @@
       "pub_date": "Fri, 26 Jun 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S11006-26m - 106833095364147764.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S11006-26m - 106833095364147764.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "1313 C.D. 2024",
+      "caption": "G. Abdulhay, et al. v. Upper Macungie Twp. ZHB, et al.",
+      "author": "Fizzano Cannon, J. ~ Concurring Opinion by: Cohn Jubelirer, President Judge",
+      "pub_date": "Wed, 01 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1313CD24_7-1-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1313CD24_7-1-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "190 M.D. 2024",
+      "caption": "T. Bartlow v. UCBR",
+      "author": "Wojcik, J.",
+      "pub_date": "Wed, 01 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/190MD24_7-1-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/190MD24_7-1-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "637 C.D. 2025",
+      "caption": "N.J. Sperry-Mauger v. Cumberland County Clerk of Courts (OOR)",
+      "author": "Fizzano Cannon, J.",
+      "pub_date": "Wed, 01 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/637CD25_7-1-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/637CD25_7-1-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "1469 C.D. 2024",
+      "caption": "S. Bryant &amp; W. Leftenant v. Pottstown S.D., et al. ~ Appeal of: S. Bryant",
+      "author": "Tsai, J.",
+      "pub_date": "Wed, 01 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1469CD24_7-1-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1469CD24_7-1-26.pdf"
     },
     {
       "type": "opinion",
