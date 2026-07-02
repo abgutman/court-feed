@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-02T18:22:27.970598+00:00",
+  "generated": "2026-07-02T20:13:54.031466+00:00",
   "filings": [
     {
       "type": "filing",
@@ -77,7 +77,7 @@
       "type": "filing",
       "court": "PA Supreme Court",
       "docket": "221 EAL 2026",
-      "caption": "Kleiner, E. v. LLT Management, LLC",
+      "caption": "Kleiner, E., et al., Pets. v. LLT Management, LLC",
       "status": "Active",
       "filing_date": "06/29/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=221 EAL 2026&dnh=gAEWErlc9aKRxzhTefHSKQ%3D%3D"
@@ -103,6 +103,15 @@
     {
       "type": "filing",
       "court": "PA Supreme Court",
+      "docket": "224 EAL 2026",
+      "caption": "Commonwealth v. Cephas, R., Pet.",
+      "status": "Active",
+      "filing_date": "07/02/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=224 EAL 2026&dnh=U4xi4v4SGPILf9zBGGO3bw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
       "docket": "28 EAP 2026",
       "caption": "Goldata Computer Services, Inc. et al., Aplts. v. Dep't of Banking and Securities",
       "status": "Active",
@@ -117,6 +126,15 @@
       "status": "Active",
       "filing_date": "07/01/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=57 EM 2026&dnh=snV6gn%2BMhTnK%2B1f9%2Fcwtow%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "58 EM 2026",
+      "caption": "Thurmond, S., Pet. v. Deutsche Bank National Trust",
+      "status": "Active",
+      "filing_date": "07/02/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=58 EM 2026&dnh=985i6ApVmUFokO6dZIMfdQ%3D%3D"
     },
     {
       "type": "filing",
@@ -270,6 +288,24 @@
       "status": "Active",
       "filing_date": "07/02/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=380 MAL 2026&dnh=1OlE89BBnfP4jp78FBPupg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "381 MAL 2026",
+      "caption": "Ringenbach, J. v. H5 Property, Pets.",
+      "status": "Active",
+      "filing_date": "07/02/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=381 MAL 2026&dnh=Ftsctxt4N%2FaXPa%2BfxsvRfg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "382 MAL 2026",
+      "caption": "Commonwealth v. Miller, D., Pet.",
+      "status": "Active",
+      "filing_date": "07/02/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=382 MAL 2026&dnh=WcEnqJkzh5Czw0KsSor3tw%3D%3D"
     },
     {
       "type": "filing",
@@ -1956,6 +1992,15 @@
     },
     {
       "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "74 WDM 2026",
+      "caption": "Keldon Holdings v. Wallace, R.",
+      "status": "Active",
+      "filing_date": "07/02/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=74 WDM 2026&dnh=s8cpfh8a7qarwUIWD3XZ2Q%3D%3D"
+    },
+    {
+      "type": "filing",
       "court": "PA Commonwealth Court",
       "docket": "873 CD 2026",
       "caption": "Jenkintown Police Benevolent Assoc. v. PLRB",
@@ -2187,6 +2232,16 @@
     }
   ],
   "opinions": [
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 561 Magisterial Rules Docket",
+      "caption": "In Re: Reestablishment of the Magisterial Districts Within the 39th (Franklin and Fulton) Judicial District of the Commonwealth of Pennsylvania",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 02 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/Order Entered - 106840164364858303.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/Order Entered - 106840164364858303.pdf"
+    },
     {
       "type": "opinion",
       "court": "PA Supreme Court",
@@ -3392,6 +3447,18 @@
       "guid": "ca3-25-3203-253203np.pdf",
       "precedential": false,
       "origin": "USDC for the Eastern District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-3014",
+      "caption": "Michael Salawu v. District Director United States Citizenship and Im",
+      "author": "",
+      "pub_date": "Thu, 02 Jul 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/253014np.pdf",
+      "guid": "ca3-25-3014-253014np.pdf",
+      "precedential": false,
+      "origin": "USDC for the Western District of Pennsylvania"
     },
     {
       "type": "opinion",

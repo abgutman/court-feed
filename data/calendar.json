@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-02T18:23:35.846821+00:00",
+  "generated": "2026-07-02T20:14:59.807005+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -187,6 +187,17 @@
       "courtroom": "Courtroom 12B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632342"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/07/2026 01:30AM",
+      "case_number": "26-mj-1297",
+      "caption": "USA v. RODRIGUEZ",
+      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657377"
     },
     {
       "court": "EDPA",
