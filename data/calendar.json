@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-02T13:59:37.057896+00:00",
+  "generated": "2026-07-02T16:02:56.251547+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -543,6 +543,17 @@
     {
       "court": "EDPA",
       "datetime": "07/08/2026 10:30AM",
+      "case_number": "26-mj-0789",
+      "caption": "USA v. LEE",
+      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 8B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653706"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/08/2026 10:30AM",
       "case_number": "26-cr-0178",
       "caption": "USA v. LOUD",
       "judge": "DISTRICT JUDGE SLOMSKY",
@@ -693,17 +704,6 @@
       "courtroom": "Courtroom 11B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635692"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/09/2026 09:30AM",
-      "case_number": "26-cr-0040",
-      "caption": "USA v. DAVENPORT",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648824"
     },
     {
       "court": "EDPA",
