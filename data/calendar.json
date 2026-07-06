@@ -1,28 +1,6 @@
 {
-  "generated": "2026-07-06T14:50:42.598571+00:00",
+  "generated": "2026-07-06T17:36:18.135474+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "07/06/2026 10:00AM",
-      "case_number": "23-cr-0335",
-      "caption": "USA v. GIORDANO",
-      "judge": "DISTRICT JUDGE PEREZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10B",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?612115"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/06/2026 10:00AM",
-      "case_number": "20-cr-0322",
-      "caption": "USA v. BRADLEY",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12B",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?576052"
-    },
     {
       "court": "EDPA",
       "datetime": "07/06/2026 10:30AM",
@@ -502,8 +480,8 @@
       "case_number": "26-cr-0018",
       "caption": "USA v. CHAPPELLE",
       "judge": "DISTRICT JUDGE PEREZ",
-      "city": "",
-      "courtroom": "unlisted",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648194"
     },
@@ -572,6 +550,28 @@
       "courtroom": "Courtroom 13B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?611214"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/08/2026 01:30PM",
+      "case_number": "26-mj-1299",
+      "caption": "USA v. MENDIVIL",
+      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657435"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/08/2026 01:30PM",
+      "case_number": "26-mj-1299",
+      "caption": "USA v. TORRES",
+      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657436"
     },
     {
       "court": "EDPA",
@@ -858,6 +858,17 @@
       "courtroom": "Courtroom 3B",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655756"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/09/2026 04:30PM",
+      "case_number": "23-cv-4370",
+      "caption": "KEBEDE v. SALAMON, et al",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3G",
+      "hearing_type": "Show Cause Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?615556"
     },
     {
       "court": "EDPA",
@@ -1412,13 +1423,13 @@
     {
       "court": "EDPA",
       "datetime": "07/15/2026 09:00AM",
-      "case_number": "26-cv-0805",
-      "caption": "Ultimo Global Holdings, LLC et",
+      "case_number": "26-cr-0246",
+      "caption": "USA v. MORRISON",
       "judge": "DISTRICT JUDGE SAVAGE",
       "city": "Philadelphia",
       "courtroom": "Courtroom 9A",
-      "hearing_type": "Show Cause Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649574"
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655501"
     },
     {
       "court": "EDPA",
@@ -1474,6 +1485,17 @@
       "courtroom": "Courtroom 6A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?620930"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/15/2026 10:00AM",
+      "case_number": "26-cv-0805",
+      "caption": "Ultimo Global Holdings, LLC et",
+      "judge": "DISTRICT JUDGE SAVAGE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 9A",
+      "hearing_type": "Show Cause Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649574"
     },
     {
       "court": "EDPA",
@@ -1958,6 +1980,17 @@
       "courtroom": "Courtroom 10A",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648196"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/20/2026 02:00PM",
+      "case_number": "26-cr-0184",
+      "caption": "USA v. BURTON",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653435"
     },
     {
       "court": "EDPA",
