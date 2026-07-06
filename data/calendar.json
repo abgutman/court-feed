@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-06T11:20:50.116924+00:00",
+  "generated": "2026-07-06T14:50:42.598571+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -26,17 +26,6 @@
     {
       "court": "EDPA",
       "datetime": "07/06/2026 10:30AM",
-      "case_number": "26-cr-0285",
-      "caption": "USA v. MCCLURE",
-      "judge": "DISTRICT JUDGE BARTLE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16A",
-      "hearing_type": "Bond Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656702"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/06/2026 10:30AM",
       "case_number": "25-cr-0212",
       "caption": "USA v. ALVAREZ",
       "judge": "DISTRICT JUDGE SLOMSKY",
@@ -44,6 +33,17 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637611"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/06/2026 01:00PM",
+      "case_number": "26-cr-0042",
+      "caption": "USA v. MARCUS",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648857"
     },
     {
       "court": "EDPA",
@@ -135,17 +135,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "07/06/2026 01:30PM",
-      "case_number": "26-cr-0042",
-      "caption": "USA v. MARCUS",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "",
-      "courtroom": "unlisted",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648857"
-    },
-    {
-      "court": "EDPA",
       "datetime": "07/06/2026 02:00PM",
       "case_number": "25-cr-0432",
       "caption": "USA v. HUGHES-MURCHISON",
@@ -154,17 +143,6 @@
       "courtroom": "Courtroom 16B",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644132"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/06/2026 02:00PM",
-      "case_number": "25-cv-6229",
-      "caption": "COMPUTERSHARE TRUST COMPANY, N",
-      "judge": "DISTRICT JUDGE WEILHEIMER",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 7B",
-      "hearing_type": "Show Cause Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645709"
     },
     {
       "court": "EDPA",
@@ -528,17 +506,6 @@
       "courtroom": "unlisted",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648194"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/08/2026 10:30AM",
-      "case_number": "25-cr-0363",
-      "caption": "USA v. GUTIERREZ-OROZCO",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642581"
     },
     {
       "court": "EDPA",
@@ -1423,6 +1390,17 @@
     {
       "court": "EDPA",
       "datetime": "07/15/2026 09:00AM",
+      "case_number": "25-cv-0866",
+      "caption": "ALLIED WORLD SURPLUS LINES INS",
+      "judge": "DISTRICT JUDGE KENNEY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 11B",
+      "hearing_type": "Miscellaneous Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633587"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/15/2026 09:00AM",
       "case_number": "25-cv-1275",
       "caption": "LUCAS v. IBEW LOCAL 98 et al",
       "judge": "DISTRICT JUDGE MURPHY",
@@ -1467,17 +1445,6 @@
     {
       "court": "EDPA",
       "datetime": "07/15/2026 09:30AM",
-      "case_number": "25-cr-0363",
-      "caption": "USA v. GUTIERREZ-OROZCO",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
-      "hearing_type": "Jury Selection",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642581"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/15/2026 09:30AM",
       "case_number": "23-cr-0404",
       "caption": "USA v. MOSKAITIS",
       "judge": "DISTRICT JUDGE SLOMSKY",
@@ -1507,17 +1474,6 @@
       "courtroom": "Courtroom 6A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?620930"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/15/2026 10:00AM",
-      "case_number": "25-cr-0138",
-      "caption": "USA v. STAFFORD",
-      "judge": "DISTRICT JUDGE PAPPERT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11A",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635778"
     },
     {
       "court": "EDPA",
@@ -2699,6 +2655,330 @@
       "city": "Philadelphia",
       "panel": "17-ARGUMENT-2026-2",
       "judges": "NICHOLS ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/04/2026",
+      "docket_number": "118 WDA 2026",
+      "journal_number": "J-A18001-26",
+      "caption": "Durrett, J. v. Durrett, D.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "18-ARGUMENT-2026-2",
+      "judges": "KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/04/2026",
+      "docket_number": "953 WDA 2025",
+      "journal_number": "J-A18002-26",
+      "caption": "Vickery, T. v. Langianese, J.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "18-ARGUMENT-2026-2",
+      "judges": "KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/04/2026",
+      "docket_number": "1423 WDA 2025",
+      "journal_number": "J-A18003-26",
+      "caption": "Klingensmith, B. v. Klingensmith, J.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "18-ARGUMENT-2026-2",
+      "judges": "KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/04/2026",
+      "docket_number": "137 WDA 2026",
+      "journal_number": "J-A18004-26",
+      "caption": "America First v. Maple Grove",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "18-ARGUMENT-2026-2",
+      "judges": "KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/04/2026",
+      "docket_number": "74 WDA 2026",
+      "journal_number": "J-A18005-26",
+      "caption": "Thompson, R. v. C.&J. Clark America",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "18-ARGUMENT-2026-2",
+      "judges": "KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/04/2026",
+      "docket_number": "1383 WDA 2025",
+      "journal_number": "J-A18006-26",
+      "caption": "Hartman, L. v. Haines, R.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "18-ARGUMENT-2026-2",
+      "judges": "KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/04/2026",
+      "docket_number": "893 WDA 2025",
+      "journal_number": "J-A18007-26",
+      "caption": "Com. v. Washington, T.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "18-ARGUMENT-2026-2",
+      "judges": "KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/04/2026",
+      "docket_number": "368 WDA 2026",
+      "journal_number": "J-A18008-26",
+      "caption": "In the Interest of: D.K., Appeal of: L.R.K.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "18-ARGUMENT-2026-2",
+      "judges": "KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/04/2026",
+      "docket_number": "199 WDA 2026",
+      "journal_number": "J-A18016-26",
+      "caption": "Com. v. Joseph, J.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "18-ARGUMENT-2026-2",
+      "judges": "KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/04/2026",
+      "docket_number": "114 WDA 2026",
+      "journal_number": "J-A18017-26",
+      "caption": "In Re: Estate of Charlotte Chonko, Appeal of: Miller, A.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "18-ARGUMENT-2026-2",
+      "judges": "KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/04/2026",
+      "docket_number": "432 WDA 2025",
+      "journal_number": "J-A18018-26",
+      "caption": "Com. v. Becher, C.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "18-ARGUMENT-2026-2",
+      "judges": "KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/04/2026",
+      "docket_number": "120 WDA 2026",
+      "journal_number": "J-A18019-26",
+      "caption": "PG Publishing Co. v. Pittsburgh Typographical",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "18-ARGUMENT-2026-2",
+      "judges": "KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/04/2026",
+      "docket_number": "1365 WDA 2025",
+      "journal_number": "J-A18020-26",
+      "caption": "Com. v. Knestrick, D.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "18-ARGUMENT-2026-2",
+      "judges": "KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/05/2026",
+      "docket_number": "1559 WDA 2025",
+      "journal_number": "J-A18021-26",
+      "caption": "Com. v. Giardina, D.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "18-ARGUMENT-2026-2",
+      "judges": "KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/05/2026",
+      "docket_number": "1318 WDA 2025",
+      "journal_number": "J-A18022-26",
+      "caption": "Oakley, M. v. FloatMe Corp.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "18-ARGUMENT-2026-2",
+      "judges": "KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/05/2026",
+      "docket_number": "291 WDA 2026",
+      "journal_number": "J-A18023-26",
+      "caption": "Dreibelbis, S. v. Pro Disposal, Inc.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "18-ARGUMENT-2026-2",
+      "judges": "KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/05/2026",
+      "docket_number": "1543 WDA 2025",
+      "journal_number": "J-A18024-26",
+      "caption": "Vanasdale, J. v. Goldinger, R.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "18-ARGUMENT-2026-2",
+      "judges": "KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/05/2026",
+      "docket_number": "1187 WDA 2025",
+      "journal_number": "J-A18031-26",
+      "caption": "Com. v. Zehr, P.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "18-ARGUMENT-2026-2",
+      "judges": "KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/05/2026",
+      "docket_number": "1188 WDA 2025",
+      "journal_number": "J-A18031-26",
+      "caption": "Com. v. Zehr, P.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "18-ARGUMENT-2026-2",
+      "judges": "KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/05/2026",
+      "docket_number": "1497 WDA 2025",
+      "journal_number": "J-A18032-26",
+      "caption": "Gornick, M. v. Funari, B.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "18-ARGUMENT-2026-2",
+      "judges": "KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/05/2026",
+      "docket_number": "236 WDA 2025",
+      "journal_number": "J-A18033-26",
+      "caption": "Estate of: Dale C. Stoffel, Appeal of: Quinn, J.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "18-ARGUMENT-2026-2",
+      "judges": "KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/05/2026",
+      "docket_number": "166 WDA 2026",
+      "journal_number": "J-A18034-26",
+      "caption": "Monborne, L. v. Smith, J.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "18-ARGUMENT-2026-2",
+      "judges": "KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/05/2026",
+      "docket_number": "100 WDA 2026",
+      "journal_number": "J-A18035-26",
+      "caption": "Hook, P. v. Lamar Prospect Trust",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "18-ARGUMENT-2026-2",
+      "judges": "KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/05/2026",
+      "docket_number": "1404 WDA 2025",
+      "journal_number": "J-A18036-26",
+      "caption": "Webster, R. v. Wentzel, B.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "18-ARGUMENT-2026-2",
+      "judges": "KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/05/2026",
+      "docket_number": "258 WDA 2026",
+      "journal_number": "J-A18037-26",
+      "caption": "In the Interest of: Z.B., Appeal of: T.N.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "18-ARGUMENT-2026-2",
+      "judges": "KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/05/2026",
+      "docket_number": "1474 WDA 2025",
+      "journal_number": "J-A18038-26",
+      "caption": "Com. v. Repine, C.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "18-ARGUMENT-2026-2",
+      "judges": "KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/05/2026",
+      "docket_number": "674 WDA 2025",
+      "journal_number": "J-A18039-26",
+      "caption": "Com. v. Rowe, C.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "18-ARGUMENT-2026-2",
+      "judges": "KING ; LANE , JJ."
     },
     {
       "court": "PA Superior Court",
