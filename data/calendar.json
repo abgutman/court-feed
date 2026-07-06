@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-06T19:28:30.145800+00:00",
+  "generated": "2026-07-06T21:18:39.353402+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -11,17 +11,6 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637611"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/06/2026 01:00PM",
-      "case_number": "26-cr-0042",
-      "caption": "USA v. MARCUS",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648857"
     },
     {
       "court": "EDPA",
@@ -99,28 +88,6 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Detention Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657060"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/06/2026 01:30PM",
-      "case_number": "26-cr-0042",
-      "caption": "USA v. MARCUS",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Initial Appearance",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648857"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/06/2026 02:00PM",
-      "case_number": "25-cr-0023",
-      "caption": "USA v. FARRELL",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632342"
     },
     {
       "court": "EDPA",
@@ -971,17 +938,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "07/13/2026 10:00AM",
-      "case_number": "25-cr-0509",
-      "caption": "USA v. GRAY",
-      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 8B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646820"
-    },
-    {
-      "court": "EDPA",
       "datetime": "07/13/2026 10:30AM",
       "case_number": "26-cr-0145",
       "caption": "USA v. HERNANDEZ",
@@ -1012,6 +968,17 @@
       "courtroom": "Courtroom 15A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650568"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/13/2026 02:00PM",
+      "case_number": "25-cr-0501",
+      "caption": "USA v. WILLIAMS, JR.",
+      "judge": "DISTRICT JUDGE KENNEY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 11B",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650117"
     },
     {
       "court": "EDPA",
@@ -1254,6 +1221,17 @@
       "courtroom": "Courtroom 14A",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618980"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/14/2026 01:30PM",
+      "case_number": "20-cr-0318",
+      "caption": "USA v. UPSHUR",
+      "judge": "DISTRICT JUDGE MCHUGH",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 9B",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?575958"
     },
     {
       "court": "EDPA",
