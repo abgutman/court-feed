@@ -1,11 +1,11 @@
 {
-  "generated": "2026-07-06T17:35:28.629622+00:00",
+  "generated": "2026-07-06T19:27:37.115323+00:00",
   "filings": [
     {
       "type": "filing",
       "court": "PA Supreme Court",
       "docket": "223 EAL 2026",
-      "caption": "Bass-Brookins, W. v. Abney, T.",
+      "caption": "Bass-Brookins, W. et al v. Abney, T.",
       "status": "Active",
       "filing_date": "07/01/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=223 EAL 2026&dnh=84frSogGDc0NBsitjSBhrw%3D%3D"
@@ -688,6 +688,51 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "1859 EDA 2026",
+      "caption": "Leaks Construction LLC v. IS3 Team LLC",
+      "status": "Active",
+      "filing_date": "07/06/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1859 EDA 2026&dnh=1A0eNpiOYqsHgPtZAihhJA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1860 EDA 2026",
+      "caption": "Seritage SRC v. King of Prussia Assoc.",
+      "status": "Active",
+      "filing_date": "07/06/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1860 EDA 2026&dnh=8mRnnlnl3kR9rdqQV2NFwg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1861 EDA 2026",
+      "caption": "Com. v. Osiba, C.",
+      "status": "Active",
+      "filing_date": "07/06/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1861 EDA 2026&dnh=5Q1HhKroLc3K9mYZ%2BIya2A%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1862 EDA 2026",
+      "caption": "Owsley, J. v. Shukowitsh, J.",
+      "status": "Active",
+      "filing_date": "07/06/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1862 EDA 2026&dnh=cyTYhfZfEYCU4bjjc950Cw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1863 EDA 2026",
+      "caption": "Com. v. Back, J.",
+      "status": "Active",
+      "filing_date": "07/06/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1863 EDA 2026&dnh=pYObxswi1jfVo%2FZOSigNLA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "118 EDM 2026",
       "caption": "Com. v. Oglesby, S.",
       "status": "Active",
@@ -1022,7 +1067,7 @@
       "type": "filing",
       "court": "PA Superior Court",
       "docket": "1047 MDA 2026",
-      "caption": "Com. v. Wall, Tina T.",
+      "caption": "Com. v. Wall, T.",
       "status": "Active",
       "filing_date": "07/06/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1047 MDA 2026&dnh=ITXqxABUTZb5BgZYRJXDUw%3D%3D"
@@ -1049,7 +1094,7 @@
       "type": "filing",
       "court": "PA Superior Court",
       "docket": "1050 MDA 2026",
-      "caption": "In the Int. of: O.C. a Minor",
+      "caption": "In the Int. of: O.J.C. a Minor",
       "status": "Active",
       "filing_date": "07/06/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1050 MDA 2026&dnh=3CaLEpouwgKJjnVNll3pdQ%3D%3D"
@@ -1512,6 +1557,16 @@
     }
   ],
   "opinions": [
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 57 EM 2026",
+      "caption": "Deutsche Natl. Trust Co. v. Thurmond, S., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Mon, 06 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/57EM2026 - 106842037365132202.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/57EM2026 - 106842037365132202.pdf"
+    },
     {
       "type": "opinion",
       "court": "PA Supreme Court",
