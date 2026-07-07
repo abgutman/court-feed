@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-07T18:53:44.505036+00:00",
+  "generated": "2026-07-07T20:44:08.244251+00:00",
   "filings": [
     {
       "type": "filing",
@@ -54,6 +54,15 @@
       "status": "Active",
       "filing_date": "07/02/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=58 EM 2026&dnh=985i6ApVmUFokO6dZIMfdQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "59 EM 2026",
+      "caption": "Commonwealth v. Riggins, A., Pet.",
+      "status": "Active",
+      "filing_date": "07/02/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=59 EM 2026&dnh=Nqt3lWbnyxhjrQ%2BNisc9Rw%3D%3D"
     },
     {
       "type": "filing",
@@ -765,6 +774,33 @@
       "status": "Active",
       "filing_date": "07/07/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1873 EDA 2026&dnh=d2OVhg4bzysUMgF65ykf9g%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1874 EDA 2026",
+      "caption": "In the Int. of: Y.A.B.K., Appeal of: A.M.K.",
+      "status": "Active",
+      "filing_date": "07/07/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1874 EDA 2026&dnh=njWMljVZAfcrKKBGCUKJCg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1875 EDA 2026",
+      "caption": "In the Int. of: J.J.V.K.-L., Appeal of: A.M.K.",
+      "status": "Active",
+      "filing_date": "07/07/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1875 EDA 2026&dnh=pxRouZ8ITvYfhXsL6GQDYg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1876 EDA 2026",
+      "caption": "Moss, A. v. Rocks & Cornerstones, LLC",
+      "status": "Active",
+      "filing_date": "07/07/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1876 EDA 2026&dnh=MuGgaLcxYy1gNBc%2FLdkfBA%3D%3D"
     },
     {
       "type": "filing",
@@ -1660,6 +1696,15 @@
     {
       "type": "filing",
       "court": "PA Commonwealth Court",
+      "docket": "922 CD 2026",
+      "caption": "The Wright Center for Grad. Med Center v. UCBR",
+      "status": "Active",
+      "filing_date": "07/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=922 CD 2026&dnh=fsKv1bmRM8dnZM1wFg8Uwg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
       "docket": "924 CD 2026",
       "caption": "Jomsiriwattana, N. v. DOH",
       "status": "Active",
@@ -1755,6 +1800,96 @@
     }
   ],
   "opinions": [
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 48 WAL 2026",
+      "caption": "Borsari, D., Pet. v. Latrobe Area Hospital, Inc. et al.",
+      "author": "Per Curiam",
+      "pub_date": "Tue, 07 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/48WAL2026 - 106843043365220346.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/48WAL2026 - 106843043365220346.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 35 WAL 2026",
+      "caption": "Commonwealth v. Linton, B., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Tue, 07 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/35WAL2026 - 106843044365220392.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/35WAL2026 - 106843044365220392.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 25 WAL 2024",
+      "caption": "Commonwealth v. Pryor, P., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Tue, 07 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/25WAL2024 - 106843152365236790.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/25WAL2024 - 106843152365236790.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 38 WM 2026",
+      "caption": "Commonwealth v. Howard, D., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Tue, 07 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/38WM2026 - 106843316365261644.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/38WM2026 - 106843316365261644.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 14 WM 2026",
+      "caption": "In Re: Phyllis Joan Rebecca Powers",
+      "author": "Per Curiam",
+      "pub_date": "Tue, 07 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/14WM2026 - 106843260365258028.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/14WM2026 - 106843260365258028.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 42 RST 2026",
+      "caption": "In the Matter of: Kelly L. Jerabek",
+      "author": "Per Curiam",
+      "pub_date": "Mon, 06 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/42RST20261 - 106841877365114547.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/42RST20261 - 106841877365114547.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 41 RST 2026",
+      "caption": "In the Matter of: Elene Mountis Moran",
+      "author": "Per Curiam",
+      "pub_date": "Mon, 06 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/41RST20261 - 106841880365114967.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/41RST20261 - 106841880365114967.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 3197 DD3",
+      "caption": "ODC, Pet. v. Timothy Reitz",
+      "author": "Per Curiam",
+      "pub_date": "Mon, 06 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/3197DD3 - 106841574365084359.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/3197DD3 - 106841574365084359.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 3191 DD3",
+      "caption": "ODC, Pet. v. Williamson, A",
+      "author": "Per Curiam",
+      "pub_date": "Mon, 06 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/3191DD3 - 106841572365085432.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/3191DD3 - 106841572365085432.pdf"
+    },
     {
       "type": "opinion",
       "court": "PA Supreme Court",
