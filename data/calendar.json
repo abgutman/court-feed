@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-07T10:17:02.276696+00:00",
+  "generated": "2026-07-07T13:10:56.611285+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -198,17 +198,6 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Detention Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653470"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/07/2026 01:30PM",
-      "case_number": "25-cr-0460",
-      "caption": "USA v. SIERRA OCASIO",
-      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656907"
     },
     {
       "court": "EDPA",
@@ -616,17 +605,6 @@
       "courtroom": "Courtroom 13B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630621"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/09/2026 01:30PM",
-      "case_number": "26-cv-3202",
-      "caption": "HARTFORD FIRE INSURANCE COMPAN",
-      "judge": "DISTRICT JUDGE GALLAGHER",
-      "city": "",
-      "courtroom": "unlisted",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654499"
     },
     {
       "court": "EDPA",
