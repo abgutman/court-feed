@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-07T13:10:56.611285+00:00",
+  "generated": "2026-07-07T16:15:56.427646+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -11,17 +11,6 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Detention Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657377"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/07/2026 09:30AM",
-      "case_number": "26-cr-0226",
-      "caption": "USA v. CLARKE",
-      "judge": "DISTRICT JUDGE KENNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11B",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654978"
     },
     {
       "court": "EDPA",
@@ -422,17 +411,6 @@
     {
       "court": "EDPA",
       "datetime": "07/09/2026 09:00AM",
-      "case_number": "25-cr-0436",
-      "caption": "USA v. SMITH",
-      "judge": "DISTRICT JUDGE SAVAGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644147"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/09/2026 09:00AM",
       "case_number": "26-cr-0048",
       "caption": "USA v. SEGERS",
       "judge": "DISTRICT JUDGE SAVAGE",
@@ -451,17 +429,6 @@
       "courtroom": "Courtroom 9A",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649111"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/09/2026 09:00AM",
-      "case_number": "26-cr-0052",
-      "caption": "USA v. MIESES-GUZMAN",
-      "judge": "DISTRICT JUDGE SAVAGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649420"
     },
     {
       "court": "EDPA",
@@ -561,6 +528,17 @@
       "courtroom": "Courtroom 10A",
       "hearing_type": "Bond Revocation Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631106"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/09/2026 11:00AM",
+      "case_number": "26-cv-4528",
+      "caption": "Montero v. MULLIN et al",
+      "judge": "DISTRICT JUDGE RUFE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12A",
+      "hearing_type": "Show Cause Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657195"
     },
     {
       "court": "EDPA",
@@ -1059,17 +1037,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "07/14/2026 11:00AM",
-      "case_number": "26-cr-0030",
-      "caption": "USA v. BROWN",
-      "judge": "DISTRICT JUDGE RUFE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648547"
-    },
-    {
-      "court": "EDPA",
       "datetime": "07/14/2026 11:30AM",
       "case_number": "26-cv-0446",
       "caption": "ADAMS v. REIGO BY MEITAV DASH",
@@ -1078,6 +1045,17 @@
       "courtroom": "Courtroom 10B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648870"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/14/2026 12:00PM",
+      "case_number": "26-cr-0030",
+      "caption": "USA v. BROWN",
+      "judge": "DISTRICT JUDGE RUFE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648547"
     },
     {
       "court": "EDPA",
@@ -1214,17 +1192,6 @@
     {
       "court": "EDPA",
       "datetime": "07/15/2026 09:00AM",
-      "case_number": "25-cr-0467",
-      "caption": "USA v. GUO",
-      "judge": "DISTRICT JUDGE BARTLE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645556"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/15/2026 09:00AM",
       "case_number": "25-cv-0866",
       "caption": "ALLIED WORLD SURPLUS LINES INS",
       "judge": "DISTRICT JUDGE KENNEY",
@@ -1334,17 +1301,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "07/15/2026 10:30AM",
-      "case_number": "25-cr-0529",
-      "caption": "USA v. WILLIAMS",
-      "judge": "DISTRICT JUDGE BARTLE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647505"
-    },
-    {
-      "court": "EDPA",
       "datetime": "07/15/2026 11:00AM",
       "case_number": "25-cr-0230",
       "caption": "USA v. KNIGHT",
@@ -1386,6 +1342,17 @@
       "courtroom": "Courtroom 14A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?610439"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/15/2026 01:30PM",
+      "case_number": "25-cv-1883",
+      "caption": "Roman-Sabastro v. BW Papersyst",
+      "judge": "DISTRICT JUDGE WEILHEIMER",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 7B",
+      "hearing_type": "Show Cause Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636129"
     },
     {
       "court": "EDPA",
@@ -2015,206 +1982,7 @@
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?605325"
     }
   ],
-  "third_circuit": [
-    {
-      "court": "Third Circuit",
-      "date": "2026-07-07",
-      "case_number": "22-2197",
-      "caption": "USA v. Mashaq White",
-      "panel": "KRAUSE, FREEMAN, ROTH",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 10:00am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-07-07",
-      "case_number": "25-1300",
-      "caption": "Omar Folk v. Warden McKean FCI",
-      "panel": "KRAUSE, FREEMAN, ROTH",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 10:00am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-07-07",
-      "case_number": "25-2575, 25-2662",
-      "caption": "Commonwealth of Pennsylvania et al v. President United Stat",
-      "panel": "KRAUSE, FREEMAN, ROTH",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 10:00am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-07-07",
-      "case_number": "22-1721",
-      "caption": "USA v. Alfred Stewart",
-      "panel": "KRAUSE, FREEMAN, ROTH",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-07-07",
-      "case_number": "22-1722",
-      "caption": "USA v. Alfred Stewart",
-      "panel": "KRAUSE, FREEMAN, ROTH",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-07-07",
-      "case_number": "25-1107",
-      "caption": "USA v. Christian Walther",
-      "panel": "KRAUSE, FREEMAN, ROTH",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-07-07",
-      "case_number": "25-2735",
-      "caption": "In Re: Invitae Corporation et al",
-      "panel": "KRAUSE, FREEMAN, ROTH",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-07-07",
-      "case_number": "25-2890",
-      "caption": "In re: Nu Ride Inc et al",
-      "panel": "KRAUSE, FREEMAN, ROTH",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-07-08",
-      "case_number": "25-2450",
-      "caption": "Owen Marfia v. Gettysburg Area School District et al",
-      "panel": "KRAUSE, FREEMAN, ROTH",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 10:00am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-07-08",
-      "case_number": "25-2905",
-      "caption": "USA v. Derrick Polk",
-      "panel": "KRAUSE, FREEMAN, ROTH",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 10:00am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-07-08",
-      "case_number": "26-1252, 26-1253",
-      "caption": "Natural Resources Defense Council Inc v. New Jersey Departme",
-      "panel": "KRAUSE, FREEMAN, ROTH",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 10:00am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-07-09",
-      "case_number": "25-1628",
-      "caption": "Josefina Doe et al v. United States Department of Homeland",
-      "panel": "KRAUSE, FREEMAN, ROTH",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 10:00am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-07-09",
-      "case_number": "25-1629, 25-1635",
-      "caption": "International Construction Products LLC v. Caterpillar Inc.",
-      "panel": "KRAUSE, FREEMAN, ROTH",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 10:00am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-07-09",
-      "case_number": "25-2204, 25-2312",
-      "caption": "Robert Cockerill et al v. Corteva Inc et al",
-      "panel": "KRAUSE, FREEMAN, ROTH",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 10:00am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-07-09",
-      "case_number": "25-2681",
-      "caption": "Gurmit Kahlon v. Attorney General United States of America",
-      "panel": "KRAUSE, FREEMAN, ROTH",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-07-09",
-      "case_number": "25-2684",
-      "caption": "Aislin Magalengo v. Pennsylvania Interscholastic Athletic As",
-      "panel": "KRAUSE, FREEMAN, ROTH",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-07-09",
-      "case_number": "25-2805",
-      "caption": "In re: Artesanias Hacienda Real S. A. DE C.V.",
-      "panel": "KRAUSE, FREEMAN, ROTH",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-07-10",
-      "case_number": "25-1934",
-      "caption": "Keith McBride et al  v. Commissioner New Jersey Department o",
-      "panel": "KRAUSE, FREEMAN, ROTH",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-07-10",
-      "case_number": "25-3009",
-      "caption": "Sa'Raya Harden v. West Side Career & Technology Center et al",
-      "panel": "KRAUSE, FREEMAN, ROTH",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-07-10",
-      "case_number": "25-3074",
-      "caption": "Sharon Griswold v. Drexel University et al",
-      "panel": "KRAUSE, FREEMAN, ROTH",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-07-10",
-      "case_number": "25-3081",
-      "caption": "USA v. Dontae Devero",
-      "panel": "KRAUSE, FREEMAN, ROTH",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-07-10",
-      "case_number": "25-3398",
-      "caption": "USA v. Carlos Cegledi",
-      "panel": "KRAUSE, FREEMAN, ROTH",
-      "location_time": "",
-      "disposition": "Submitted"
-    }
-  ],
+  "third_circuit": [],
   "pa_supreme": [],
   "pa_superior": [
     {
