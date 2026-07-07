@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-07T20:44:50.556009+00:00",
+  "generated": "2026-07-07T22:04:30.672477+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -22,17 +22,6 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650933"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/07/2026 11:30AM",
-      "case_number": "20-cv-4723",
-      "caption": "CLEARLY CLEAN PRODUCTS, LLC et",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
-      "hearing_type": "Miscellaneous Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?576121"
     },
     {
       "court": "EDPA",
@@ -759,6 +748,17 @@
       "courtroom": "Courtroom 15A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650568"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/13/2026 01:30PM",
+      "case_number": "06-cr-0285",
+      "caption": "USA v. HAWKINS",
+      "judge": "DISTRICT JUDGE SANCHEZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14B",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?204851"
     },
     {
       "court": "EDPA",
