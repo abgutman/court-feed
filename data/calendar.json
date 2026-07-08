@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-08T17:16:37.478056+00:00",
+  "generated": "2026-07-08T19:01:51.682369+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -488,17 +488,6 @@
     {
       "court": "EDPA",
       "datetime": "07/13/2026 10:30AM",
-      "case_number": "26-cr-0258",
-      "caption": "USA v. CEDANO",
-      "judge": "DISTRICT JUDGE HENRY",
-      "city": "Easton",
-      "courtroom": "Easton 4th Floor",
-      "hearing_type": "Initial Appearance",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655847"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/13/2026 10:30AM",
       "case_number": "26-cr-0145",
       "caption": "USA v. HERNANDEZ",
       "judge": "DISTRICT JUDGE SANCHEZ",
@@ -675,17 +664,6 @@
     {
       "court": "EDPA",
       "datetime": "07/14/2026 10:00AM",
-      "case_number": "24-cr-0388",
-      "caption": "USA v. WILLIAMS",
-      "judge": "DISTRICT JUDGE PAPPERT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629158"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/14/2026 10:00AM",
       "case_number": "10-cr-0489",
       "caption": "USA v. SMITH",
       "judge": "DISTRICT JUDGE SANCHEZ",
@@ -792,6 +770,50 @@
       "courtroom": "Courtroom 16B",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648472"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/14/2026 01:30PM",
+      "case_number": "25-cr-0460",
+      "caption": "USA v. MATTEI-RODRIGUEZ",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645273"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/14/2026 01:30PM",
+      "case_number": "25-cr-0460",
+      "caption": "USA v. ORTIZ-BETANCOURT",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645275"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/14/2026 01:30PM",
+      "case_number": "25-cr-0460",
+      "caption": "USA v. RIOS-VALENTIN",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645276"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/14/2026 01:30PM",
+      "case_number": "25-cr-0460",
+      "caption": "USA v. GOMEZ-RESTO",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645277"
     },
     {
       "court": "EDPA",
@@ -1100,6 +1122,17 @@
       "courtroom": "Courtroom 3B",
       "hearing_type": "Trial Date",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634574"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/16/2026 09:30AM",
+      "case_number": "25-cv-4992",
+      "caption": "HAYNES v. READING HOSPITAL",
+      "judge": "MAGISTRATE JUDGE CARLOS",
+      "city": "Allentown",
+      "courtroom": "Cahn 4A",
+      "hearing_type": "Settlement Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643022"
     },
     {
       "court": "EDPA",
