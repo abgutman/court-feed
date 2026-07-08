@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-08T12:12:27.356816+00:00",
+  "generated": "2026-07-08T15:06:56.605276+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -495,28 +495,6 @@
       "courtroom": "Courtroom 3B",
       "hearing_type": "Trial Date",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634574"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/13/2026 09:30AM",
-      "case_number": "25-cv-1515",
-      "caption": "CLARK v. ANTONIO ORIGLIO, INC.",
-      "judge": "DISTRICT JUDGE PADOVA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 17B",
-      "hearing_type": "Trial Date",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635183"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/13/2026 09:30AM",
-      "case_number": "24-cv-4830",
-      "caption": "MACDONALD v. TPG HOTELS AND RE",
-      "judge": "DISTRICT JUDGE WEILHEIMER",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 7B",
-      "hearing_type": "Evidentiary Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627388"
     },
     {
       "court": "EDPA",
@@ -1111,6 +1089,28 @@
       "courtroom": "Cahn 3C",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643057"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/15/2026 03:00PM",
+      "case_number": "05-cr-0619",
+      "caption": "USA v. BASLEY",
+      "judge": "DISTRICT JUDGE RUFE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12A",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?197602"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/15/2026 03:30PM",
+      "case_number": "07-cr-0258",
+      "caption": "USA v. JONES",
+      "judge": "DISTRICT JUDGE RUFE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12A",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?281237"
     },
     {
       "court": "EDPA",
@@ -1738,17 +1738,6 @@
       "courtroom": "Courtroom 11A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651830"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/22/2026 10:00AM",
-      "case_number": "25-cr-0167",
-      "caption": "USA v. LISBY",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636401"
     },
     {
       "court": "EDPA",
