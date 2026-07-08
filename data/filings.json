@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-08T15:06:14.104997+00:00",
+  "generated": "2026-07-08T17:16:00.183328+00:00",
   "filings": [
     {
       "type": "filing",
@@ -185,7 +185,7 @@
       "type": "filing",
       "court": "PA Supreme Court",
       "docket": "179 WAL 2026",
-      "caption": "Com. v. McClead, G.",
+      "caption": "Commonwealth v. McClead, G., Pet.",
       "status": "Active",
       "filing_date": "07/08/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=179 WAL 2026&dnh=D5op7STUSBSIR%2B3mG9hyqA%3D%3D"
@@ -194,7 +194,7 @@
       "type": "filing",
       "court": "PA Supreme Court",
       "docket": "180 WAL 2026",
-      "caption": "Com. v. McClead, G.",
+      "caption": "Commonwealth v. McClead, G., Pet.",
       "status": "Active",
       "filing_date": "07/08/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=180 WAL 2026&dnh=84Xl1W25zFW3OzjdmwarQg%3D%3D"
@@ -598,6 +598,15 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "1877 EDA 2026",
+      "caption": "Engleman, G. v. Walck, J.",
+      "status": "Active",
+      "filing_date": "07/08/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1877 EDA 2026&dnh=SlfhYQJARGQXxtzVkeOO1A%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "118 EDM 2026",
       "caption": "Com. v. Oglesby, S.",
       "status": "Active",
@@ -896,7 +905,7 @@
       "type": "filing",
       "court": "PA Superior Court",
       "docket": "1047 MDA 2026",
-      "caption": "Com. v. Wall, T.",
+      "caption": "Com. v. Price, T.",
       "status": "Active",
       "filing_date": "07/06/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1047 MDA 2026&dnh=ITXqxABUTZb5BgZYRJXDUw%3D%3D"
@@ -1121,7 +1130,7 @@
       "type": "filing",
       "court": "PA Superior Court",
       "docket": "876 WDA 2026",
-      "caption": "Adoption of:Demery, A. Appeal of:Greene, T.",
+      "caption": "Adoption of: A.L.D., Appeal of: T.G.",
       "status": "Active",
       "filing_date": "07/07/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=876 WDA 2026&dnh=G93aUj%2By%2FeEhhPGZBsmdlw%3D%3D"
@@ -1503,6 +1512,15 @@
       "status": "Active",
       "filing_date": "07/02/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=309 MD 2026&dnh=41EGQ1IX%2FouLoVyv4q0Rjg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "310 MD 2026",
+      "caption": "Owens, C v. Fitzgerald",
+      "status": "Active",
+      "filing_date": "07/07/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=310 MD 2026&dnh=AIbeyuswgNhSBItUMEnLDg%3D%3D"
     },
     {
       "type": "filing",
@@ -2409,6 +2427,66 @@
       "guid": "ca3-25-1664-251664p.pdf",
       "precedential": true,
       "origin": "USDC for the District of New Jersey"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "26-1697",
+      "caption": "Kevino Graham v.",
+      "author": "",
+      "pub_date": "Wed, 08 Jul 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/261697np.pdf",
+      "guid": "ca3-26-1697-261697np.pdf",
+      "precedential": false,
+      "origin": "USDC for the Eastern District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-2933",
+      "caption": "Gina Silva v. Attorney General United States of America",
+      "author": "",
+      "pub_date": "Wed, 08 Jul 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/252933np.pdf",
+      "guid": "ca3-25-2933-252933np.pdf",
+      "precedential": false,
+      "origin": "Agency"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-2632",
+      "caption": "Grant Mandigora v. American Board of Pediatrics",
+      "author": "",
+      "pub_date": "Wed, 08 Jul 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/252632np.pdf",
+      "guid": "ca3-25-2632-252632np.pdf",
+      "precedential": false,
+      "origin": "USDC for the District of New Jersey"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-2276",
+      "caption": "Reza Farzan v.",
+      "author": "",
+      "pub_date": "Wed, 08 Jul 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/252276np.pdf",
+      "guid": "ca3-25-2276-252276np.pdf",
+      "precedential": false,
+      "origin": "USDC for the District of New Jersey"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-2231",
+      "caption": "Ariele Martins De Franca v. Attorney General United States of America",
+      "author": "",
+      "pub_date": "Wed, 08 Jul 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/252231np.pdf",
+      "guid": "ca3-25-2231-252231np.pdf",
+      "precedential": false,
+      "origin": "Agency"
     },
     {
       "type": "opinion",
