@@ -8,7 +8,7 @@ name: Retry failed runs
 
 on:
   workflow_run:
-    workflows: ["Update court feed", "Retry self-test"]
+    workflows: ["Update court feed"]
     types: [completed]
 
 permissions:
