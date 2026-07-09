@@ -2,7 +2,9 @@ name: Update court feed
 
 on:
   schedule:
-    - cron: '0 * * * *'  # every hour
+    # :17 keeps us off the congested top-of-the-hour slot, where GitHub
+    # skips/delays schedules and runner acquisition fails most often
+    - cron: '17 * * * *'
   workflow_dispatch:       # manual trigger from Actions tab
 
 permissions:
@@ -17,6 +19,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v5
 
@@ -55,6 +58,7 @@ jobs:
   deploy:
     needs: update
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
