@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-09T21:43:20.382886+00:00",
+  "generated": "2026-07-09T23:37:15.301692+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -33,17 +33,6 @@
       "courtroom": "Courtroom 10A",
       "hearing_type": "Bond Revocation Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631106"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/09/2026 11:00AM",
-      "case_number": "26-cv-4528",
-      "caption": "Montero v. MULLIN et al",
-      "judge": "DISTRICT JUDGE RUFE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12A",
-      "hearing_type": "Show Cause Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657195"
     },
     {
       "court": "EDPA",
@@ -1023,6 +1012,17 @@
       "courtroom": "Courtroom 3B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655348"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/20/2026 11:00AM",
+      "case_number": "26-cv-4528",
+      "caption": "Montero v. MULLIN et al",
+      "judge": "DISTRICT JUDGE RUFE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12A",
+      "hearing_type": "Show Cause Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657195"
     },
     {
       "court": "EDPA",
