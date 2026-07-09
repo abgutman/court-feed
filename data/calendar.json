@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-09T15:39:57.379659+00:00",
+  "generated": "2026-07-09T18:08:46.804632+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -88,17 +88,6 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646965"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/09/2026 12:00PM",
-      "case_number": "25-cr-0457",
-      "caption": "USA v. SINGH",
-      "judge": "DISTRICT JUDGE HENRY",
-      "city": "Easton",
-      "courtroom": "Easton 4th Floor",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645031"
     },
     {
       "court": "EDPA",
@@ -433,17 +422,6 @@
     {
       "court": "EDPA",
       "datetime": "07/14/2026 09:30AM",
-      "case_number": "25-cv-4922",
-      "caption": "ROBINSON v. NATIONWIDE INSURAN",
-      "judge": "DISTRICT JUDGE MURPHY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5B",
-      "hearing_type": "Arbitration Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642905"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/14/2026 09:30AM",
       "case_number": "25-cv-4962",
       "caption": "1705-63 N American Street, LP",
       "judge": "DISTRICT JUDGE WEILHEIMER",
@@ -763,6 +741,39 @@
     {
       "court": "EDPA",
       "datetime": "07/15/2026 11:00AM",
+      "case_number": "26-cr-0279",
+      "caption": "USA v. DIRENZO, JR.",
+      "judge": "DISTRICT JUDGE MARSTON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656553"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/15/2026 11:00AM",
+      "case_number": "26-cr-0279",
+      "caption": "USA v. MATOZZO",
+      "judge": "DISTRICT JUDGE MARSTON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656554"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/15/2026 11:00AM",
+      "case_number": "26-cr-0279",
+      "caption": "USA v. NORRIS",
+      "judge": "DISTRICT JUDGE MARSTON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656555"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/15/2026 11:00AM",
       "case_number": "23-cv-0696",
       "caption": "MARTINEZ v. TICE et al",
       "judge": "MAGISTRATE JUDGE STRAW",
@@ -968,6 +979,17 @@
       "courtroom": "Courtroom 14A",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?112058"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/16/2026 01:30PM",
+      "case_number": "25-cr-0460",
+      "caption": "USA v. TORRES",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645283"
     },
     {
       "court": "EDPA",
@@ -2475,18 +2497,6 @@
       "docket_number": "1383 WDA 2025",
       "journal_number": "J-A18006-26",
       "caption": "Hartman, L. v. Haines, R.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "18-ARGUMENT-2026-2",
-      "judges": "KING ; LANE , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "08/04/2026",
-      "docket_number": "893 WDA 2025",
-      "journal_number": "J-A18007-26",
-      "caption": "Com. v. Washington, T.",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "",
       "city": "",
