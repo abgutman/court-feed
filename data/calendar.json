@@ -1,28 +1,6 @@
 {
-  "generated": "2026-07-09T09:39:11.797370+00:00",
+  "generated": "2026-07-09T15:39:57.379659+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "07/09/2026 09:00AM",
-      "case_number": "26-cr-0048",
-      "caption": "USA v. SEGERS",
-      "judge": "DISTRICT JUDGE SAVAGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649110"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/09/2026 09:00AM",
-      "case_number": "26-cr-0048",
-      "caption": "USA v. HAMMOND",
-      "judge": "DISTRICT JUDGE SAVAGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649111"
-    },
     {
       "court": "EDPA",
       "datetime": "07/09/2026 09:30AM",
@@ -66,28 +44,6 @@
       "courtroom": "Courtroom 16A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?582831"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/09/2026 10:00AM",
-      "case_number": "25-cv-1275",
-      "caption": "LUCAS v. IBEW LOCAL 98 et al",
-      "judge": "DISTRICT JUDGE MURPHY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3B",
-      "hearing_type": "Final Pretrial Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634574"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/09/2026 10:00AM",
-      "case_number": "25-cv-4374",
-      "caption": "GRACE OCEAN PRIVATE LIMITED, e",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641583"
     },
     {
       "court": "EDPA",
@@ -334,24 +290,13 @@
     {
       "court": "EDPA",
       "datetime": "07/13/2026 09:00AM",
-      "case_number": "25-cv-1275",
-      "caption": "LUCAS v. IBEW LOCAL 98 et al",
-      "judge": "DISTRICT JUDGE MURPHY",
+      "case_number": "26-cv-3523",
+      "caption": "Ferreira v. RIDDLE MEMORIAL HO",
+      "judge": "DISTRICT JUDGE KENNEY",
       "city": "Philadelphia",
-      "courtroom": "Courtroom 3B",
-      "hearing_type": "Jury Selection",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634574"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/13/2026 09:00AM",
-      "case_number": "25-cv-1275",
-      "caption": "LUCAS v. IBEW LOCAL 98 et al",
-      "judge": "DISTRICT JUDGE MURPHY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3B",
-      "hearing_type": "Trial Date",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634574"
+      "courtroom": "Courtroom 11B",
+      "hearing_type": "Pretrial Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655185"
     },
     {
       "court": "EDPA",
@@ -454,17 +399,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "07/14/2026 09:00AM",
-      "case_number": "25-cv-1275",
-      "caption": "LUCAS v. IBEW LOCAL 98 et al",
-      "judge": "DISTRICT JUDGE MURPHY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3B",
-      "hearing_type": "Trial Date",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634574"
-    },
-    {
-      "court": "EDPA",
       "datetime": "07/14/2026 09:30AM",
       "case_number": "24-cv-5691",
       "caption": "Chen v. BURLINGTON COAT FACTOR",
@@ -550,28 +484,6 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624198"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/14/2026 11:00AM",
-      "case_number": "24-cr-0116",
-      "caption": "USA v. MATOS VARGAS",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?620319"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/14/2026 11:00AM",
-      "case_number": "26-cv-3523",
-      "caption": "Ferreira v. RIDDLE MEMORIAL HO",
-      "judge": "DISTRICT JUDGE KENNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655185"
     },
     {
       "court": "EDPA",
@@ -762,28 +674,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "07/14/2026 03:30PM",
-      "case_number": "24-cr-0366",
-      "caption": "USA v. BAKER",
-      "judge": "DISTRICT JUDGE MURPHY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3B",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628686"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/15/2026 09:00AM",
-      "case_number": "25-cv-1275",
-      "caption": "LUCAS v. IBEW LOCAL 98 et al",
-      "judge": "DISTRICT JUDGE MURPHY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3B",
-      "hearing_type": "Trial Date",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634574"
-    },
-    {
-      "court": "EDPA",
       "datetime": "07/15/2026 09:00AM",
       "case_number": "26-cr-0246",
       "caption": "USA v. MORRISON",
@@ -895,6 +785,39 @@
     {
       "court": "EDPA",
       "datetime": "07/15/2026 01:30PM",
+      "case_number": "25-cr-0460",
+      "caption": "USA v. CARTAGENA",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645279"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/15/2026 01:30PM",
+      "case_number": "25-cr-0460",
+      "caption": "USA v. GONZALEZ-CLAUDIO",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645281"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/15/2026 01:30PM",
+      "case_number": "25-cr-0460",
+      "caption": "USA v. LOPEZ-BORIA",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645282"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/15/2026 01:30PM",
       "case_number": "25-cv-1883",
       "caption": "Roman-Sabastro v. BW Papersyst",
       "judge": "DISTRICT JUDGE WEILHEIMER",
@@ -957,17 +880,6 @@
       "courtroom": "Courtroom 16A",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653115"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/16/2026 09:00AM",
-      "case_number": "25-cv-1275",
-      "caption": "LUCAS v. IBEW LOCAL 98 et al",
-      "judge": "DISTRICT JUDGE MURPHY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3B",
-      "hearing_type": "Trial Date",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634574"
     },
     {
       "court": "EDPA",
@@ -1815,6 +1727,17 @@
       "courtroom": "COURTROOM",
       "hearing_type": "Trial Date",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631382"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/23/2026 10:00AM",
+      "case_number": "24-cr-0358",
+      "caption": "USA v. JASON",
+      "judge": "DISTRICT JUDGE HODGE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 15A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628478"
     },
     {
       "court": "EDPA",
