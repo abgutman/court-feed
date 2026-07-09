@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-09T18:08:21.931223+00:00",
+  "generated": "2026-07-09T20:04:12.778745+00:00",
   "filings": [
     {
       "type": "filing",
@@ -216,6 +216,33 @@
       "status": "Active",
       "filing_date": "07/08/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=182 WAL 2026&dnh=QfezQ5SFShStRIFa%2BvrX%2FQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "72 WM 2026",
+      "caption": "Commonwealth v. Dawson, D., Pet.",
+      "status": "Active",
+      "filing_date": "07/09/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=72 WM 2026&dnh=V2VF4Bkvrc1WLfishzp6cA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "73 WM 2026",
+      "caption": "Commonwealth v. Dawson, D., Pet.",
+      "status": "Active",
+      "filing_date": "07/09/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=73 WM 2026&dnh=f%2FNahVMfeylxU%2F79rhqSSA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "74 WM 2026",
+      "caption": "Commonwealth v. Dawson, D., Pet.",
+      "status": "Active",
+      "filing_date": "07/09/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=74 WM 2026&dnh=nW9Ij9V8LjeAJbl%2Faws25Q%3D%3D"
     },
     {
       "type": "filing",
@@ -603,6 +630,33 @@
       "status": "Active",
       "filing_date": "07/09/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1896 EDA 2026&dnh=gX3mlr0P970AbsYbVIdUWw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1897 EDA 2026",
+      "caption": "Com. v. Sampson, K.",
+      "status": "Active",
+      "filing_date": "07/09/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1897 EDA 2026&dnh=sgwECwA4P%2Bj6GIIxn%2FXRRg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1898 EDA 2026",
+      "caption": "Com. v. Gibson, K.",
+      "status": "Active",
+      "filing_date": "07/09/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1898 EDA 2026&dnh=OhpMDOWoZmBqA%2Ba%2Fs47%2FIQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1899 EDA 2026",
+      "caption": "Com. v. Aponte, H.",
+      "status": "Active",
+      "filing_date": "07/09/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1899 EDA 2026&dnh=4FqZb77kPw54fohlWJoMcg%3D%3D"
     },
     {
       "type": "filing",
@@ -1476,6 +1530,24 @@
       "status": "Active",
       "filing_date": "07/06/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=316 MD 2026&dnh=W7yNQJJZnYyKhziKNfQfJw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "317 MD 2026",
+      "caption": "Heary, A. v. Shogun, J.",
+      "status": "Active",
+      "filing_date": "07/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=317 MD 2026&dnh=kWKgDLh3IDm3uXs0vQHh%2Bg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "318 MD 2026",
+      "caption": "Hoover, A. v. Cmwlth. et al.",
+      "status": "Active",
+      "filing_date": "07/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=318 MD 2026&dnh=n4m%2B6xGOoFnvkMdJm4SO%2Fw%3D%3D"
     },
     {
       "type": "filing",
@@ -2692,6 +2764,18 @@
       "guid": "ca3-25-1664-251664p.pdf",
       "precedential": true,
       "origin": "USDC for the District of New Jersey"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "24-1631",
+      "caption": "USA v. Edwin Irizarry",
+      "author": "",
+      "pub_date": "Thu, 09 Jul 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/241631np.pdf",
+      "guid": "ca3-24-1631-241631np.pdf",
+      "precedential": false,
+      "origin": "USDC for the Eastern District of Pennsylvania"
     },
     {
       "type": "opinion",
