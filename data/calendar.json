@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-10T17:08:23.198662+00:00",
+  "generated": "2026-07-10T18:45:23.862588+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -220,17 +220,6 @@
       "courtroom": "Courtroom 6A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646788"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/14/2026 10:00AM",
-      "case_number": "10-cr-0489",
-      "caption": "USA v. SMITH",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?416031"
     },
     {
       "court": "EDPA",
@@ -927,17 +916,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "07/20/2026 11:00AM",
-      "case_number": "26-cv-4528",
-      "caption": "Montero v. MULLIN et al",
-      "judge": "DISTRICT JUDGE RUFE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12A",
-      "hearing_type": "Show Cause Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657195"
-    },
-    {
-      "court": "EDPA",
       "datetime": "07/20/2026 01:30PM",
       "case_number": "25-cr-0460",
       "caption": "USA v. RAMIREZ-DIAZ",
@@ -1188,6 +1166,17 @@
       "courtroom": "Courtroom 10A",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?504133"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/21/2026 11:00AM",
+      "case_number": "26-cv-4528",
+      "caption": "Montero v. MULLIN et al",
+      "judge": "DISTRICT JUDGE RUFE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12A",
+      "hearing_type": "Show Cause Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657195"
     },
     {
       "court": "EDPA",
@@ -1474,6 +1463,17 @@
       "courtroom": "Cahn 3C",
       "hearing_type": "Bond Revocation Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648529"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/22/2026 02:00PM",
+      "case_number": "26-cr-0181",
+      "caption": "USA v. BLOW",
+      "judge": "DISTRICT JUDGE PADOVA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 17B",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653457"
     },
     {
       "court": "EDPA",
