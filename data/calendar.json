@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-10T11:18:20.029809+00:00",
+  "generated": "2026-07-10T15:04:11.132048+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -136,13 +136,24 @@
     {
       "court": "EDPA",
       "datetime": "07/13/2026 01:30PM",
-      "case_number": "06-cr-0285",
-      "caption": "USA v. HAWKINS",
-      "judge": "DISTRICT JUDGE SANCHEZ",
+      "case_number": "26-cr-0029",
+      "caption": "USA v. GARDNER",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
       "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?204851"
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648529"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/13/2026 01:30PM",
+      "case_number": "26-cr-0029",
+      "caption": "USA v. GARDNER",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Probable Cause Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648529"
     },
     {
       "court": "EDPA",
@@ -176,17 +187,6 @@
       "courtroom": "Courtroom 11A",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638795"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/14/2026 09:30AM",
-      "case_number": "24-cv-5691",
-      "caption": "Chen v. BURLINGTON COAT FACTOR",
-      "judge": "DISTRICT JUDGE HENRY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5B",
-      "hearing_type": "Arbitration Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629143"
     },
     {
       "court": "EDPA",
@@ -363,6 +363,17 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645277"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/14/2026 01:30PM",
+      "case_number": "26-mj-1323",
+      "caption": "USA v. HERNANDEZ",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657705"
     },
     {
       "court": "EDPA",
@@ -561,6 +572,17 @@
       "courtroom": "Courtroom 3G",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?606398"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/15/2026 01:30PM",
+      "case_number": "15-cr-0117",
+      "caption": "USA v. KEMP",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?504133"
     },
     {
       "court": "EDPA",
@@ -1445,6 +1467,17 @@
     {
       "court": "EDPA",
       "datetime": "07/22/2026 02:00PM",
+      "case_number": "26-cr-0029",
+      "caption": "USA v. GARDNER",
+      "judge": "DISTRICT JUDGE LEESON",
+      "city": "Allentown",
+      "courtroom": "Cahn 3C",
+      "hearing_type": "Bond Revocation Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648529"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/22/2026 02:00PM",
       "case_number": "26-cv-0489",
       "caption": "MORGENTHALER v. CAGLIOTI",
       "judge": "DISTRICT JUDGE PAPPERT",
@@ -1771,17 +1804,6 @@
       "courtroom": "Courtroom 3D",
       "hearing_type": "Settlement Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651783"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/24/2026 10:00AM",
-      "case_number": "26-cv-0748",
-      "caption": "LAWSON v. ALBERT EINSTEIN MEDI",
-      "judge": "MAGISTRATE JUDGE REID",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3C",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649445"
     },
     {
       "court": "EDPA",
