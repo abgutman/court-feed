@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-10T15:04:11.132048+00:00",
+  "generated": "2026-07-10T17:08:23.198662+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -11,17 +11,6 @@
       "courtroom": "Courtroom 8B",
       "hearing_type": "Jury Selection",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642497"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/10/2026 10:00AM",
-      "case_number": "25-cr-0458",
-      "caption": "USA v. MURRAY",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10A",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645058"
     },
     {
       "court": "EDPA",
@@ -47,6 +36,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "07/10/2026 01:30PM",
+      "case_number": "26-cr-0238",
+      "caption": "USA v. CAMMARATA",
+      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655436"
+    },
+    {
+      "court": "EDPA",
       "datetime": "07/10/2026 02:30PM",
       "case_number": "01-cr-0169",
       "caption": "USA v. HOFFMAN",
@@ -55,17 +55,6 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?112447"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/13/2026 09:00AM",
-      "case_number": "25-cr-0458",
-      "caption": "USA v. MURRAY",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645058"
     },
     {
       "court": "EDPA",
@@ -740,6 +729,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "07/16/2026 11:00AM",
+      "case_number": "11-cr-0650",
+      "caption": "USA v. MOSBY",
+      "judge": "DISTRICT JUDGE MARSTON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16B",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?447978"
+    },
+    {
+      "court": "EDPA",
       "datetime": "07/16/2026 01:30PM",
       "case_number": "25-cr-0460",
       "caption": "USA v. TORRES",
@@ -902,17 +902,6 @@
       "courtroom": "Reading 5th Floor",
       "hearing_type": "Revocation Probation-Final Hrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?562230"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/20/2026 10:30AM",
-      "case_number": "26-cr-0017",
-      "caption": "USA v. POLK",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10A",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648196"
     },
     {
       "court": "EDPA",
@@ -1353,6 +1342,17 @@
       "courtroom": "Courtroom 16A",
       "hearing_type": "Evidentiary Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657389"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/22/2026 10:00AM",
+      "case_number": "26-cr-0017",
+      "caption": "USA v. POLK",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648196"
     },
     {
       "court": "EDPA",
