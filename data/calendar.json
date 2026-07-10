@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-10T18:45:23.862588+00:00",
+  "generated": "2026-07-10T20:43:14.368796+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -11,50 +11,6 @@
       "courtroom": "Courtroom 8B",
       "hearing_type": "Jury Selection",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642497"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/10/2026 10:30AM",
-      "case_number": "23-cr-0404",
-      "caption": "USA v. MOSKAITIS",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?613677"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/10/2026 10:30AM",
-      "case_number": "23-cr-0404",
-      "caption": "USA v. MOSKAITIS",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?613677"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/10/2026 01:30PM",
-      "case_number": "26-cr-0238",
-      "caption": "USA v. CAMMARATA",
-      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Detention Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655436"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/10/2026 02:30PM",
-      "case_number": "01-cr-0169",
-      "caption": "USA v. HOFFMAN",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?112447"
     },
     {
       "court": "EDPA",
@@ -187,17 +143,6 @@
       "courtroom": "Courtroom 11B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643529"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/14/2026 09:30AM",
-      "case_number": "25-cv-4529",
-      "caption": "GIBBONE v. SOUTHEAST DELCO SCH",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
-      "hearing_type": "Trial Date",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642432"
     },
     {
       "court": "EDPA",
@@ -444,17 +389,6 @@
     {
       "court": "EDPA",
       "datetime": "07/15/2026 09:30AM",
-      "case_number": "23-cr-0404",
-      "caption": "USA v. MOSKAITIS",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?613677"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/15/2026 09:30AM",
       "case_number": "26-cv-0707",
       "caption": "GORDON v. PROGRESSIVE ADVANCED",
       "judge": "DISTRICT JUDGE SURRICK",
@@ -597,17 +531,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "07/15/2026 01:30PM",
-      "case_number": "25-cv-1883",
-      "caption": "Roman-Sabastro v. BW Papersyst",
-      "judge": "DISTRICT JUDGE WEILHEIMER",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 7B",
-      "hearing_type": "Show Cause Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636129"
-    },
-    {
-      "court": "EDPA",
       "datetime": "07/15/2026 02:00PM",
       "case_number": "25-cr-0441",
       "caption": "USA v. PORTER",
@@ -616,6 +539,17 @@
       "courtroom": "Courtroom 15A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644415"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/15/2026 02:00PM",
+      "case_number": "25-cv-6501",
+      "caption": "FOLSE v. GOVERNOR SPROUL ASSOC",
+      "judge": "DISTRICT JUDGE MARSTON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16B",
+      "hearing_type": "Miscellaneous Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646343"
     },
     {
       "court": "EDPA",
@@ -638,6 +572,17 @@
       "courtroom": "Courtroom 12A",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?197602"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/15/2026 03:30PM",
+      "case_number": "11-cr-0650",
+      "caption": "USA v. MOSBY",
+      "judge": "DISTRICT JUDGE MARSTON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16B",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?447978"
     },
     {
       "court": "EDPA",
@@ -715,17 +660,6 @@
       "courtroom": "Courtroom 14A",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?112058"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/16/2026 11:00AM",
-      "case_number": "11-cr-0650",
-      "caption": "USA v. MOSBY",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?447978"
     },
     {
       "court": "EDPA",
@@ -1285,6 +1219,17 @@
       "judge": "DISTRICT JUDGE SANCHEZ",
       "city": "Philadelphia",
       "courtroom": "Courtroom 14B",
+      "hearing_type": "Evidentiary Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653439"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/22/2026 09:30AM",
+      "case_number": "26-cv-2683",
+      "caption": "GONZALEZ DE ARMAS v. JAMISON e",
+      "judge": "DISTRICT JUDGE SANCHEZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653439"
     },
@@ -1815,6 +1760,17 @@
       "courtroom": "Courtroom 7B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616860"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/24/2026 10:00AM",
+      "case_number": "25-cv-5828",
+      "caption": "MDR UNITED LLC v. WARRIOR HOME",
+      "judge": "DISTRICT JUDGE WOLSON",
+      "city": "",
+      "courtroom": "Video Conference",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644755"
     },
     {
       "court": "EDPA",
