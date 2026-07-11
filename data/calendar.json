@@ -1,17 +1,6 @@
 {
-  "generated": "2026-07-10T23:14:12.958153+00:00",
+  "generated": "2026-07-11T00:09:47.071499+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "07/10/2026 09:00AM",
-      "case_number": "25-cv-4766",
-      "caption": "RIDEOUT v. LB WATER et al",
-      "judge": "DISTRICT JUDGE GALLAGHER",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 8B",
-      "hearing_type": "Jury Selection",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642497"
-    },
     {
       "court": "EDPA",
       "datetime": "07/13/2026 09:00AM",
@@ -1817,53 +1806,7 @@
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618673"
     }
   ],
-  "third_circuit": [
-    {
-      "court": "Third Circuit",
-      "date": "2026-07-10",
-      "case_number": "25-1934",
-      "caption": "Keith McBride et al  v. Commissioner New Jersey Department o",
-      "panel": "KRAUSE, FREEMAN, ROTH",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-07-10",
-      "case_number": "25-3009",
-      "caption": "Sa'Raya Harden v. West Side Career & Technology Center et al",
-      "panel": "KRAUSE, FREEMAN, ROTH",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-07-10",
-      "case_number": "25-3074",
-      "caption": "Sharon Griswold v. Drexel University et al",
-      "panel": "KRAUSE, FREEMAN, ROTH",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-07-10",
-      "case_number": "25-3081",
-      "caption": "USA v. Dontae Devero",
-      "panel": "KRAUSE, FREEMAN, ROTH",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-07-10",
-      "case_number": "25-3398",
-      "caption": "USA v. Carlos Cegledi",
-      "panel": "KRAUSE, FREEMAN, ROTH",
-      "location_time": "",
-      "disposition": "Submitted"
-    }
-  ],
+  "third_circuit": [],
   "pa_supreme": [],
   "pa_superior": [
     {
