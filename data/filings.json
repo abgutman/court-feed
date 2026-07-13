@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-13T19:48:23.714197+00:00",
+  "generated": "2026-07-13T21:12:40.926207+00:00",
   "filings": [
     {
       "type": "filing",
@@ -360,6 +360,15 @@
       "status": "Active",
       "filing_date": "07/13/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=186 WAL 2026&dnh=iUm0iHMc09NXfV11U1cPyQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "187 WAL 2026",
+      "caption": "Commonwealth v. McMillan, Q., Pet.",
+      "status": "Active",
+      "filing_date": "07/13/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=187 WAL 2026&dnh=PpnC9UUgQfbyIuHz2jvNAA%3D%3D"
     },
     {
       "type": "filing",
@@ -1743,7 +1752,7 @@
       "court": "PA Superior Court",
       "docket": "79 WDM 2026",
       "caption": "Com. v. Calvin, J.",
-      "status": "Active",
+      "status": "Closed",
       "filing_date": "07/13/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=79 WDM 2026&dnh=92gks8W0eENJ1docdpWSug%3D%3D"
     },
