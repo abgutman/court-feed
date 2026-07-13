@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-13T15:11:07.056670+00:00",
+  "generated": "2026-07-13T17:23:01.431261+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -220,17 +220,6 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645275"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/14/2026 01:30PM",
-      "case_number": "25-cr-0460",
-      "caption": "USA v. RIOS-VALENTIN",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645276"
     },
     {
       "court": "EDPA",
@@ -532,17 +521,6 @@
     {
       "court": "EDPA",
       "datetime": "07/15/2026 02:00PM",
-      "case_number": "25-cr-0441",
-      "caption": "USA v. PORTER",
-      "judge": "DISTRICT JUDGE HODGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644415"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/15/2026 02:00PM",
       "case_number": "25-cv-6501",
       "caption": "FOLSE v. GOVERNOR SPROUL ASSOC",
       "judge": "DISTRICT JUDGE MARSTON",
@@ -752,6 +730,17 @@
     {
       "court": "EDPA",
       "datetime": "07/17/2026 01:30PM",
+      "case_number": "26-mj-1339",
+      "caption": "USA v. BURGOS",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657733"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/17/2026 01:30PM",
       "case_number": "15-cv-4965",
       "caption": "JOHNSON v. NICKELSON et al",
       "judge": "DISTRICT JUDGE DIAMOND",
@@ -847,6 +836,17 @@
       "courtroom": "Courtroom 3B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655348"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/20/2026 11:00AM",
+      "case_number": "17-cr-0423",
+      "caption": "USA v. FLYNN",
+      "judge": "DISTRICT JUDGE SCHMEHL",
+      "city": "Reading",
+      "courtroom": "Gateway 5th Floor",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?533485"
     },
     {
       "court": "EDPA",
@@ -1325,6 +1325,17 @@
       "court": "EDPA",
       "datetime": "07/22/2026 01:30PM",
       "case_number": "25-cr-0460",
+      "caption": "USA v. RIOS-VALENTIN",
+      "judge": "MAGISTRATE JUDGE WELLS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645276"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/22/2026 01:30PM",
+      "case_number": "25-cr-0460",
       "caption": "USA v. DE JESUS",
       "judge": "MAGISTRATE JUDGE WELLS",
       "city": "Philadelphia",
@@ -1566,17 +1577,6 @@
     {
       "court": "EDPA",
       "datetime": "07/23/2026 09:30AM",
-      "case_number": "26-cv-0083",
-      "caption": "Alhaddad et al v. Nunez et al",
-      "judge": "DISTRICT JUDGE PAPPERT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5D",
-      "hearing_type": "Arbitration Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648108"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/23/2026 09:30AM",
       "case_number": "24-cv-6750",
       "caption": "DEMPSEY v. BERKADIA COMMERCIAL",
       "judge": "DISTRICT JUDGE WEILHEIMER",
@@ -1672,6 +1672,17 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645298"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/23/2026 02:00PM",
+      "case_number": "25-cr-0007",
+      "caption": "USA v. DIOL",
+      "judge": "DISTRICT JUDGE HODGE",
+      "city": "",
+      "courtroom": "unlisted",
+      "hearing_type": "Sentencing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631980"
     },
     {
       "court": "EDPA",
