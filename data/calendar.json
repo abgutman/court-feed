@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-13T17:23:01.431261+00:00",
+  "generated": "2026-07-13T19:48:36.612374+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -11,39 +11,6 @@
       "courtroom": "Cahn 4B",
       "hearing_type": "Trial Date",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642497"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/13/2026 01:30PM",
-      "case_number": "25-cr-0460",
-      "caption": "USA v. LEVANTE-MEDINA",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645270"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/13/2026 01:30PM",
-      "case_number": "25-cr-0460",
-      "caption": "USA v. HERRERA",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645271"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/13/2026 01:30PM",
-      "case_number": "25-cr-0460",
-      "caption": "USA v. AGUAYO-GARCIA",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645272"
     },
     {
       "court": "EDPA",
@@ -66,17 +33,6 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Probable Cause Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648529"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/13/2026 02:00PM",
-      "case_number": "25-cr-0501",
-      "caption": "USA v. WILLIAMS, JR.",
-      "judge": "DISTRICT JUDGE KENNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11B",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650117"
     },
     {
       "court": "EDPA",
@@ -630,17 +586,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "07/16/2026 11:00AM",
-      "case_number": "01-cr-0005",
-      "caption": "USA v. McCLURE",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?112058"
-    },
-    {
-      "court": "EDPA",
       "datetime": "07/16/2026 01:30PM",
       "case_number": "25-cr-0460",
       "caption": "USA v. TORRES",
@@ -671,17 +616,6 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645286"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/16/2026 01:30PM",
-      "case_number": "22-cr-0233",
-      "caption": "USA v. WILLIAMS",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?598915"
     },
     {
       "court": "EDPA",
@@ -759,17 +693,6 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655165"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/20/2026 09:30AM",
-      "case_number": "24-cv-1656",
-      "caption": "LAST CHANCE RANCH v. MCCUTCHEO",
-      "judge": "DISTRICT JUDGE HENRY",
-      "city": "Philadelphia",
-      "courtroom": "Philadelphia",
-      "hearing_type": "Jury Selection",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621327"
     },
     {
       "court": "EDPA",
@@ -942,9 +865,9 @@
       "case_number": "24-cv-1656",
       "caption": "LAST CHANCE RANCH v. MCCUTCHEO",
       "judge": "DISTRICT JUDGE HENRY",
-      "city": "Easton",
-      "courtroom": "Easton 4th Floor",
-      "hearing_type": "Trial Date",
+      "city": "Philadelphia",
+      "courtroom": "Philadelphia",
+      "hearing_type": "Jury Selection",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621327"
     },
     {
@@ -1126,17 +1049,6 @@
     {
       "court": "EDPA",
       "datetime": "07/21/2026 01:30PM",
-      "case_number": "22-cr-0155",
-      "caption": "USA v. REYES",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?596892"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/21/2026 01:30PM",
       "case_number": "25-cr-0460",
       "caption": "USA v. WILLIAMS",
       "judge": "DISTRICT JUDGE HENRY",
@@ -1199,6 +1111,17 @@
       "courtroom": "Courtroom 10A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?605325"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/22/2026 09:30AM",
+      "case_number": "24-cv-1656",
+      "caption": "LAST CHANCE RANCH v. MCCUTCHEO",
+      "judge": "DISTRICT JUDGE HENRY",
+      "city": "Easton",
+      "courtroom": "Holmes 4th Floor",
+      "hearing_type": "Trial Date",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621327"
     },
     {
       "court": "EDPA",
@@ -1573,6 +1496,17 @@
       "courtroom": "Courtroom 11B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646462"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/23/2026 09:30AM",
+      "case_number": "26-cr-0074",
+      "caption": "USA v. MORGAN-GARRETT",
+      "judge": "DISTRICT JUDGE SANCHEZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14B",
+      "hearing_type": "Evidentiary Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650120"
     },
     {
       "court": "EDPA",
