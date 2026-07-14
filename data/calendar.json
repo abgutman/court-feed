@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-14T00:06:16.585744+00:00",
+  "generated": "2026-07-14T03:32:28.988631+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -847,17 +847,6 @@
       "courtroom": "COURTROOM",
       "hearing_type": "Trial Date",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631382"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/21/2026 09:30AM",
-      "case_number": "25-cv-0772",
-      "caption": "WOLTMAN et al v. NATIONWIDE IN",
-      "judge": "DISTRICT JUDGE WEILHEIMER",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5B",
-      "hearing_type": "Arbitration Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633459"
     },
     {
       "court": "EDPA",
