@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-14T12:39:59.671635+00:00",
+  "generated": "2026-07-14T15:04:22.975281+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -220,17 +220,6 @@
       "courtroom": "Courtroom 9A",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655501"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/15/2026 09:30AM",
-      "case_number": "24-cv-0667",
-      "caption": "STROBERT TREE SERVICES, INC. v",
-      "judge": "DISTRICT JUDGE GALLAGHER",
-      "city": "Allentown",
-      "courtroom": "Cahn 4B",
-      "hearing_type": "Final Pretrial Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618926"
     },
     {
       "court": "EDPA",
@@ -1708,17 +1697,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "07/27/2026 09:00AM",
-      "case_number": "24-cv-0667",
-      "caption": "STROBERT TREE SERVICES, INC. v",
-      "judge": "DISTRICT JUDGE GALLAGHER",
-      "city": "Allentown",
-      "courtroom": "Cahn 4B",
-      "hearing_type": "Trial Date",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618926"
-    },
-    {
-      "court": "EDPA",
       "datetime": "07/27/2026 09:30AM",
       "case_number": "25-cr-0371",
       "caption": "USA v. BLOW",
@@ -2505,18 +2483,6 @@
       "docket_number": "137 WDA 2026",
       "journal_number": "J-A18004-26",
       "caption": "America First v. Maple Grove",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "18-ARGUMENT-2026-2",
-      "judges": "KING ; LANE , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "08/04/2026",
-      "docket_number": "74 WDA 2026",
-      "journal_number": "J-A18005-26",
-      "caption": "Thompson, R. v. C.&J. Clark America",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "",
       "city": "",
