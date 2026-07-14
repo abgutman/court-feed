@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-14T18:16:58.893040+00:00",
+  "generated": "2026-07-14T19:44:44.740880+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -70,17 +70,6 @@
     {
       "court": "EDPA",
       "datetime": "07/14/2026 01:00PM",
-      "case_number": "24-md-3094",
-      "caption": "GLUCAGON-LIKE PEPTIDE-1 RECEPT",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618532"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/14/2026 01:00PM",
       "case_number": "01-md-3094",
       "caption": "Glucagon-Like Peptide-1 Recept",
       "judge": "DISTRICT JUDGE MARSTON",
@@ -88,17 +77,6 @@
       "courtroom": "Courtroom 16B",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648472"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/14/2026 01:30PM",
-      "case_number": "25-cr-0460",
-      "caption": "USA v. MATTEI-RODRIGUEZ",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645273"
     },
     {
       "court": "EDPA",
@@ -187,17 +165,6 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624195"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/14/2026 03:00PM",
-      "case_number": "25-cv-2315",
-      "caption": "MOYER v. Darbrod Inc.",
-      "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "Reading",
-      "courtroom": "Reading 5th Floor",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637180"
     },
     {
       "court": "EDPA",
@@ -1335,39 +1302,6 @@
     {
       "court": "EDPA",
       "datetime": "07/23/2026 09:30AM",
-      "case_number": "26-cr-0209",
-      "caption": "USA v. CURRY",
-      "judge": "DISTRICT JUDGE HODGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654622"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/23/2026 09:30AM",
-      "case_number": "26-cr-0209",
-      "caption": "USA v. PEOPLES",
-      "judge": "DISTRICT JUDGE HODGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654623"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/23/2026 09:30AM",
-      "case_number": "26-cr-0209",
-      "caption": "USA v. MOORE",
-      "judge": "DISTRICT JUDGE HODGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654624"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/23/2026 09:30AM",
       "case_number": "25-cv-6201",
       "caption": "GILLIAM et al v. UNITED STATES",
       "judge": "DISTRICT JUDGE KENNEY",
@@ -1738,6 +1672,17 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641585"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/27/2026 11:00AM",
+      "case_number": "25-cv-5550",
+      "caption": "Heller v. BROOKHAVEN BOROUGH e",
+      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3D",
+      "hearing_type": "Settlement Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644164"
     },
     {
       "court": "EDPA",
@@ -2870,18 +2815,6 @@
       "docket_number": "2737 EDA 2025",
       "journal_number": "J-A19015-26",
       "caption": "In Re: Est. of: Guerry, J., Appeal of: Rinschler, R.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "17th Floor , 530 Walnut St ., Philadelphia",
-      "city": "Philadelphia",
-      "panel": "19-ARGUMENT-2026-2",
-      "judges": ""
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "08/11/2026",
-      "docket_number": "3022 EDA 2025",
-      "journal_number": "J-A19016-26",
-      "caption": "Swiderski, D. v. PPL Electric",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
