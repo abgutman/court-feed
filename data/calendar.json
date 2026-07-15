@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-15T14:08:27.286713+00:00",
+  "generated": "2026-07-15T15:49:31.712989+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -66,39 +66,6 @@
       "courtroom": "Courtroom 15B",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?600323"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/15/2026 11:00AM",
-      "case_number": "26-cr-0279",
-      "caption": "USA v. DIRENZO, JR.",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656553"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/15/2026 11:00AM",
-      "case_number": "26-cr-0279",
-      "caption": "USA v. MATOZZO",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656554"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/15/2026 11:00AM",
-      "case_number": "26-cr-0279",
-      "caption": "USA v. NORRIS",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656555"
     },
     {
       "court": "EDPA",
@@ -807,6 +774,28 @@
     {
       "court": "EDPA",
       "datetime": "07/21/2026 02:00PM",
+      "case_number": "13-cr-0061",
+      "caption": "USA v. EASLEY",
+      "judge": "DISTRICT JUDGE RUFE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12A",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?485620"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/21/2026 02:00PM",
+      "case_number": "14-cr-0140",
+      "caption": "USA v. EASLEY",
+      "judge": "DISTRICT JUDGE RUFE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12A",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?489027"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/21/2026 02:00PM",
       "case_number": "26-cv-1451",
       "caption": "HILL v. SOUTHEASTERN PENNSYLVA",
       "judge": "MAGISTRATE JUDGE STRAW",
@@ -994,28 +983,6 @@
     {
       "court": "EDPA",
       "datetime": "07/22/2026 02:00PM",
-      "case_number": "23-cr-0454",
-      "caption": "USA v. SAVAGE",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614822"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/22/2026 02:00PM",
-      "case_number": "24-cr-0253",
-      "caption": "USA v. SAVAGE",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624192"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/22/2026 02:00PM",
       "case_number": "24-cr-0242",
       "caption": "USA v. MORRIS",
       "judge": "DISTRICT JUDGE HODGE",
@@ -1097,7 +1064,7 @@
       "caption": "MONTGOMERY v. BOBST MEX SA et",
       "judge": "MAGISTRATE JUDGE ARTEAGA",
       "city": "Philadelphia",
-      "courtroom": "Courtroom TBD",
+      "courtroom": "Courtroom 3G",
       "hearing_type": "Final Pretrial Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618201"
     },
@@ -1155,17 +1122,6 @@
       "courtroom": "Courtroom 5B",
       "hearing_type": "Arbitration Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645654"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/23/2026 09:30AM",
-      "case_number": "25-cr-0501",
-      "caption": "USA v. MOSLEY",
-      "judge": "DISTRICT JUDGE KENNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646462"
     },
     {
       "court": "EDPA",
@@ -1283,8 +1239,8 @@
       "case_number": "25-cr-0007",
       "caption": "USA v. DIOL",
       "judge": "DISTRICT JUDGE HODGE",
-      "city": "",
-      "courtroom": "unlisted",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 17A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631980"
     },
