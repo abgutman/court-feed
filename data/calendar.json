@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-15T21:15:05.873435+00:00",
+  "generated": "2026-07-15T22:12:54.199185+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -1507,6 +1507,17 @@
       "courtroom": "Philadelphia",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645274"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/28/2026 10:30AM",
+      "case_number": "23-cv-1597",
+      "caption": "DEUSINGER v. ROTHMAN NATIONAL",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?608866"
     },
     {
       "court": "EDPA",
