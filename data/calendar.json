@@ -1,17 +1,6 @@
 {
-  "generated": "2026-07-15T19:36:05.688418+00:00",
+  "generated": "2026-07-15T21:15:05.873435+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "07/15/2026 10:00AM",
-      "case_number": "26-cv-3249",
-      "caption": "AJETI et al v. LIFE INSURANCE",
-      "judge": "DISTRICT JUDGE BARTLE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654577"
-    },
     {
       "court": "EDPA",
       "datetime": "07/15/2026 10:00AM",
@@ -37,28 +26,6 @@
     {
       "court": "EDPA",
       "datetime": "07/15/2026 01:30PM",
-      "case_number": "05-cr-0619",
-      "caption": "USA v. BASLEY",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Detention Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?197602"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/15/2026 01:30PM",
-      "case_number": "05-cr-0619",
-      "caption": "USA v. BASLEY",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Probable Cause Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?197602"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/15/2026 01:30PM",
       "case_number": "15-cr-0117",
       "caption": "USA v. KEMP",
       "judge": "MAGISTRATE JUDGE ARTEAGA",
@@ -66,17 +33,6 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Detention Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?504133"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/15/2026 01:30PM",
-      "case_number": "25-cr-0460",
-      "caption": "USA v. LOPEZ-BORIA",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645282"
     },
     {
       "court": "EDPA",
@@ -132,17 +88,6 @@
       "courtroom": "Courtroom 12A",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?197602"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/15/2026 03:30PM",
-      "case_number": "11-cr-0650",
-      "caption": "USA v. MOSBY",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?447978"
     },
     {
       "court": "EDPA",
@@ -264,6 +209,17 @@
       "courtroom": "Reading 5th Floor",
       "hearing_type": "Revocation Probation-Final Hrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?582078"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/16/2026 03:00PM",
+      "case_number": "11-cr-0650",
+      "caption": "USA v. MOSBY",
+      "judge": "DISTRICT JUDGE MARSTON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16B",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?447978"
     },
     {
       "court": "EDPA",
@@ -586,17 +542,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "07/21/2026 10:00AM",
-      "case_number": "20-cr-0322",
-      "caption": "USA v. BRADLEY",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12B",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?576052"
-    },
-    {
-      "court": "EDPA",
       "datetime": "07/21/2026 10:30AM",
       "case_number": "26-cv-3118",
       "caption": "Smith v. GEORGE JUNIOR REPUBLI",
@@ -671,6 +616,28 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645292"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/21/2026 01:30PM",
+      "case_number": "26-cr-0300",
+      "caption": "USA v. SMITH",
+      "judge": "MAGISTRATE JUDGE WELLS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657662"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/21/2026 01:30PM",
+      "case_number": "26-cr-0300",
+      "caption": "USA v. SMITH",
+      "judge": "MAGISTRATE JUDGE WELLS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657662"
     },
     {
       "court": "EDPA",
@@ -1287,6 +1254,17 @@
       "courtroom": "Video Conference",
       "hearing_type": "Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648170"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/24/2026 02:00PM",
+      "case_number": "24-cr-0282",
+      "caption": "USA v. ADEWALE",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Sentencing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?625871"
     },
     {
       "court": "EDPA",
