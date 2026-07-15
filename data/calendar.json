@@ -1,17 +1,6 @@
 {
-  "generated": "2026-07-15T17:38:24.973338+00:00",
+  "generated": "2026-07-15T19:36:05.688418+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "07/15/2026 09:30AM",
-      "case_number": "26-cv-0707",
-      "caption": "GORDON v. PROGRESSIVE ADVANCED",
-      "judge": "DISTRICT JUDGE SURRICK",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5D",
-      "hearing_type": "Arbitration Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649357"
-    },
     {
       "court": "EDPA",
       "datetime": "07/15/2026 10:00AM",
@@ -47,17 +36,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "07/15/2026 11:00AM",
-      "case_number": "23-cv-0696",
-      "caption": "MARTINEZ v. TICE et al",
-      "judge": "MAGISTRATE JUDGE STRAW",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3G",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?606398"
-    },
-    {
-      "court": "EDPA",
       "datetime": "07/15/2026 01:30PM",
       "case_number": "05-cr-0619",
       "caption": "USA v. BASLEY",
@@ -88,28 +66,6 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Detention Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?504133"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/15/2026 01:30PM",
-      "case_number": "25-cr-0460",
-      "caption": "USA v. RESTO-BERRIOS",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645278"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/15/2026 01:30PM",
-      "case_number": "25-cr-0460",
-      "caption": "USA v. CARTAGENA",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645279"
     },
     {
       "court": "EDPA",
@@ -388,17 +344,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "07/20/2026 10:00AM",
-      "case_number": "25-cr-0250",
-      "caption": "USA v. DA-SILVA",
-      "judge": "DISTRICT JUDGE BARTLE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638971"
-    },
-    {
-      "court": "EDPA",
       "datetime": "07/20/2026 11:00AM",
       "case_number": "21-cv-3375",
       "caption": "MCINTOSH v. WETZEL et al",
@@ -583,6 +528,17 @@
       "courtroom": "Courtroom 3D",
       "hearing_type": "Settlement Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646122"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/21/2026 10:00AM",
+      "case_number": "23-cv-4938",
+      "caption": "DUNNE v. STATE FARM FIRE AND C",
+      "judge": "DISTRICT JUDGE HODGE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 17A",
+      "hearing_type": "Evidentiary Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616792"
     },
     {
       "court": "EDPA",
@@ -2096,18 +2052,6 @@
     },
     {
       "court": "PA Superior Court",
-      "date": "08/04/2026",
-      "docket_number": "1365 WDA 2025",
-      "journal_number": "J-A18020-26",
-      "caption": "Com. v. Knestrick, D.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "18-ARGUMENT-2026-2",
-      "judges": "KING ; LANE , JJ."
-    },
-    {
-      "court": "PA Superior Court",
       "date": "08/05/2026",
       "docket_number": "1559 WDA 2025",
       "journal_number": "J-A18021-26",
@@ -2172,18 +2116,6 @@
       "docket_number": "1497 WDA 2025",
       "journal_number": "J-A18032-26",
       "caption": "Gornick, M. v. Funari, B.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "18-ARGUMENT-2026-2",
-      "judges": "KING ; LANE , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "08/05/2026",
-      "docket_number": "236 WDA 2025",
-      "journal_number": "J-A18033-26",
-      "caption": "Estate of: Dale C. Stoffel, Appeal of: Quinn, J.",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "",
       "city": "",
