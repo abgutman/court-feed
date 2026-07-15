@@ -1,17 +1,6 @@
 {
-  "generated": "2026-07-15T15:49:31.712989+00:00",
+  "generated": "2026-07-15T17:38:24.973338+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "07/15/2026 09:00AM",
-      "case_number": "26-cr-0246",
-      "caption": "USA v. MORRISON",
-      "judge": "DISTRICT JUDGE SAVAGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9A",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655501"
-    },
     {
       "court": "EDPA",
       "datetime": "07/15/2026 09:30AM",
@@ -55,17 +44,6 @@
       "courtroom": "Courtroom 9A",
       "hearing_type": "Show Cause Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649574"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/15/2026 10:00AM",
-      "case_number": "22-cr-0283",
-      "caption": "USA v. HAMPTON",
-      "judge": "DISTRICT JUDGE YOUNGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15B",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?600323"
     },
     {
       "court": "EDPA",
@@ -421,17 +399,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "07/20/2026 10:00AM",
-      "case_number": "19-cr-0563",
-      "caption": "USA v. KEY",
-      "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "Reading",
-      "courtroom": "Reading 5th Floor",
-      "hearing_type": "Revocation Probation-Final Hrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?562230"
-    },
-    {
-      "court": "EDPA",
       "datetime": "07/20/2026 11:00AM",
       "case_number": "21-cv-3375",
       "caption": "MCINTOSH v. WETZEL et al",
@@ -451,17 +418,6 @@
       "courtroom": "Courtroom 3B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655348"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/20/2026 11:00AM",
-      "case_number": "17-cr-0423",
-      "caption": "USA v. FLYNN",
-      "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "Reading",
-      "courtroom": "Gateway 5th Floor",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?533485"
     },
     {
       "court": "EDPA",
@@ -1159,6 +1115,17 @@
     {
       "court": "EDPA",
       "datetime": "07/23/2026 10:00AM",
+      "case_number": "24-cr-0358",
+      "caption": "USA v. JASON",
+      "judge": "DISTRICT JUDGE HODGE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 17A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628478"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/23/2026 10:00AM",
       "case_number": "25-cr-0472",
       "caption": "USA v. TUGGLES",
       "judge": "DISTRICT JUDGE MCHUGH",
@@ -1566,17 +1533,6 @@
     {
       "court": "EDPA",
       "datetime": "07/28/2026 09:30AM",
-      "case_number": "26-cr-0246",
-      "caption": "USA v. MORRISON",
-      "judge": "DISTRICT JUDGE SAVAGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655501"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/28/2026 09:30AM",
       "case_number": "25-cv-6927",
       "caption": "Carter v. THE PHOENIX INSURANC",
       "judge": "DISTRICT JUDGE WOLSON",
@@ -1859,17 +1815,6 @@
       "courtroom": "Courtroom 15B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646932"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/29/2026 11:00AM",
-      "case_number": "25-cr-0176",
-      "caption": "USA v. JOSEY",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636675"
     },
     {
       "court": "EDPA",
@@ -2743,18 +2688,6 @@
       "docket_number": "2604 EDA 2025",
       "journal_number": "J-A19036-26",
       "caption": "Com. v. Martinez, R.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "17th Floor , 530 Walnut St ., Philadelphia",
-      "city": "Philadelphia",
-      "panel": "19-ARGUMENT-2026-2",
-      "judges": ""
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "08/12/2026",
-      "docket_number": "2135 EDA 2025",
-      "journal_number": "J-A19037-26",
-      "caption": "Com. v. Tunnell, K.",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
