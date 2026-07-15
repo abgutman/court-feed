@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-15T11:47:59.751281+00:00",
+  "generated": "2026-07-15T14:08:27.286713+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -572,6 +572,17 @@
       "courtroom": "Courtroom 10A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653435"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/20/2026 02:00PM",
+      "case_number": "25-cv-1885",
+      "caption": "WEISMAN et al v. LIBERTY MUTUA",
+      "judge": "DISTRICT JUDGE MARSTON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16B",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636137"
     },
     {
       "court": "EDPA",
@@ -1551,17 +1562,6 @@
       "courtroom": "Philadelphia",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?541262"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/27/2026 02:00PM",
-      "case_number": "24-cr-0368",
-      "caption": "USA v. BUSTAMANTE",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628769"
     },
     {
       "court": "EDPA",
