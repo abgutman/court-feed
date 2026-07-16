@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-16T18:19:45.239863+00:00",
+  "generated": "2026-07-16T20:11:39.603405+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -22,28 +22,6 @@
       "courtroom": "Courtroom 15A",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?610527"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/16/2026 10:00AM",
-      "case_number": "25-cr-0145",
-      "caption": "USA v. BONAPARTE",
-      "judge": "DISTRICT JUDGE MCHUGH",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635997"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/16/2026 10:00AM",
-      "case_number": "25-cv-6511",
-      "caption": "BRADCLIFFE LLC v. WILLIAM GRAN",
-      "judge": "MAGISTRATE JUDGE REID",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3C",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646342"
     },
     {
       "court": "EDPA",
@@ -99,6 +77,17 @@
       "courtroom": "Reading 5th Floor",
       "hearing_type": "Revocation Probation-Final Hrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?582078"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/16/2026 04:15PM",
+      "case_number": "25-cv-6468",
+      "caption": "MARTIN v. SOUTHEASTERN PENNSYL",
+      "judge": "DISTRICT JUDGE KEARNEY",
+      "city": "",
+      "courtroom": "Telephone Conference",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646235"
     },
     {
       "court": "EDPA",
@@ -429,17 +418,6 @@
       "courtroom": "Courtroom 6B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643766"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/21/2026 10:30AM",
-      "case_number": "26-cv-3118",
-      "caption": "Smith v. GEORGE JUNIOR REPUBLI",
-      "judge": "DISTRICT JUDGE KENNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654315"
     },
     {
       "court": "EDPA",
@@ -2044,7 +2022,7 @@
       "judge": "DISTRICT JUDGE DIAMOND",
       "city": "Philadelphia",
       "courtroom": "Courtroom 14A",
-      "hearing_type": "Pretrial Conference/Hearing",
+      "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635504"
     },
     {
@@ -2649,18 +2627,6 @@
     {
       "court": "PA Superior Court",
       "date": "08/12/2026",
-      "docket_number": "2849 EDA 2025",
-      "journal_number": "J-A19028-26",
-      "caption": "Abdelwahab, D. v. Temple University Health",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "17th Floor , 530 Walnut St ., Philadelphia",
-      "city": "Philadelphia",
-      "panel": "19-ARGUMENT-2026-2",
-      "judges": ""
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "08/12/2026",
       "docket_number": "2828 EDA 2025",
       "journal_number": "J-A19029-26",
       "caption": "In the Int. of: I.W.C., Appeal of: I.W.C.",
@@ -2688,18 +2654,6 @@
       "docket_number": "2045 EDA 2024",
       "journal_number": "J-A19031-26",
       "caption": "Jean-Louis, M. v. National Construction Rentals",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "17th Floor , 530 Walnut St ., Philadelphia",
-      "city": "Philadelphia",
-      "panel": "19-ARGUMENT-2026-2",
-      "judges": ""
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "08/12/2026",
-      "docket_number": "1956 EDA 2024",
-      "journal_number": "J-A19032-26",
-      "caption": "Blue Green, LLC v. Garcia-Villareal, D.",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
