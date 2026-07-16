@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-16T16:41:08.517074+00:00",
+  "generated": "2026-07-16T18:19:45.239863+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -33,17 +33,6 @@
       "courtroom": "Courtroom 9B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635997"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/16/2026 10:00AM",
-      "case_number": "26-cr-0038",
-      "caption": "USA v. MITCHELL",
-      "judge": "DISTRICT JUDGE PAPPERT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648819"
     },
     {
       "court": "EDPA",
@@ -1543,17 +1532,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "07/29/2026 09:30AM",
-      "case_number": "25-cv-1827",
-      "caption": "FOOTMAN v. COUNTY OF DELAWARE",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635961"
-    },
-    {
-      "court": "EDPA",
       "datetime": "07/29/2026 10:00AM",
       "case_number": "25-cv-4710",
       "caption": "KIELKUCKI v. WRIGHT FLOOD",
@@ -1870,17 +1848,6 @@
       "courtroom": "Courtroom 9A",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651993"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/30/2026 09:00AM",
-      "case_number": "25-cv-1827",
-      "caption": "FOOTMAN v. COUNTY OF DELAWARE",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635961"
     },
     {
       "court": "EDPA",
