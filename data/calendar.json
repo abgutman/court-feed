@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-16T11:54:27.383685+00:00",
+  "generated": "2026-07-16T14:20:45.246042+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -113,17 +113,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "07/16/2026 03:00PM",
-      "case_number": "11-cr-0650",
-      "caption": "USA v. MOSBY",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?447978"
-    },
-    {
-      "court": "EDPA",
       "datetime": "07/17/2026 10:00AM",
       "case_number": "26-cv-0268",
       "caption": "REED v. LIVE! CASINO AND HOTEL",
@@ -154,6 +143,17 @@
       "courtroom": "Courtroom 14A",
       "hearing_type": "Evidentiary Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?508869"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/17/2026 01:30PM",
+      "case_number": "15-cr-0117",
+      "caption": "USA v. KEMP",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?504133"
     },
     {
       "court": "EDPA",
@@ -432,17 +432,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "07/21/2026 10:00AM",
-      "case_number": "26-cv-0770",
-      "caption": "Gruppo v. OLYMPUS CORPORATION",
-      "judge": "MAGISTRATE JUDGE STRAW",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3G",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649527"
-    },
-    {
-      "court": "EDPA",
       "datetime": "07/21/2026 10:30AM",
       "case_number": "26-cv-3118",
       "caption": "Smith v. GEORGE JUNIOR REPUBLI",
@@ -572,17 +561,6 @@
       "courtroom": "Courtroom 12A",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?489027"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/21/2026 02:00PM",
-      "case_number": "26-cv-1451",
-      "caption": "HILL v. SOUTHEASTERN PENNSYLVA",
-      "judge": "MAGISTRATE JUDGE STRAW",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3G",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650902"
     },
     {
       "court": "EDPA",
@@ -1401,6 +1379,28 @@
     {
       "court": "EDPA",
       "datetime": "07/28/2026 10:30AM",
+      "case_number": "23-cv-0734",
+      "caption": "PETRONGOLA v. ROTHMAN NATIONAL",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?606519"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/28/2026 10:30AM",
+      "case_number": "23-cv-1553",
+      "caption": "RANDALL v. ROTHMAN NATIONAL MA",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?608732"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/28/2026 10:30AM",
       "case_number": "23-cv-1597",
       "caption": "DEUSINGER v. ROTHMAN NATIONAL",
       "judge": "DISTRICT JUDGE SLOMSKY",
@@ -1650,6 +1650,28 @@
       "courtroom": "Courtroom 15B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646932"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/29/2026 10:30AM",
+      "case_number": "16-md-2724",
+      "caption": "IN RE: GENERIC PHARMACEUTICALS",
+      "judge": "DISTRICT JUDGE RUFE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12A",
+      "hearing_type": "Pretrial Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/29/2026 10:30AM",
+      "case_number": "18-cv-3299",
+      "caption": "HUMANA INC. v. ACTAVIS ELIZABE",
+      "judge": "DISTRICT JUDGE RUFE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12A",
+      "hearing_type": "Pretrial Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679"
     },
     {
       "court": "EDPA",
@@ -2325,18 +2347,6 @@
     {
       "court": "PA Superior Court",
       "date": "08/05/2026",
-      "docket_number": "1404 WDA 2025",
-      "journal_number": "J-A18036-26",
-      "caption": "Webster, R. v. Wentzel, B.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "18-ARGUMENT-2026-2",
-      "judges": "KING ; LANE , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "08/05/2026",
       "docket_number": "258 WDA 2026",
       "journal_number": "J-A18037-26",
       "caption": "In the Interest of: Z.B., Appeal of: T.N.",
@@ -2388,18 +2398,6 @@
       "docket_number": "983 EDA 2026",
       "journal_number": "J-A19003-26",
       "caption": "Smalls, A. v. Williams, T.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "17th Floor , 530 Walnut St ., Philadelphia",
-      "city": "Philadelphia",
-      "panel": "19-ARGUMENT-2026-2",
-      "judges": ""
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "08/11/2026",
-      "docket_number": "3346 EDA 2024",
-      "journal_number": "J-A19004-26",
-      "caption": "Com. v. Briscoe, J.",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
