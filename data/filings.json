@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-16T14:20:37.602731+00:00",
+  "generated": "2026-07-16T16:40:57.279713+00:00",
   "filings": [
     {
       "type": "filing",
@@ -149,10 +149,19 @@
       "type": "filing",
       "court": "PA Supreme Court",
       "docket": "149 MM 2026",
-      "caption": "",
+      "caption": "In Re: Application of AG Successor Multicounty IGJ",
       "status": "Active",
       "filing_date": "07/16/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=149 MM 2026&dnh=hWgkfSYM0SR53uLOGjIEfw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "150 MM 2026",
+      "caption": "Gottschall, J., Pet. v. Woodley, K.",
+      "status": "Active",
+      "filing_date": "07/14/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=150 MM 2026&dnh=1UgI49UxEDTgS6BM%2FKq0uw%3D%3D"
     },
     {
       "type": "filing",
@@ -248,7 +257,7 @@
       "type": "filing",
       "court": "PA Superior Court",
       "docket": "1901 EDA 2026",
-      "caption": "In the Int of: B.T.F., Appeal of: A.M.D.",
+      "caption": "In Re: B.T.F., Appeal of: A.M.D.",
       "status": "Active",
       "filing_date": "07/10/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1901 EDA 2026&dnh=V9LME2ass%2FJtuhaPqgaS3g%3D%3D"
@@ -760,6 +769,15 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "1958 EDA 2026",
+      "caption": "Hernandez, E. v. Fedex Groud",
+      "status": "Active",
+      "filing_date": "07/16/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1958 EDA 2026&dnh=j5Q06EtuN54T8QXyvm7mMg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "121 EDM 2026",
       "caption": "Thomas Jefferson University Hospitals, Inc. v. Miraglia, K.",
       "status": "Active",
@@ -1089,6 +1107,15 @@
       "status": "Active",
       "filing_date": "07/15/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1104 MDA 2026&dnh=u%2F%2BuUi4TO6eI8%2BeY3o2suQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1105 MDA 2026",
+      "caption": "Miller, J. v. Foulds, V.",
+      "status": "Active",
+      "filing_date": "07/16/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1105 MDA 2026&dnh=SiMzosirmTpCKSMDx3tvAQ%3D%3D"
     },
     {
       "type": "filing",
@@ -1593,6 +1620,15 @@
       "status": "Active",
       "filing_date": "07/13/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=246 FR 2026&dnh=9sMsTfHWeGz%2BW71XmWrPCA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "248 FR 2026",
+      "caption": "CenturyLink Management Co. v. Com. of Pa.",
+      "status": "Active",
+      "filing_date": "07/16/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=248 FR 2026&dnh=94ooNTff5xgDCOBS%2FSe9xA%3D%3D"
     },
     {
       "type": "filing",
@@ -2882,6 +2918,102 @@
       "pub_date": "Fri, 10 Jul 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/226CD25_7-10-26.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/226CD25_7-10-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "26-2388",
+      "caption": "Eustacio Gregorio-Meza v.",
+      "author": "",
+      "pub_date": "Thu, 16 Jul 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/262388np.pdf",
+      "guid": "ca3-26-2388-262388np.pdf",
+      "precedential": false,
+      "origin": "USDC for the District of New Jersey"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "26-1857",
+      "caption": "Raphael Ross v.",
+      "author": "",
+      "pub_date": "Thu, 16 Jul 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/261857np.pdf",
+      "guid": "ca3-26-1857-261857np.pdf",
+      "precedential": false,
+      "origin": "USDC for the Eastern District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "26-1132",
+      "caption": "Stephen Brown v. Delaware County Sheriffs Department",
+      "author": "",
+      "pub_date": "Thu, 16 Jul 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/261132np.pdf",
+      "guid": "ca3-26-1132-261132np.pdf",
+      "precedential": false,
+      "origin": "USDC for the Eastern District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-3599",
+      "caption": "George Arsenis v. Blue Foundry Bancorp",
+      "author": "",
+      "pub_date": "Thu, 16 Jul 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/253599np.pdf",
+      "guid": "ca3-25-3599-253599np.pdf",
+      "precedential": false,
+      "origin": "USDC for the District of New Jersey"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-3314",
+      "caption": "Mia Graves v. Leanne Litwin",
+      "author": "",
+      "pub_date": "Thu, 16 Jul 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/253314np.pdf",
+      "guid": "ca3-25-3314-253314np.pdf",
+      "precedential": false,
+      "origin": "USDC for the Eastern District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-2907",
+      "caption": "Anthony Dowell v. Laurel Harry",
+      "author": "",
+      "pub_date": "Thu, 16 Jul 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/252907np.pdf",
+      "guid": "ca3-25-2907-252907np.pdf",
+      "precedential": false,
+      "origin": "USDC for the Middle District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-2598",
+      "caption": "ICON PSG 1 FL LLC v. Jenkins Court Realty CO LP",
+      "author": "",
+      "pub_date": "Thu, 16 Jul 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/252598np.pdf",
+      "guid": "ca3-25-2598-252598np.pdf",
+      "precedential": false,
+      "origin": "USDC for the Eastern District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "24-2830",
+      "caption": "Hudson Hospital Opco LLC v. Cigna Health and Life Insurance Co",
+      "author": "",
+      "pub_date": "Thu, 16 Jul 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/242830np.pdf",
+      "guid": "ca3-24-2830-242830np.pdf",
+      "precedential": false,
+      "origin": "USDC for the District of New Jersey"
     },
     {
       "type": "opinion",
