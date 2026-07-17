@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-17T19:32:02.965888+00:00",
+  "generated": "2026-07-17T21:08:04.301614+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -257,17 +257,6 @@
     {
       "court": "EDPA",
       "datetime": "07/21/2026 09:30AM",
-      "case_number": "26-cr-0143",
-      "caption": "USA v. SMITH",
-      "judge": "DISTRICT JUDGE SAVAGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651993"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/21/2026 09:30AM",
       "case_number": "24-cv-6750",
       "caption": "DEMPSEY v. BERKADIA COMMERCIAL",
       "judge": "DISTRICT JUDGE WEILHEIMER",
@@ -330,6 +319,17 @@
       "courtroom": "Courtroom 11A",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?574074"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/21/2026 10:00AM",
+      "case_number": "26-cr-0143",
+      "caption": "USA v. SMITH",
+      "judge": "DISTRICT JUDGE SAVAGE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 9A",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651993"
     },
     {
       "court": "EDPA",
@@ -528,6 +528,17 @@
       "courtroom": "Courtroom 11B",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?560863"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/21/2026 02:30PM",
+      "case_number": "13-cr-0582",
+      "caption": "USA v. HARMON",
+      "judge": "DISTRICT JUDGE RUFE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12A",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?483460"
     },
     {
       "court": "EDPA",
@@ -762,6 +773,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "07/22/2026 02:30PM",
+      "case_number": "26-cv-3469",
+      "caption": "FRY v. FRY",
+      "judge": "DISTRICT JUDGE MARSTON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16B",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655327"
+    },
+    {
+      "court": "EDPA",
       "datetime": "07/22/2026 04:00PM",
       "case_number": "26-cv-1585",
       "caption": "Gonzalez et al v. BJ'S Wholesa",
@@ -792,17 +814,6 @@
       "courtroom": "Courtroom 6B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634354"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/23/2026 09:00AM",
-      "case_number": "25-cr-0470",
-      "caption": "USA v. BUFORD",
-      "judge": "DISTRICT JUDGE SAVAGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645641"
     },
     {
       "court": "EDPA",
