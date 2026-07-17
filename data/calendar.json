@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-17T09:21:47.023717+00:00",
+  "generated": "2026-07-17T11:39:48.618716+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -440,6 +440,17 @@
       "courtroom": "Cahn 3C",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649836"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/21/2026 02:00PM",
+      "case_number": "20-cv-4723",
+      "caption": "CLEARLY CLEAN PRODUCTS, LLC et",
+      "judge": "DISTRICT JUDGE MARSTON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16B",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?576121"
     },
     {
       "court": "EDPA",
