@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-17T11:39:48.618716+00:00",
+  "generated": "2026-07-17T14:02:37.155960+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -44,6 +44,17 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Detention Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?504133"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/17/2026 01:30PM",
+      "case_number": "22-cr-0260",
+      "caption": "USA v. HARRIS",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?599639"
     },
     {
       "court": "EDPA",
@@ -143,6 +154,39 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645290"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/20/2026 01:30PM",
+      "case_number": "26-mj-1265",
+      "caption": "USA v. ABDURAKHMANOV",
+      "judge": "MAGISTRATE JUDGE WELLS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657005"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/20/2026 01:30PM",
+      "case_number": "26-mj-1308",
+      "caption": "USA v. ISAEV",
+      "judge": "MAGISTRATE JUDGE WELLS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657755"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/20/2026 01:30PM",
+      "case_number": "26-mj-1308",
+      "caption": "USA v. ISAEV",
+      "judge": "MAGISTRATE JUDGE WELLS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Preliminary Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657755"
     },
     {
       "court": "EDPA",
@@ -421,6 +465,50 @@
     },
     {
       "court": "EDPA",
+      "datetime": "07/21/2026 01:30PM",
+      "case_number": "26-cr-0304",
+      "caption": "USA v. NEWSOME-ANDREWS",
+      "judge": "MAGISTRATE JUDGE WELLS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657974"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/21/2026 01:30PM",
+      "case_number": "26-cr-0304",
+      "caption": "USA v. NEWSOME-ANDREWS",
+      "judge": "MAGISTRATE JUDGE WELLS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657974"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/21/2026 01:30PM",
+      "case_number": "26-mj-1378",
+      "caption": "USA v. LANG",
+      "judge": "MAGISTRATE JUDGE WELLS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658015"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/21/2026 01:30PM",
+      "case_number": "26-mj-1378",
+      "caption": "USA v. LANG",
+      "judge": "MAGISTRATE JUDGE WELLS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Preliminary Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658015"
+    },
+    {
+      "court": "EDPA",
       "datetime": "07/21/2026 02:00PM",
       "case_number": "26-cv-3523",
       "caption": "Ferreira v. RIDDLE MEMORIAL HO",
@@ -575,6 +663,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "07/22/2026 12:00PM",
+      "case_number": "24-cr-0441",
+      "caption": "USA v. SPARROW",
+      "judge": "DISTRICT JUDGE KEARNEY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 6B",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642380"
+    },
+    {
+      "court": "EDPA",
       "datetime": "07/22/2026 01:00PM",
       "case_number": "26-cr-0054",
       "caption": "USA v. DENIS",
@@ -638,17 +737,6 @@
       "courtroom": "Courtroom 15A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623830"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/22/2026 02:00PM",
-      "case_number": "25-cv-0866",
-      "caption": "ALLIED WORLD SURPLUS LINES INS",
-      "judge": "DISTRICT JUDGE KENNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11B",
-      "hearing_type": "Miscellaneous Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633587"
     },
     {
       "court": "EDPA",
@@ -759,6 +847,17 @@
       "courtroom": "Cahn 4B",
       "hearing_type": "Revocation Probation-Final Hrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?333378"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/23/2026 09:30AM",
+      "case_number": "25-cv-0866",
+      "caption": "ALLIED WORLD SURPLUS LINES INS",
+      "judge": "DISTRICT JUDGE KENNEY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 11B",
+      "hearing_type": "Miscellaneous Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633587"
     },
     {
       "court": "EDPA",
@@ -1287,6 +1386,17 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?606519"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/28/2026 10:30AM",
+      "case_number": "23-cv-1049",
+      "caption": "MCQUILKIN v. ROTHMAN NATIONAL",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?607409"
     },
     {
       "court": "EDPA",
@@ -1969,17 +2079,6 @@
       "courtroom": "Easton 4th Floor",
       "hearing_type": "Miscellaneous Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655126"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/30/2026 02:00PM",
-      "case_number": "25-cv-3853",
-      "caption": "Finpay, LLC v. Profound Treatm",
-      "judge": "DISTRICT JUDGE MURPHY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3B",
-      "hearing_type": "Final Pretrial Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640923"
     },
     {
       "court": "EDPA",

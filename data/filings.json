@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-17T11:39:43.241240+00:00",
+  "generated": "2026-07-17T14:02:21.639861+00:00",
   "filings": [
     {
       "type": "filing",
@@ -711,6 +711,15 @@
       "status": "Active",
       "filing_date": "07/16/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1968 EDA 2026&dnh=0QpqEo83hzJohVq9C0zb4Q%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1969 EDA 2026",
+      "caption": "In Re: S. Brisbon",
+      "status": "Active",
+      "filing_date": "07/17/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1969 EDA 2026&dnh=1j6vSh8BYcV5V5KNzTOwLw%3D%3D"
     },
     {
       "type": "filing",
@@ -1435,6 +1444,24 @@
     {
       "type": "filing",
       "court": "PA Commonwealth Court",
+      "docket": "1008 CD 2026",
+      "caption": "Preventive Aftercare v. Beatty-White, A. (WCAB)",
+      "status": "Active",
+      "filing_date": "07/16/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1008 CD 2026&dnh=kBc3sSZ%2FwmvEft2DmjiGcQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "1010 CD 2026",
+      "caption": "In re: Appeal of Ralph McClain",
+      "status": "Active",
+      "filing_date": "07/14/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1010 CD 2026&dnh=ExBPDcccxvoycYiUnkV%2B8Q%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
       "docket": "245 FR 2026",
       "caption": "Cozen O'Connor v. Cmmnwlth.",
       "status": "Active",
@@ -1462,11 +1489,47 @@
     {
       "type": "filing",
       "court": "PA Commonwealth Court",
+      "docket": "249 FR 2026",
+      "caption": "United Rentals North America v. Com. of Pa.",
+      "status": "Active",
+      "filing_date": "07/17/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=249 FR 2026&dnh=pjgWjcYB8mIWR%2BVCcndjiA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
       "docket": "321 MD 2026",
       "caption": "DEP v. Industry Brgh. Municipal Auth.",
       "status": "Active",
       "filing_date": "07/13/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=321 MD 2026&dnh=Ts0zmv1TVXVZkq0GfskenQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "330 MD 2026",
+      "caption": "Dept. of L&I v. B. Redmond Enterprises, LLC et al",
+      "status": "Active",
+      "filing_date": "07/16/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=330 MD 2026&dnh=0ItymUosKFEPF2LGJty3bQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "331 MD 2026",
+      "caption": "Dugan, S. v. SCI Fayette Med. Dept.",
+      "status": "Active",
+      "filing_date": "07/13/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=331 MD 2026&dnh=8Z6DUZuSNnmyx50POO7HQQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "332 MD 2026",
+      "caption": "Tooks, I. v. Court of Common Pleas of Allegheny Co",
+      "status": "Active",
+      "filing_date": "07/13/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=332 MD 2026&dnh=QaemQxg2oxD0KD6oQHJhpA%3D%3D"
     },
     {
       "type": "filing",
@@ -2567,6 +2630,16 @@
       "pub_date": "Mon, 13 Jul 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-A09045-26m - 106850167366016274.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-A09045-26m - 106850167366016274.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "1749 C.D. 2024",
+      "caption": "North Huntingdon Twp. Municipal Authority v. M.M. Prut",
+      "author": "PER CURIAM",
+      "pub_date": "Fri, 17 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1749CD24_7-17-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1749CD24_7-17-26.pdf"
     },
     {
       "type": "opinion",
