@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-17T15:38:59.757121+00:00",
+  "generated": "2026-07-17T17:30:29.234753+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -873,17 +873,6 @@
     {
       "court": "EDPA",
       "datetime": "07/23/2026 09:30AM",
-      "case_number": "25-cv-6201",
-      "caption": "GILLIAM et al v. UNITED STATES",
-      "judge": "DISTRICT JUDGE KENNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5B",
-      "hearing_type": "Arbitration Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645654"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/23/2026 09:30AM",
       "case_number": "26-cr-0074",
       "caption": "USA v. MORGAN-GARRETT",
       "judge": "DISTRICT JUDGE SANCHEZ",
@@ -1441,6 +1430,17 @@
       "courtroom": "Courtroom 3A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645795"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/28/2026 11:00AM",
+      "case_number": "23-cr-0493",
+      "caption": "USA v. TALLEY",
+      "judge": "DISTRICT JUDGE WOLSON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12B",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616014"
     },
     {
       "court": "EDPA",
