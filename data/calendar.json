@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-17T17:30:29.234753+00:00",
+  "generated": "2026-07-17T19:32:02.965888+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -14,17 +14,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "07/17/2026 10:30AM",
-      "case_number": "26-cr-0267",
-      "caption": "USA v. BHATTI",
-      "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "Reading",
-      "courtroom": "Reading 5th Floor",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656125"
-    },
-    {
-      "court": "EDPA",
       "datetime": "07/17/2026 11:00AM",
       "case_number": "15-cv-4965",
       "caption": "JOHNSON v. NICKELSON et al",
@@ -33,17 +22,6 @@
       "courtroom": "Courtroom 14A",
       "hearing_type": "Evidentiary Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?508869"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/17/2026 12:00PM",
-      "case_number": "26-cv-1828",
-      "caption": "BLACK CAT INC. v. 4C's SPRAY E",
-      "judge": "DISTRICT JUDGE KEARNEY",
-      "city": "",
-      "courtroom": "Telephone Conference",
-      "hearing_type": "Scheduling Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651607"
     },
     {
       "court": "EDPA",
@@ -77,17 +55,6 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Detention Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657733"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/20/2026 09:00AM",
-      "case_number": "26-cr-0234",
-      "caption": "USA v. MOSLEY",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655165"
     },
     {
       "court": "EDPA",
@@ -1892,6 +1859,17 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634657"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/30/2026 10:00AM",
+      "case_number": "24-cv-1001",
+      "caption": "SPARACINO v. WIDENER UNIVERSIT",
+      "judge": "DISTRICT JUDGE COSTELLO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 6A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?619739"
     },
     {
       "court": "EDPA",
