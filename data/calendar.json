@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-20T13:17:00.501452+00:00",
+  "generated": "2026-07-20T15:22:51.467639+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -212,17 +212,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "07/21/2026 09:30AM",
-      "case_number": "25-cv-5662",
-      "caption": "Tobin et al v. Constellation E",
-      "judge": "DISTRICT JUDGE WEILHEIMER",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5B",
-      "hearing_type": "Arbitration Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644367"
-    },
-    {
-      "court": "EDPA",
       "datetime": "07/21/2026 10:00AM",
       "case_number": "25-cv-6412",
       "caption": "MANLEY v. SPREAD BAGELRY, INC.",
@@ -432,6 +421,28 @@
     },
     {
       "court": "EDPA",
+      "datetime": "07/21/2026 01:30PM",
+      "case_number": "26-mj-1382",
+      "caption": "USA v. UHLIG",
+      "judge": "MAGISTRATE JUDGE WELLS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658081"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/21/2026 01:30PM",
+      "case_number": "26-mj-1361",
+      "caption": "USA v. RICHARDS-DAVILA",
+      "judge": "MAGISTRATE JUDGE WELLS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658101"
+    },
+    {
+      "court": "EDPA",
       "datetime": "07/21/2026 02:00PM",
       "case_number": "26-cv-3523",
       "caption": "Ferreira v. RIDDLE MEMORIAL HO",
@@ -462,17 +473,6 @@
       "courtroom": "Courtroom 16B",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?576121"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/21/2026 02:30PM",
-      "case_number": "19-cr-0482",
-      "caption": "USA v. MANSON",
-      "judge": "DISTRICT JUDGE KENNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11B",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?560863"
     },
     {
       "court": "EDPA",
@@ -1027,17 +1027,6 @@
     {
       "court": "EDPA",
       "datetime": "07/24/2026 02:00PM",
-      "case_number": "26-cv-0120",
-      "caption": "CRUZ v. BISIGNANO",
-      "judge": "MAGISTRATE JUDGE CARLOS",
-      "city": "",
-      "courtroom": "Video Conference",
-      "hearing_type": "Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648170"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/24/2026 02:00PM",
       "case_number": "24-cr-0282",
       "caption": "USA v. ADEWALE",
       "judge": "DISTRICT JUDGE SLOMSKY",
@@ -1229,7 +1218,7 @@
       "caption": "MENDEZ REYES et al v. ROSS DRE",
       "judge": "DISTRICT JUDGE LEESON",
       "city": "Allentown",
-      "courtroom": "Cahn 4A",
+      "courtroom": "Cahn 4B",
       "hearing_type": "Arbitration Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636641"
     },
@@ -1518,6 +1507,17 @@
       "courtroom": "Courtroom 3B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639533"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/29/2026 10:00AM",
+      "case_number": "21-cr-0040",
+      "caption": "USA v. PHILLIPS",
+      "judge": "DISTRICT JUDGE PEREZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10B",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?581541"
     },
     {
       "court": "EDPA",
@@ -2455,18 +2455,6 @@
       "journal_number": "J-A18002-26",
       "caption": "Vickery, T. v. Langianese, J.",
       "consideration_type": "Expedited \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "18-ARGUMENT-2026-2",
-      "judges": "KING ; LANE , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "08/04/2026",
-      "docket_number": "1423 WDA 2025",
-      "journal_number": "J-A18003-26",
-      "caption": "Klingensmith, B. v. Klingensmith, J.",
-      "consideration_type": "Standard \u2014 Argument Panel",
       "location": "",
       "city": "",
       "panel": "18-ARGUMENT-2026-2",
