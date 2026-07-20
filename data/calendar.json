@@ -1,17 +1,6 @@
 {
-  "generated": "2026-07-20T15:22:51.467639+00:00",
+  "generated": "2026-07-20T18:18:58.568548+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "07/20/2026 09:30AM",
-      "case_number": "22-cr-0340",
-      "caption": "USA v. WATTS",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?601270"
-    },
     {
       "court": "EDPA",
       "datetime": "07/20/2026 09:30AM",
@@ -184,7 +173,7 @@
       "caption": "LAST CHANCE RANCH v. MCCUTCHEO",
       "judge": "DISTRICT JUDGE HENRY",
       "city": "Philadelphia",
-      "courtroom": "Philadelphia",
+      "courtroom": "Courtroom 8A",
       "hearing_type": "Jury Selection",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621327"
     },
@@ -300,17 +289,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "07/21/2026 11:30AM",
-      "case_number": "05-cr-0440",
-      "caption": "USA v. COOPER",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?196910"
-    },
-    {
-      "court": "EDPA",
       "datetime": "07/21/2026 01:30PM",
       "case_number": "26-cr-0080",
       "caption": "USA v. RODRIGUEZ-MARTE",
@@ -330,6 +308,17 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645293"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/21/2026 01:30PM",
+      "case_number": "20-cr-0083",
+      "caption": "USA v. HUTTON",
+      "judge": "MAGISTRATE JUDGE WELLS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?567809"
     },
     {
       "court": "EDPA",
@@ -1280,17 +1269,6 @@
     {
       "court": "EDPA",
       "datetime": "07/28/2026 10:30AM",
-      "case_number": "25-cr-0460",
-      "caption": "USA v. HIDALGO GENAO",
-      "judge": "DISTRICT JUDGE HENRY",
-      "city": "Philadelphia",
-      "courtroom": "Philadelphia",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645274"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/28/2026 10:30AM",
       "case_number": "23-cv-0734",
       "caption": "PETRONGOLA v. ROTHMAN NATIONAL",
       "judge": "DISTRICT JUDGE SLOMSKY",
@@ -1346,6 +1324,17 @@
     {
       "court": "EDPA",
       "datetime": "07/28/2026 11:00AM",
+      "case_number": "25-cv-7336",
+      "caption": "Ross v. THE CHILDRENS HOSPITAL",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Discovery Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647818"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/28/2026 11:00AM",
       "case_number": "23-cr-0493",
       "caption": "USA v. TALLEY",
       "judge": "DISTRICT JUDGE WOLSON",
@@ -1390,17 +1379,6 @@
     {
       "court": "EDPA",
       "datetime": "07/28/2026 02:00PM",
-      "case_number": "25-cv-3420",
-      "caption": "CHANDLER v. EXPERIAN INFORMATI",
-      "judge": "DISTRICT JUDGE COSTELLO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6A",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640059"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/28/2026 02:00PM",
       "case_number": "25-cr-0481",
       "caption": "USA v. FROMETA-DE LEON",
       "judge": "DISTRICT JUDGE MARSTON",
@@ -1408,6 +1386,17 @@
       "courtroom": "Courtroom 16B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645862"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/28/2026 03:30PM",
+      "case_number": "11-cr-0650",
+      "caption": "USA v. MOSBY",
+      "judge": "DISTRICT JUDGE MARSTON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16B",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?447978"
     },
     {
       "court": "EDPA",
@@ -2398,17 +2387,6 @@
       "courtroom": "Courtroom 8B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643216"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/03/2026 01:00PM",
-      "case_number": "26-cr-0104",
-      "caption": "USA v. COSTER",
-      "judge": "DISTRICT JUDGE PEREZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651073"
     },
     {
       "court": "EDPA",
