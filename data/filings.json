@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-20T18:18:52.724829+00:00",
+  "generated": "2026-07-20T20:41:02.952412+00:00",
   "filings": [
     {
       "type": "filing",
@@ -24,7 +24,7 @@
       "court": "PA Supreme Court",
       "docket": "62 EM 2026",
       "caption": "4927 Wynnefield Avenue, LLC v. Sims, T., Pet.",
-      "status": "Active",
+      "status": "Decided/Active",
       "filing_date": "07/16/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=62 EM 2026&dnh=zwaFKR9tNasofYZVXopaEA%3D%3D"
     },
@@ -90,6 +90,24 @@
       "status": "Active",
       "filing_date": "07/17/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=420 MAL 2026&dnh=zzVBPFZZsK6GgNTqCcDxEw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "421 MAL 2026",
+      "caption": "Commonwealth v. Johnson, T., Pet.",
+      "status": "Active",
+      "filing_date": "07/20/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=421 MAL 2026&dnh=GjGrJHxtXJaUlPDgwLhW5w%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "422 MAL 2026",
+      "caption": "Commonwealth v. James, E., Pet.",
+      "status": "Active",
+      "filing_date": "07/20/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=422 MAL 2026&dnh=yadspz%2FS9zWPcMFYb4NRiQ%3D%3D"
     },
     {
       "type": "filing",
@@ -270,6 +288,15 @@
       "status": "Active",
       "filing_date": "07/17/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=203 WAL 2026&dnh=s8xcHptJoYbqBINlrHxWxA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "76 WM 2026",
+      "caption": "Commonwealth v. Jay, J., Pet.",
+      "status": "Active",
+      "filing_date": "07/20/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=76 WM 2026&dnh=spau%2BeKpwdnSXSlpxVRLMg%3D%3D"
     },
     {
       "type": "filing",
@@ -967,6 +994,69 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "2006 EDA 2026",
+      "caption": "Clark, C. v. Clark, M.",
+      "status": "Active",
+      "filing_date": "07/20/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2006 EDA 2026&dnh=DS5PGJ3wgKJvbZrx3CfbEw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2007 EDA 2026",
+      "caption": "Rosenberg Schulson, J. v. Schulson, M.",
+      "status": "Active",
+      "filing_date": "07/20/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2007 EDA 2026&dnh=dr5FBaS2xzUtfLy7ONMYkA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2008 EDA 2026",
+      "caption": "Greenaway, S. v. Prentice, M.",
+      "status": "Active",
+      "filing_date": "07/20/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2008 EDA 2026&dnh=Fhpz7hZMvi5heGvy5uW7eg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2009 EDA 2026",
+      "caption": "Com. v. Lewis, S.",
+      "status": "Active",
+      "filing_date": "07/20/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2009 EDA 2026&dnh=gBhJS3COKj66AvqH5yDXvg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2010 EDA 2026",
+      "caption": "Com. v. Holly, H.",
+      "status": "Active",
+      "filing_date": "07/20/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2010 EDA 2026&dnh=wz0PW%2Fh6zQ1U41rG9C1qyQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2011 EDA 2026",
+      "caption": "Com. v. Holly, H.",
+      "status": "Active",
+      "filing_date": "07/20/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2011 EDA 2026&dnh=90IYUxmEFYeTLXZ84g2mig%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2012 EDA 2026",
+      "caption": "Com. v. Florio, D.",
+      "status": "Active",
+      "filing_date": "07/20/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2012 EDA 2026&dnh=F%2F9PvB0HKIf1eupBZut2TA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "1085 MDA 2026",
       "caption": "Com. v. Watson, R.",
       "status": "Active",
@@ -1488,6 +1578,15 @@
     },
     {
       "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "81 WDM 2026",
+      "caption": "Comm. v. Harrison, Jihaad Amore",
+      "status": "Active",
+      "filing_date": "07/20/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=81 WDM 2026&dnh=j9%2Bb7KLrmfhD%2B2%2F5VzKc8g%3D%3D"
+    },
+    {
+      "type": "filing",
       "court": "PA Commonwealth Court",
       "docket": "976 CD 2026",
       "caption": "McKinney, M. v. PPB",
@@ -1593,6 +1692,33 @@
       "status": "Active",
       "filing_date": "07/15/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1029 CD 2026&dnh=IFXIeS0FGyC1duMP%2FeVfHw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "1031 CD 2026",
+      "caption": "Phila. Montessori Chtr. Sch. v. SD of Phila. et al",
+      "status": "Active",
+      "filing_date": "07/14/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1031 CD 2026&dnh=1vVAea09B7upDbUwBZvCVw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "1032 CD 2026",
+      "caption": "DuBois Cont. of Care Comm. v. DHS",
+      "status": "Active",
+      "filing_date": "07/20/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1032 CD 2026&dnh=BE0Q%2BKl0P%2Bq7jpH7A%2BILLA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "1033 CD 2026",
+      "caption": "Cook, A. v. PHFA",
+      "status": "Active",
+      "filing_date": "07/20/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1033 CD 2026&dnh=RSkIpnm97Wsb1kzb9aVnxQ%3D%3D"
     },
     {
       "type": "filing",
@@ -1704,6 +1830,66 @@
     }
   ],
   "opinions": [
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 142 MM 2026",
+      "caption": "Zlock, K., et al., Pets. v. Judge, Bucks Co. CCP",
+      "author": "Per Curiam",
+      "pub_date": "Mon, 20 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/142MM2026 - 106859085366959240.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/142MM2026 - 106859085366959240.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 1053 Supreme Court Rules",
+      "caption": "In Re: Order Amending Rules 515, 600, 610, 612, 620, and 800 of the Pennsylvania Rules of Juvenile Court Procedure",
+      "author": "Per Curiam",
+      "pub_date": "Mon, 20 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/Adoption Report - 106858437366905422.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/Adoption Report - 106858437366905422.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 1053 Supreme Court Rules",
+      "caption": "In Re: Order Amending Rules 515, 600, 610, 612, 620, and 800 of the Pennsylvania Rules of Juvenile Court Procedure",
+      "author": "Per Curiam",
+      "pub_date": "Mon, 20 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/Attachment - 106858437366905210.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/Attachment - 106858437366905210.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 1053 Supreme Court Rules",
+      "caption": "In Re: Order Amending Rules 515, 600, 610, 612, 620, and 800 of the Pennsylvania Rules of Juvenile Court Procedure",
+      "author": "Per Curiam",
+      "pub_date": "Mon, 20 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/Order - 106858437366905285.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/Order - 106858437366905285.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 453 EAL 2025",
+      "caption": "Commonwealth v. Morris, A., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Mon, 20 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/453EAL2025 - 106857880366835455.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/453EAL2025 - 106857880366835455.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 63 EAL 2026",
+      "caption": "1833 S. 22nd, LLC, et al. v. Virtu Capital, et al.; Pet. of: Lebold, T.",
+      "author": "Per Curiam",
+      "pub_date": "Mon, 20 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/63EAL2026 - 106858496366912965.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/63EAL2026 - 106858496366912965.pdf"
+    },
     {
       "type": "opinion",
       "court": "PA Supreme Court",
@@ -2823,6 +3009,18 @@
       "guid": "ca3-25-3546-253546np.pdf",
       "precedential": false,
       "origin": "USDC for the Eastern District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-3512",
+      "caption": "USA v. Jaime Gonzalez",
+      "author": "",
+      "pub_date": "Mon, 20 Jul 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/253512np.pdf",
+      "guid": "ca3-25-3512-253512np.pdf",
+      "precedential": false,
+      "origin": "USDC for the District of Delaware"
     },
     {
       "type": "opinion",
