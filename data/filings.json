@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-21T14:20:14.500422+00:00",
+  "generated": "2026-07-21T16:42:57.351843+00:00",
   "filings": [
     {
       "type": "filing",
@@ -931,6 +931,42 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "2015 EDA 2026",
+      "caption": "Charles, B. v. Reed, J.",
+      "status": "Active",
+      "filing_date": "07/21/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2015 EDA 2026&dnh=Z63sbHFgIcON0hbPi0cn1Q%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2016 EDA 2026",
+      "caption": "Pierce, R. v. Westfield, D.",
+      "status": "Active",
+      "filing_date": "07/21/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2016 EDA 2026&dnh=1YH5qKYItF8ILm8RyCIl0g%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2017 EDA 2026",
+      "caption": "Oswalt, N. v. H&K Group Inc.",
+      "status": "Active",
+      "filing_date": "07/21/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2017 EDA 2026&dnh=ytIpe65NtCQhQpC4Ll4GFA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2018 EDA 2026",
+      "caption": "Moser, D. v. Manning, J.",
+      "status": "Active",
+      "filing_date": "07/21/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2018 EDA 2026&dnh=QWfbaSMt6yTf2Odyk01Chw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "1097 MDA 2026",
       "caption": "Com. v. Smith, D.",
       "status": "Active",
@@ -1247,7 +1283,7 @@
       "type": "filing",
       "court": "PA Superior Court",
       "docket": "939 WDA 2026",
-      "caption": "In the Interest of: Hernandez, Madison, a Minor",
+      "caption": "In the Interest of: M.H. Appeal of: E.B.H.",
       "status": "Active",
       "filing_date": "07/21/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=939 WDA 2026&dnh=jXKGA%2FLkK9AWAWIXUlqzlw%3D%3D"
@@ -1292,7 +1328,7 @@
       "type": "filing",
       "court": "PA Superior Court",
       "docket": "944 WDA 2026",
-      "caption": "In the Interest of:Kauric, G. Appeal of:Hayden, K.",
+      "caption": "In the Interest of: G.K. Appeal of:T.K.",
       "status": "Active",
       "filing_date": "07/21/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=944 WDA 2026&dnh=IMbdU1Uu5vYS%2Fhbs%2BlRAXQ%3D%3D"
@@ -1314,6 +1350,15 @@
       "status": "Active",
       "filing_date": "07/20/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=81 WDM 2026&dnh=j9%2Bb7KLrmfhD%2B2%2F5VzKc8g%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "82 WDM 2026",
+      "caption": "CSX Corp. v. Pritts, S.",
+      "status": "Active",
+      "filing_date": "07/21/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=82 WDM 2026&dnh=Mq8O7sRlxu9jw1u7c%2F33WA%3D%3D"
     },
     {
       "type": "filing",
@@ -1494,6 +1539,15 @@
       "status": "Active",
       "filing_date": "07/17/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=336 MD 2026&dnh=LR1F3rKUJMczXGwdXLpM1w%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "337 MD 2026",
+      "caption": "DOC v. Gentilquore, D.",
+      "status": "Active",
+      "filing_date": "07/21/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=337 MD 2026&dnh=YaPmCCC8pPJx9XLMWtK3VA%3D%3D"
     },
     {
       "type": "filing",
@@ -2982,354 +3036,6 @@
       "pub_date": "Wed, 15 Jul 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/133CD25_7-15-26.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/133CD25_7-15-26.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "25-1693",
-      "caption": "Savannah Byers v. Finishing Systems Inc",
-      "author": "",
-      "pub_date": "Mon, 20 Jul 2026 00:00:00 +0000",
-      "url": "https://www2.ca3.uscourts.gov/opinarch/251693p.pdf",
-      "guid": "ca3-25-1693-251693p.pdf",
-      "precedential": true,
-      "origin": "USDC for the Middle District of Pennsylvania"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "25-1459",
-      "caption": "Cheryl Hileman v. West Penn Allegheny Health System Inc",
-      "author": "",
-      "pub_date": "Mon, 20 Jul 2026 00:00:00 +0000",
-      "url": "https://www2.ca3.uscourts.gov/opinarch/251459p.pdf",
-      "guid": "ca3-25-1459-251459p.pdf",
-      "precedential": true,
-      "origin": "USDC for the Western District of Pennsylvania"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "24-3144",
-      "caption": "City of Chester Pennsylvania v.",
-      "author": "",
-      "pub_date": "Fri, 17 Jul 2026 00:00:00 +0000",
-      "url": "https://www2.ca3.uscourts.gov/opinarch/243144p.pdf",
-      "guid": "ca3-24-3144-243144p.pdf",
-      "precedential": true,
-      "origin": "USDC for the Eastern District of Pennsylvania"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "24-2415",
-      "caption": "Association of New Jersey Rifle and Pistol Clubs I v. Attorney General New Jersey",
-      "author": "",
-      "pub_date": "Fri, 17 Jul 2026 00:00:00 +0000",
-      "url": "https://www2.ca3.uscourts.gov/opinarch/242415p.pdf",
-      "guid": "ca3-24-2415-242415p.pdf",
-      "precedential": true,
-      "origin": "USDC for the District of New Jersey"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "25-3546",
-      "caption": "Jonathan Blecher v. Progressive Casualty Insurance Co",
-      "author": "",
-      "pub_date": "Mon, 20 Jul 2026 00:00:00 +0000",
-      "url": "https://www2.ca3.uscourts.gov/opinarch/253546np.pdf",
-      "guid": "ca3-25-3546-253546np.pdf",
-      "precedential": false,
-      "origin": "USDC for the Eastern District of Pennsylvania"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "25-3512",
-      "caption": "USA v. Jaime Gonzalez",
-      "author": "",
-      "pub_date": "Mon, 20 Jul 2026 00:00:00 +0000",
-      "url": "https://www2.ca3.uscourts.gov/opinarch/253512np.pdf",
-      "guid": "ca3-25-3512-253512np.pdf",
-      "precedential": false,
-      "origin": "USDC for the District of Delaware"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "25-2264",
-      "caption": "Carol Sikina v. Postmaster General of the United States",
-      "author": "",
-      "pub_date": "Mon, 20 Jul 2026 00:00:00 +0000",
-      "url": "https://www2.ca3.uscourts.gov/opinarch/252264np.pdf",
-      "guid": "ca3-25-2264-252264np.pdf",
-      "precedential": false,
-      "origin": "USDC for the Western District of Pennsylvania"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "25-2149",
-      "caption": "Kenneth Owens v. US Bank Trust NA",
-      "author": "",
-      "pub_date": "Mon, 20 Jul 2026 00:00:00 +0000",
-      "url": "https://www2.ca3.uscourts.gov/opinarch/252149np.pdf",
-      "guid": "ca3-25-2149-252149np.pdf",
-      "precedential": false,
-      "origin": "USDC for the Eastern District of Pennsylvania"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "25-2033",
-      "caption": "Ecolab Inc v. SC Johnson Professional Group Limited",
-      "author": "",
-      "pub_date": "Mon, 20 Jul 2026 00:00:00 +0000",
-      "url": "https://www2.ca3.uscourts.gov/opinarch/252033np.pdf",
-      "guid": "ca3-25-2033-252033np.pdf",
-      "precedential": false,
-      "origin": "USDC for the District of Delaware"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "25-2019",
-      "caption": "Jean Buteau Remarque v. Attorney General United States of America",
-      "author": "",
-      "pub_date": "Mon, 20 Jul 2026 00:00:00 +0000",
-      "url": "https://www2.ca3.uscourts.gov/opinarch/252019np.pdf",
-      "guid": "ca3-25-2019-252019np.pdf",
-      "precedential": false,
-      "origin": "Agency"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "26-1313",
-      "caption": "Newton Bryan v. City of Philadelphia",
-      "author": "",
-      "pub_date": "Fri, 17 Jul 2026 00:00:00 +0000",
-      "url": "https://www2.ca3.uscourts.gov/opinarch/261313np.pdf",
-      "guid": "ca3-26-1313-261313np.pdf",
-      "precedential": false,
-      "origin": "USDC for the Eastern District of Pennsylvania"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "25-2508",
-      "caption": "USA v. Alan Dorsey",
-      "author": "",
-      "pub_date": "Fri, 17 Jul 2026 00:00:00 +0000",
-      "url": "https://www2.ca3.uscourts.gov/opinarch/252508np.pdf",
-      "guid": "ca3-25-2508-252508np.pdf",
-      "precedential": false,
-      "origin": "USDC for the Middle District of Pennsylvania"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "25-2279",
-      "caption": "Felishatay Alvarado v. City of Philadelphia",
-      "author": "",
-      "pub_date": "Fri, 17 Jul 2026 00:00:00 +0000",
-      "url": "https://www2.ca3.uscourts.gov/opinarch/252279np.pdf",
-      "guid": "ca3-25-2279-252279np.pdf",
-      "precedential": false,
-      "origin": "USDC for the Eastern District of Pennsylvania"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "25-1826",
-      "caption": "Boy Scouts of America and Delaware BSA LLC v.",
-      "author": "",
-      "pub_date": "Fri, 17 Jul 2026 00:00:00 +0000",
-      "url": "https://www2.ca3.uscourts.gov/opinarch/251826np.pdf",
-      "guid": "ca3-25-1826-251826np.pdf",
-      "precedential": false,
-      "origin": "USDC for the District of Delaware"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "25-1527",
-      "caption": "Marlin Lopez-Ramirez v. Attorney General United States of America",
-      "author": "",
-      "pub_date": "Fri, 17 Jul 2026 00:00:00 +0000",
-      "url": "https://www2.ca3.uscourts.gov/opinarch/251527np.pdf",
-      "guid": "ca3-25-1527-251527np.pdf",
-      "precedential": false,
-      "origin": "Agency"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "26-2388",
-      "caption": "Eustacio Gregorio-Meza v.",
-      "author": "",
-      "pub_date": "Thu, 16 Jul 2026 00:00:00 +0000",
-      "url": "https://www2.ca3.uscourts.gov/opinarch/262388np.pdf",
-      "guid": "ca3-26-2388-262388np.pdf",
-      "precedential": false,
-      "origin": "USDC for the District of New Jersey"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "26-1887",
-      "caption": "Sparkle Martin v.",
-      "author": "",
-      "pub_date": "Thu, 16 Jul 2026 00:00:00 +0000",
-      "url": "https://www2.ca3.uscourts.gov/opinarch/261887np.pdf",
-      "guid": "ca3-26-1887-261887np.pdf",
-      "precedential": false,
-      "origin": "USDC for the District of New Jersey"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "26-1857",
-      "caption": "Raphael Ross v.",
-      "author": "",
-      "pub_date": "Thu, 16 Jul 2026 00:00:00 +0000",
-      "url": "https://www2.ca3.uscourts.gov/opinarch/261857np.pdf",
-      "guid": "ca3-26-1857-261857np.pdf",
-      "precedential": false,
-      "origin": "USDC for the Eastern District of Pennsylvania"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "26-1422",
-      "caption": "Kerian Pelenah v. University of Pennsylvania Health Systems",
-      "author": "",
-      "pub_date": "Thu, 16 Jul 2026 00:00:00 +0000",
-      "url": "https://www2.ca3.uscourts.gov/opinarch/261422np.pdf",
-      "guid": "ca3-26-1422-261422np.pdf",
-      "precedential": false,
-      "origin": "USDC for the Eastern District of Pennsylvania"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "26-1132",
-      "caption": "Stephen Brown v. Delaware County Sheriffs Department",
-      "author": "",
-      "pub_date": "Thu, 16 Jul 2026 00:00:00 +0000",
-      "url": "https://www2.ca3.uscourts.gov/opinarch/261132np.pdf",
-      "guid": "ca3-26-1132-261132np.pdf",
-      "precedential": false,
-      "origin": "USDC for the Eastern District of Pennsylvania"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "25-3599",
-      "caption": "George Arsenis v. Blue Foundry Bancorp",
-      "author": "",
-      "pub_date": "Thu, 16 Jul 2026 00:00:00 +0000",
-      "url": "https://www2.ca3.uscourts.gov/opinarch/253599np.pdf",
-      "guid": "ca3-25-3599-253599np.pdf",
-      "precedential": false,
-      "origin": "USDC for the District of New Jersey"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "25-3314",
-      "caption": "Mia Graves v. Leanne Litwin",
-      "author": "",
-      "pub_date": "Thu, 16 Jul 2026 00:00:00 +0000",
-      "url": "https://www2.ca3.uscourts.gov/opinarch/253314np.pdf",
-      "guid": "ca3-25-3314-253314np.pdf",
-      "precedential": false,
-      "origin": "USDC for the Eastern District of Pennsylvania"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "25-2907",
-      "caption": "Anthony Dowell v. Laurel Harry",
-      "author": "",
-      "pub_date": "Thu, 16 Jul 2026 00:00:00 +0000",
-      "url": "https://www2.ca3.uscourts.gov/opinarch/252907np.pdf",
-      "guid": "ca3-25-2907-252907np.pdf",
-      "precedential": false,
-      "origin": "USDC for the Middle District of Pennsylvania"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "25-2598",
-      "caption": "ICON PSG 1 FL LLC v. Jenkins Court Realty CO LP",
-      "author": "",
-      "pub_date": "Thu, 16 Jul 2026 00:00:00 +0000",
-      "url": "https://www2.ca3.uscourts.gov/opinarch/252598np.pdf",
-      "guid": "ca3-25-2598-252598np.pdf",
-      "precedential": false,
-      "origin": "USDC for the Eastern District of Pennsylvania"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "24-2830",
-      "caption": "Hudson Hospital Opco LLC v. Cigna Health and Life Insurance Co",
-      "author": "",
-      "pub_date": "Thu, 16 Jul 2026 00:00:00 +0000",
-      "url": "https://www2.ca3.uscourts.gov/opinarch/242830np.pdf",
-      "guid": "ca3-24-2830-242830np.pdf",
-      "precedential": false,
-      "origin": "USDC for the District of New Jersey"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "26-2032",
-      "caption": "Deborah Roseboro v. DOJ",
-      "author": "",
-      "pub_date": "Wed, 15 Jul 2026 00:00:00 +0000",
-      "url": "https://www2.ca3.uscourts.gov/opinarch/262032np.pdf",
-      "guid": "ca3-26-2032-262032np.pdf",
-      "precedential": false,
-      "origin": "USDC for the Eastern District of Pennsylvania"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "25-2068",
-      "caption": "Faheem Tariq v. Attorney General United States of America",
-      "author": "",
-      "pub_date": "Wed, 15 Jul 2026 00:00:00 +0000",
-      "url": "https://www2.ca3.uscourts.gov/opinarch/252068np.pdf",
-      "guid": "ca3-25-2068-252068np.pdf",
-      "precedential": false,
-      "origin": "Agency"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "25-1096",
-      "caption": "USA v. Gordon Johnson",
-      "author": "",
-      "pub_date": "Wed, 15 Jul 2026 00:00:00 +0000",
-      "url": "https://www2.ca3.uscourts.gov/opinarch/251096np.pdf",
-      "guid": "ca3-25-1096-251096np.pdf",
-      "precedential": false,
-      "origin": "USDC for the Western District of Pennsylvania"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "24-1439",
-      "caption": "William Webb, Jr. v. Kirk Neal",
-      "author": "",
-      "pub_date": "Wed, 15 Jul 2026 00:00:00 +0000",
-      "url": "https://www2.ca3.uscourts.gov/opinarch/241439np.pdf",
-      "guid": "ca3-24-1439-241439np.pdf",
-      "precedential": false,
-      "origin": "USDC for the District of Delaware"
     }
   ]
 }
