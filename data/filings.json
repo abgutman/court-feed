@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-21T18:40:19.335885+00:00",
+  "generated": "2026-07-21T20:36:02.276999+00:00",
   "filings": [
     {
       "type": "filing",
@@ -18,6 +18,15 @@
       "status": "Active",
       "filing_date": "07/21/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=242 EAL 2026&dnh=eKgwZEayXX3%2FwGDRFCKmbA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "243 EAL 2026",
+      "caption": "Chan, V. v. Albert Einstein Medical Center, Pet.",
+      "status": "Active",
+      "filing_date": "07/21/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=243 EAL 2026&dnh=1H4XKD%2FpYTfBq%2Fl72WWqmA%3D%3D"
     },
     {
       "type": "filing",
@@ -117,6 +126,15 @@
       "status": "Active",
       "filing_date": "07/20/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=422 MAL 2026&dnh=yadspz%2FS9zWPcMFYb4NRiQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "424 MAL 2026",
+      "caption": "Commonwealth v. Westerfer, J., Pet.",
+      "status": "Active",
+      "filing_date": "07/21/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=424 MAL 2026&dnh=dj%2FsosMJa3hFTK%2FFyguPfg%3D%3D"
     },
     {
       "type": "filing",
@@ -969,7 +987,7 @@
       "court": "PA Superior Court",
       "docket": "2018 EDA 2026",
       "caption": "Moser, D. v. Manning, J.",
-      "status": "Active",
+      "status": "Closed",
       "filing_date": "07/21/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2018 EDA 2026&dnh=QWfbaSMt6yTf2Odyk01Chw%3D%3D"
     },
@@ -990,6 +1008,42 @@
       "status": "Active",
       "filing_date": "07/21/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2020 EDA 2026&dnh=4wDsp%2By7cQn6oji2RZqtSw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2021 EDA 2026",
+      "caption": "Chestlen Development v. Tutor Perini",
+      "status": "Active",
+      "filing_date": "07/21/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2021 EDA 2026&dnh=NsG7QC%2Bh3lBHF9%2BqmDDa5g%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2022 EDA 2026",
+      "caption": "Chestlen Development v. Tutor Perini",
+      "status": "Active",
+      "filing_date": "07/21/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2022 EDA 2026&dnh=g151NT3CxXAx06XsseZ3Bw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2023 EDA 2026",
+      "caption": "Fiorino, B. v. Fiorino, I.",
+      "status": "Active",
+      "filing_date": "07/21/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2023 EDA 2026&dnh=%2BdStMly0TZnIRiI7cVc4WQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2024 EDA 2026",
+      "caption": "Robbins Gulph v. Mayer, J.",
+      "status": "Active",
+      "filing_date": "07/21/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2024 EDA 2026&dnh=EhiH5HcBoCCv76xY%2FNQKmA%3D%3D"
     },
     {
       "type": "filing",
@@ -1400,7 +1454,7 @@
       "type": "filing",
       "court": "PA Commonwealth Court",
       "docket": "1006 CD 2026",
-      "caption": "Mullins, M. v. BPOA",
+      "caption": "Mullins, M. v. St Bd of Chiropractic",
       "status": "Active",
       "filing_date": "07/16/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1006 CD 2026&dnh=eqJAxXn8vD708bgOau6Hig%3D%3D"
@@ -1454,7 +1508,7 @@
       "type": "filing",
       "court": "PA Commonwealth Court",
       "docket": "1021 CD 2026",
-      "caption": "Kirby, E. v. PDAO (OOR)",
+      "caption": "Kirby, E. v. PDAO",
       "status": "Active",
       "filing_date": "07/17/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1021 CD 2026&dnh=Py8%2BQHG2everlJ33%2B0y65A%3D%3D"
