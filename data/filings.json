@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-21T20:36:02.276999+00:00",
+  "generated": "2026-07-21T22:12:03.825465+00:00",
   "filings": [
     {
       "type": "filing",
@@ -135,6 +135,15 @@
       "status": "Active",
       "filing_date": "07/21/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=424 MAL 2026&dnh=dj%2FsosMJa3hFTK%2FFyguPfg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "43 MAP 2026",
+      "caption": "Associated Builders et al. v. DGS et al., Aplts.",
+      "status": "Active",
+      "filing_date": "07/21/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=43 MAP 2026&dnh=KRnj8N8vL4tXvuDoRomuEQ%3D%3D"
     },
     {
       "type": "filing",
@@ -1702,7 +1711,7 @@
       "docket": "No. 105 MAP 2024",
       "caption": "Commonwealth v. Serrano-Delgado, L., Aplt.",
       "author": "Per Curiam",
-      "pub_date": "Tue, 21 Jul 2026 04:00:00 GMT",
+      "pub_date": "Tue, 21 Jul 2026 04:00:01 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Supreme/out/J-87-2025pco.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/J-87-2025pco.pdf"
     },
@@ -1712,7 +1721,7 @@
       "docket": "No. 105 MAP 2024",
       "caption": "Commonwealth v. Serrano-Delgado, L., Aplt.",
       "author": "Justice Sallie Mundy",
-      "pub_date": "Tue, 21 Jul 2026 04:00:00 GMT",
+      "pub_date": "Tue, 21 Jul 2026 04:00:02 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Supreme/out/J-87-2025edca.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/J-87-2025edca.pdf"
     },
@@ -1722,7 +1731,7 @@
       "docket": "No. 105 MAP 2024",
       "caption": "Commonwealth v. Serrano-Delgado, L., Aplt.",
       "author": "Justice P. Kevin Brobson",
-      "pub_date": "Tue, 21 Jul 2026 04:00:00 GMT",
+      "pub_date": "Tue, 21 Jul 2026 04:00:03 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Supreme/out/J-87-2025edca1.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/J-87-2025edca1.pdf"
     },
@@ -1731,18 +1740,8 @@
       "court": "PA Supreme Court",
       "docket": "No. 105 MAP 2024",
       "caption": "Commonwealth v. Serrano-Delgado, L., Aplt.",
-      "author": "Justice David Wecht",
-      "pub_date": "Tue, 21 Jul 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/J-87-2025edcr1.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/J-87-2025edcr1.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 105 MAP 2024",
-      "caption": "Commonwealth v. Serrano-Delgado, L., Aplt.",
       "author": "Justice Christine Donohue",
-      "pub_date": "Tue, 21 Jul 2026 04:00:00 GMT",
+      "pub_date": "Tue, 21 Jul 2026 04:00:05 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Supreme/out/J-87-2025edcr.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/J-87-2025edcr.pdf"
     },
@@ -1751,8 +1750,18 @@
       "court": "PA Supreme Court",
       "docket": "No. 105 MAP 2024",
       "caption": "Commonwealth v. Serrano-Delgado, L., Aplt.",
+      "author": "Justice David Wecht",
+      "pub_date": "Tue, 21 Jul 2026 04:00:06 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/J-87-2025edcr1.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/J-87-2025edcr1.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 105 MAP 2024",
+      "caption": "Commonwealth v. Serrano-Delgado, L., Aplt.",
       "author": "Justice Kevin Dougherty",
-      "pub_date": "Tue, 21 Jul 2026 04:00:00 GMT",
+      "pub_date": "Tue, 21 Jul 2026 04:00:04 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Supreme/out/J-87-2025edcvr.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/J-87-2025edcvr.pdf"
     },
