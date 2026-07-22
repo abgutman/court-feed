@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-22T14:21:01.206567+00:00",
+  "generated": "2026-07-22T16:44:47.351693+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -47,28 +47,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "07/22/2026 09:30AM",
-      "case_number": "25-cr-0305",
-      "caption": "USA v. HUNTER",
-      "judge": "DISTRICT JUDGE WEILHEIMER",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 7B",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640492"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/22/2026 09:45AM",
-      "case_number": "25-cr-0305",
-      "caption": "USA v. PINKNEY",
-      "judge": "DISTRICT JUDGE WEILHEIMER",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 7B",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640495"
-    },
-    {
-      "court": "EDPA",
       "datetime": "07/22/2026 10:00AM",
       "case_number": "26-cr-0017",
       "caption": "USA v. POLK",
@@ -77,28 +55,6 @@
       "courtroom": "Courtroom 10A",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648196"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/22/2026 10:00AM",
-      "case_number": "26-cr-0054",
-      "caption": "USA v. FUENTES",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649418"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/22/2026 11:30AM",
-      "case_number": "26-cv-3451",
-      "caption": "BHAGAT v. TD BANK, N.A.",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655073"
     },
     {
       "court": "EDPA",
@@ -201,6 +157,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "07/22/2026 02:30PM",
+      "case_number": "26-cv-4988",
+      "caption": "RAMOS v. CORTEVA, INC. et al",
+      "judge": "DISTRICT JUDGE MARSTON",
+      "city": "",
+      "courtroom": "Video Conference",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658140"
+    },
+    {
+      "court": "EDPA",
       "datetime": "07/22/2026 03:00PM",
       "case_number": "26-cv-5082",
       "caption": "Smith et al v. THE SCHOOL DIST",
@@ -253,17 +220,6 @@
       "courtroom": "Cahn 4B",
       "hearing_type": "Revocation Probation-Final Hrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?333378"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/23/2026 09:30AM",
-      "case_number": "25-cv-0866",
-      "caption": "ALLIED WORLD SURPLUS LINES INS",
-      "judge": "DISTRICT JUDGE KENNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11B",
-      "hearing_type": "Miscellaneous Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633587"
     },
     {
       "court": "EDPA",
@@ -697,11 +653,22 @@
     {
       "court": "EDPA",
       "datetime": "07/28/2026 10:00AM",
+      "case_number": "26-cr-0132",
+      "caption": "USA v. BOGATIN",
+      "judge": "DISTRICT JUDGE COSTELLO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 6A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651717"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/28/2026 10:00AM",
       "case_number": "25-cr-0438",
       "caption": "USA v. CULLEN",
       "judge": "DISTRICT JUDGE HODGE",
       "city": "Philadelphia",
-      "courtroom": "Courtroom 15A",
+      "courtroom": "Courtroom 17A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644156"
     },
@@ -770,17 +737,6 @@
       "courtroom": "Courtroom 12A",
       "hearing_type": "Show Cause Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658260"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/28/2026 11:00AM",
-      "case_number": "23-cr-0493",
-      "caption": "USA v. TALLEY",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12B",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616014"
     },
     {
       "court": "EDPA",
@@ -1023,6 +979,17 @@
       "courtroom": "Courtroom 15B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646932"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/29/2026 10:30AM",
+      "case_number": "21-cr-0188",
+      "caption": "USA v. YOUNG",
+      "judge": "DISTRICT JUDGE RUFE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12A",
+      "hearing_type": "Pretrial Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?584672"
     },
     {
       "court": "EDPA",
@@ -1474,6 +1441,17 @@
       "courtroom": "Reading 5th Floor",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650684"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/30/2026 02:00PM",
+      "case_number": "23-cr-0493",
+      "caption": "USA v. TALLEY",
+      "judge": "DISTRICT JUDGE WOLSON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12B",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616014"
     },
     {
       "court": "EDPA",

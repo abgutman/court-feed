@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-22T14:20:54.708042+00:00",
+  "generated": "2026-07-22T16:44:35.235277+00:00",
   "filings": [
     {
       "type": "filing",
@@ -153,6 +153,15 @@
       "status": "Active",
       "filing_date": "07/21/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=427 MAL 2026&dnh=%2FguXxJzKA0fBAZjgqkSC1w%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "428 MAL 2026",
+      "caption": "Freedom Foundation, Pet. v. PLRB",
+      "status": "Active",
+      "filing_date": "07/22/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=428 MAL 2026&dnh=11fGotmPaLVkUDbW5CvKjA%3D%3D"
     },
     {
       "type": "filing",
@@ -985,6 +994,51 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "2030 EDA 2026",
+      "caption": "Com. v. Dortch, T.",
+      "status": "Active",
+      "filing_date": "07/22/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2030 EDA 2026&dnh=xZ4u7f%2FkT%2BDnShDkHQdxog%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2031 EDA 2026",
+      "caption": "In the Int. of: T.R.M., Appeal of: R.M.M.",
+      "status": "Active",
+      "filing_date": "07/22/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2031 EDA 2026&dnh=O6ARlmqORS%2BgTUlBjCcSOw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2032 EDA 2026",
+      "caption": "In the Int. of: M.M.M., Appeal of: R.M.M.",
+      "status": "Active",
+      "filing_date": "07/22/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2032 EDA 2026&dnh=YgLU0SBekSCS9ewNV0Vd8A%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2033 EDA 2026",
+      "caption": "In Re: Estate of M. Kasper",
+      "status": "Active",
+      "filing_date": "07/22/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2033 EDA 2026&dnh=Y8N9VzDL8j6MD0CZXEtyGA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2034 EDA 2026",
+      "caption": "Henderson, J. v. Kardosh, J.",
+      "status": "Active",
+      "filing_date": "07/22/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2034 EDA 2026&dnh=PvlmtyC7FZxz05VLEjPR9A%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "1105 MDA 2026",
       "caption": "Miller, J. v. Foulds, V.",
       "status": "Active",
@@ -1121,7 +1175,7 @@
       "type": "filing",
       "court": "PA Superior Court",
       "docket": "1120 MDA 2026",
-      "caption": "In the Int. of: B.R., B.R., and S.R., all Minors",
+      "caption": "In the Int. of: B.R., B.R., and S.R., Minors",
       "status": "Active",
       "filing_date": "07/20/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1120 MDA 2026&dnh=3s0jOQh4kKXyfkIaOiEOUQ%3D%3D"
@@ -1148,10 +1202,37 @@
       "type": "filing",
       "court": "PA Superior Court",
       "docket": "1123 MDA 2026",
-      "caption": "Est. of Jeffrey K. Ferguson",
+      "caption": "Est. of: Jeffrey K. Ferguson",
       "status": "Active",
       "filing_date": "07/22/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1123 MDA 2026&dnh=THOHG0ElYge79K9t8g5ClA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1124 MDA 2026",
+      "caption": "Com. v. Williams, J., Sr.",
+      "status": "Active",
+      "filing_date": "07/22/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1124 MDA 2026&dnh=6XuV3skQbZejriknNKB4hg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1125 MDA 2026",
+      "caption": "Com. v. Norton, C., Jr.",
+      "status": "Active",
+      "filing_date": "07/22/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1125 MDA 2026&dnh=LPNgW%2Bx9UGv%2FQT6aOglApQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1126 MDA 2026",
+      "caption": "Com. v. Borcher, T.",
+      "status": "Active",
+      "filing_date": "07/22/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1126 MDA 2026&dnh=6D8zjvlHtPnl8uKlUzaXvg%3D%3D"
     },
     {
       "type": "filing",
@@ -1413,6 +1494,15 @@
       "status": "Active",
       "filing_date": "07/20/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=252 FR 2026&dnh=CG8WOdAK0eFHmg%2FpTcIcHw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "253 FR 2026",
+      "caption": "Vibra Healthcare v. Com. of Pa.",
+      "status": "Active",
+      "filing_date": "07/22/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=253 FR 2026&dnh=h%2BIv8pf%2ByZ3zRSQgePujiA%3D%3D"
     },
     {
       "type": "filing",
@@ -2829,6 +2919,30 @@
       "guid": "ca3-24-2415-242415p.pdf",
       "precedential": true,
       "origin": "USDC for the District of New Jersey"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-2870",
+      "caption": "Ervin Domingo-Felipe v. Attorney General United States of America",
+      "author": "",
+      "pub_date": "Wed, 22 Jul 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/252870np.pdf",
+      "guid": "ca3-25-2870-252870np.pdf",
+      "precedential": false,
+      "origin": "Agency"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-1595",
+      "caption": "Elodia Jimenez Diaz v. Attorney General United States of America",
+      "author": "",
+      "pub_date": "Wed, 22 Jul 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/251595np.pdf",
+      "guid": "ca3-25-1595-251595np.pdf",
+      "precedential": false,
+      "origin": "Agency"
     },
     {
       "type": "opinion",
