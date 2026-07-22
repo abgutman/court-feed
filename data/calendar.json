@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-22T09:38:10.817001+00:00",
+  "generated": "2026-07-22T12:03:46.674560+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -333,17 +333,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "07/23/2026 10:00AM",
-      "case_number": "22-cv-3154",
-      "caption": "WALKER v. SOUTHEASTERN PENNSYL",
-      "judge": "DISTRICT JUDGE YOUNGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?599588"
-    },
-    {
-      "court": "EDPA",
       "datetime": "07/23/2026 11:00AM",
       "case_number": "24-cv-4221",
       "caption": "DUNDON v. ACE PROPERTY AND CAS",
@@ -550,28 +539,6 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Final Pretrial Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637996"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/27/2026 09:30AM",
-      "case_number": "22-cv-3154",
-      "caption": "WALKER v. SOUTHEASTERN PENNSYL",
-      "judge": "DISTRICT JUDGE YOUNGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15B",
-      "hearing_type": "Jury Selection",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?599588"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/27/2026 09:30AM",
-      "case_number": "22-cv-3154",
-      "caption": "WALKER v. SOUTHEASTERN PENNSYL",
-      "judge": "DISTRICT JUDGE YOUNGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15B",
-      "hearing_type": "Trial Date",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?599588"
     },
     {
       "court": "EDPA",
