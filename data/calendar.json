@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-22T16:44:47.351693+00:00",
+  "generated": "2026-07-22T18:22:03.176830+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -44,17 +44,6 @@
       "courtroom": "COURTROOM",
       "hearing_type": "Trial Date",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631382"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/22/2026 10:00AM",
-      "case_number": "26-cr-0017",
-      "caption": "USA v. POLK",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10A",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648196"
     },
     {
       "court": "EDPA",
@@ -432,17 +421,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "07/27/2026 09:00AM",
-      "case_number": "26-cr-0017",
-      "caption": "USA v. POLK",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648196"
-    },
-    {
-      "court": "EDPA",
       "datetime": "07/27/2026 09:30AM",
       "case_number": "25-cr-0371",
       "caption": "USA v. BLOW",
@@ -792,6 +770,17 @@
       "courtroom": "Courtroom 3A",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651995"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/28/2026 02:00PM",
+      "case_number": "26-cv-4395",
+      "caption": "VILLAFUERTE v. MULLIN et al",
+      "judge": "DISTRICT JUDGE HODGE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 17A",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656977"
     },
     {
       "court": "EDPA",
