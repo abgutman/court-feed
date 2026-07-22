@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-22T20:20:56.459074+00:00",
+  "generated": "2026-07-22T22:16:06.824710+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -99,28 +99,6 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645296"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/22/2026 02:00PM",
-      "case_number": "26-cr-0029",
-      "caption": "USA v. GARDNER",
-      "judge": "DISTRICT JUDGE LEESON",
-      "city": "Allentown",
-      "courtroom": "Cahn 3C",
-      "hearing_type": "Bond Revocation Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648529"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/22/2026 02:00PM",
-      "case_number": "26-cv-0489",
-      "caption": "MORGENTHALER v. CAGLIOTI",
-      "judge": "DISTRICT JUDGE PAPPERT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648933"
     },
     {
       "court": "EDPA",
@@ -432,6 +410,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "07/27/2026 10:00AM",
+      "case_number": "26-cv-5061",
+      "caption": "ZUBAREV v. JAMISON et al",
+      "judge": "DISTRICT JUDGE WOLSON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658261"
+    },
+    {
+      "court": "EDPA",
       "datetime": "07/27/2026 10:30AM",
       "case_number": "16-md-2724",
       "caption": "IN RE: GENERIC PHARMACEUTICALS",
@@ -557,8 +546,8 @@
       "case_number": "25-cr-0141",
       "caption": "USA v. WARREN",
       "judge": "DISTRICT JUDGE WOLSON",
-      "city": "",
-      "courtroom": "unlisted",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635924"
     },
