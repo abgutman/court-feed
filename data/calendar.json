@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-22T18:22:03.176830+00:00",
+  "generated": "2026-07-22T20:20:56.459074+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -44,17 +44,6 @@
       "courtroom": "COURTROOM",
       "hearing_type": "Trial Date",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631382"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/22/2026 11:30AM",
-      "case_number": "26-cv-1706",
-      "caption": "RHYDDERCH v. NESHAMINY SCHOOL",
-      "judge": "DISTRICT JUDGE MCHUGH",
-      "city": "Philadelphia",
-      "courtroom": "Judge's Chambers",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651339"
     },
     {
       "court": "EDPA",
@@ -135,17 +124,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "07/22/2026 02:00PM",
-      "case_number": "25-cr-0533",
-      "caption": "USA v. OWENS",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12B",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647597"
-    },
-    {
-      "court": "EDPA",
       "datetime": "07/22/2026 02:30PM",
       "case_number": "26-cv-4988",
       "caption": "RAMOS v. CORTEVA, INC. et al",
@@ -154,17 +132,6 @@
       "courtroom": "Video Conference",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658140"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/22/2026 03:00PM",
-      "case_number": "26-cv-5082",
-      "caption": "Smith et al v. THE SCHOOL DIST",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "",
-      "courtroom": "unlisted",
-      "hearing_type": "Telephone Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658319"
     },
     {
       "court": "EDPA",
@@ -275,6 +242,17 @@
       "courtroom": "Courtroom 13B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633971"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/23/2026 10:00AM",
+      "case_number": "26-cv-5082",
+      "caption": "Smith et al v. THE SCHOOL DIST",
+      "judge": "DISTRICT JUDGE WOLSON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658319"
     },
     {
       "court": "EDPA",
@@ -620,17 +598,6 @@
     {
       "court": "EDPA",
       "datetime": "07/28/2026 10:00AM",
-      "case_number": "26-cv-4231",
-      "caption": "CITIZENS SECURITIES, INC. v. V",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "",
-      "courtroom": "Video Conference",
-      "hearing_type": "Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656633"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/28/2026 10:00AM",
       "case_number": "26-cr-0132",
       "caption": "USA v. BOGATIN",
       "judge": "DISTRICT JUDGE COSTELLO",
@@ -792,6 +759,17 @@
       "courtroom": "Courtroom 16B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645862"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/28/2026 02:00PM",
+      "case_number": "26-cr-0144",
+      "caption": "USA v. GRIFFIN",
+      "judge": "DISTRICT JUDGE SAVAGE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 9A",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651988"
     },
     {
       "court": "EDPA",
@@ -1397,17 +1375,6 @@
       "courtroom": "Courtroom 14A",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635504"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/30/2026 02:00PM",
-      "case_number": "24-cv-1508",
-      "caption": "BARK U, LLC v. TERWISSCHA CONS",
-      "judge": "DISTRICT JUDGE COSTELLO",
-      "city": "Philadelphia",
-      "courtroom": "Judge's Chambers",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621012"
     },
     {
       "court": "EDPA",
@@ -2713,6 +2680,378 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "19-ARGUMENT-2026-2",
+      "judges": ""
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/18/2026",
+      "docket_number": "516 MDA 2026",
+      "journal_number": "J-A20001-26",
+      "caption": "In the Int. of: O.O., a Minor",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "20-ARGUMENT-2026-2",
+      "judges": ""
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/18/2026",
+      "docket_number": "519 MDA 2026",
+      "journal_number": "J-A20001-26",
+      "caption": "In the Int of: C.A., a Minor",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "20-ARGUMENT-2026-2",
+      "judges": ""
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/18/2026",
+      "docket_number": "201 MDA 2026",
+      "journal_number": "J-A20002-26",
+      "caption": "In Re: Adopt. of: K.J.N.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "20-ARGUMENT-2026-2",
+      "judges": ""
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/18/2026",
+      "docket_number": "202 MDA 2026",
+      "journal_number": "J-A20002-26",
+      "caption": "In Re: Adopt. of: L.L.N.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "20-ARGUMENT-2026-2",
+      "judges": ""
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/18/2026",
+      "docket_number": "203 MDA 2026",
+      "journal_number": "J-A20002-26",
+      "caption": "In Re: Adopt. of: N.R.N.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "20-ARGUMENT-2026-2",
+      "judges": ""
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/18/2026",
+      "docket_number": "87 MDA 2026",
+      "journal_number": "J-A20003-26",
+      "caption": "Com. v. Wandja, M.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "20-ARGUMENT-2026-2",
+      "judges": ""
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/18/2026",
+      "docket_number": "127 MDA 2026",
+      "journal_number": "J-A20004-26",
+      "caption": "Com. v. Barbagallo, D.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "20-ARGUMENT-2026-2",
+      "judges": ""
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/18/2026",
+      "docket_number": "1732 MDA 2025",
+      "journal_number": "J-A20005-26",
+      "caption": "Com. v. Roberts, M., R.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "20-ARGUMENT-2026-2",
+      "judges": ""
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/18/2026",
+      "docket_number": "1472 MDA 2025",
+      "journal_number": "J-A20006-26",
+      "caption": "Com. v. Dibert, J.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "20-ARGUMENT-2026-2",
+      "judges": ""
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/18/2026",
+      "docket_number": "99 MDA 2026",
+      "journal_number": "J-A20007-26",
+      "caption": "Morris, C. v. Morris, J.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "20-ARGUMENT-2026-2",
+      "judges": ""
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/18/2026",
+      "docket_number": "1603 MDA 2025",
+      "journal_number": "J-A20008-26",
+      "caption": "Hinton-Hardison, L. v. Kohl's Inc.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "20-ARGUMENT-2026-2",
+      "judges": ""
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/18/2026",
+      "docket_number": "1540 MDA 2025",
+      "journal_number": "J-A20009-26",
+      "caption": "J.J.W., a Minor v. Suppiah, R.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "20-ARGUMENT-2026-2",
+      "judges": ""
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/18/2026",
+      "docket_number": "1539 MDA 2025",
+      "journal_number": "J-A20009-26",
+      "caption": "J.J.W., a Minor v. Suppiah, R.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "20-ARGUMENT-2026-2",
+      "judges": ""
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/18/2026",
+      "docket_number": "1565 MDA 2025",
+      "journal_number": "J-A20009-26",
+      "caption": "J.J.W., a Minor v. Suppiah, R.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "20-ARGUMENT-2026-2",
+      "judges": ""
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/18/2026",
+      "docket_number": "1580 MDA 2025",
+      "journal_number": "J-A20009-26",
+      "caption": "J.J.W., a Minor v. Suppiah, R.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "20-ARGUMENT-2026-2",
+      "judges": ""
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/18/2026",
+      "docket_number": "1510 MDA 2025",
+      "journal_number": "J-A20016-26",
+      "caption": "Com. v. Bennetch, S.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "20-ARGUMENT-2026-2",
+      "judges": ""
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/18/2026",
+      "docket_number": "10 MDA 2026",
+      "journal_number": "J-A20017-26",
+      "caption": "BJ's Wholesale Club, Inc. v. Pacifica Mech.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "20-ARGUMENT-2026-2",
+      "judges": ""
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/18/2026",
+      "docket_number": "1028 MDA 2025",
+      "journal_number": "J-A20018-26",
+      "caption": "Com. v. Velez Vega, J.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "20-ARGUMENT-2026-2",
+      "judges": ""
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/19/2026",
+      "docket_number": "656 MDA 2026",
+      "journal_number": "J-A20027-26",
+      "caption": "In Re: Adopt. of: N.R.N.-W., a Minor",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "20-ARGUMENT-2026-2",
+      "judges": ""
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/19/2026",
+      "docket_number": "1385 MDA 2025",
+      "journal_number": "J-A20028-26",
+      "caption": "Com. v. Snyder, M.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "20-ARGUMENT-2026-2",
+      "judges": ""
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/19/2026",
+      "docket_number": "134 MDA 2026",
+      "journal_number": "J-A20029-26",
+      "caption": "Com. v. Raleigh, K.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "20-ARGUMENT-2026-2",
+      "judges": ""
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/19/2026",
+      "docket_number": "135 MDA 2026",
+      "journal_number": "J-A20029-26",
+      "caption": "Com. v. Raleigh, K.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "20-ARGUMENT-2026-2",
+      "judges": ""
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/19/2026",
+      "docket_number": "1197 MDA 2025",
+      "journal_number": "J-A20030-26",
+      "caption": "Com. v. Shields, D.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "20-ARGUMENT-2026-2",
+      "judges": ""
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/19/2026",
+      "docket_number": "194 MDA 2026",
+      "journal_number": "J-A20031-26",
+      "caption": "Deux Amis, LLC, v. Ketterline Inc.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "20-ARGUMENT-2026-2",
+      "judges": ""
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/19/2026",
+      "docket_number": "1096 MDA 2025",
+      "journal_number": "J-A20032-26",
+      "caption": "Com. v. Roman, J., Jr.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "20-ARGUMENT-2026-2",
+      "judges": ""
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/19/2026",
+      "docket_number": "423 MDA 2026",
+      "journal_number": "J-A20033-26",
+      "caption": "Anima, S. v. Watkins, K.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "20-ARGUMENT-2026-2",
+      "judges": ""
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/19/2026",
+      "docket_number": "161 MDA 2026",
+      "journal_number": "J-A20034-26",
+      "caption": "Com. v. Gual, E.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "20-ARGUMENT-2026-2",
+      "judges": ""
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/19/2026",
+      "docket_number": "1216 MDA 2025",
+      "journal_number": "J-A20035-26",
+      "caption": "Com. v. Biser, J.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "20-ARGUMENT-2026-2",
+      "judges": ""
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/19/2026",
+      "docket_number": "841 MDA 2025",
+      "journal_number": "J-A20036-26",
+      "caption": "Com. v. Spangler, R.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "20-ARGUMENT-2026-2",
+      "judges": ""
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/19/2026",
+      "docket_number": "1605 MDA 2025",
+      "journal_number": "J-A20037-26",
+      "caption": "Com. v. Sims, R.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "20-ARGUMENT-2026-2",
+      "judges": ""
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "08/19/2026",
+      "docket_number": "1683 MDA 2025",
+      "journal_number": "J-A20038-26",
+      "caption": "Erie Ins. Exchange v. Cardinale, L. & N.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "20-ARGUMENT-2026-2",
       "judges": ""
     },
     {
