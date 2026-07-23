@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-23T20:20:18.304107+00:00",
+  "generated": "2026-07-23T22:14:07.881007+00:00",
   "filings": [
     {
       "type": "filing",
@@ -238,6 +238,15 @@
     {
       "type": "filing",
       "court": "PA Supreme Court",
+      "docket": "155 MM 2026",
+      "caption": "Associated Builders, et al. v. DGS, et al., Pets.",
+      "status": "Active",
+      "filing_date": "07/23/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=155 MM 2026&dnh=ooE4mrLvYsz125Q8ddVCUg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
       "docket": "194 WAL 2026",
       "caption": "Misingwa v. Board of Commissioners, et al., Pet of: Blackhawk, et al.",
       "status": "Active",
@@ -333,6 +342,42 @@
       "status": "Active",
       "filing_date": "07/20/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=204 WAL 2026&dnh=1kRROpZ2yCnl%2B%2FEcyiEWWw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "206 WAL 2026",
+      "caption": "Commonwealth v. Green, M., Pet.",
+      "status": "Active",
+      "filing_date": "07/23/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=206 WAL 2026&dnh=lzIm24zar92wl%2FHi31Ev5A%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "207 WAL 2026",
+      "caption": "Commonwealth v. Green, M., Pet.",
+      "status": "Active",
+      "filing_date": "07/23/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=207 WAL 2026&dnh=yLpL4lUThzYYOZiRp8lljg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "208 WAL 2026",
+      "caption": "Commonwealth v. Green, M., Pet.",
+      "status": "Active",
+      "filing_date": "07/23/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=208 WAL 2026&dnh=T5VXZJWaS7MRCNuZbna84g%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "209 WAL 2026",
+      "caption": "Commonwealth v. Green, M., Pet.",
+      "status": "Active",
+      "filing_date": "07/23/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=209 WAL 2026&dnh=gm7DKkJ3iWAaSt5twbNV1A%3D%3D"
     },
     {
       "type": "filing",
@@ -1884,6 +1929,16 @@
     }
   ],
   "opinions": [
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 83 WM 2025",
+      "caption": "Tolbert-McGhee, D., Pet. v. Mark R. Brothers",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 23 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/83WM2025 - 106863919367524928.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/83WM2025 - 106863919367524928.pdf"
+    },
     {
       "type": "opinion",
       "court": "PA Supreme Court",
