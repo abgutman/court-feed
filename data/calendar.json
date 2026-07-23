@@ -1,17 +1,6 @@
 {
-  "generated": "2026-07-23T16:45:05.573959+00:00",
+  "generated": "2026-07-23T18:23:19.355650+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "07/23/2026 09:00AM",
-      "case_number": "24-cv-0367",
-      "caption": "MONTGOMERY v. BOBST MEX SA et",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3G",
-      "hearing_type": "Final Pretrial Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618201"
-    },
     {
       "court": "EDPA",
       "datetime": "07/23/2026 09:00AM",
@@ -88,28 +77,6 @@
       "courtroom": "Courtroom 13B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633971"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/23/2026 10:00AM",
-      "case_number": "26-cv-5082",
-      "caption": "Smith et al v. THE SCHOOL DIST",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658319"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/23/2026 12:00PM",
-      "case_number": "19-cr-0015",
-      "caption": "USA v. TUCKER",
-      "judge": "DISTRICT JUDGE PAPPERT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11A",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?551742"
     },
     {
       "court": "EDPA",
@@ -396,17 +363,6 @@
       "courtroom": "Courtroom 12B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635924"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/28/2026 09:30AM",
-      "case_number": "25-cv-2075",
-      "caption": "MENDEZ REYES et al v. ROSS DRE",
-      "judge": "DISTRICT JUDGE LEESON",
-      "city": "Allentown",
-      "courtroom": "Cahn 4B",
-      "hearing_type": "Arbitration Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636641"
     },
     {
       "court": "EDPA",
@@ -1100,6 +1056,17 @@
       "courtroom": "Courtroom 14A",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635504"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/30/2026 01:30PM",
+      "case_number": "24-cr-0376",
+      "caption": "USA v. REDMOND",
+      "judge": "DISTRICT JUDGE SCHMEHL",
+      "city": "Reading",
+      "courtroom": "Reading 5th Floor",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628840"
     },
     {
       "court": "EDPA",
@@ -2104,18 +2071,6 @@
       "docket_number": "166 WDA 2026",
       "journal_number": "J-A18034-26",
       "caption": "Monborne, L. v. Smith, J.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "18-ARGUMENT-2026-2",
-      "judges": "KING ; LANE , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "08/05/2026",
-      "docket_number": "100 WDA 2026",
-      "journal_number": "J-A18035-26",
-      "caption": "Hook, P. v. Lamar Prospect Trust",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "",
       "city": "",
