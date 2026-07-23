@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-23T12:03:08.425803+00:00",
+  "generated": "2026-07-23T14:30:12.430196+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -63,17 +63,6 @@
       "caption": "USA v. JASON",
       "judge": "DISTRICT JUDGE HODGE",
       "city": "Philadelphia",
-      "courtroom": "Courtroom 15A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628478"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/23/2026 10:00AM",
-      "case_number": "24-cr-0358",
-      "caption": "USA v. JASON",
-      "judge": "DISTRICT JUDGE HODGE",
-      "city": "Philadelphia",
       "courtroom": "Courtroom 17A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628478"
@@ -113,17 +102,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "07/23/2026 11:00AM",
-      "case_number": "24-cv-4221",
-      "caption": "DUNDON v. ACE PROPERTY AND CAS",
-      "judge": "DISTRICT JUDGE KENNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11B",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626219"
-    },
-    {
-      "court": "EDPA",
       "datetime": "07/23/2026 12:00PM",
       "case_number": "19-cr-0015",
       "caption": "USA v. TUCKER",
@@ -154,17 +132,6 @@
       "courtroom": "Courtroom 17A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631980"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/23/2026 02:00PM",
-      "case_number": "21-cr-0208",
-      "caption": "USA v. COLON",
-      "judge": "DISTRICT JUDGE KENNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11B",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?585148"
     },
     {
       "court": "EDPA",
@@ -553,17 +520,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "07/28/2026 11:30AM",
-      "case_number": "25-cv-6240",
-      "caption": "TRUSTEES OF THE NATIONAL ELEVA",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Show Cause Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645721"
-    },
-    {
-      "court": "EDPA",
       "datetime": "07/28/2026 12:00PM",
       "case_number": "19-cv-4006",
       "caption": "CHIJIOKE-UCHE v. EQUIFAX INFOR",
@@ -774,17 +730,6 @@
     {
       "court": "EDPA",
       "datetime": "07/29/2026 10:00AM",
-      "case_number": "25-cr-0522",
-      "caption": "USA v. SATCHEL",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647225"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/29/2026 10:00AM",
       "case_number": "25-cr-0512",
       "caption": "USA v. CAMPBELL",
       "judge": "DISTRICT JUDGE YOUNGE",
@@ -939,28 +884,6 @@
     {
       "court": "EDPA",
       "datetime": "07/29/2026 01:30PM",
-      "case_number": "17-cr-0072",
-      "caption": "USA v. DAWKINS",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?526742"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/29/2026 01:30PM",
-      "case_number": "17-cr-0071",
-      "caption": "USA v. DAWKINS",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?526772"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/29/2026 01:30PM",
       "case_number": "22-cr-0342",
       "caption": "USA v. EDWARDS",
       "judge": "DISTRICT JUDGE MCHUGH",
@@ -1045,17 +968,6 @@
       "courtroom": "Courtroom 9A",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651988"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/30/2026 09:30AM",
-      "case_number": "25-cv-3558",
-      "caption": "Gonzalez et al v. Wal-Mart Sto",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5D",
-      "hearing_type": "Arbitration Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640324"
     },
     {
       "court": "EDPA",
@@ -1408,6 +1320,17 @@
       "courtroom": "Courtroom TBD",
       "hearing_type": "Jury Selection",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648529"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/03/2026 09:00AM",
+      "case_number": "25-cr-0331",
+      "caption": "USA v. SOLTANI",
+      "judge": "DISTRICT JUDGE SANCHEZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14B",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641585"
     },
     {
       "court": "EDPA",
