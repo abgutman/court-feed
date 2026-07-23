@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-23T14:30:12.430196+00:00",
+  "generated": "2026-07-23T16:45:05.573959+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -349,7 +349,7 @@
       "caption": "USA v. PARRIS",
       "judge": "DISTRICT JUDGE HENRY",
       "city": "Philadelphia",
-      "courtroom": "Philadelphia",
+      "courtroom": "Courtroom 8A",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?541262"
     },
@@ -382,7 +382,7 @@
       "caption": "USA v. RESTO-BERRIOS",
       "judge": "DISTRICT JUDGE HENRY",
       "city": "Philadelphia",
-      "courtroom": "Philadelphia",
+      "courtroom": "Courtroom 8A",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645278"
     },
@@ -418,17 +418,6 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632182"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/28/2026 09:30AM",
-      "case_number": "25-cr-0084",
-      "caption": "USA v. TYLER",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634657"
     },
     {
       "court": "EDPA",
@@ -630,17 +619,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "07/29/2026 09:30AM",
-      "case_number": "25-cr-0084",
-      "caption": "USA v. TYLER",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634657"
-    },
-    {
-      "court": "EDPA",
       "datetime": "07/29/2026 10:00AM",
       "case_number": "20-cr-0083",
       "caption": "USA v. HUTTON",
@@ -726,39 +704,6 @@
       "courtroom": "Reading 5th Floor",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627335"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/29/2026 10:00AM",
-      "case_number": "25-cr-0512",
-      "caption": "USA v. CAMPBELL",
-      "judge": "DISTRICT JUDGE YOUNGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646930"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/29/2026 10:00AM",
-      "case_number": "25-cr-0512",
-      "caption": "USA v. TRICE",
-      "judge": "DISTRICT JUDGE YOUNGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646931"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/29/2026 10:00AM",
-      "case_number": "25-cr-0512",
-      "caption": "USA v. MILBOURNE-WINTERS",
-      "judge": "DISTRICT JUDGE YOUNGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646932"
     },
     {
       "court": "EDPA",
@@ -971,17 +916,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "07/30/2026 09:30AM",
-      "case_number": "25-cr-0084",
-      "caption": "USA v. TYLER",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634657"
-    },
-    {
-      "court": "EDPA",
       "datetime": "07/30/2026 10:00AM",
       "case_number": "24-cv-1001",
       "caption": "SPARACINO v. WIDENER UNIVERSIT",
@@ -1144,6 +1078,17 @@
       "courtroom": "Courtroom 15B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645327"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/30/2026 01:30PM",
+      "case_number": "26-cr-0319",
+      "caption": "USA v. SACKO",
+      "judge": "MAGISTRATE JUDGE CARLOS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658308"
     },
     {
       "court": "EDPA",
@@ -1434,17 +1379,6 @@
     {
       "court": "EDPA",
       "datetime": "08/03/2026 10:00AM",
-      "case_number": "17-cv-0570",
-      "caption": "LAUREL GARDENS, LLC et al v. M",
-      "judge": "MAGISTRATE JUDGE STRAW",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3G",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?526696"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/03/2026 10:00AM",
       "case_number": "17-cr-0553",
       "caption": "USA v. ROSARIO",
       "judge": "DISTRICT JUDGE WOLSON",
@@ -1474,39 +1408,6 @@
       "courtroom": "Courtroom 8B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651923"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/03/2026 11:00AM",
-      "case_number": "07-cr-0663",
-      "caption": "USA v. MILLER",
-      "judge": "DISTRICT JUDGE PADOVA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 17B",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?240766"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/03/2026 11:00AM",
-      "case_number": "10-cr-0663",
-      "caption": "USA v. MILLER",
-      "judge": "DISTRICT JUDGE PADOVA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 17B",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?394227"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/03/2026 11:30AM",
-      "case_number": "25-cr-0396",
-      "caption": "USA v. TAYLOR",
-      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 8B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643216"
     },
     {
       "court": "EDPA",
