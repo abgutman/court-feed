@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-23T09:35:45.952269+00:00",
+  "generated": "2026-07-23T12:02:55.717674+00:00",
   "filings": [
     {
       "type": "filing",
@@ -949,6 +949,24 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "2043 EDA 2026",
+      "caption": "Com. v. Maldonado, A.",
+      "status": "Active",
+      "filing_date": "07/23/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2043 EDA 2026&dnh=EkRjUnio%2BeTFK5PJ%2F3DlSw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "122 EDM 2026",
+      "caption": "Wolbransky, J. v. Howard, S.",
+      "status": "Active",
+      "filing_date": "07/22/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=122 EDM 2026&dnh=CdF3YMiISJikGZkpH9Tkew%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "1109 MDA 2026",
       "caption": "Com. v. Majok, M.",
       "status": "Active",
@@ -1557,6 +1575,16 @@
       "court": "PA Supreme Court",
       "docket": "No. 105 MAP 2024",
       "caption": "Commonwealth v. Serrano-Delgado, L., Aplt.",
+      "author": "Justice Kevin Dougherty",
+      "pub_date": "Tue, 21 Jul 2026 04:00:04 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/J-87-2025edcvr.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/J-87-2025edcvr.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 105 MAP 2024",
+      "caption": "Commonwealth v. Serrano-Delgado, L., Aplt.",
       "author": "Justice Sallie Mundy",
       "pub_date": "Tue, 21 Jul 2026 04:00:02 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Supreme/out/J-87-2025edca.pdf",
@@ -1591,16 +1619,6 @@
       "pub_date": "Tue, 21 Jul 2026 04:00:06 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Supreme/out/J-87-2025edcr1.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/J-87-2025edcr1.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 105 MAP 2024",
-      "caption": "Commonwealth v. Serrano-Delgado, L., Aplt.",
-      "author": "Justice Kevin Dougherty",
-      "pub_date": "Tue, 21 Jul 2026 04:00:04 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/J-87-2025edcvr.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/J-87-2025edcvr.pdf"
     },
     {
       "type": "opinion",
