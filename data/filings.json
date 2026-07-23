@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-23T18:23:08.278413+00:00",
+  "generated": "2026-07-23T20:20:18.304107+00:00",
   "filings": [
     {
       "type": "filing",
@@ -27,6 +27,33 @@
       "status": "Active",
       "filing_date": "07/21/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=243 EAL 2026&dnh=1H4XKD%2FpYTfBq%2Fl72WWqmA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "244 EAL 2026",
+      "caption": "Commonwealth v. Harding, J., Pet.",
+      "status": "Active",
+      "filing_date": "07/20/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=244 EAL 2026&dnh=chkSfwAUJi3ft%2Be181xEGQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "245 EAL 2026",
+      "caption": "Commonwealth v. Washington, B., Pet.",
+      "status": "Active",
+      "filing_date": "07/23/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=245 EAL 2026&dnh=S32bf%2F%2B4Agkm04Ragnox5Q%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "246 EAL 2026",
+      "caption": "Commonwealth v. Washington, B., Pet.",
+      "status": "Active",
+      "filing_date": "07/23/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=246 EAL 2026&dnh=Zwv2Pjr7xGAEYCqkv5T3KQ%3D%3D"
     },
     {
       "type": "filing",
@@ -171,6 +198,15 @@
       "status": "Active",
       "filing_date": "07/21/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=433 MAL 2026&dnh=OqLUlRu7eOKqa3e2RHcY2g%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "434 MAL 2026",
+      "caption": "Commonwealth, Pet. v. Shevlin, P.",
+      "status": "Active",
+      "filing_date": "07/23/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=434 MAL 2026&dnh=YbghMEIxdqYM%2FmcmNYh%2FIg%3D%3D"
     },
     {
       "type": "filing",
@@ -1147,6 +1183,42 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "2062 EDA 2026",
+      "caption": "Com. v. Goode, A.",
+      "status": "Active",
+      "filing_date": "07/23/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2062 EDA 2026&dnh=lnYRqZ95DMwTC7XYlUTPYg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2063 EDA 2026",
+      "caption": "Rivera, Y. v. Dorado, R.",
+      "status": "Active",
+      "filing_date": "07/23/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2063 EDA 2026&dnh=tMVEq1MDz0f2mohQTzj%2FsA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2064 EDA 2026",
+      "caption": "Goldstein, M. v. Giltin, A.",
+      "status": "Active",
+      "filing_date": "07/23/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2064 EDA 2026&dnh=arAku9PB2H5i4I%2BDASz69A%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2065 EDA 2026",
+      "caption": "Starr, C. v. Lowe's",
+      "status": "Active",
+      "filing_date": "07/23/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2065 EDA 2026&dnh=Ngrk4prXiVRPEo4kdW4pXQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "122 EDM 2026",
       "caption": "Wolbransky, J. v. Howard, S.",
       "status": "Active",
@@ -1560,6 +1632,15 @@
     },
     {
       "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "83 WDM 2026",
+      "caption": "McGuire, P. v. Sittler, K.",
+      "status": "Active",
+      "filing_date": "07/23/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=83 WDM 2026&dnh=Nedwh0ZTh7NC4MiEdGoSKA%3D%3D"
+    },
+    {
+      "type": "filing",
       "court": "PA Commonwealth Court",
       "docket": "1021 CD 2026",
       "caption": "Kirby, E. v. PDAO",
@@ -1803,6 +1884,76 @@
     }
   ],
   "opinions": [
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 58 EM 2026",
+      "caption": "Thurmond, S., Pet. v. Deutsche Bank National Trust",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 23 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/58EM2026 - 106862800367411656.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/58EM2026 - 106862800367411656.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 55 EM 2026",
+      "caption": "In re: Pet. of: Novakhova, G.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 23 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/55EM2026 - 106863419367483173.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/55EM2026 - 106863419367483173.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 15 WAP 2026",
+      "caption": "Arnold, M., Aplt. v. Hon. McMahon, et al.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 23 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/15WAP2026pco - 106862632367387918.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/15WAP2026pco - 106862632367387918.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 35 MAP 2026",
+      "caption": "Commonwealth v. Acevedo, C., Aplt.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 23 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/35MAP2026pco - 106862817367427844.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/35MAP2026pco - 106862817367427844.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 6 MAP 2026",
+      "caption": "McCarthy and Company, Aplt. v. Pollen, C., et al.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 23 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/6MAP2026pco - 106862774367473201.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/6MAP2026pco - 106862774367473201.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 5 MAP 2026",
+      "caption": "McCarthy and Company, Aplt. v. Pollen, C., et al.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 23 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/5MAP2026pco - 106862773367472597.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/5MAP2026pco - 106862773367472597.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 639 MAL 2025",
+      "caption": "Commonwealth v. Green, L., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 23 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/639MAL2025 - 106862676367393271.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/639MAL2025 - 106862676367393271.pdf"
+    },
     {
       "type": "opinion",
       "court": "PA Supreme Court",
@@ -3178,6 +3329,18 @@
       "pub_date": "Thu, 23 Jul 2026 00:00:00 +0000",
       "url": "https://www2.ca3.uscourts.gov/opinarch/261219np.pdf",
       "guid": "ca3-26-1219-261219np.pdf",
+      "precedential": false,
+      "origin": "USDC for the District of New Jersey"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-2737",
+      "caption": "Alemah  McMillian v. Geico Indemnity Co",
+      "author": "",
+      "pub_date": "Thu, 23 Jul 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/252737np.pdf",
+      "guid": "ca3-25-2737-252737np.pdf",
       "precedential": false,
       "origin": "USDC for the District of New Jersey"
     },

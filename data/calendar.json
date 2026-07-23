@@ -1,17 +1,6 @@
 {
-  "generated": "2026-07-23T18:23:19.355650+00:00",
+  "generated": "2026-07-23T20:20:31.492214+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "07/23/2026 09:00AM",
-      "case_number": "25-cr-0077",
-      "caption": "USA v. GARCIA-NUNEZ",
-      "judge": "DISTRICT JUDGE KEARNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634354"
-    },
     {
       "court": "EDPA",
       "datetime": "07/23/2026 09:30AM",
@@ -59,17 +48,6 @@
     {
       "court": "EDPA",
       "datetime": "07/23/2026 10:00AM",
-      "case_number": "25-cr-0472",
-      "caption": "USA v. TUGGLES",
-      "judge": "DISTRICT JUDGE MCHUGH",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645650"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/23/2026 10:00AM",
       "case_number": "25-cr-0066",
       "caption": "USA v. LAKE",
       "judge": "DISTRICT JUDGE SCOTT",
@@ -99,17 +77,6 @@
       "courtroom": "Courtroom 17A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631980"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/23/2026 02:00PM",
-      "case_number": "26-cv-4270",
-      "caption": "HUANG v. SHENZHEN QIDIAN EXPER",
-      "judge": "DISTRICT JUDGE MURPHY",
-      "city": "",
-      "courtroom": "Video Conference",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656760"
     },
     {
       "court": "EDPA",
@@ -1004,6 +971,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "07/30/2026 10:00AM",
+      "case_number": "26-cv-1590",
+      "caption": "MANIGAULT v. AVENTURA AT PEMBR",
+      "judge": "DISTRICT JUDGE WOLSON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651132"
+    },
+    {
+      "court": "EDPA",
       "datetime": "07/30/2026 10:30AM",
       "case_number": "26-cr-0258",
       "caption": "USA v. CEDANO",
@@ -1276,17 +1254,6 @@
       "courtroom": "Courtroom 14A",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635504"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/03/2026 09:30AM",
-      "case_number": "25-cr-0472",
-      "caption": "USA v. TUGGLES",
-      "judge": "DISTRICT JUDGE MCHUGH",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645650"
     },
     {
       "court": "EDPA",
@@ -1584,17 +1551,6 @@
       "courtroom": "Courtroom 3H",
       "hearing_type": "Trial Date",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618201"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/05/2026 09:30AM",
-      "case_number": "25-cv-5215",
-      "caption": "GOLDEN BEAR INSURANCE COMPANY",
-      "judge": "DISTRICT JUDGE GALLAGHER",
-      "city": "Allentown",
-      "courtroom": "Cahn 4B",
-      "hearing_type": "Final Pretrial Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643432"
     },
     {
       "court": "EDPA",
