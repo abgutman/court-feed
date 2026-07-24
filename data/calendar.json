@@ -1,17 +1,6 @@
 {
-  "generated": "2026-07-24T14:10:49.774668+00:00",
+  "generated": "2026-07-24T15:45:12.959891+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "07/24/2026 09:30AM",
-      "case_number": "25-cr-0439",
-      "caption": "USA v. MOORE",
-      "judge": "MAGISTRATE JUDGE CARLOS",
-      "city": "Allentown",
-      "courtroom": "Cahn 4A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644331"
-    },
     {
       "court": "EDPA",
       "datetime": "07/24/2026 10:00AM",
@@ -77,17 +66,6 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Final Pretrial Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637996"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/27/2026 10:00AM",
-      "case_number": "24-cv-1605",
-      "caption": "FREDERICKS v. UNIVERSITY OF PE",
-      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3D",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621231"
     },
     {
       "court": "EDPA",
@@ -1056,6 +1034,17 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618673"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/31/2026 10:00AM",
+      "case_number": "25-cv-3138",
+      "caption": "SAMPSON v. CITY OF PHILADELPHI",
+      "judge": "DISTRICT JUDGE WOLSON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639285"
     },
     {
       "court": "EDPA",
