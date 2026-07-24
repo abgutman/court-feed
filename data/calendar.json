@@ -1,83 +1,6 @@
 {
-  "generated": "2026-07-23T23:11:45.782783+00:00",
+  "generated": "2026-07-24T00:10:29.643904+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "07/23/2026 09:30AM",
-      "case_number": "09-cr-0663",
-      "caption": "USA v. ALTHOUSE",
-      "judge": "DISTRICT JUDGE GALLAGHER",
-      "city": "Allentown",
-      "courtroom": "Cahn 4B",
-      "hearing_type": "Revocation Probation-Final Hrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?333378"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/23/2026 09:30AM",
-      "case_number": "26-cr-0074",
-      "caption": "USA v. MORGAN-GARRETT",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Evidentiary Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650120"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/23/2026 09:30AM",
-      "case_number": "24-cv-6750",
-      "caption": "DEMPSEY v. BERKADIA COMMERCIAL",
-      "judge": "DISTRICT JUDGE WEILHEIMER",
-      "city": "Philadelphia",
-      "courtroom": "COURTROOM",
-      "hearing_type": "Trial Date",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631382"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/23/2026 10:00AM",
-      "case_number": "24-cr-0358",
-      "caption": "USA v. JASON",
-      "judge": "DISTRICT JUDGE HODGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 17A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628478"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/23/2026 10:00AM",
-      "case_number": "25-cr-0066",
-      "caption": "USA v. LAKE",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633971"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/23/2026 01:30PM",
-      "case_number": "25-cr-0460",
-      "caption": "USA v. SANTOS",
-      "judge": "MAGISTRATE JUDGE WELLS",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645298"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/23/2026 02:00PM",
-      "case_number": "25-cr-0007",
-      "caption": "USA v. DIOL",
-      "judge": "DISTRICT JUDGE HODGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 17A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631980"
-    },
     {
       "court": "EDPA",
       "datetime": "07/24/2026 09:30AM",
@@ -1870,6 +1793,39 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649459"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/07/2026 09:30AM",
+      "case_number": "24-cv-0367",
+      "caption": "MONTGOMERY v. BOBST MEX SA et",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3H",
+      "hearing_type": "Trial Date",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618201"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/07/2026 09:30AM",
+      "case_number": "22-cv-4752",
+      "caption": "WILKERSON v. SUNBEAM PRODUCTS,",
+      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 8B",
+      "hearing_type": "Jury Selection",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?603322"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/07/2026 10:00AM",
+      "case_number": "23-cr-0335",
+      "caption": "USA v. GIORDANO",
+      "judge": "DISTRICT JUDGE PEREZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10B",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?612115"
     }
   ],
   "third_circuit": [],
