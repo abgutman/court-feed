@@ -47,12 +47,17 @@ jobs:
         run: |
           git config user.name "court-feed-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add data/ site/
+          git add -A
           if git diff --staged --quiet; then
             echo "No changes"
           else
             git commit -m "Update court feed — $(date -u +'%Y-%m-%d %H:%M UTC')"
-            git push
+            ok=0
+            for i in 1 2 3; do
+              if git pull --rebase --autostash origin main && git push; then ok=1; break; fi
+              sleep $((i * 7))
+            done
+            if [ "$ok" != "1" ]; then echo "push failed after 3 attempts" >&2; exit 1; fi
           fi
 
   deploy:
