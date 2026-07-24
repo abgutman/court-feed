@@ -1,17 +1,6 @@
 {
-  "generated": "2026-07-24T19:46:07.310911+00:00",
+  "generated": "2026-07-24T21:20:33.990725+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "07/24/2026 10:00AM",
-      "case_number": "25-cv-5828",
-      "caption": "MDR UNITED LLC v. WARRIOR HOME",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "",
-      "courtroom": "Video Conference",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644755"
-    },
     {
       "court": "EDPA",
       "datetime": "07/24/2026 02:00PM",
@@ -22,17 +11,6 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?625871"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/24/2026 04:00PM",
-      "case_number": "26-cv-3469",
-      "caption": "FRY v. FRY",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "",
-      "courtroom": "Video Conference",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655327"
     },
     {
       "court": "EDPA",
@@ -176,17 +154,6 @@
       "courtroom": "Courtroom 12B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635924"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/28/2026 09:30AM",
-      "case_number": "25-cr-0015",
-      "caption": "USA v. ROBERTO",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632182"
     },
     {
       "court": "EDPA",
@@ -894,17 +861,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "07/30/2026 02:30PM",
-      "case_number": "25-cv-4732",
-      "caption": "CARPENTER et al v. WERNER CO.",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Final Pretrial Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642435"
-    },
-    {
-      "court": "EDPA",
       "datetime": "07/31/2026 09:30AM",
       "case_number": "26-cr-0245",
       "caption": "USA v. SMALLS",
@@ -979,17 +935,6 @@
       "courtroom": "Courtroom 12B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639285"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/31/2026 10:30AM",
-      "case_number": "26-cr-0156",
-      "caption": "USA v. BROWN",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652593"
     },
     {
       "court": "EDPA",
@@ -1577,6 +1522,17 @@
     {
       "court": "EDPA",
       "datetime": "08/06/2026 10:00AM",
+      "case_number": "26-cr-0196",
+      "caption": "USA v. FOLLY",
+      "judge": "DISTRICT JUDGE WOLSON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12B",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653798"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/06/2026 10:00AM",
       "case_number": "22-cv-0688",
       "caption": "AMERICAN ENVIRONMENTAL ENTERPR",
       "judge": "DISTRICT JUDGE YOUNGE",
@@ -1661,28 +1617,6 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624193"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/06/2026 02:30PM",
-      "case_number": "26-cr-0057",
-      "caption": "USA v. CHAN",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649458"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/06/2026 02:30PM",
-      "case_number": "26-cr-0057",
-      "caption": "USA v. CASSIS",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649459"
     },
     {
       "court": "EDPA",
