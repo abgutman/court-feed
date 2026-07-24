@@ -1,28 +1,6 @@
 {
-  "generated": "2026-07-24T16:15:06.273874+00:00",
+  "generated": "2026-07-24T17:51:30.499898+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "07/24/2026 10:00AM",
-      "case_number": "26-cr-0271",
-      "caption": "USA v. JONES",
-      "judge": "DISTRICT JUDGE PAPPERT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656380"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/24/2026 10:00AM",
-      "case_number": "26-cr-0271",
-      "caption": "USA v. JONES",
-      "judge": "DISTRICT JUDGE PAPPERT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11A",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656380"
-    },
     {
       "court": "EDPA",
       "datetime": "07/24/2026 10:00AM",
@@ -55,17 +33,6 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Final Pretrial Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637996"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/27/2026 10:00AM",
-      "case_number": "26-cv-5061",
-      "caption": "ZUBAREV v. JAMISON et al",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658261"
     },
     {
       "court": "EDPA",
@@ -466,17 +433,6 @@
     {
       "court": "EDPA",
       "datetime": "07/29/2026 10:00AM",
-      "case_number": "26-cr-0023",
-      "caption": "USA v. SHORT",
-      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 8B",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648438"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/29/2026 10:00AM",
       "case_number": "24-cr-0319",
       "caption": "USA v. ORTEGA-CONTRERAS",
       "judge": "DISTRICT JUDGE SCHMEHL",
@@ -528,17 +484,6 @@
       "courtroom": "Courtroom 10B",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655484"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/29/2026 11:00AM",
-      "case_number": "26-cr-0023",
-      "caption": "USA v. FULCHER",
-      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 8B",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648430"
     },
     {
       "court": "EDPA",
@@ -597,17 +542,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "07/29/2026 12:00PM",
-      "case_number": "26-cr-0023",
-      "caption": "USA v. EZEWIRO",
-      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 8B",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648429"
-    },
-    {
-      "court": "EDPA",
       "datetime": "07/29/2026 01:30PM",
       "case_number": "26-cr-0318",
       "caption": "USA v. LEE",
@@ -649,17 +583,6 @@
       "courtroom": "Courtroom 6A",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651468"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/29/2026 02:00PM",
-      "case_number": "26-cr-0023",
-      "caption": "USA v. LAUREANO",
-      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 8B",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648425"
     },
     {
       "court": "EDPA",
@@ -1456,6 +1379,17 @@
     {
       "court": "EDPA",
       "datetime": "08/05/2026 10:00AM",
+      "case_number": "26-cr-0023",
+      "caption": "USA v. SHORT",
+      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 8B",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648438"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/05/2026 10:00AM",
       "case_number": "23-cv-3746",
       "caption": "DELLER v. DREXEL UNIVERSITY",
       "judge": "DISTRICT JUDGE WOLSON",
@@ -1463,6 +1397,28 @@
       "courtroom": "Courtroom 12B",
       "hearing_type": "Miscellaneous Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614134"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/05/2026 11:00AM",
+      "case_number": "26-cr-0023",
+      "caption": "USA v. FULCHER",
+      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 8B",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648430"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/05/2026 02:00PM",
+      "case_number": "26-cr-0023",
+      "caption": "USA v. LAUREANO",
+      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 8B",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648425"
     },
     {
       "court": "EDPA",
