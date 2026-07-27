@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-27T15:12:29.009967+00:00",
+  "generated": "2026-07-27T17:07:47.659504+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -33,17 +33,6 @@
       "courtroom": "Courtroom 12A",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/27/2026 10:30AM",
-      "case_number": "25-cr-0331",
-      "caption": "USA v. SOLTANI",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641585"
     },
     {
       "court": "EDPA",
@@ -344,6 +333,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "07/29/2026 09:30AM",
+      "case_number": "25-cr-0331",
+      "caption": "USA v. SOLTANI",
+      "judge": "DISTRICT JUDGE SANCHEZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14B",
+      "hearing_type": "Pretrial Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641585"
+    },
+    {
+      "court": "EDPA",
       "datetime": "07/29/2026 10:00AM",
       "case_number": "20-cr-0083",
       "caption": "USA v. HUTTON",
@@ -499,6 +499,17 @@
     {
       "court": "EDPA",
       "datetime": "07/29/2026 01:30PM",
+      "case_number": "20-cr-0115",
+      "caption": "USA v. MOSLEY",
+      "judge": "DISTRICT JUDGE DIAMOND",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14A",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?568499"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/29/2026 01:30PM",
       "case_number": "22-cr-0342",
       "caption": "USA v. EDWARDS",
       "judge": "DISTRICT JUDGE MCHUGH",
@@ -550,17 +561,6 @@
       "courtroom": "Courtroom 9A",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651988"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/30/2026 10:00AM",
-      "case_number": "24-cv-1001",
-      "caption": "SPARACINO v. WIDENER UNIVERSIT",
-      "judge": "DISTRICT JUDGE COSTELLO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?619739"
     },
     {
       "court": "EDPA",
@@ -1045,6 +1045,17 @@
       "courtroom": "Reading 5th Floor",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?501592"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/03/2026 01:30PM",
+      "case_number": "26-cr-0092",
+      "caption": "USA v. HYPPOLITE",
+      "judge": "DISTRICT JUDGE DIAMOND",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14A",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650754"
     },
     {
       "court": "EDPA",
