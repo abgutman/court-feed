@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-27T17:07:47.659504+00:00",
+  "generated": "2026-07-27T18:46:14.533549+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -48,17 +48,6 @@
     {
       "court": "EDPA",
       "datetime": "07/27/2026 11:00AM",
-      "case_number": "26-cr-0098",
-      "caption": "USA v. LEE",
-      "judge": "DISTRICT JUDGE MURPHY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3B",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650843"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/27/2026 11:00AM",
       "case_number": "18-cr-0104",
       "caption": "USA v. FREEMAN",
       "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
@@ -66,17 +55,6 @@
       "courtroom": "Courtroom 8B",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?540549"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/27/2026 11:30AM",
-      "case_number": "17-cr-0423",
-      "caption": "USA v. FLYNN",
-      "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "Reading",
-      "courtroom": "Reading 5th Floor",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?533485"
     },
     {
       "court": "EDPA",
@@ -495,17 +473,6 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658306"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/29/2026 01:30PM",
-      "case_number": "20-cr-0115",
-      "caption": "USA v. MOSLEY",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?568499"
     },
     {
       "court": "EDPA",
@@ -1848,17 +1815,6 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Final Pretrial Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640036"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/10/2026 01:30PM",
-      "case_number": "25-cr-0323",
-      "caption": "USA v. LEE",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641416"
     },
     {
       "court": "EDPA",
