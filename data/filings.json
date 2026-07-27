@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-27T18:46:08.897722+00:00",
+  "generated": "2026-07-27T20:42:55.385761+00:00",
   "filings": [
     {
       "type": "filing",
@@ -1354,6 +1354,15 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "56 MDM 2026",
+      "caption": "Orloski, S. v. Ciesieleski, J.",
+      "status": "Active",
+      "filing_date": "07/27/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=56 MDM 2026&dnh=rDXB8TFs77n4htwIA%2F64Aw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "938 WDA 2026",
       "caption": "In the Interest of: E.H. Appeal of: E.B.H.",
       "status": "Active",
@@ -1652,7 +1661,7 @@
       "type": "filing",
       "court": "PA Commonwealth Court",
       "docket": "1065 CD 2026",
-      "caption": "Friends of Pine & Spruce et al v. City of Phila.",
+      "caption": "Friends of Pine & Spruce et al. v. City of Phila. et al.",
       "status": "Active",
       "filing_date": "07/21/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1065 CD 2026&dnh=Z635wV3PZ7pvzobpcgonQQ%3D%3D"
@@ -1740,6 +1749,106 @@
     }
   ],
   "opinions": [
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 132 WAL 2026",
+      "caption": "In the Int. of: A.M., Petition of: A.M.",
+      "author": "Per Curiam",
+      "pub_date": "Mon, 27 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/132WAL2026 - 106865461367722594.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/132WAL2026 - 106865461367722594.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 50 WM 2026",
+      "caption": "Commonwealth v. Armstrong, J., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Mon, 27 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/50WM2026 - 106865567367735643.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/50WM2026 - 106865567367735643.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 49 WM 2026",
+      "caption": "Ibn-Sadiika, A., Pet. v. CCP, Allegheny",
+      "author": "Per Curiam",
+      "pub_date": "Mon, 27 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/49WM2026 - 106865564367735703.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/49WM2026 - 106865564367735703.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 47 WM 2026",
+      "caption": "Commonwealth v. Taylor, C., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Mon, 27 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/47WM2026 - 106865528367731547.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/47WM2026 - 106865528367731547.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 45 WM 2026",
+      "caption": "Sawicki, M., Pet. v. Beatty, K.",
+      "author": "Per Curiam",
+      "pub_date": "Mon, 27 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/45WM2026 - 106865500367728354.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/45WM2026 - 106865500367728354.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 41 WM 2026",
+      "caption": "Rega, R., Pet. v. President Judge, et al",
+      "author": "Per Curiam",
+      "pub_date": "Mon, 27 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/41WM2026 - 106865636367743659.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/41WM2026 - 106865636367743659.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 31 WM 2026",
+      "caption": "Commonwealth v. Spada, Z., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Mon, 27 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/31WM2026 - 106865603367740830.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/31WM2026 - 106865603367740830.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 319 Appellate Court Rules",
+      "caption": "In Re: Order Amending Rule 1925 of the Pennsylvania Rules of Appellate Procedure",
+      "author": "Per Curiam",
+      "pub_date": "Mon, 27 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/Order Entered - 106866087367790121.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/Order Entered - 106866087367790121.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 319 Appellate Court Rules",
+      "caption": "In Re: Order Amending Rule 1925 of the Pennsylvania Rules of Appellate Procedure",
+      "author": "Per Curiam",
+      "pub_date": "Mon, 27 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/Adoption Report - 106866087367790118.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/Adoption Report - 106866087367790118.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 319 Appellate Court Rules",
+      "caption": "In Re: Order Amending Rule 1925 of the Pennsylvania Rules of Appellate Procedure",
+      "author": "Per Curiam",
+      "pub_date": "Mon, 27 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/Attachment - 106866087367790237.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/Attachment - 106866087367790237.pdf"
+    },
     {
       "type": "opinion",
       "court": "PA Supreme Court",

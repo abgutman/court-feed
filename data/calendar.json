@@ -1,17 +1,6 @@
 {
-  "generated": "2026-07-27T18:46:14.533549+00:00",
+  "generated": "2026-07-27T20:43:02.240431+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "07/27/2026 09:30AM",
-      "case_number": "25-cv-2630",
-      "caption": "WFD CAPITAL LLC v. BEEN",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Final Pretrial Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637996"
-    },
     {
       "court": "EDPA",
       "datetime": "07/27/2026 10:30AM",
@@ -47,17 +36,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "07/27/2026 11:00AM",
-      "case_number": "18-cr-0104",
-      "caption": "USA v. FREEMAN",
-      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 8B",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?540549"
-    },
-    {
-      "court": "EDPA",
       "datetime": "07/27/2026 12:15PM",
       "case_number": "25-cv-2382",
       "caption": "LYNCH et al v. LONG et al",
@@ -66,17 +44,6 @@
       "courtroom": "Video Conference",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637474"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/27/2026 01:30PM",
-      "case_number": "16-cr-0455",
-      "caption": "USA v. PARRIS",
-      "judge": "DISTRICT JUDGE HENRY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 8A",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?541262"
     },
     {
       "court": "EDPA",
@@ -110,6 +77,17 @@
       "courtroom": "Courtroom 12B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635924"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/28/2026 09:30AM",
+      "case_number": "23-cv-0861",
+      "caption": "ALEARDI v. ROTHMAN NATIONAL MA",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?606891"
     },
     {
       "court": "EDPA",
@@ -187,17 +165,6 @@
       "courtroom": "Courtroom 10A",
       "hearing_type": "Discovery Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647818"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/28/2026 11:00AM",
-      "case_number": "26-cv-5060",
-      "caption": "DZEHTSIAROU v. MULLIN et al",
-      "judge": "DISTRICT JUDGE RUFE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12A",
-      "hearing_type": "Show Cause Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658260"
     },
     {
       "court": "EDPA",
@@ -1026,6 +993,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "08/03/2026 01:30PM",
+      "case_number": "17-cr-0423",
+      "caption": "USA v. FLYNN",
+      "judge": "DISTRICT JUDGE SCHMEHL",
+      "city": "Reading",
+      "courtroom": "Gateway 5th Floor",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?533485"
+    },
+    {
+      "court": "EDPA",
       "datetime": "08/03/2026 02:00PM",
       "case_number": "26-cr-0059",
       "caption": "USA v. GOLDEN",
@@ -1122,17 +1100,6 @@
       "courtroom": "Courtroom 3C",
       "hearing_type": "Settlement Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638094"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/04/2026 10:00AM",
-      "case_number": "12-cr-0512",
-      "caption": "USA v. RODRIGUEZ",
-      "judge": "DISTRICT JUDGE SAVAGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9A",
-      "hearing_type": "Show Cause Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?468041"
     },
     {
       "court": "EDPA",
@@ -1463,6 +1430,17 @@
       "courtroom": "Courtroom 3C",
       "hearing_type": "Settlement Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647239"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/06/2026 10:00AM",
+      "case_number": "26-cv-0652",
+      "caption": "LOPEZ v. LANCASTER SCHOOL DIST",
+      "judge": "MAGISTRATE JUDGE TOPLIN",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3I",
+      "hearing_type": "Settlement Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649231"
     },
     {
       "court": "EDPA",
