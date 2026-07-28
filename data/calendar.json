@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T16:51:07.628340+00:00",
+  "generated": "2026-07-28T18:44:32.942070+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -99,17 +99,6 @@
       "courtroom": "Courtroom 11A",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?561312"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/28/2026 01:30PM",
-      "case_number": "25-cr-0444",
-      "caption": "USA v. ADDY",
-      "judge": "DISTRICT JUDGE GALLAGHER",
-      "city": "Allentown",
-      "courtroom": "Cahn 4B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644460"
     },
     {
       "court": "EDPA",
@@ -785,28 +774,6 @@
     {
       "court": "EDPA",
       "datetime": "08/03/2026 09:30AM",
-      "case_number": "24-cv-0367",
-      "caption": "MONTGOMERY v. BOBST MEX SA et",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3H",
-      "hearing_type": "Jury Selection",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618201"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/03/2026 09:30AM",
-      "case_number": "24-cv-0367",
-      "caption": "MONTGOMERY v. BOBST MEX SA et",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3H",
-      "hearing_type": "Trial Date",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618201"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/03/2026 09:30AM",
       "case_number": "25-cr-0121",
       "caption": "USA v. BULLOCK",
       "judge": "DISTRICT JUDGE DIAMOND",
@@ -913,17 +880,6 @@
       "courtroom": "Courtroom 6B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648684"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/04/2026 09:30AM",
-      "case_number": "24-cv-0367",
-      "caption": "MONTGOMERY v. BOBST MEX SA et",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3H",
-      "hearing_type": "Trial Date",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618201"
     },
     {
       "court": "EDPA",
@@ -1070,17 +1026,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "08/05/2026 09:30AM",
-      "case_number": "24-cv-0367",
-      "caption": "MONTGOMERY v. BOBST MEX SA et",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3H",
-      "hearing_type": "Trial Date",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618201"
-    },
-    {
-      "court": "EDPA",
       "datetime": "08/05/2026 10:00AM",
       "case_number": "24-cv-2404",
       "caption": "COOLEY v. UNITED PARCEL SERVIC",
@@ -1166,17 +1111,6 @@
       "courtroom": "Courtroom 9A",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651993"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/06/2026 09:30AM",
-      "case_number": "24-cv-0367",
-      "caption": "MONTGOMERY v. BOBST MEX SA et",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3H",
-      "hearing_type": "Trial Date",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618201"
     },
     {
       "court": "EDPA",
@@ -1433,17 +1367,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "08/07/2026 09:30AM",
-      "case_number": "24-cv-0367",
-      "caption": "MONTGOMERY v. BOBST MEX SA et",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3H",
-      "hearing_type": "Trial Date",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618201"
-    },
-    {
-      "court": "EDPA",
       "datetime": "08/07/2026 10:00AM",
       "case_number": "23-cr-0335",
       "caption": "USA v. GIORDANO",
@@ -1529,17 +1452,6 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632182"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/10/2026 09:30AM",
-      "case_number": "24-cv-0367",
-      "caption": "MONTGOMERY v. BOBST MEX SA et",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3H",
-      "hearing_type": "Trial Date",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618201"
     },
     {
       "court": "EDPA",
@@ -1719,17 +1631,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "08/10/2026 03:00PM",
-      "case_number": "25-cv-6108",
-      "caption": "PONTENBERG v. AMERICOLD LOGIST",
-      "judge": "DISTRICT JUDGE LEESON",
-      "city": "Allentown",
-      "courtroom": "Cahn 3C",
-      "hearing_type": "Final Pretrial Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645441"
-    },
-    {
-      "court": "EDPA",
       "datetime": "08/11/2026 09:00AM",
       "case_number": "25-cv-5550",
       "caption": "Heller v. BROOKHAVEN BOROUGH e",
@@ -1738,17 +1639,6 @@
       "courtroom": "Courtroom 6B",
       "hearing_type": "Trial Date",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644164"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/11/2026 09:30AM",
-      "case_number": "24-cv-0367",
-      "caption": "MONTGOMERY v. BOBST MEX SA et",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3H",
-      "hearing_type": "Trial Date",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618201"
     },
     {
       "court": "EDPA",
@@ -1826,17 +1716,6 @@
       "courtroom": "Courtroom 11B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656476"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/11/2026 10:00AM",
-      "case_number": "26-cr-0269",
-      "caption": "USA v. TURNER",
-      "judge": "DISTRICT JUDGE MCHUGH",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656195"
     },
     {
       "court": "EDPA",
@@ -1995,18 +1874,6 @@
       "docket_number": "432 WDA 2025",
       "journal_number": "J-A18018-26",
       "caption": "Com. v. Becher, C.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "18-ARGUMENT-2026-2",
-      "judges": "KING ; LANE , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "08/04/2026",
-      "docket_number": "120 WDA 2026",
-      "journal_number": "J-A18019-26",
-      "caption": "PG Publishing Co. v. Pittsburgh Typographical",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "",
       "city": "",
