@@ -1,17 +1,6 @@
 {
-  "generated": "2026-07-28T18:44:32.942070+00:00",
+  "generated": "2026-07-28T20:35:05.010516+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "07/28/2026 09:30AM",
-      "case_number": "23-cv-0734",
-      "caption": "PETRONGOLA v. ROTHMAN NATIONAL",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?606519"
-    },
     {
       "court": "EDPA",
       "datetime": "07/28/2026 09:30AM",
@@ -36,28 +25,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "07/28/2026 09:30AM",
-      "case_number": "23-cv-1553",
-      "caption": "RANDALL v. ROTHMAN NATIONAL MA",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?608732"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/28/2026 09:30AM",
-      "case_number": "23-cv-1597",
-      "caption": "DEUSINGER v. ROTHMAN NATIONAL",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?608866"
-    },
-    {
-      "court": "EDPA",
       "datetime": "07/28/2026 10:00AM",
       "case_number": "26-cr-0132",
       "caption": "USA v. BOGATIN",
@@ -66,17 +33,6 @@
       "courtroom": "Courtroom 6A",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651717"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/28/2026 10:00AM",
-      "case_number": "25-cr-0438",
-      "caption": "USA v. CULLEN",
-      "judge": "DISTRICT JUDGE HODGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 17A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644156"
     },
     {
       "court": "EDPA",
@@ -102,50 +58,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "07/28/2026 02:00PM",
-      "case_number": "26-cr-0142",
-      "caption": "USA v. GOODMAN",
-      "judge": "DISTRICT JUDGE BAYLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3A",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651995"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/28/2026 02:00PM",
-      "case_number": "26-cv-4395",
-      "caption": "VILLAFUERTE v. MULLIN et al",
-      "judge": "DISTRICT JUDGE HODGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 17A",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656977"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/28/2026 02:00PM",
-      "case_number": "25-cr-0481",
-      "caption": "USA v. FROMETA-DE LEON",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645862"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/28/2026 02:00PM",
-      "case_number": "26-cr-0144",
-      "caption": "USA v. GRIFFIN",
-      "judge": "DISTRICT JUDGE SAVAGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9A",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651988"
-    },
-    {
-      "court": "EDPA",
       "datetime": "07/28/2026 03:00PM",
       "case_number": "22-cr-0297",
       "caption": "USA v. BUNDY",
@@ -154,17 +66,6 @@
       "courtroom": "Courtroom 17A",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?600580"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/28/2026 03:30PM",
-      "case_number": "11-cr-0650",
-      "caption": "USA v. MOSBY",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?447978"
     },
     {
       "court": "EDPA",
@@ -377,17 +278,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "07/30/2026 09:00AM",
-      "case_number": "26-cr-0144",
-      "caption": "USA v. GRIFFIN",
-      "judge": "DISTRICT JUDGE SAVAGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651988"
-    },
-    {
-      "court": "EDPA",
       "datetime": "07/30/2026 09:30AM",
       "case_number": "25-cr-0167",
       "caption": "USA v. LIGON",
@@ -561,6 +451,17 @@
       "courtroom": "Courtroom 15B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645327"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/30/2026 01:30PM",
+      "case_number": "21-cr-0199",
+      "caption": "USA v. RONDON",
+      "judge": "MAGISTRATE JUDGE CARLOS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?584865"
     },
     {
       "court": "EDPA",
@@ -1005,6 +906,17 @@
     {
       "court": "EDPA",
       "datetime": "08/04/2026 02:00PM",
+      "case_number": "25-cv-7336",
+      "caption": "Ross v. THE CHILDRENS HOSPITAL",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647818"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/04/2026 02:00PM",
       "case_number": "25-cv-6646",
       "caption": "Broderick et al v. WAL-MART, I",
       "judge": "DISTRICT JUDGE COSTELLO",
@@ -1100,6 +1012,17 @@
       "courtroom": "Courtroom 8B",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648425"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/05/2026 02:30PM",
+      "case_number": "22-cr-0399",
+      "caption": "USA v. WILLIAMS",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?602754"
     },
     {
       "court": "EDPA",
