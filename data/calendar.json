@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T09:47:20.399223+00:00",
+  "generated": "2026-07-28T12:12:36.246769+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -418,6 +418,17 @@
       "courtroom": "Courtroom 9A",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651988"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/30/2026 09:30AM",
+      "case_number": "25-cr-0167",
+      "caption": "USA v. LIGON",
+      "judge": "DISTRICT JUDGE SCOTT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13B",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636402"
     },
     {
       "court": "EDPA",
@@ -1916,7 +1927,17 @@
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647143"
     }
   ],
-  "third_circuit": [],
+  "third_circuit": [
+    {
+      "court": "Third Circuit",
+      "date": "2026-08-10",
+      "case_number": "26-2469",
+      "caption": "Americans for Prosperity Foundation et al v. Anthony Albenc",
+      "panel": "HARDIMAN, BIBAS, RENDELL",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 1:00pm",
+      "disposition": "Argued"
+    }
+  ],
   "pa_supreme": [],
   "pa_superior": [
     {
