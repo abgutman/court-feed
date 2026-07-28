@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T14:36:02.907785+00:00",
+  "generated": "2026-07-28T16:51:07.628340+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -37,6 +37,17 @@
     {
       "court": "EDPA",
       "datetime": "07/28/2026 09:30AM",
+      "case_number": "23-cv-1553",
+      "caption": "RANDALL v. ROTHMAN NATIONAL MA",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?608732"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/28/2026 09:30AM",
       "case_number": "23-cv-1597",
       "caption": "DEUSINGER v. ROTHMAN NATIONAL",
       "judge": "DISTRICT JUDGE SLOMSKY",
@@ -66,17 +77,6 @@
       "courtroom": "Courtroom 17A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644156"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/28/2026 10:30AM",
-      "case_number": "23-cv-1553",
-      "caption": "RANDALL v. ROTHMAN NATIONAL MA",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?608732"
     },
     {
       "court": "EDPA",
@@ -264,17 +264,6 @@
       "courtroom": "Courtroom 14A",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639873"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/29/2026 11:00AM",
-      "case_number": "21-cr-0317",
-      "caption": "USA v. HANTON",
-      "judge": "DISTRICT JUDGE PADOVA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 17B",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?587840"
     },
     {
       "court": "EDPA",
@@ -616,6 +605,17 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658308"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "07/30/2026 01:30PM",
+      "case_number": "26-cr-0333",
+      "caption": "USA v. BARNES",
+      "judge": "MAGISTRATE JUDGE CARLOS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658461"
     },
     {
       "court": "EDPA",
@@ -1115,6 +1115,17 @@
     {
       "court": "EDPA",
       "datetime": "08/05/2026 11:00AM",
+      "case_number": "21-cr-0317",
+      "caption": "USA v. HANTON",
+      "judge": "DISTRICT JUDGE PADOVA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 17B",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?587840"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/05/2026 11:00AM",
       "case_number": "26-cr-0023",
       "caption": "USA v. FULCHER",
       "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
@@ -1472,8 +1483,30 @@
       "judge": "DISTRICT JUDGE KEARNEY",
       "city": "Philadelphia",
       "courtroom": "Courtroom 6B",
+      "hearing_type": "Jury Selection",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645797"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/10/2026 09:00AM",
+      "case_number": "25-cr-0477",
+      "caption": "USA v. BLACKSHEAR",
+      "judge": "DISTRICT JUDGE KEARNEY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 6B",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645797"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/10/2026 09:00AM",
+      "case_number": "25-cr-0477",
+      "caption": "USA v. WILLIAMS",
+      "judge": "DISTRICT JUDGE KEARNEY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 6B",
+      "hearing_type": "Jury Selection",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645798"
     },
     {
       "court": "EDPA",
@@ -1837,6 +1870,17 @@
       "courtroom": "COURTROOM",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?560863"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/11/2026 02:00PM",
+      "case_number": "24-cv-1001",
+      "caption": "SPARACINO v. WIDENER UNIVERSIT",
+      "judge": "DISTRICT JUDGE COSTELLO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 6A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?619739"
     },
     {
       "court": "EDPA",
