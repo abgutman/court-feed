@@ -1,61 +1,6 @@
 {
-  "generated": "2026-07-28T23:17:03.342354+00:00",
+  "generated": "2026-07-29T00:11:24.841791+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "07/28/2026 09:30AM",
-      "case_number": "23-cv-0861",
-      "caption": "ALEARDI v. ROTHMAN NATIONAL MA",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?606891"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/28/2026 09:30AM",
-      "case_number": "23-cv-1049",
-      "caption": "MCQUILKIN v. ROTHMAN NATIONAL",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?607409"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/28/2026 11:00AM",
-      "case_number": "25-cv-7336",
-      "caption": "Ross v. THE CHILDRENS HOSPITAL",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10A",
-      "hearing_type": "Discovery Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647818"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/28/2026 12:00PM",
-      "case_number": "19-cv-4006",
-      "caption": "CHIJIOKE-UCHE v. EQUIFAX INFOR",
-      "judge": "DISTRICT JUDGE PAPPERT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11A",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?561312"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/28/2026 03:00PM",
-      "case_number": "22-cr-0297",
-      "caption": "USA v. BUNDY",
-      "judge": "DISTRICT JUDGE HODGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 17A",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?600580"
-    },
     {
       "court": "EDPA",
       "datetime": "07/29/2026 09:00AM",
@@ -1705,6 +1650,127 @@
       "courtroom": "Telephone Conference",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647143"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/12/2026 09:00AM",
+      "case_number": "25-cv-5550",
+      "caption": "Heller v. BROOKHAVEN BOROUGH e",
+      "judge": "DISTRICT JUDGE KEARNEY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 6B",
+      "hearing_type": "Trial Date",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644164"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/12/2026 09:30AM",
+      "case_number": "25-cv-5283",
+      "caption": "ROSARIO v. ROSS STORES, INC. e",
+      "judge": "MAGISTRATE JUDGE CARLOS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5D",
+      "hearing_type": "Arbitration Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643605"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/12/2026 09:30AM",
+      "case_number": "24-cv-0227",
+      "caption": "ABIRA MEDICAL LABORATORIES LLC",
+      "judge": "DISTRICT JUDGE KENNEY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom TBD",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617880"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/12/2026 09:30AM",
+      "case_number": "24-cv-5635",
+      "caption": "SAMUEL v. VISIONQUEST NATIONAL",
+      "judge": "DISTRICT JUDGE MCHUGH",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 9B",
+      "hearing_type": "Settlement Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629029"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/12/2026 10:30AM",
+      "case_number": "26-cr-0023",
+      "caption": "USA v. EZEWIRO",
+      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 8B",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648429"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/12/2026 11:00AM",
+      "case_number": "22-cr-0146",
+      "caption": "USA v. LANE",
+      "judge": "DISTRICT JUDGE DIAMOND",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14A",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?596485"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/12/2026 01:00PM",
+      "case_number": "25-cr-0413",
+      "caption": "USA v. CARROLL",
+      "judge": "DISTRICT JUDGE KENNEY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom TBD",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643811"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/12/2026 01:00PM",
+      "case_number": "23-cv-0146",
+      "caption": "WELLS FARGO BANK, NATIONAL ASS",
+      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 8B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?604776"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/12/2026 01:30PM",
+      "case_number": "23-cv-1353",
+      "caption": "HOUGH v. DELAWARE COUNTY et al",
+      "judge": "DISTRICT JUDGE DIAMOND",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14A",
+      "hearing_type": "Final Pretrial Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?608233"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/12/2026 02:00PM",
+      "case_number": "24-cv-1065",
+      "caption": "CLINKSCALE v. COMMISSIONER OF",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?619884"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/12/2026 02:30PM",
+      "case_number": "26-cr-0238",
+      "caption": "USA v. CAMMARATA",
+      "judge": "DISTRICT JUDGE KENNEY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom TBD",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655436"
     }
   ],
   "third_circuit": [
