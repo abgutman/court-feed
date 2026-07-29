@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-29T15:20:39.288790+00:00",
+  "generated": "2026-07-29T17:38:36.988642+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -55,28 +55,6 @@
       "courtroom": "Courtroom 12A",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?584672"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/29/2026 11:00AM",
-      "case_number": "25-cr-0284",
-      "caption": "USA v. BARNETT",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639873"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/29/2026 11:00AM",
-      "case_number": "26-cr-0245",
-      "caption": "USA v. SMALLS",
-      "judge": "DISTRICT JUDGE PEREZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10B",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655484"
     },
     {
       "court": "EDPA",
@@ -451,17 +429,6 @@
       "courtroom": "Courtroom 12B",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616014"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/31/2026 09:30AM",
-      "case_number": "26-cr-0245",
-      "caption": "USA v. SMALLS",
-      "judge": "DISTRICT JUDGE PEREZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655484"
     },
     {
       "court": "EDPA",
@@ -1814,18 +1781,6 @@
     {
       "court": "PA Superior Court",
       "date": "08/04/2026",
-      "docket_number": "1383 WDA 2025",
-      "journal_number": "J-A18006-26",
-      "caption": "Hartman, L. v. Haines, R.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "18-ARGUMENT-2026-2",
-      "judges": "KING ; LANE , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "08/04/2026",
       "docket_number": "114 WDA 2026",
       "journal_number": "J-A18017-26",
       "caption": "In Re: Estate of Charlotte Chonko, Appeal of: Miller, A.",
@@ -1842,18 +1797,6 @@
       "journal_number": "J-A18018-26",
       "caption": "Com. v. Becher, C.",
       "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "18-ARGUMENT-2026-2",
-      "judges": "KING ; LANE , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "08/05/2026",
-      "docket_number": "1559 WDA 2025",
-      "journal_number": "J-A18021-26",
-      "caption": "Com. v. Giardina, D.",
-      "consideration_type": "Expedited \u2014 Argument Panel",
       "location": "",
       "city": "",
       "panel": "18-ARGUMENT-2026-2",
