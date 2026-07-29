@@ -1,39 +1,6 @@
 {
-  "generated": "2026-07-29T19:42:10.774415+00:00",
+  "generated": "2026-07-29T21:12:48.222072+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "07/29/2026 09:00AM",
-      "case_number": "25-cr-0104",
-      "caption": "USA v. VARGAS-PELLICCIA",
-      "judge": "DISTRICT JUDGE LEESON",
-      "city": "Allentown",
-      "courtroom": "Cahn 3C",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635073"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/29/2026 10:00AM",
-      "case_number": "26-cv-0754",
-      "caption": "JONES v. BOROUGH OF EDDYSTONE",
-      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3D",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649461"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/29/2026 10:30AM",
-      "case_number": "21-cr-0188",
-      "caption": "USA v. YOUNG",
-      "judge": "DISTRICT JUDGE RUFE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12A",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?584672"
-    },
     {
       "court": "EDPA",
       "datetime": "07/29/2026 11:30AM",
@@ -93,7 +60,7 @@
       "court": "EDPA",
       "datetime": "07/30/2026 09:00AM",
       "case_number": "25-cv-2838",
-      "caption": "DOE v. PINE FORGE ACADEMY et a",
+      "caption": "ALEXANDRA ARNOLD v. PINE FORGE",
       "judge": "DISTRICT JUDGE GALLAGHER",
       "city": "Philadelphia",
       "courtroom": "Philadelphia",
@@ -473,17 +440,6 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641585"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/03/2026 09:30AM",
-      "case_number": "25-cr-0121",
-      "caption": "USA v. BULLOCK",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635504"
     },
     {
       "court": "EDPA",
