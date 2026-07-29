@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-29T21:12:48.222072+00:00",
+  "generated": "2026-07-29T22:12:37.060837+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -1608,17 +1608,7 @@
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655436"
     }
   ],
-  "third_circuit": [
-    {
-      "court": "Third Circuit",
-      "date": "2026-08-10",
-      "case_number": "26-2469",
-      "caption": "Americans for Prosperity Foundation et al v. Anthony Albenc",
-      "panel": "HARDIMAN, BIBAS, RENDELL",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 1:00pm",
-      "disposition": "Argued"
-    }
-  ],
+  "third_circuit": [],
   "pa_supreme": [],
   "pa_superior": [
     {
