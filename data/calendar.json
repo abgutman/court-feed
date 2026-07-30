@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-30T20:35:03.776591+00:00",
+  "generated": "2026-07-30T22:18:55.311148+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -132,17 +132,6 @@
       "courtroom": "Courtroom 14A",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635504"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/30/2026 01:30PM",
-      "case_number": "26-cr-0316",
-      "caption": "USA v. BULLOCK",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658112"
     },
     {
       "court": "EDPA",
@@ -1575,7 +1564,17 @@
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658724"
     }
   ],
-  "third_circuit": [],
+  "third_circuit": [
+    {
+      "court": "Third Circuit",
+      "date": "2026-08-10",
+      "case_number": "26-2469",
+      "caption": "Americans for Prosperity Foundation et al v. Anthony Albenc",
+      "panel": "HARDIMAN, BIBAS, RENDELL",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 1:00pm",
+      "disposition": "Argued"
+    }
+  ],
   "pa_supreme": [],
   "pa_superior": [
     {
