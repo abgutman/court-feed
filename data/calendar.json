@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-30T16:48:03.203620+00:00",
+  "generated": "2026-07-30T18:44:40.061012+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -16,28 +16,6 @@
       "court": "EDPA",
       "datetime": "07/30/2026 10:00AM",
       "case_number": "25-cr-0167",
-      "caption": "USA v. COLEMAN",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636400"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/30/2026 10:00AM",
-      "case_number": "25-cr-0167",
-      "caption": "USA v. COLEMAN",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636400"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/30/2026 10:00AM",
-      "case_number": "25-cr-0167",
       "caption": "USA v. LISBY",
       "judge": "DISTRICT JUDGE SCOTT",
       "city": "Philadelphia",
@@ -99,28 +77,6 @@
       "courtroom": "Courtroom 13B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636405"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/30/2026 10:30AM",
-      "case_number": "26-cr-0258",
-      "caption": "USA v. CEDANO",
-      "judge": "DISTRICT JUDGE HENRY",
-      "city": "Easton",
-      "courtroom": "Easton 4th Floor",
-      "hearing_type": "Initial Appearance",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655847"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/30/2026 12:30PM",
-      "case_number": "25-cr-0461",
-      "caption": "USA v. BLASSENGALE",
-      "judge": "DISTRICT JUDGE YOUNGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645327"
     },
     {
       "court": "EDPA",
@@ -231,17 +187,6 @@
       "courtroom": "Courtroom 16B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632178"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/31/2026 10:00AM",
-      "case_number": "24-cv-0988",
-      "caption": "MATUTE et al v. THOMAS E. STRA",
-      "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "Reading",
-      "courtroom": "Reading 5th Floor",
-      "hearing_type": "Final Pretrial Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?619701"
     },
     {
       "court": "EDPA",
@@ -1617,6 +1562,39 @@
       "courtroom": "Courtroom 17A",
       "hearing_type": "Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652117"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/13/2026 01:30PM",
+      "case_number": "26-cr-0341",
+      "caption": "USA v. DEPETTA",
+      "judge": "DISTRICT JUDGE WEILHEIMER",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 7B",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658724"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/13/2026 01:30PM",
+      "case_number": "26-cr-0341",
+      "caption": "USA v. DEPETTA",
+      "judge": "DISTRICT JUDGE WEILHEIMER",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 7B",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658724"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/13/2026 01:30PM",
+      "case_number": "26-cr-0341",
+      "caption": "USA v. DEPETTA",
+      "judge": "DISTRICT JUDGE WEILHEIMER",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 7B",
+      "hearing_type": "Initial Appearance",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658724"
     }
   ],
   "third_circuit": [
