@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-31T18:45:04.296355+00:00",
+  "generated": "2026-07-31T20:38:26.791096+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -33,28 +33,6 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Evidentiary Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?611418"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/03/2026 09:00AM",
-      "case_number": "25-cr-0331",
-      "caption": "USA v. SOLTANI",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641585"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/03/2026 09:30AM",
-      "case_number": "25-cr-0394",
-      "caption": "USA v. GAINEY",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643212"
     },
     {
       "court": "EDPA",
@@ -132,6 +110,17 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Detention Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658091"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/03/2026 01:30PM",
+      "case_number": "26-cr-0332",
+      "caption": "USA v. MURRAY",
+      "judge": "MAGISTRATE JUDGE SITARSKI",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5C",
+      "hearing_type": "Initial Appearance",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658455"
     },
     {
       "court": "EDPA",
@@ -242,6 +231,17 @@
       "courtroom": "Courtroom 8B",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622829"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/04/2026 10:30AM",
+      "case_number": "26-mj-1432",
+      "caption": "USA v. MISIANO",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Evidentiary Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658515"
     },
     {
       "court": "EDPA",
