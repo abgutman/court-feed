@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-31T12:16:13.546050+00:00",
+  "generated": "2026-07-31T14:36:01.546653+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -44,17 +44,6 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618673"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/31/2026 10:00AM",
-      "case_number": "25-cv-3138",
-      "caption": "SAMPSON v. CITY OF PHILADELPHI",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639285"
     },
     {
       "court": "EDPA",
@@ -605,6 +594,17 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624194"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/06/2026 11:00AM",
+      "case_number": "25-cr-0477",
+      "caption": "USA v. WILLIAMS",
+      "judge": "DISTRICT JUDGE KEARNEY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 6B",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645798"
     },
     {
       "court": "EDPA",
@@ -1432,7 +1432,17 @@
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638456"
     }
   ],
-  "third_circuit": [],
+  "third_circuit": [
+    {
+      "court": "Third Circuit",
+      "date": "2026-08-10",
+      "case_number": "26-2469",
+      "caption": "Americans for Prosperity Foundation et al v. Anthony Albenc",
+      "panel": "HARDIMAN, BIBAS, RENDELL",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 1:00pm",
+      "disposition": "Argued"
+    }
+  ],
   "pa_supreme": [],
   "pa_superior": [
     {

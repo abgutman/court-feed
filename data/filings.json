@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-31T12:15:36.861177+00:00",
+  "generated": "2026-07-31T14:35:40.398090+00:00",
   "filings": [
     {
       "type": "filing",
@@ -261,6 +261,15 @@
       "status": "Active",
       "filing_date": "07/30/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=450 MAL 2026&dnh=mfWNYsmmQX1VCS0qRBPSpA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "451 MAL 2026",
+      "caption": "Freedom Mortgage Corp. v. Torres, H., Pet.",
+      "status": "Active",
+      "filing_date": "07/30/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=451 MAL 2026&dnh=13nVz%2BIEVPNBwxTtexGYrw%3D%3D"
     },
     {
       "type": "filing",
@@ -846,6 +855,15 @@
       "status": "Active",
       "filing_date": "07/30/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2125 EDA 2026&dnh=9AQ1l9jK4QBzLleruAA0aw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2126 EDA 2026",
+      "caption": "Coleman, M. v. Smalls, M.",
+      "status": "Active",
+      "filing_date": "07/31/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2126 EDA 2026&dnh=zaCOvNn2AjFkpR86yrkSOw%3D%3D"
     },
     {
       "type": "filing",
@@ -1561,6 +1579,24 @@
     {
       "type": "filing",
       "court": "PA Commonwealth Court",
+      "docket": "1108 CD 2026",
+      "caption": "White Rose Bar & Grill v. UCBR",
+      "status": "Active",
+      "filing_date": "07/30/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1108 CD 2026&dnh=IM4iyxaimcEUz8ApKgV%2B6g%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "1109 CD 2026",
+      "caption": "Michalski, M. v. Grant, K. et al (OOR)",
+      "status": "Active",
+      "filing_date": "07/27/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1109 CD 2026&dnh=dM23F7Ze4fmsvuSs7C5TMQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
       "docket": "257 FR 2026",
       "caption": "Com. of Pa. v. United Rentals",
       "status": "Active",
@@ -2256,6 +2292,16 @@
     {
       "type": "opinion",
       "court": "PA Superior Court",
+      "docket": "",
+      "caption": "Reargument Table",
+      "author": "",
+      "pub_date": "Fri, 31 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/WestReport073126.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/WestReport073126.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Superior Court",
       "docket": "No. 1219 WDA 2024",
       "caption": "Com. v. Brock, J.",
       "author": "Stabile, J.",
@@ -2805,33 +2851,63 @@
     },
     {
       "type": "opinion",
-      "court": "PA Superior Court",
-      "docket": "",
-      "caption": "Judgement Lists",
-      "author": "",
-      "pub_date": "Tue, 28 Jul 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Superior/out/072826 E.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/072826 E.pdf"
+      "court": "PA Commonwealth Court",
+      "docket": "131 C.D. 2025 (REARGUMENT ORDER - Respondent)",
+      "caption": "Consolidated Rail Corp. v. PA PUC",
+      "author": "PER CURIAM",
+      "pub_date": "Fri, 31 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/131CD25ORDR_7-31-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/131CD25ORDR_7-31-26.pdf"
     },
     {
       "type": "opinion",
-      "court": "PA Superior Court",
-      "docket": "",
-      "caption": "Judgement Lists",
-      "author": "",
-      "pub_date": "Tue, 28 Jul 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Superior/out/072826 M.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/072826 M.pdf"
+      "court": "PA Commonwealth Court",
+      "docket": "131 C.D. 2025 (REARGUMENT ORDER - Intervenor)",
+      "caption": "Consolidated Rail Corp. v. PA PUC",
+      "author": "PER CURIAM",
+      "pub_date": "Fri, 31 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/131CD25ORDI_7-31-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/131CD25ORDI_7-31-26.pdf"
     },
     {
       "type": "opinion",
-      "court": "PA Superior Court",
-      "docket": "",
-      "caption": "Judgement Lists",
-      "author": "",
-      "pub_date": "Tue, 28 Jul 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Superior/out/072826 W.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/072826 W.pdf"
+      "court": "PA Commonwealth Court",
+      "docket": "19 C.D. 2025",
+      "caption": "R.L. Stuart &amp; Stuart Run Farm, LLC v. E. Drumore Twp. ZHB &amp; E. Drumore Twp.",
+      "author": "Covey, J.",
+      "pub_date": "Fri, 31 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/19CD25_7-31-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/19CD25_7-31-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "218 C.D. 2025",
+      "caption": "In re: Tax Repository Sale of Tax Delinquent Properties September 23, 2024, et al. ~ Appeal of: B. Skelton",
+      "author": "Fizzano Cannon, J.",
+      "pub_date": "Fri, 31 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/218CD25_7-31-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/218CD25_7-31-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "1550 C.D. 2024",
+      "caption": "G. Ceron v. Delaware County TCB",
+      "author": "Tsai, J.",
+      "pub_date": "Fri, 31 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1550CD24_7-31-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1550CD24_7-31-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "134 C.D. 2025",
+      "caption": "S. Boone v. PPB",
+      "author": "Leadbetter, President Judge Emerita",
+      "pub_date": "Fri, 31 Jul 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/134CD25_7-31-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/134CD25_7-31-26.pdf"
     },
     {
       "type": "opinion",
