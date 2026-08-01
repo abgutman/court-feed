@@ -1,28 +1,6 @@
 {
-  "generated": "2026-07-31T23:16:38.994140+00:00",
+  "generated": "2026-08-01T00:12:10.049846+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "07/31/2026 01:30PM",
-      "case_number": "25-cr-0413",
-      "caption": "USA v. JONES",
-      "judge": "MAGISTRATE JUDGE CARLOS",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643810"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "07/31/2026 02:00PM",
-      "case_number": "26-cv-0092",
-      "caption": "HUDGINS v. CITY OF PHILADELPHI",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "",
-      "courtroom": "Video Conference",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648118"
-    },
     {
       "court": "EDPA",
       "datetime": "08/03/2026 10:00AM",
@@ -1385,6 +1363,15 @@
       "caption": "Americans for Prosperity Foundation et al v. Anthony Albenc",
       "panel": "HARDIMAN, BIBAS, RENDELL",
       "location_time": "Philadelphia, PA - Maris Courtroom / 1:00pm",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-23",
+      "case_number": "24-1287",
+      "caption": "USA v. Thomas Waters",
+      "panel": "RESTREPO, MCKEE, AMBRO",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 2:30pm",
       "disposition": "Argued"
     }
   ],
