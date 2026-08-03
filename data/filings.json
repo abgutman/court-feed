@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-02T23:10:42.416902+00:00",
+  "generated": "2026-08-03T00:12:01.202593+00:00",
   "filings": [],
   "opinions": [
     {
@@ -1545,42 +1545,6 @@
       "guid": "ca3-18-2464-182464np.pdf",
       "precedential": false,
       "origin": "USDC for the District of New Jersey"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "25-2271",
-      "caption": "IN RE: NATIONAL FOOTBALL LEAGUE PLAYERS CONCUSSION v.",
-      "author": "",
-      "pub_date": "Mon, 27 Jul 2026 00:00:00 +0000",
-      "url": "https://www2.ca3.uscourts.gov/opinarch/252271np.pdf",
-      "guid": "ca3-25-2271-252271np.pdf",
-      "precedential": false,
-      "origin": "USDC for the Eastern District of Pennsylvania"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "25-2031",
-      "caption": "Heidy Mejia Saquic De Julaj v. Attorney General United States of America",
-      "author": "",
-      "pub_date": "Mon, 27 Jul 2026 00:00:00 +0000",
-      "url": "https://www2.ca3.uscourts.gov/opinarch/252031np.pdf",
-      "guid": "ca3-25-2031-252031np.pdf",
-      "precedential": false,
-      "origin": "Agency"
-    },
-    {
-      "type": "opinion",
-      "court": "Third Circuit",
-      "docket": "24-3181",
-      "caption": "USA v. Rodney Blake",
-      "author": "",
-      "pub_date": "Mon, 27 Jul 2026 00:00:00 +0000",
-      "url": "https://www2.ca3.uscourts.gov/opinarch/243181np.pdf",
-      "guid": "ca3-24-3181-243181np.pdf",
-      "precedential": false,
-      "origin": "USDC for the Western District of Pennsylvania"
     }
   ]
 }
