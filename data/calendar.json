@@ -1,28 +1,6 @@
 {
-  "generated": "2026-08-03T11:43:02.245198+00:00",
+  "generated": "2026-08-03T15:15:04.538262+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "08/03/2026 10:00AM",
-      "case_number": "25-cr-0141",
-      "caption": "USA v. WARREN",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635924"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/03/2026 10:00AM",
-      "case_number": "25-cr-0141",
-      "caption": "USA v. WARREN",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12B",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635924"
-    },
     {
       "court": "EDPA",
       "datetime": "08/03/2026 10:30AM",
@@ -363,6 +341,17 @@
       "courtroom": "Courtroom 10B",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?581541"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/05/2026 01:30PM",
+      "case_number": "26-cv-5453",
+      "caption": "ORDONEZ SARMIENTO v. JAMISON e",
+      "judge": "DISTRICT JUDGE RUFE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12A",
+      "hearing_type": "Miscellaneous Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658963"
     },
     {
       "court": "EDPA",
@@ -1334,6 +1323,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "08/13/2026 02:00PM",
+      "case_number": "26-cv-5437",
+      "caption": "Gao v. RIFE et al",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Miscellaneous Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658945"
+    },
+    {
+      "court": "EDPA",
       "datetime": "08/14/2026 09:00AM",
       "case_number": "26-cr-0315",
       "caption": "USA v. VEGA-GONZALEZ",
@@ -1548,18 +1548,6 @@
     },
     {
       "court": "PA Superior Court",
-      "date": "08/04/2026",
-      "docket_number": "432 WDA 2025",
-      "journal_number": "J-A18018-26",
-      "caption": "Com. v. Becher, C.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "18-ARGUMENT-2026-2",
-      "judges": "KING ; LANE , JJ."
-    },
-    {
-      "court": "PA Superior Court",
       "date": "08/05/2026",
       "docket_number": "1318 WDA 2025",
       "journal_number": "J-A18022-26",
@@ -1624,18 +1612,6 @@
       "docket_number": "166 WDA 2026",
       "journal_number": "J-A18034-26",
       "caption": "Monborne, L. v. Smith, J.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "18-ARGUMENT-2026-2",
-      "judges": "KING ; LANE , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "08/05/2026",
-      "docket_number": "258 WDA 2026",
-      "journal_number": "J-A18037-26",
-      "caption": "In the Interest of: Z.B., Appeal of: T.N.",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "",
       "city": "",
