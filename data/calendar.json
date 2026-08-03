@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-03T15:15:04.538262+00:00",
+  "generated": "2026-08-03T17:19:46.768751+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -220,17 +220,6 @@
       "courtroom": "Courtroom 15B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?603901"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/04/2026 01:00PM",
-      "case_number": "26-cr-0086",
-      "caption": "USA v. MORALES-ORTIZ",
-      "judge": "DISTRICT JUDGE PEREZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650478"
     },
     {
       "court": "EDPA",
@@ -528,17 +517,6 @@
       "courtroom": "Courtroom 6B",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645798"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/06/2026 11:00AM",
-      "case_number": "13-cr-0256",
-      "caption": "USA v. SATCHEL",
-      "judge": "DISTRICT JUDGE PADOVA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 17B",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?477366"
     },
     {
       "court": "EDPA",
