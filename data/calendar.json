@@ -1,17 +1,6 @@
 {
-  "generated": "2026-08-03T17:19:46.768751+00:00",
+  "generated": "2026-08-03T19:57:07.307062+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "08/03/2026 10:30AM",
-      "case_number": "26-cr-0138",
-      "caption": "USA v. ORELLANA-ROBLES",
-      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 8B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651923"
-    },
     {
       "court": "EDPA",
       "datetime": "08/03/2026 11:00AM",
@@ -22,17 +11,6 @@
       "courtroom": "Reading 5th Floor",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?501592"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/03/2026 01:00PM",
-      "case_number": "25-cr-0167",
-      "caption": "USA v. COLEMAN",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636400"
     },
     {
       "court": "EDPA",
@@ -235,6 +213,17 @@
     {
       "court": "EDPA",
       "datetime": "08/04/2026 01:30PM",
+      "case_number": "26-cr-0347",
+      "caption": "USA v. LOPEZ FELIX",
+      "judge": "MAGISTRATE JUDGE SITARSKI",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5C",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658847"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/04/2026 01:30PM",
       "case_number": "26-cr-0243",
       "caption": "USA v. GARVIN",
       "judge": "DISTRICT JUDGE WEILHEIMER",
@@ -322,6 +311,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "08/05/2026 11:30AM",
+      "case_number": "26-cv-5257",
+      "caption": "Sanchez-Gonzalez v. JAMISON et",
+      "judge": "DISTRICT JUDGE WEILHEIMER",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 7B",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658636"
+    },
+    {
+      "court": "EDPA",
       "datetime": "08/05/2026 12:00PM",
       "case_number": "21-cr-0040",
       "caption": "USA v. PHILLIPS",
@@ -355,6 +355,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "08/05/2026 03:30PM",
+      "case_number": "26-cr-0349",
+      "caption": "USA v. CILURSO",
+      "judge": "DISTRICT JUDGE WEILHEIMER",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 7B",
+      "hearing_type": "Initial Appearance",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658975"
+    },
+    {
+      "court": "EDPA",
       "datetime": "08/06/2026 09:00AM",
       "case_number": "26-cr-0143",
       "caption": "USA v. SMITH",
@@ -374,28 +385,6 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Miscellaneous Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642226"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/06/2026 09:30AM",
-      "case_number": "25-cr-0167",
-      "caption": "USA v. COLEMAN",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Jury Selection",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636400"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/06/2026 09:30AM",
-      "case_number": "25-cr-0167",
-      "caption": "USA v. COLEMAN",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636400"
     },
     {
       "court": "EDPA",
@@ -927,6 +916,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "08/11/2026 10:00AM",
+      "case_number": "25-cr-0066",
+      "caption": "USA v. PEREZ",
+      "judge": "DISTRICT JUDGE SCOTT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633969"
+    },
+    {
+      "court": "EDPA",
       "datetime": "08/11/2026 10:30AM",
       "case_number": "25-cr-0058",
       "caption": "USA v. WELDON",
@@ -1071,6 +1071,17 @@
     {
       "court": "EDPA",
       "datetime": "08/12/2026 11:30AM",
+      "case_number": "26-cv-3810",
+      "caption": "SILLAH v. HERITAGE CAMPUS GROU",
+      "judge": "DISTRICT JUDGE HENRY",
+      "city": "",
+      "courtroom": "Telephone Conference",
+      "hearing_type": "Pretrial Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655768"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/12/2026 11:30AM",
       "case_number": "26-cr-0023",
       "caption": "USA v. LAUREANO",
       "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
@@ -1122,6 +1133,17 @@
       "courtroom": "Courtroom 3B",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630770"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/12/2026 02:00PM",
+      "case_number": "25-cr-0042",
+      "caption": "USA v. TELEWODA",
+      "judge": "DISTRICT JUDGE WOLSON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12B",
+      "hearing_type": "Sentencing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638249"
     },
     {
       "court": "EDPA",
@@ -1476,18 +1498,6 @@
   ],
   "pa_supreme": [],
   "pa_superior": [
-    {
-      "court": "PA Superior Court",
-      "date": "08/04/2026",
-      "docket_number": "118 WDA 2026",
-      "journal_number": "J-A18001-26",
-      "caption": "Durrett, J. v. Durrett, D.",
-      "consideration_type": "Expedited \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "18-ARGUMENT-2026-2",
-      "judges": "KING ; LANE , JJ."
-    },
     {
       "court": "PA Superior Court",
       "date": "08/04/2026",
