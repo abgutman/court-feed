@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-04T09:51:02.619544+00:00",
+  "generated": "2026-08-04T12:18:30.625496+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -312,39 +312,6 @@
     {
       "court": "EDPA",
       "datetime": "08/06/2026 09:30AM",
-      "case_number": "25-cr-0167",
-      "caption": "USA v. LISBY",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Jury Selection",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636401"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/06/2026 09:30AM",
-      "case_number": "25-cr-0167",
-      "caption": "USA v. COLEMAN",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Jury Selection",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636404"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/06/2026 09:30AM",
-      "case_number": "25-cr-0167",
-      "caption": "USA v. MCMAHON",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Jury Selection",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636405"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/06/2026 09:30AM",
       "case_number": "25-cv-4732",
       "caption": "CARPENTER et al v. WERNER CO.",
       "judge": "DISTRICT JUDGE SLOMSKY",
@@ -583,39 +550,6 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632182"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/10/2026 09:30AM",
-      "case_number": "25-cr-0167",
-      "caption": "USA v. LISBY",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636401"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/10/2026 09:30AM",
-      "case_number": "25-cr-0167",
-      "caption": "USA v. COLEMAN",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636404"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/10/2026 09:30AM",
-      "case_number": "25-cr-0167",
-      "caption": "USA v. MCMAHON",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636405"
     },
     {
       "court": "EDPA",
