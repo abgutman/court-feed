@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-04T14:41:42.118563+00:00",
+  "generated": "2026-08-04T17:02:41.837649+00:00",
   "filings": [
     {
       "type": "filing",
@@ -194,7 +194,7 @@
       "type": "filing",
       "court": "PA Supreme Court",
       "docket": "20 WAP 2026",
-      "caption": "Commonweatlh v. Hines, V., Pet.",
+      "caption": "Commonwealth v. Hines, V., Aplt.",
       "status": "Active",
       "filing_date": "08/04/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=20 WAP 2026&dnh=0GxpQQKO4%2Fwvc0M%2FeENsCg%3D%3D"
@@ -2196,6 +2196,126 @@
     {
       "type": "opinion",
       "court": "PA Commonwealth Court",
+      "docket": "922 &amp; 928 C.D. 2023",
+      "caption": "J&amp;S Technology Solutions, Inc. v. W. Gonzalez, et al. (WCAB)",
+      "author": "Cohn Jubelirer, President Judge ~ Dissenting Opinion by Fizzano Cannon, J.",
+      "pub_date": "Tue, 04 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/922CD23_8-4-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/922CD23_8-4-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "325 M.D. 2025",
+      "caption": "R. Davis, Jr. v. PA DOC",
+      "author": "Dumas, J.",
+      "pub_date": "Tue, 04 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/325MD25_8-4-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/325MD25_8-4-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "1399 &amp; 1703 C.D. 2024",
+      "caption": "City of Lancaster v. I. Grivas",
+      "author": "Cohn Jubelirer, President Judge",
+      "pub_date": "Tue, 04 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1399CD24_8-4-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1399CD24_8-4-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "399 C.D. 2025",
+      "caption": "W.D. Rochelle v. UCBR",
+      "author": "Cohn Jubelirer, President Judge",
+      "pub_date": "Tue, 04 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/399CD25_8-4-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/399CD25_8-4-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "241 C.D. 2025",
+      "caption": "A. Morinelli v. UCBR",
+      "author": "Covey, J.",
+      "pub_date": "Tue, 04 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/241CD25_8-4-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/241CD25_8-4-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "1612 C.D. 2024",
+      "caption": "N.P. v. DHS",
+      "author": "Wallace, J.",
+      "pub_date": "Tue, 04 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1612CD24_8-4-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1612CD24_8-4-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "1693 C.D. 2024",
+      "caption": "D. Gibson v. B. Mason, et al.",
+      "author": "Wallace, J.",
+      "pub_date": "Tue, 04 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1693CD24_8-4-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1693CD24_8-4-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "154 C.D. 2025",
+      "caption": "T. Powell v. PPB",
+      "author": "Wallace, J.",
+      "pub_date": "Tue, 04 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/154CD25_8-4-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/154CD25_8-4-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "375 C.D. 2025",
+      "caption": "G.S. Panza v. Bureau of Driver Licensing",
+      "author": "Wallace, J.",
+      "pub_date": "Tue, 04 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/375CD25_8-4-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/375CD25_8-4-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "440 C.D. 2025",
+      "caption": "T. Felder v. PPB",
+      "author": "Wallace, J.",
+      "pub_date": "Tue, 04 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/440CD25_8-4-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/440CD25_8-4-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "450 C.D. 2025",
+      "caption": "K.M. Minichowski v. UCBR",
+      "author": "Wallace, J.",
+      "pub_date": "Tue, 04 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/450CD25_8-4-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/450CD25_8-4-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "179 C.D. 2025",
+      "caption": "W. Bolds v. City of Philadelphia (WCAB)",
+      "author": "Tsai, J.",
+      "pub_date": "Tue, 04 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/179CD25_8-4-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/179CD25_8-4-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
       "docket": "755 C.D. 2025",
       "caption": "Tri-County Respite, Inc., d/b/a New Vitae, Inc., - Quakertown v. DHS",
       "author": "Tsai, J.",
@@ -2296,6 +2416,30 @@
     {
       "type": "opinion",
       "court": "Third Circuit",
+      "docket": "25-1480",
+      "caption": "Paul Lisenby v. Olympus Corporation of the Americas",
+      "author": "",
+      "pub_date": "Tue, 04 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/251480p.pdf",
+      "guid": "ca3-25-1480-251480p.pdf",
+      "precedential": true,
+      "origin": "USDC for the Eastern District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "24-3291",
+      "caption": "Prospect Capital Management LP v. Stratera Holdings LLC",
+      "author": "",
+      "pub_date": "Tue, 04 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/243291p.pdf",
+      "guid": "ca3-24-3291-243291p.pdf",
+      "precedential": true,
+      "origin": "USDC for the District of Delaware"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
       "docket": "25-3058",
       "caption": "USA v. Gregory Turbe",
       "author": "",
@@ -2351,6 +2495,18 @@
       "url": "https://www2.ca3.uscourts.gov/opinarch/243006p.pdf",
       "guid": "ca3-24-3006-243006p.pdf",
       "precedential": true,
+      "origin": "USDC for the District of New Jersey"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-1107",
+      "caption": "USA v. Christian Walther",
+      "author": "",
+      "pub_date": "Tue, 04 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/251107np.pdf",
+      "guid": "ca3-25-1107-251107np.pdf",
+      "precedential": false,
       "origin": "USDC for the District of New Jersey"
     },
     {
