@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-04T12:18:30.625496+00:00",
+  "generated": "2026-08-04T14:42:08.116330+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -905,6 +905,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "08/12/2026 10:00AM",
+      "case_number": "23-cv-2315",
+      "caption": "DWYER v. LAW OFFICES OF GREGOR",
+      "judge": "DISTRICT JUDGE SCOTT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13B",
+      "hearing_type": "Final Pretrial Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?610688"
+    },
+    {
+      "court": "EDPA",
       "datetime": "08/12/2026 10:30AM",
       "case_number": "26-cr-0023",
       "caption": "USA v. EZEWIRO",
@@ -1049,17 +1060,6 @@
     {
       "court": "EDPA",
       "datetime": "08/13/2026 09:30AM",
-      "case_number": "26-cv-2195",
-      "caption": "Butler v. BJ'S Wholesale Club,",
-      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5B",
-      "hearing_type": "Arbitration Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652386"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/13/2026 09:30AM",
       "case_number": "26-cv-1287",
       "caption": "C. v. Pennsbury School Distric",
       "judge": "DISTRICT JUDGE SANCHEZ",
@@ -1103,6 +1103,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "08/13/2026 10:00AM",
+      "case_number": "26-cr-0327",
+      "caption": "USA v. SHIVE",
+      "judge": "DISTRICT JUDGE WOLSON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12B",
+      "hearing_type": "Initial Appearance",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658442"
+    },
+    {
+      "court": "EDPA",
       "datetime": "08/13/2026 10:30AM",
       "case_number": "11-cr-0440",
       "caption": "USA v. MEEHAN",
@@ -1133,6 +1144,17 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658852"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/13/2026 01:30PM",
+      "case_number": "26-cr-0346",
+      "caption": "USA v. DAVIS",
+      "judge": "MAGISTRATE JUDGE COPELAND",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658853"
     },
     {
       "court": "EDPA",
@@ -1221,17 +1243,6 @@
       "courtroom": "Courtroom TBD",
       "hearing_type": "Jury Selection",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658085"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/14/2026 10:00AM",
-      "case_number": "23-cv-2315",
-      "caption": "DWYER v. LAW OFFICES OF GREGOR",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Final Pretrial Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?610688"
     },
     {
       "court": "EDPA",
