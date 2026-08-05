@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-05T20:39:42.827505+00:00",
+  "generated": "2026-08-05T22:21:24.876086+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -1136,6 +1136,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "08/18/2026 10:30AM",
+      "case_number": "24-cr-0382",
+      "caption": "USA v. MUSSET-RODRIGUEZ",
+      "judge": "DISTRICT JUDGE RUFE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12A",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629061"
+    },
+    {
+      "court": "EDPA",
       "datetime": "08/18/2026 11:00AM",
       "case_number": "23-cr-0028",
       "caption": "USA v. OYOLA",
@@ -1389,15 +1400,6 @@
     }
   ],
   "third_circuit": [
-    {
-      "court": "Third Circuit",
-      "date": "2026-08-10",
-      "case_number": "26-2469",
-      "caption": "Americans for Prosperity Foundation et al v. Anthony Albenc",
-      "panel": "HARDIMAN, BIBAS, RENDELL",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 1:00pm",
-      "disposition": "Argued"
-    },
     {
       "court": "Third Circuit",
       "date": "2026-09-23",
