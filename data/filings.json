@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-05T16:52:59.654758+00:00",
+  "generated": "2026-08-05T18:48:20.819152+00:00",
   "filings": [
     {
       "type": "filing",
@@ -139,6 +139,15 @@
     {
       "type": "filing",
       "court": "PA Supreme Court",
+      "docket": "220 WAL 2026",
+      "caption": "Davis, J. v. Woodbury Financial, et al., Pet. of: Beliveau Bays",
+      "status": "Active",
+      "filing_date": "08/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=220 WAL 2026&dnh=4ehkMXVk%2Fdpg7t4c%2BhNWHg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
       "docket": "20 WAP 2026",
       "caption": "Commonwealth v. Hines, V., Aplt.",
       "status": "Active",
@@ -162,6 +171,15 @@
       "status": "Active",
       "filing_date": "08/04/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=82 WM 2026&dnh=Yh5LS6xtSuKmp3gm4JQXoA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "83 WM 2026",
+      "caption": "Commonwealth v. Boczkowski, T., Pet.",
+      "status": "Active",
+      "filing_date": "08/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=83 WM 2026&dnh=%2BnZAyBvXsmn%2FiZNMw4j1Eg%3D%3D"
     },
     {
       "type": "filing",
@@ -427,6 +445,15 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "2140 EDA 2026",
+      "caption": "Com. v. Gonazles, J.",
+      "status": "Active",
+      "filing_date": "08/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2140 EDA 2026&dnh=rrZaUUipaa16NgfxalgBaw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "124 EDM 2026",
       "caption": "X.C. v. St. Christopher's Hospital",
       "status": "Active",
@@ -441,6 +468,15 @@
       "status": "Active",
       "filing_date": "08/02/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=125 EDM 2026&dnh=as4XijPE8g8KP5obOcvgpw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "126 EDM 2026",
+      "caption": "Garavelas, L. v. Garavelas, C.",
+      "status": "Active",
+      "filing_date": "08/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=126 EDM 2026&dnh=BC2WSm72Dfqa9KHY8CU%2BpA%3D%3D"
     },
     {
       "type": "filing",
@@ -1065,6 +1101,106 @@
     }
   ],
   "opinions": [
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 75 WAL 2026",
+      "caption": "Commonwealth v. Hoye, N., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Wed, 05 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/75WAL2026 - 106877519368920194.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/75WAL2026 - 106877519368920194.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 160 MAL 2026",
+      "caption": "Commonwealth v. Schwenk, C., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Wed, 05 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/160MAL2026 - 106877522368920544.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/160MAL2026 - 106877522368920544.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 127 MAL 2026",
+      "caption": "Commonwealth v. Navedo, C., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Wed, 05 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/127MAL2026 - 106877485368916345.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/127MAL2026 - 106877485368916345.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 110 MAL 2026",
+      "caption": "Commonwealth v. Lewis, K., Jr., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Wed, 05 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/110MAL2026 - 106877521368920614.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/110MAL2026 - 106877521368920614.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 102 MAL 2026",
+      "caption": "Commonwealth v. Irving, L., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Wed, 05 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/102MAL2026 - 106877520368920199.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/102MAL2026 - 106877520368920199.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 88 MAL 2026",
+      "caption": "Commonwealth v. Anderson-Myles, A., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Wed, 05 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/88MAL2026 - 106877518368920082.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/88MAL2026 - 106877518368920082.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 68 MAL 2026",
+      "caption": "Commonwealth v. Curtis, T., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Wed, 05 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/68MAL2026 - 106877517368920158.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/68MAL2026 - 106877517368920158.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 49 MAL 2026",
+      "caption": "Commonwealth v. Jennings, M., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Wed, 05 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/49MAL2026 - 106877494368917096.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/49MAL2026 - 106877494368917096.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 539 MAL 2025",
+      "caption": "Commonwealth v. Woodard, D., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Wed, 05 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/539MAL2025 - 106877511368919402.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/539MAL2025 - 106877511368919402.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 440 MAL 2024",
+      "caption": "Coatesville Area SD v. Chester Co. BAA et al",
+      "author": "Per Curiam",
+      "pub_date": "Wed, 05 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/440MAL2024 - 106877488368916865.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/440MAL2024 - 106877488368916865.pdf"
+    },
     {
       "type": "opinion",
       "court": "PA Supreme Court",
@@ -2362,6 +2498,42 @@
     {
       "type": "opinion",
       "court": "Third Circuit",
+      "docket": "25-3098",
+      "caption": "Cristofer Ortega-Varela v. Attorney General United States of America",
+      "author": "",
+      "pub_date": "Wed, 05 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/253098np.pdf",
+      "guid": "ca3-25-3098-253098np.pdf",
+      "precedential": false,
+      "origin": "Agency"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-3032",
+      "caption": "Bezalel Grossberger v. Robert Cormack",
+      "author": "",
+      "pub_date": "Wed, 05 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/253032np.pdf",
+      "guid": "ca3-25-3032-253032np.pdf",
+      "precedential": false,
+      "origin": "USDC for the District of New Jersey"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-2817",
+      "caption": "Eric Weiss v. Deborah Posner",
+      "author": "",
+      "pub_date": "Wed, 05 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/252817np.pdf",
+      "guid": "ca3-25-2817-252817np.pdf",
+      "precedential": false,
+      "origin": "USDC for the District of New Jersey"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
       "docket": "25-2790",
       "caption": "Samson Orusa v. Warden Allenwood FCI",
       "author": "",
@@ -2394,6 +2566,18 @@
       "guid": "ca3-25-1296-251296np.pdf",
       "precedential": false,
       "origin": "Agency"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-1237",
+      "caption": "USA v. Tyleeya Williams",
+      "author": "",
+      "pub_date": "Wed, 05 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/251237np.pdf",
+      "guid": "ca3-25-1237-251237np.pdf",
+      "precedential": false,
+      "origin": "USDC for the Eastern District of Pennsylvania"
     },
     {
       "type": "opinion",
