@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-05T12:16:15.548744+00:00",
+  "generated": "2026-08-05T14:33:50.859980+00:00",
   "filings": [
     {
       "type": "filing",
@@ -643,6 +643,15 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "1201 MDA 2026",
+      "caption": "Perry, M. v. Kelly, A.",
+      "status": "Active",
+      "filing_date": "08/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1201 MDA 2026&dnh=Jzv08MdjhxaIZyaoiMfqKw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "979 WDA 2026",
       "caption": "Williams, B. v. Williams, T.",
       "status": "Active",
@@ -922,6 +931,15 @@
     {
       "type": "filing",
       "court": "PA Commonwealth Court",
+      "docket": "272 FR 2026",
+      "caption": "LGG Industrial, Inc. v. Com. of Pa.",
+      "status": "Active",
+      "filing_date": "08/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=272 FR 2026&dnh=dPeeB15KuFVLUk%2F7bhi%2FQw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
       "docket": "349 MD 2026",
       "caption": "DEP v. Petro Erie, Inc.",
       "status": "Active",
@@ -948,6 +966,16 @@
     }
   ],
   "opinions": [
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 16 EAP 2025",
+      "caption": "Khalil, S., Aplt. v. Mary Jane Home Enrich Center, et al.",
+      "author": "Justice Christine Donohue",
+      "pub_date": "Wed, 05 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/J-2-2026mo - 106877560368928994.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/J-2-2026mo - 106877560368928994.pdf"
+    },
     {
       "type": "opinion",
       "court": "PA Supreme Court",
