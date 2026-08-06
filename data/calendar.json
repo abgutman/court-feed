@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-06T12:18:36.835715+00:00",
+  "generated": "2026-08-06T14:37:30.154152+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -91,28 +91,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "08/06/2026 10:45AM",
-      "case_number": "18-cv-1573",
-      "caption": "IWANSKI v. FIRST PENN-PACIFIC",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "",
-      "courtroom": "Video Conference",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?541701"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/06/2026 10:45AM",
-      "case_number": "18-cv-2989",
-      "caption": "TVPX ARS INC. v. LINCOLN NATIO",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "",
-      "courtroom": "Video Conference",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545001"
-    },
-    {
-      "court": "EDPA",
       "datetime": "08/06/2026 11:00AM",
       "case_number": "25-cr-0477",
       "caption": "USA v. WILLIAMS",
@@ -154,6 +132,28 @@
       "courtroom": "Courtroom 15B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635161"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/06/2026 01:30PM",
+      "case_number": "26-mj-1308",
+      "caption": "USA v. RASULOV",
+      "judge": "MAGISTRATE JUDGE SITARSKI",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5C",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657756"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/06/2026 01:30PM",
+      "case_number": "26-mj-1308",
+      "caption": "USA v. RASULOV",
+      "judge": "MAGISTRATE JUDGE SITARSKI",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5C",
+      "hearing_type": "Preliminary Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657756"
     },
     {
       "court": "EDPA",
@@ -498,6 +498,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "08/11/2026 11:00AM",
+      "case_number": "23-cv-2315",
+      "caption": "DWYER v. LAW OFFICES OF GREGOR",
+      "judge": "DISTRICT JUDGE SCOTT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13B",
+      "hearing_type": "Final Pretrial Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?610688"
+    },
+    {
+      "court": "EDPA",
       "datetime": "08/11/2026 01:30PM",
       "case_number": "26-cv-5539",
       "caption": "Bautista Calles v. JAMISON et",
@@ -572,17 +583,6 @@
       "courtroom": "Courtroom 9B",
       "hearing_type": "Settlement Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629029"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/12/2026 10:00AM",
-      "case_number": "23-cv-2315",
-      "caption": "DWYER v. LAW OFFICES OF GREGOR",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Final Pretrial Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?610688"
     },
     {
       "court": "EDPA",
@@ -883,6 +883,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "08/13/2026 02:00PM",
+      "case_number": "25-cr-0376",
+      "caption": "USA v. QUEZADA",
+      "judge": "DISTRICT JUDGE PAPPERT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 11A",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642814"
+    },
+    {
+      "court": "EDPA",
       "datetime": "08/14/2026 09:00AM",
       "case_number": "26-cr-0315",
       "caption": "USA v. VEGA-GONZALEZ",
@@ -1155,6 +1166,17 @@
       "courtroom": "Courtroom 14A",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646189"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/18/2026 02:00PM",
+      "case_number": "23-cr-0353",
+      "caption": "USA v. WILLIS",
+      "judge": "DISTRICT JUDGE RUFE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12A",
+      "hearing_type": "Sentencing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?612664"
     },
     {
       "court": "EDPA",
