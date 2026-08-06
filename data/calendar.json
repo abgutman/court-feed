@@ -1,61 +1,6 @@
 {
-  "generated": "2026-08-05T22:21:24.876086+00:00",
+  "generated": "2026-08-06T00:10:39.275482+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "08/05/2026 10:00AM",
-      "case_number": "24-cv-2404",
-      "caption": "COOLEY v. UNITED PARCEL SERVIC",
-      "judge": "DISTRICT JUDGE COSTELLO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623016"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/05/2026 11:30AM",
-      "case_number": "26-cv-5257",
-      "caption": "Sanchez-Gonzalez v. JAMISON et",
-      "judge": "DISTRICT JUDGE WEILHEIMER",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 7B",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658636"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/05/2026 12:30PM",
-      "case_number": "23-cv-5039",
-      "caption": "HASSON v. COMCAST CABLE COMMUN",
-      "judge": "DISTRICT JUDGE YOUNGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15B",
-      "hearing_type": "Miscellaneous Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617030"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/05/2026 02:30PM",
-      "case_number": "22-cr-0399",
-      "caption": "USA v. WILLIAMS",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?602754"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/05/2026 03:30PM",
-      "case_number": "26-cr-0349",
-      "caption": "USA v. CILURSO",
-      "judge": "DISTRICT JUDGE WEILHEIMER",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 7B",
-      "hearing_type": "Initial Appearance",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658975"
-    },
     {
       "court": "EDPA",
       "datetime": "08/06/2026 09:00AM",
@@ -1397,9 +1342,73 @@
       "courtroom": "Courtroom 10B",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?612115"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/20/2026 09:30AM",
+      "case_number": "24-cv-5691",
+      "caption": "Chen v. BURLINGTON COAT FACTOR",
+      "judge": "DISTRICT JUDGE HENRY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5D",
+      "hearing_type": "Arbitration Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629143"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/20/2026 09:30AM",
+      "case_number": "25-cv-0644",
+      "caption": "STATE FARM FIRE AND CASUALTY C",
+      "judge": "DISTRICT JUDGE SURRICK",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5B",
+      "hearing_type": "Arbitration Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633149"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/20/2026 10:00AM",
+      "case_number": "26-cv-0510",
+      "caption": "BURNETT-ROBINS v. KENCREST SER",
+      "judge": "MAGISTRATE JUDGE REID",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3C",
+      "hearing_type": "Settlement Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648959"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/20/2026 12:30PM",
+      "case_number": "17-cr-0143",
+      "caption": "USA v. SOTO",
+      "judge": "DISTRICT JUDGE YOUNGE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 15B",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?528383"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/20/2026 02:00PM",
+      "case_number": "24-cr-0181",
+      "caption": "USA v. KEISTER",
+      "judge": "DISTRICT JUDGE SCHMEHL",
+      "city": "Reading",
+      "courtroom": "Gateway 5th Floor",
+      "hearing_type": "Sentencing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621784"
     }
   ],
   "third_circuit": [
+    {
+      "court": "Third Circuit",
+      "date": "2026-08-10",
+      "case_number": "26-2469",
+      "caption": "Americans for Prosperity Foundation et al v. Anthony Albenc",
+      "panel": "HARDIMAN, BIBAS, RENDELL",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 1:00pm",
+      "disposition": "Argued"
+    },
     {
       "court": "Third Circuit",
       "date": "2026-09-23",
