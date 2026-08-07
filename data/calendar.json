@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-07T13:37:46.825516+00:00",
+  "generated": "2026-08-07T15:09:17.063203+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -323,17 +323,6 @@
     {
       "court": "EDPA",
       "datetime": "08/12/2026 09:30AM",
-      "case_number": "25-cv-5283",
-      "caption": "ROSARIO v. ROSS STORES, INC. e",
-      "judge": "MAGISTRATE JUDGE CARLOS",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5D",
-      "hearing_type": "Arbitration Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643605"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/12/2026 09:30AM",
       "case_number": "24-cv-0227",
       "caption": "ABIRA MEDICAL LABORATORIES LLC",
       "judge": "DISTRICT JUDGE KENNEY",
@@ -418,6 +407,17 @@
       "courtroom": "Courtroom 8B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?604776"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/12/2026 01:30PM",
+      "case_number": "25-cr-0460",
+      "caption": "USA v. CASTILLO",
+      "judge": "MAGISTRATE JUDGE COPELAND",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645286"
     },
     {
       "court": "EDPA",
@@ -1202,17 +1202,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "08/20/2026 02:00PM",
-      "case_number": "24-cr-0181",
-      "caption": "USA v. KEISTER",
-      "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "Reading",
-      "courtroom": "Gateway 5th Floor",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621784"
-    },
-    {
-      "court": "EDPA",
       "datetime": "08/21/2026 09:00AM",
       "case_number": "26-cr-0313",
       "caption": "USA v. LOWE",
@@ -1279,15 +1268,6 @@
     }
   ],
   "third_circuit": [
-    {
-      "court": "Third Circuit",
-      "date": "2026-08-10",
-      "case_number": "26-2469",
-      "caption": "Americans for Prosperity Foundation et al v. Anthony Albenc",
-      "panel": "HARDIMAN, BIBAS, RENDELL",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 1:00pm",
-      "disposition": "Argued"
-    },
     {
       "court": "Third Circuit",
       "date": "2026-09-23",
