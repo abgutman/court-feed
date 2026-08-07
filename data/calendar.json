@@ -1,248 +1,6 @@
 {
-  "generated": "2026-08-06T14:37:30.154152+00:00",
+  "generated": "2026-08-07T00:45:33.953094+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "08/06/2026 09:00AM",
-      "case_number": "26-cr-0143",
-      "caption": "USA v. SMITH",
-      "judge": "DISTRICT JUDGE SAVAGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651993"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/06/2026 09:30AM",
-      "case_number": "25-cv-4732",
-      "caption": "CARPENTER et al v. WERNER CO.",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Trial Date",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642435"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/06/2026 09:30AM",
-      "case_number": "26-cr-0147",
-      "caption": "USA v. WITHERSPOON",
-      "judge": "DISTRICT JUDGE WEILHEIMER",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 7B",
-      "hearing_type": "Evidentiary Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651997"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/06/2026 10:00AM",
-      "case_number": "25-cv-6984",
-      "caption": "WESTHOVEN v. HAND AND STONE FR",
-      "judge": "MAGISTRATE JUDGE REID",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3C",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647239"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/06/2026 10:00AM",
-      "case_number": "26-cv-0652",
-      "caption": "LOPEZ v. LANCASTER SCHOOL DIST",
-      "judge": "MAGISTRATE JUDGE TOPLIN",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3I",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649231"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/06/2026 10:00AM",
-      "case_number": "26-cr-0196",
-      "caption": "USA v. FOLLY",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12B",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653798"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/06/2026 10:00AM",
-      "case_number": "22-cv-0688",
-      "caption": "AMERICAN ENVIRONMENTAL ENTERPR",
-      "judge": "DISTRICT JUDGE YOUNGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?593964"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/06/2026 10:15AM",
-      "case_number": "26-cv-3608",
-      "caption": "Evangelista v. AMAZON.COM SERV",
-      "judge": "DISTRICT JUDGE HENRY",
-      "city": "",
-      "courtroom": "Telephone Conference",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655334"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/06/2026 11:00AM",
-      "case_number": "25-cr-0477",
-      "caption": "USA v. WILLIAMS",
-      "judge": "DISTRICT JUDGE KEARNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6B",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645798"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/06/2026 12:15PM",
-      "case_number": "25-cr-0477",
-      "caption": "USA v. BLACKSHEAR",
-      "judge": "DISTRICT JUDGE KEARNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645797"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/06/2026 12:15PM",
-      "case_number": "25-cr-0477",
-      "caption": "USA v. WILLIAMS",
-      "judge": "DISTRICT JUDGE KEARNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645798"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/06/2026 12:30PM",
-      "case_number": "25-cr-0113",
-      "caption": "USA v. HARDY",
-      "judge": "DISTRICT JUDGE YOUNGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635161"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/06/2026 01:30PM",
-      "case_number": "26-mj-1308",
-      "caption": "USA v. RASULOV",
-      "judge": "MAGISTRATE JUDGE SITARSKI",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5C",
-      "hearing_type": "Detention Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657756"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/06/2026 01:30PM",
-      "case_number": "26-mj-1308",
-      "caption": "USA v. RASULOV",
-      "judge": "MAGISTRATE JUDGE SITARSKI",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5C",
-      "hearing_type": "Preliminary Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657756"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/06/2026 01:30PM",
-      "case_number": "26-mj-1516",
-      "caption": "USA v. LIGHTNER",
-      "judge": "MAGISTRATE JUDGE SITARSKI",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5C",
-      "hearing_type": "Detention Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659136"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/06/2026 01:30PM",
-      "case_number": "26-mj-1516",
-      "caption": "USA v. LIGHTNER",
-      "judge": "MAGISTRATE JUDGE SITARSKI",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5C",
-      "hearing_type": "Preliminary Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659136"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/06/2026 02:00PM",
-      "case_number": "22-cr-0011",
-      "caption": "USA v. FECONDO",
-      "judge": "DISTRICT JUDGE WEILHEIMER",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 7B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592651"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/06/2026 03:00PM",
-      "case_number": "26-cv-1590",
-      "caption": "MANIGAULT v. AVENTURA AT PEMBR",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651132"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/10/2026 09:00AM",
-      "case_number": "25-cr-0477",
-      "caption": "USA v. BLACKSHEAR",
-      "judge": "DISTRICT JUDGE KEARNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6B",
-      "hearing_type": "Jury Selection",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645797"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/10/2026 09:00AM",
-      "case_number": "25-cr-0477",
-      "caption": "USA v. BLACKSHEAR",
-      "judge": "DISTRICT JUDGE KEARNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645797"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/10/2026 09:00AM",
-      "case_number": "25-cr-0477",
-      "caption": "USA v. WILLIAMS",
-      "judge": "DISTRICT JUDGE KEARNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6B",
-      "hearing_type": "Jury Selection",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645798"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/10/2026 09:00AM",
-      "case_number": "25-cr-0477",
-      "caption": "USA v. WILLIAMS",
-      "judge": "DISTRICT JUDGE KEARNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645798"
-    },
     {
       "court": "EDPA",
       "datetime": "08/10/2026 09:00AM",
@@ -360,7 +118,7 @@
       "caption": "USA v. COLON",
       "judge": "DISTRICT JUDGE KENNEY",
       "city": "Philadelphia",
-      "courtroom": "COURTROOM",
+      "courtroom": "Courtroom 16A",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?585148"
     },
@@ -382,7 +140,7 @@
       "caption": "Smith v. GEORGE JUNIOR REPUBLI",
       "judge": "DISTRICT JUDGE KENNEY",
       "city": "Philadelphia",
-      "courtroom": "Courtroom 11B",
+      "courtroom": "Judge's Chambers",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654315"
     },
@@ -437,7 +195,7 @@
       "caption": "BH 100 REALTY LLC v. STATE FAR",
       "judge": "DISTRICT JUDGE KENNEY",
       "city": "Philadelphia",
-      "courtroom": "Courtroom 11B",
+      "courtroom": "Judge's Chambers",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656476"
     },
@@ -488,17 +246,6 @@
     {
       "court": "EDPA",
       "datetime": "08/11/2026 11:00AM",
-      "case_number": "19-cr-0482",
-      "caption": "USA v. MANSON",
-      "judge": "DISTRICT JUDGE KENNEY",
-      "city": "Philadelphia",
-      "courtroom": "COURTROOM",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?560863"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/11/2026 11:00AM",
       "case_number": "23-cv-2315",
       "caption": "DWYER v. LAW OFFICES OF GREGOR",
       "judge": "DISTRICT JUDGE SCOTT",
@@ -536,7 +283,7 @@
       "caption": "USA v. WILLIAMS",
       "judge": "DISTRICT JUDGE KENNEY",
       "city": "Philadelphia",
-      "courtroom": "Courtroom 11B",
+      "courtroom": "Courtroom 16A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645335"
     },
@@ -569,7 +316,7 @@
       "caption": "ABIRA MEDICAL LABORATORIES LLC",
       "judge": "DISTRICT JUDGE KENNEY",
       "city": "Philadelphia",
-      "courtroom": "Courtroom TBD",
+      "courtroom": "Courtroom 16A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617880"
     },
@@ -675,6 +422,17 @@
     {
       "court": "EDPA",
       "datetime": "08/12/2026 02:00PM",
+      "case_number": "26-cr-0238",
+      "caption": "USA v. CAMMARATA",
+      "judge": "DISTRICT JUDGE KENNEY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655436"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/12/2026 02:00PM",
       "case_number": "24-cr-0424",
       "caption": "USA v. BLAZO",
       "judge": "DISTRICT JUDGE MURPHY",
@@ -682,6 +440,17 @@
       "courtroom": "Courtroom 3B",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630770"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/12/2026 02:00PM",
+      "case_number": "25-cr-0066",
+      "caption": "USA v. JORGE-ORTIZ",
+      "judge": "DISTRICT JUDGE SCOTT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13B",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633968"
     },
     {
       "court": "EDPA",
@@ -701,7 +470,7 @@
       "caption": "USA v. CAMMARATA",
       "judge": "DISTRICT JUDGE KENNEY",
       "city": "Philadelphia",
-      "courtroom": "Courtroom TBD",
+      "courtroom": "Courtroom 16A",
       "hearing_type": "Detention Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655436"
     },
@@ -723,7 +492,7 @@
       "caption": "EADDY v. CITY OF PHILA et al",
       "judge": "DISTRICT JUDGE KENNEY",
       "city": "Philadelphia",
-      "courtroom": "Courtroom 11B",
+      "courtroom": "Judge's Chambers",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650469"
     },
@@ -744,8 +513,8 @@
       "case_number": "26-cv-2862",
       "caption": "MOORE v. STATE FARM FIRE AND C",
       "judge": "DISTRICT JUDGE KENNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11B",
+      "city": "",
+      "courtroom": "Telephone Conference",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653819"
     },
@@ -781,6 +550,17 @@
       "courtroom": "Courtroom 12B",
       "hearing_type": "Initial Appearance",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658442"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/13/2026 10:15AM",
+      "case_number": "26-cv-3425",
+      "caption": "GARZA v. SOLID WASTE SERVICES",
+      "judge": "DISTRICT JUDGE HENRY",
+      "city": "",
+      "courtroom": "Telephone Conference",
+      "hearing_type": "Pretrial Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654973"
     },
     {
       "court": "EDPA",
@@ -1158,17 +938,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "08/18/2026 01:30PM",
-      "case_number": "25-cr-0491",
-      "caption": "USA v. FLEWELLEN",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646189"
-    },
-    {
-      "court": "EDPA",
       "datetime": "08/18/2026 02:00PM",
       "case_number": "23-cr-0353",
       "caption": "USA v. WILLIS",
@@ -1276,6 +1045,17 @@
       "courtroom": "Courtroom 10B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650478"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/19/2026 11:00AM",
+      "case_number": "25-cr-0491",
+      "caption": "USA v. FLEWELLEN",
+      "judge": "DISTRICT JUDGE DIAMOND",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14A",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646189"
     },
     {
       "court": "EDPA",
@@ -1419,6 +1199,72 @@
       "courtroom": "Gateway 5th Floor",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621784"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/21/2026 09:00AM",
+      "case_number": "26-cr-0313",
+      "caption": "USA v. LOWE",
+      "judge": "DISTRICT JUDGE GALLAGHER",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom TBD",
+      "hearing_type": "Jury Selection",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658093"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/21/2026 09:30AM",
+      "case_number": "24-cr-0219",
+      "caption": "USA v. AVILA",
+      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 8B",
+      "hearing_type": "Jury Selection",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622823"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/21/2026 09:30AM",
+      "case_number": "26-cr-0300",
+      "caption": "USA v. SMITH",
+      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 8B",
+      "hearing_type": "Jury Selection",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657662"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/21/2026 10:00AM",
+      "case_number": "24-cr-0399",
+      "caption": "USA v. WILLIAMSON",
+      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 8B",
+      "hearing_type": "Sentencing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629495"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/21/2026 11:00AM",
+      "case_number": "24-cr-0219",
+      "caption": "USA v. VELEZ",
+      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 8B",
+      "hearing_type": "Sentencing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622833"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/21/2026 01:00PM",
+      "case_number": "26-cv-3003",
+      "caption": "COLEMAN et al v. Stuart",
+      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3D",
+      "hearing_type": "Settlement Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654072"
     }
   ],
   "third_circuit": [
