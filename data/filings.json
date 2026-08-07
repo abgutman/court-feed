@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-07T11:56:38.178399+00:00",
+  "generated": "2026-08-07T13:37:21.822265+00:00",
   "filings": [
     {
       "type": "filing",
@@ -1426,6 +1426,16 @@
     {
       "type": "opinion",
       "court": "PA Superior Court",
+      "docket": "",
+      "caption": "Reargument Table",
+      "author": "",
+      "pub_date": "Fri, 07 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/WestReport080726.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/WestReport080726.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Superior Court",
       "docket": "No. 1156 WDA 2025",
       "caption": "Estate of: James W. Porter, Jr., Appeal of: Hickman, L.",
       "author": "Bowes, J.",
@@ -1982,16 +1992,6 @@
       "pub_date": "Mon, 03 Aug 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S23019-26m - 106874055368565598.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S23019-26m - 106874055368565598.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Superior Court",
-      "docket": "No. 1937 EDA 2025",
-      "caption": "Capital Commercial Real Estate v. CJK Investments",
-      "author": "McLaughlin, J.",
-      "pub_date": "Mon, 03 Aug 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S12011-26m - 106874321368594484.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S12011-26m - 106874321368594484.pdf"
     },
     {
       "type": "opinion",
