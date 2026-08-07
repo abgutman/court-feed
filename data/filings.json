@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-07T18:00:54.187873+00:00",
+  "generated": "2026-08-07T19:14:10.908701+00:00",
   "filings": [
     {
       "type": "filing",
@@ -31,6 +31,15 @@
     {
       "type": "filing",
       "court": "PA Supreme Court",
+      "docket": "68 EM 2026",
+      "caption": "Commonwealth v. Parrish, Michael John, Pet.",
+      "status": "Active",
+      "filing_date": "08/07/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=68 EM 2026&dnh=52CrVw8pEN7%2FXHuu%2F7qNaQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
       "docket": "455 MAL 2026",
       "caption": "Commonwealth v. McDevitt, A., Pet.",
       "status": "Active",
@@ -54,6 +63,33 @@
       "status": "Active",
       "filing_date": "08/06/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=457 MAL 2026&dnh=1q7TEHdCaysD%2B678%2BxOjAw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "458 MAL 2026",
+      "caption": "Commonwealth v. Smith, K., Pet.",
+      "status": "Active",
+      "filing_date": "08/07/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=458 MAL 2026&dnh=8%2F9n9%2FOCEXoVZm%2FLZLLpSw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "459 MAL 2026",
+      "caption": "Commonwealth v. Smith, K., Pet.",
+      "status": "Active",
+      "filing_date": "08/07/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=459 MAL 2026&dnh=3Dv3AY%2FC8dzU06XpRFupLw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "460 MAL 2026",
+      "caption": "Commonwealth v. Presley, T., Pet.",
+      "status": "Active",
+      "filing_date": "08/07/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=460 MAL 2026&dnh=YWV6aTV6FUu%2BszJr8pUNhQ%3D%3D"
     },
     {
       "type": "filing",
@@ -1012,6 +1048,15 @@
     {
       "type": "filing",
       "court": "PA Commonwealth Court",
+      "docket": "1144 CD 2026",
+      "caption": "HCH Senior Care, LLC v. Pabon (WCAB)",
+      "status": "Active",
+      "filing_date": "08/07/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1144 CD 2026&dnh=LrewLg4JbovkkDaV6GrsPw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
       "docket": "272 FR 2026",
       "caption": "LGG Industrial, Inc. v. Com. of Pa.",
       "status": "Active",
@@ -1048,11 +1093,38 @@
     {
       "type": "filing",
       "court": "PA Commonwealth Court",
+      "docket": "276 FR 2026",
+      "caption": "Scherzinger, V. v. Comm of PA",
+      "status": "Active",
+      "filing_date": "08/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=276 FR 2026&dnh=jiPvbTlbdtdyGegQX3Vquw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
       "docket": "357 MD 2026",
       "caption": "Comm of Pa v. Held, M",
       "status": "Active",
       "filing_date": "08/06/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=357 MD 2026&dnh=ludHSrT2C9AKRUhLO4MFlA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "359 MD 2026",
+      "caption": "Anderson, U v. CHCA et al",
+      "status": "Active",
+      "filing_date": "08/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=359 MD 2026&dnh=x8z3GwSz1DKhJPJo6XIxMg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "360 MD 2026",
+      "caption": "Arnold, M v. DOC",
+      "status": "Active",
+      "filing_date": "08/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=360 MD 2026&dnh=1jvzDNNbGGg%2FgwASsIemJA%3D%3D"
     }
   ],
   "opinions": [
