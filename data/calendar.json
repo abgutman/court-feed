@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-07T15:09:17.063203+00:00",
+  "generated": "2026-08-07T16:09:27.860576+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -352,6 +352,17 @@
       "courtroom": "Courtroom 8B",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648429"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/12/2026 10:30AM",
+      "case_number": "21-cr-0009",
+      "caption": "USA v. COUNCIL",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?580522"
     },
     {
       "court": "EDPA",
@@ -1268,6 +1279,15 @@
     }
   ],
   "third_circuit": [
+    {
+      "court": "Third Circuit",
+      "date": "2026-08-10",
+      "case_number": "26-2469",
+      "caption": "Americans for Prosperity Foundation et al v. Anthony Albenc",
+      "panel": "HARDIMAN, BIBAS, RENDELL",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 1:00pm",
+      "disposition": "Argued"
+    },
     {
       "court": "Third Circuit",
       "date": "2026-09-23",
