@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-07T22:56:24.467859+00:00",
+  "generated": "2026-08-07T23:48:41.188370+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -839,17 +839,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "08/18/2026 09:30AM",
-      "case_number": "93-cr-0495",
-      "caption": "USA v. DORSEY",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?132398"
-    },
-    {
-      "court": "EDPA",
       "datetime": "08/18/2026 10:00AM",
       "case_number": "24-cv-5283",
       "caption": "JOHNSON v. THE PNC FINANCIAL S",
@@ -1001,17 +990,6 @@
       "courtroom": "Gateway 5th Floor",
       "hearing_type": "Detention Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657079"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/19/2026 09:30AM",
-      "case_number": "23-cr-0164",
-      "caption": "USA v. RAY",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?608496"
     },
     {
       "court": "EDPA",
@@ -1279,6 +1257,15 @@
     }
   ],
   "third_circuit": [
+    {
+      "court": "Third Circuit",
+      "date": "2026-08-10",
+      "case_number": "26-2469",
+      "caption": "Americans for Prosperity Foundation et al v. Anthony Albenc",
+      "panel": "HARDIMAN, BIBAS, RENDELL",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 1:00pm",
+      "disposition": "Argued"
+    },
     {
       "court": "Third Circuit",
       "date": "2026-09-23",
