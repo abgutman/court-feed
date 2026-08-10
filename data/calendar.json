@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-10T15:16:13.386216+00:00",
+  "generated": "2026-08-10T16:10:18.350547+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -278,17 +278,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "08/11/2026 11:00AM",
-      "case_number": "23-cv-2315",
-      "caption": "DWYER v. LAW OFFICES OF GREGOR",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Final Pretrial Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?610688"
-    },
-    {
-      "court": "EDPA",
       "datetime": "08/11/2026 01:30PM",
       "case_number": "26-cv-5539",
       "caption": "Bautista Calles v. JAMISON et",
@@ -451,17 +440,6 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659222"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/12/2026 01:30PM",
-      "case_number": "23-cv-1353",
-      "caption": "HOUGH v. DELAWARE COUNTY et al",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Final Pretrial Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?608233"
     },
     {
       "court": "EDPA",
@@ -814,17 +792,6 @@
       "courtroom": "Courtroom 10A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642185"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/18/2026 09:30AM",
-      "case_number": "23-cv-1353",
-      "caption": "HOUGH v. DELAWARE COUNTY et al",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Trial Date",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?608233"
     },
     {
       "court": "EDPA",
