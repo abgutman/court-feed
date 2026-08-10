@@ -1,6 +1,17 @@
 {
-  "generated": "2026-08-10T13:42:57.963919+00:00",
+  "generated": "2026-08-10T15:16:13.386216+00:00",
   "edpa": [
+    {
+      "court": "EDPA",
+      "datetime": "08/10/2026 09:00AM",
+      "case_number": "26-cr-0143",
+      "caption": "USA v. SMITH",
+      "judge": "DISTRICT JUDGE SAVAGE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 9A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651993"
+    },
     {
       "court": "EDPA",
       "datetime": "08/10/2026 10:00AM",
@@ -708,17 +719,6 @@
     {
       "court": "EDPA",
       "datetime": "08/13/2026 02:00PM",
-      "case_number": "26-cv-5437",
-      "caption": "Gao v. RIFE et al",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10A",
-      "hearing_type": "Miscellaneous Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658945"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/13/2026 02:00PM",
       "case_number": "25-cr-0376",
       "caption": "USA v. QUEZADA",
       "judge": "DISTRICT JUDGE PAPPERT",
@@ -1235,17 +1235,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "08/21/2026 09:30AM",
-      "case_number": "26-cr-0300",
-      "caption": "USA v. SMITH",
-      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 8B",
-      "hearing_type": "Jury Selection",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657662"
-    },
-    {
-      "court": "EDPA",
       "datetime": "08/21/2026 10:00AM",
       "case_number": "24-cr-0399",
       "caption": "USA v. WILLIAMSON",
@@ -1309,17 +1298,6 @@
       "courtroom": "Courtroom 8B",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622823"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/24/2026 09:30AM",
-      "case_number": "26-cr-0300",
-      "caption": "USA v. SMITH",
-      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 8B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657662"
     },
     {
       "court": "EDPA",
