@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-10T11:58:47.006798+00:00",
+  "generated": "2026-08-10T13:42:25.360223+00:00",
   "filings": [
     {
       "type": "filing",
@@ -463,6 +463,24 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "2170 EDA 2026",
+      "caption": "Gdula, D. v. Wasserman, L.",
+      "status": "Active",
+      "filing_date": "08/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2170 EDA 2026&dnh=xuMvgOjsG9we7JUDuuZFTQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2171 EDA 2026",
+      "caption": "In the Int. of: M. Lewis",
+      "status": "Active",
+      "filing_date": "08/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2171 EDA 2026&dnh=JLeHYABN1ZLQiDtBAPipRw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "126 EDM 2026",
       "caption": "Garavelas, L. v. Garavelas, C.",
       "status": "Active",
@@ -576,6 +594,15 @@
       "status": "Active",
       "filing_date": "08/07/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1210 MDA 2026&dnh=%2BuY3S7DLL7j%2BV%2BtWlViI6Q%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1211 MDA 2026",
+      "caption": "Com. v. Yoder, C.",
+      "status": "Active",
+      "filing_date": "08/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1211 MDA 2026&dnh=06nmhGObSbwGPdkUS%2B7%2FyQ%3D%3D"
     },
     {
       "type": "filing",
@@ -741,6 +768,42 @@
     },
     {
       "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1017 WDA 2026",
+      "caption": "Com. v. Coit, K.",
+      "status": "Active",
+      "filing_date": "08/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1017 WDA 2026&dnh=4jjsI2fvC5XzZ7pUP5t5lw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1018 WDA 2026",
+      "caption": "Com. v. Coit, K.",
+      "status": "Active",
+      "filing_date": "08/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1018 WDA 2026&dnh=vv3XaycL6noKReIwA1V5iQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1019 WDA 2026",
+      "caption": "Dowling, R. v. Dowling, M.",
+      "status": "Active",
+      "filing_date": "08/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1019 WDA 2026&dnh=nlljnr5r0hvL%2Bh1ahUIoWw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1020 WDA 2026",
+      "caption": "In the Int. of: Funair, G., Appeal of: Funair, A.",
+      "status": "Active",
+      "filing_date": "08/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1020 WDA 2026&dnh=QtqHfLYKJyqr6KuWuIRZEA%3D%3D"
+    },
+    {
+      "type": "filing",
       "court": "PA Commonwealth Court",
       "docket": "1138 CD 2026",
       "caption": "Shamer, S. et al. v. DOC (OOR)",
@@ -819,6 +882,15 @@
       "status": "Active",
       "filing_date": "08/06/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=357 MD 2026&dnh=ludHSrT2C9AKRUhLO4MFlA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "362 MD 2026",
+      "caption": "In Re: Nomination Papers of Brian John Peltier",
+      "status": "Active",
+      "filing_date": "08/07/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=362 MD 2026&dnh=xklyAfP9p0kOrIIANZKAgg%3D%3D"
     }
   ],
   "opinions": [
@@ -1479,8 +1551,8 @@
       "caption": "Henderson, J. v. Kardosh, J.",
       "author": "Stabile, J.",
       "pub_date": "Fri, 07 Aug 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-A10004-26m - 106880714369284282.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-A10004-26m - 106880714369284282.pdf"
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-A10004-26m.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-A10004-26m.pdf"
     },
     {
       "type": "opinion",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-10T11:59:12.178021+00:00",
+  "generated": "2026-08-10T13:42:57.963919+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -91,14 +91,25 @@
     },
     {
       "court": "EDPA",
-      "datetime": "08/10/2026 02:00PM",
-      "case_number": "15-cr-0117",
-      "caption": "USA v. KEMP",
-      "judge": "CHIEF JUDGE BEETLESTONE",
+      "datetime": "08/10/2026 01:30PM",
+      "case_number": "26-cr-0345",
+      "caption": "USA v. RIVERS",
+      "judge": "MAGISTRATE JUDGE COPELAND",
       "city": "Philadelphia",
-      "courtroom": "Courtroom 10A",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?504133"
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658816"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/10/2026 01:30PM",
+      "case_number": "26-cr-0345",
+      "caption": "USA v. RIVERS",
+      "judge": "MAGISTRATE JUDGE COPELAND",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658816"
     },
     {
       "court": "EDPA",
@@ -356,17 +367,6 @@
     {
       "court": "EDPA",
       "datetime": "08/12/2026 11:00AM",
-      "case_number": "22-cr-0146",
-      "caption": "USA v. LANE",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?596485"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/12/2026 11:00AM",
       "case_number": "26-cr-0272",
       "caption": "USA v. MILLER",
       "judge": "MAGISTRATE JUDGE REID",
@@ -429,6 +429,17 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645286"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/12/2026 01:30PM",
+      "case_number": "26-cr-0353",
+      "caption": "USA v. PASCAL",
+      "judge": "MAGISTRATE JUDGE COPELAND",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659222"
     },
     {
       "court": "EDPA",
@@ -631,6 +642,17 @@
     {
       "court": "EDPA",
       "datetime": "08/13/2026 01:30PM",
+      "case_number": "26-mj-1516",
+      "caption": "USA v. LIGHTNER",
+      "judge": "MAGISTRATE JUDGE COPELAND",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659136"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/13/2026 01:30PM",
       "case_number": "25-cv-6947",
       "caption": "HERMAN v. BISIGNANO",
       "judge": "MAGISTRATE JUDGE REID",
@@ -704,17 +726,6 @@
       "courtroom": "Courtroom 11A",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642814"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/17/2026 09:00AM",
-      "case_number": "25-cr-0394",
-      "caption": "USA v. GAINEY",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643212"
     },
     {
       "court": "EDPA",
