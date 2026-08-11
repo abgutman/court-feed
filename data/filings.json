@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-11T19:18:43.858532+00:00",
+  "generated": "2026-08-11T21:03:05.149459+00:00",
   "filings": [
     {
       "type": "filing",
@@ -144,6 +144,15 @@
       "status": "Active",
       "filing_date": "08/11/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=465 MAL 2026&dnh=FOJTqzPY43akNCOckkSTFg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "466 MAL 2026",
+      "caption": "Commonwealth v. Jacobs, E., Pet.",
+      "status": "Active",
+      "filing_date": "08/11/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=466 MAL 2026&dnh=yyyAM6Y74LUp7%2FMMFugREw%3D%3D"
     },
     {
       "type": "filing",
@@ -796,6 +805,33 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "2202 EDA 2026",
+      "caption": "Com. v. Clark, A.",
+      "status": "Active",
+      "filing_date": "08/11/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2202 EDA 2026&dnh=pVVv2uYqzoUtkGAJVOCGQg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2203 EDA 2026",
+      "caption": "Com. v. Morrone, D.",
+      "status": "Active",
+      "filing_date": "08/11/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2203 EDA 2026&dnh=QdSbnXrqEFT6BuZXB9bhfA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2204 EDA 2026",
+      "caption": "Com. v. Lord, E.",
+      "status": "Active",
+      "filing_date": "08/11/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2204 EDA 2026&dnh=f3PWZ9JTWraBwkN9tJUrXQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "126 EDM 2026",
       "caption": "Garavelas, L. v. Garavelas, C.",
       "status": "Active",
@@ -1355,7 +1391,7 @@
       "type": "filing",
       "court": "PA Commonwealth Court",
       "docket": "1144 CD 2026",
-      "caption": "HCH Senior Care, LLC v. Pabon (WCAB)",
+      "caption": "HCH Senior Care, LLC et al. v. Pabon (WCAB)",
       "status": "Active",
       "filing_date": "08/07/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1144 CD 2026&dnh=LrewLg4JbovkkDaV6GrsPw%3D%3D"
@@ -2528,6 +2564,18 @@
       "guid": "ca3-25-1448-251448np.pdf",
       "precedential": false,
       "origin": "USDC for the District of New Jersey"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-1281",
+      "caption": "USA v. Michael Bragg",
+      "author": "",
+      "pub_date": "Tue, 11 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/251281np.pdf",
+      "guid": "ca3-25-1281-251281np.pdf",
+      "precedential": false,
+      "origin": "USDC for the Middle District of Pennsylvania"
     },
     {
       "type": "opinion",
