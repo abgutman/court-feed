@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-11T17:11:36.849436+00:00",
+  "generated": "2026-08-11T18:07:10.952095+00:00",
   "filings": [
     {
       "type": "filing",
@@ -1462,6 +1462,24 @@
     {
       "type": "filing",
       "court": "PA Commonwealth Court",
+      "docket": "278 FR 2026",
+      "caption": "Arthur Dantchik Trust for Descendants v. Cmmnwlth.",
+      "status": "Active",
+      "filing_date": "08/11/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=278 FR 2026&dnh=HQ26DaLpM8zkeO%2BpFhpkBA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "279 FR 2026",
+      "caption": "Dooley Family Irrevocable Trst. v. Cmmnwlth.",
+      "status": "Active",
+      "filing_date": "08/11/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=279 FR 2026&dnh=cqE%2BXstAy6cTjhQpbqhGCw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
       "docket": "357 MD 2026",
       "caption": "Comm of Pa v. Held, M",
       "status": "Active",
@@ -1515,6 +1533,46 @@
     }
   ],
   "opinions": [
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 3211 DD3",
+      "caption": "In the Matter of: Michael Paul Petro",
+      "author": "Per Curiam",
+      "pub_date": "Mon, 10 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/3211DD3 - 106882183369452107.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/3211DD3 - 106882183369452107.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 3206 DD3",
+      "caption": "In the Matter of: Adam J. Sager",
+      "author": "Per Curiam",
+      "pub_date": "Mon, 10 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/3206DD3 - 106882248369459127.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/3206DD3 - 106882248369459127.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 3205 DD3",
+      "caption": "In the Matter of: Richard R. Di Stefano",
+      "author": "Per Curiam",
+      "pub_date": "Mon, 10 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/3205DD3 - 106882160369451107.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/3205DD3 - 106882160369451107.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 1854 DD3",
+      "caption": "In the Matter of Scot D. Rosenthal",
+      "author": "Per Curiam",
+      "pub_date": "Mon, 10 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/1854DD3 - 106882173369451926.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/1854DD3 - 106882173369451926.pdf"
+    },
     {
       "type": "opinion",
       "court": "PA Supreme Court",
