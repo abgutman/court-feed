@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-11T16:11:47.808661+00:00",
+  "generated": "2026-08-11T17:11:36.849436+00:00",
   "filings": [
     {
       "type": "filing",
@@ -715,6 +715,51 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "2194 EDA 2026",
+      "caption": "Com. v. Hill, D.",
+      "status": "Active",
+      "filing_date": "08/11/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2194 EDA 2026&dnh=dhMWsVoT088ODqa6YVm2Cw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2195 EDA 2026",
+      "caption": "Com. v. Wilson, N.",
+      "status": "Active",
+      "filing_date": "08/11/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2195 EDA 2026&dnh=hN2Q8xHXzxzXY37AcjgmmA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2196 EDA 2026",
+      "caption": "Com. v. Jacobs, E.",
+      "status": "Active",
+      "filing_date": "08/11/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2196 EDA 2026&dnh=bDCY3ylroTnyXGNEZb6dcA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2197 EDA 2026",
+      "caption": "Com. v. Thorpe, D.",
+      "status": "Active",
+      "filing_date": "08/11/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2197 EDA 2026&dnh=cLOaEoNdvQvmqAhrRP%2B9RA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2198 EDA 2026",
+      "caption": "Com. v. Ramzee, M.",
+      "status": "Active",
+      "filing_date": "08/11/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2198 EDA 2026&dnh=ZFq05HqYvbXXLQTv91DbEA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "126 EDM 2026",
       "caption": "Garavelas, L. v. Garavelas, C.",
       "status": "Active",
@@ -972,6 +1017,33 @@
       "status": "Active",
       "filing_date": "08/11/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1225 MDA 2026&dnh=tKdPfGGGLiMGst91Gwn9sw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1226 MDA 2026",
+      "caption": "Morton, H. v. Morton, S.",
+      "status": "Active",
+      "filing_date": "08/11/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1226 MDA 2026&dnh=jOt0%2BpOEFNPAI81diHyM3A%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1227 MDA 2026",
+      "caption": "Com. v. Leonard, R., III",
+      "status": "Active",
+      "filing_date": "08/11/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1227 MDA 2026&dnh=eML40oDnEUo%2BkfB1YS1msw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1228 MDA 2026",
+      "caption": "Com. v. Shearn, C.",
+      "status": "Active",
+      "filing_date": "08/11/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1228 MDA 2026&dnh=HO2HfzhGaXaH6ZOY2xGgZA%3D%3D"
     },
     {
       "type": "filing",
@@ -2176,7 +2248,7 @@
     {
       "type": "opinion",
       "court": "PA Superior Court",
-      "docket": "No. 1234 MDA 2025",
+      "docket": "No. 1234 MDA 2025\n\n\n\n\n\nReargument Filed: 08-06-2026",
       "caption": "Barker, J. v. Barak, A.",
       "author": "Beck, J.",
       "pub_date": "Thu, 06 Aug 2026 04:00:00 GMT",
@@ -2345,6 +2417,18 @@
       "url": "https://www2.ca3.uscourts.gov/opinarch/252302p.pdf",
       "guid": "ca3-25-2302-252302p.pdf",
       "precedential": true,
+      "origin": "USDC for the District of New Jersey"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-2554",
+      "caption": "Winfield Scott Tower Urban Renewal LP v. Lorissa Luciani",
+      "author": "",
+      "pub_date": "Tue, 11 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/252554np.pdf",
+      "guid": "ca3-25-2554-252554np.pdf",
+      "precedential": false,
       "origin": "USDC for the District of New Jersey"
     },
     {
