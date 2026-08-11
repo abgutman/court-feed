@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-11T13:40:47.658232+00:00",
+  "generated": "2026-08-11T15:15:41.465662+00:00",
   "filings": [
     {
       "type": "filing",
@@ -117,6 +117,15 @@
       "status": "Active",
       "filing_date": "08/10/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=462 MAL 2026&dnh=qdihvVKG%2BUy9MksQOz%2F7lA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "463 MAL 2026",
+      "caption": "Commonwealth v. Vilorio-Hernandez, R., Pet.",
+      "status": "Active",
+      "filing_date": "08/11/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=463 MAL 2026&dnh=gcGfhc7XBk2USej2VQVl0g%3D%3D"
     },
     {
       "type": "filing",
@@ -662,10 +671,28 @@
       "type": "filing",
       "court": "PA Superior Court",
       "docket": "2190 EDA 2026",
-      "caption": "In the Int. of: Q.Hill",
+      "caption": "In the Int. of: Q.H., Appeal of: S.V.",
       "status": "Active",
       "filing_date": "08/11/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2190 EDA 2026&dnh=NCAUhm6fevFyJuqtoAK%2BKA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2191 EDA 2026",
+      "caption": "In the Int of: S.H., Appeal of: S.V.",
+      "status": "Active",
+      "filing_date": "08/11/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2191 EDA 2026&dnh=OuhJKtigReJUAhbWsRSRpg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2192 EDA 2026",
+      "caption": "Carr-Hanks, S.",
+      "status": "Active",
+      "filing_date": "08/11/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2192 EDA 2026&dnh=3q9xOzNE%2B7RdBWIXj%2FOqQw%3D%3D"
     },
     {
       "type": "filing",
@@ -1278,6 +1305,24 @@
       "status": "Active",
       "filing_date": "08/10/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1161 CD 2026&dnh=NmsNSEt3uTluKsaSXqtBKA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "1162 CD 2026",
+      "caption": "Pinnacle Financial Svs., Inc. v. UCBR",
+      "status": "Active",
+      "filing_date": "08/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1162 CD 2026&dnh=Xu8ZTzOez%2BQAG%2Bba9g70Sg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "1163 CD 2026",
+      "caption": "Haverstick, M, et al. v. OAG",
+      "status": "Active",
+      "filing_date": "08/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1163 CD 2026&dnh=Hwh0r7TComYC9tnfcXfhoA%3D%3D"
     },
     {
       "type": "filing",
