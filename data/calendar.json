@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T10:19:26.207771+00:00",
+  "generated": "2026-08-12T11:57:54.433449+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -495,6 +495,17 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645467"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/17/2026 01:30PM",
+      "case_number": "26-cr-0324",
+      "caption": "USA v. ANDERSON",
+      "judge": "MAGISTRATE JUDGE CARLOS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658409"
     },
     {
       "court": "EDPA",
