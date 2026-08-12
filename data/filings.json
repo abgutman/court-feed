@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T11:57:35.535950+00:00",
+  "generated": "2026-08-12T13:44:30.370719+00:00",
   "filings": [
     {
       "type": "filing",
@@ -18,6 +18,15 @@
       "status": "Active",
       "filing_date": "08/08/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=271 EAL 2026&dnh=eAoI%2FXeP%2F66t0ees2Q7SQA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "273 EAL 2026",
+      "caption": "Commonwealth v. Thompson, M., Pet.",
+      "status": "Active",
+      "filing_date": "08/11/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=273 EAL 2026&dnh=LhLsZcE7kIpdV4t7SP3fxQ%3D%3D"
     },
     {
       "type": "filing",
@@ -626,7 +635,7 @@
       "type": "filing",
       "court": "PA Superior Court",
       "docket": "2192 EDA 2026",
-      "caption": "Carr-Hanks, S.",
+      "caption": "Com. v. Carr-Hanks, S.",
       "status": "Active",
       "filing_date": "08/11/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2192 EDA 2026&dnh=3q9xOzNE%2B7RdBWIXj%2FOqQw%3D%3D"
@@ -738,6 +747,42 @@
       "status": "Active",
       "filing_date": "08/11/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2204 EDA 2026&dnh=f3PWZ9JTWraBwkN9tJUrXQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2205 EDA 2026",
+      "caption": "Com. v. Showell, B.",
+      "status": "Active",
+      "filing_date": "08/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2205 EDA 2026&dnh=fGYsMThnks%2FJkSesaY%2FWFQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2206 EDA 2026",
+      "caption": "Com. v. Showell, B.",
+      "status": "Active",
+      "filing_date": "08/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2206 EDA 2026&dnh=GyhHElD41ExVBorw6cBR4Q%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2207 EDA 2026",
+      "caption": "Com. v. Tymes, A.",
+      "status": "Active",
+      "filing_date": "08/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2207 EDA 2026&dnh=%2Br8C%2FDaw62GtlGE7X%2Bb%2BUQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2208 EDA 2026",
+      "caption": "Com. v. Tymes, A.",
+      "status": "Active",
+      "filing_date": "08/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2208 EDA 2026&dnh=1RPOtQX56fH7AziQ880Rpw%3D%3D"
     },
     {
       "type": "filing",
@@ -1386,6 +1431,24 @@
       "status": "Active",
       "filing_date": "08/10/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=366 MD 2026&dnh=QnbqyzWAvUjSm7Fe6OjY2g%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "367 MD 2026",
+      "caption": "DeFelice, A v. DOC et al",
+      "status": "Active",
+      "filing_date": "08/08/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=367 MD 2026&dnh=yzoPlqepG3Bd8A4FNJjkYw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "369 MD 2026",
+      "caption": "Copeland, S v. Office of Chief Hearing Examiner",
+      "status": "Active",
+      "filing_date": "08/06/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=369 MD 2026&dnh=DgFsmm0ygrtfyPHyQIZ1mg%3D%3D"
     }
   ],
   "opinions": [

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T11:57:54.433449+00:00",
+  "generated": "2026-08-12T13:44:48.468436+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -506,6 +506,17 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Detention Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658409"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/17/2026 02:00PM",
+      "case_number": "26-mc-0062",
+      "caption": "DR. HOAU-YAN WANG",
+      "judge": "DISTRICT JUDGE BAYLSON",
+      "city": "",
+      "courtroom": "Video Conference",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657308"
     },
     {
       "court": "EDPA",
