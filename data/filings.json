@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T15:14:40.236176+00:00",
+  "generated": "2026-08-12T16:09:27.155291+00:00",
   "filings": [
     {
       "type": "filing",
@@ -814,6 +814,15 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "2211 EDA 2026",
+      "caption": "City of Phila v. Perry Collison",
+      "status": "Active",
+      "filing_date": "08/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2211 EDA 2026&dnh=%2BCv2KW%2BziyOCRsUlcSwyGA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "127 EDM 2026",
       "caption": "Meridan Bank v. Outfront Media LLC",
       "status": "Active",
@@ -855,6 +864,15 @@
       "status": "Active",
       "filing_date": "08/12/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=131 EDM 2026&dnh=4s3cGrMX80z%2FKrbTwLLP6w%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "132 EDM 2026",
+      "caption": "Com. v. Williams, T.",
+      "status": "Active",
+      "filing_date": "08/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=132 EDM 2026&dnh=3B1Vyoh%2FeFVl0%2BskL%2BzZqw%3D%3D"
     },
     {
       "type": "filing",
@@ -1111,6 +1129,24 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "1231 MDA 2026",
+      "caption": "Com. v. Owens, C.",
+      "status": "Active",
+      "filing_date": "08/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1231 MDA 2026&dnh=MGGU1vTl8Rl2yne5fLDlQw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1232 MDA 2026",
+      "caption": "Com. v. Owens, C.",
+      "status": "Active",
+      "filing_date": "08/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1232 MDA 2026&dnh=COwnhm9kEjPrErM0Pnp%2Brw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "1008 WDA 2026",
       "caption": "Com. v. Haun, P.",
       "status": "Active",
@@ -1274,7 +1310,7 @@
       "type": "filing",
       "court": "PA Superior Court",
       "docket": "1026 WDA 2026",
-      "caption": "Porchvue Winery v. The City of Butler",
+      "caption": "The City of Butler v. Porchvue Winery, LLC",
       "status": "Active",
       "filing_date": "08/12/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1026 WDA 2026&dnh=9yeDayq7rQ6hggEg8Kd2PQ%3D%3D"
@@ -2268,6 +2304,96 @@
       "pub_date": "Fri, 07 Aug 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-A10004-26m.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-A10004-26m.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "191 C.D. 2025",
+      "caption": "J.W. Bowman v. Bureau of Driver Licensing",
+      "author": "Covey, J.",
+      "pub_date": "Wed, 12 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/191CD25_8-12-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/191CD25_8-12-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "231 M.D. 2024",
+      "caption": "M. Grego, JN-5553 v. G.J. Warden",
+      "author": "Covey, J.",
+      "pub_date": "Wed, 12 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/231MD24_8-12-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/231MD24_8-12-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "271 C.D. 2025",
+      "caption": "J.B. Witt v. Bureau of Driver Licensing",
+      "author": "Covey, J.",
+      "pub_date": "Wed, 12 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/271CD25_8-12-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/271CD25_8-12-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "606 C.D. 2025",
+      "caption": "B. Davis v. PPB",
+      "author": "Fizzano Cannon, J.",
+      "pub_date": "Wed, 12 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/606CD25_8-12-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/606CD25_8-12-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "1374 C.D. 2025",
+      "caption": "M. Delgado v. UCBR",
+      "author": "Fizzano Cannon, J.",
+      "pub_date": "Wed, 12 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1374CD25_8-12-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1374CD25_8-12-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "353 M.D. 2025",
+      "caption": "G.B.R. Hernandez v. PA Turnpike Commission &amp; PA DOT",
+      "author": "Fizzano Cannon, J.",
+      "pub_date": "Wed, 12 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/353MD25_8-12-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/353MD25_8-12-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "835 C.D. 2024",
+      "caption": "K.D. Bindel v. Bureau of Driver Licensing",
+      "author": "Leadbetter, President Judge Emerita",
+      "pub_date": "Wed, 12 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/835CD24_8-12-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/835CD24_8-12-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "305 C.D. 2025",
+      "caption": "T. Day v. PA Commission on Crime and Delinquency",
+      "author": "Leadbetter, President Judge Emerita",
+      "pub_date": "Wed, 12 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/305CD25_8-12-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/305CD25_8-12-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "425 C.D. 2025",
+      "caption": "D. Walker v. UCBR",
+      "author": "Leadbetter, President Judge Emerita",
+      "pub_date": "Wed, 12 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/425CD25_8-12-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/425CD25_8-12-26.pdf"
     },
     {
       "type": "opinion",
