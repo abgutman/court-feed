@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T16:09:27.155291+00:00",
+  "generated": "2026-08-12T17:11:44.886605+00:00",
   "filings": [
     {
       "type": "filing",
@@ -1562,7 +1562,7 @@
       "type": "filing",
       "court": "PA Commonwealth Court",
       "docket": "364 MD 2026",
-      "caption": "In re: Nomination Papers of Christopher John Gambino",
+      "caption": "In re: Nomination Papers of Christopher Gambino",
       "status": "Active",
       "filing_date": "08/10/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=364 MD 2026&dnh=9jOsYfMCfQXdZvyQDX1%2Fhg%3D%3D"
@@ -2418,6 +2418,18 @@
     {
       "type": "opinion",
       "court": "Third Circuit",
+      "docket": "25-1516",
+      "caption": "Brandon Timmons v. Bohinski",
+      "author": "",
+      "pub_date": "Wed, 12 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/251516p.pdf",
+      "guid": "ca3-25-1516-251516p.pdf",
+      "precedential": true,
+      "origin": "USDC for the Middle District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
       "docket": "24-2116",
       "caption": "USA v. Derby Clerfe",
       "author": "",
@@ -2438,6 +2450,30 @@
       "guid": "ca3-25-2302-252302p.pdf",
       "precedential": true,
       "origin": "USDC for the District of New Jersey"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-3005",
+      "caption": "Wilson Brito-Hidalgo v. Attorney General United States of America",
+      "author": "",
+      "pub_date": "Wed, 12 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/253005np.pdf",
+      "guid": "ca3-25-3005-253005np.pdf",
+      "precedential": false,
+      "origin": "Agency"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-1673",
+      "caption": "Carlos Baires-Rivas v. Attorney General United States of America",
+      "author": "",
+      "pub_date": "Wed, 12 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/251673np.pdf",
+      "guid": "ca3-25-1673-251673np.pdf",
+      "precedential": false,
+      "origin": "Agency"
     },
     {
       "type": "opinion",
