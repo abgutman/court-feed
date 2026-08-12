@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T13:44:48.468436+00:00",
+  "generated": "2026-08-12T15:15:05.567260+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -693,17 +693,6 @@
       "courtroom": "Gateway 5th Floor",
       "hearing_type": "Detention Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657079"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/19/2026 10:00AM",
-      "case_number": "24-cv-1001",
-      "caption": "SPARACINO v. WIDENER UNIVERSIT",
-      "judge": "DISTRICT JUDGE COSTELLO",
-      "city": "Philadelphia",
-      "courtroom": "Judge's Chambers",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?619739"
     },
     {
       "court": "EDPA",
@@ -2540,18 +2529,6 @@
     {
       "court": "PA Superior Court",
       "date": "09/16/2026",
-      "docket_number": "299 EDA 2025",
-      "journal_number": "J-A21023-26",
-      "caption": "Com. v. Vo, H.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "21-ARGUMENT-2026-2",
-      "judges": ""
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "09/16/2026",
       "docket_number": "1061 EDA 2026",
       "journal_number": "J-A21024-26",
       "caption": "In the Int. of: J.J., Appeal of: A.B.",
@@ -4319,18 +4296,6 @@
       "docket_number": "598 EDA 2025",
       "journal_number": "J-A21022-26",
       "caption": "DB Enterprises v. Church, R.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "21-ARGUMENT-2026-2",
-      "judges": ""
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "09/16/2026",
-      "docket_number": "299 EDA 2025",
-      "journal_number": "J-A21023-26",
-      "caption": "Com. v. Vo, H.",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "",
       "city": "",
