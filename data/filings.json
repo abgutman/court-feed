@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-13T19:19:12.123329+00:00",
+  "generated": "2026-08-13T21:02:02.091010+00:00",
   "filings": [
     {
       "type": "filing",
@@ -162,6 +162,15 @@
       "status": "Active",
       "filing_date": "08/12/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=470 MAL 2026&dnh=vz6ukPtC5FRJ0ATiwUq9ng%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "472 MAL 2026",
+      "caption": "Mill City Mortgage v. Irrgang, B., Pet.",
+      "status": "Active",
+      "filing_date": "08/13/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=472 MAL 2026&dnh=2TLL8vedB5y8e%2F0WlW1tlQ%3D%3D"
     },
     {
       "type": "filing",
@@ -873,6 +882,15 @@
       "status": "Active",
       "filing_date": "08/13/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2234 EDA 2026&dnh=%2FfzZZHO7DfDc8C%2FkbUEZcQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2235 EDA 2026",
+      "caption": "Loandepot.com v. Brittingham, T.",
+      "status": "Active",
+      "filing_date": "08/13/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2235 EDA 2026&dnh=X%2BR62LLVl6e3ExR%2BUW9C3Q%3D%3D"
     },
     {
       "type": "filing",
@@ -1647,6 +1665,15 @@
       "status": "Active",
       "filing_date": "08/12/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1191 CD 2026&dnh=Itp5CLqpeC4HgLB5KmmgnQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "1192 CD 2026",
+      "caption": "Dept. of L&I v. Robertson, K. (OOR)",
+      "status": "Active",
+      "filing_date": "08/13/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1192 CD 2026&dnh=2RmFmdQl6xxz7BjpuatweQ%3D%3D"
     },
     {
       "type": "filing",
@@ -2767,6 +2794,18 @@
       "pub_date": "Thu, 13 Aug 2026 00:00:00 +0000",
       "url": "https://www2.ca3.uscourts.gov/opinarch/242184np.pdf",
       "guid": "ca3-24-2184-242184np.pdf",
+      "precedential": false,
+      "origin": "USDC for the District of New Jersey"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "24-1641",
+      "caption": "USA v. William Manderville",
+      "author": "",
+      "pub_date": "Thu, 13 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/241641np1.pdf",
+      "guid": "ca3-24-1641-241641np1.pdf",
       "precedential": false,
       "origin": "USDC for the District of New Jersey"
     },
