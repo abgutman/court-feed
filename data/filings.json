@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-13T18:07:10.115140+00:00",
+  "generated": "2026-08-13T19:19:12.123329+00:00",
   "filings": [
     {
       "type": "filing",
@@ -216,6 +216,15 @@
       "status": "Active",
       "filing_date": "08/12/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=228 WAL 2026&dnh=vDUcQ39c9cSrOcCTlpabwA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "89 WM 2026",
+      "caption": "McGuire v. Nationwide Ins. Pet. of: US Court",
+      "status": "Active",
+      "filing_date": "08/13/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=89 WM 2026&dnh=6ni2OmyDFpKwy1CuUA4byg%3D%3D"
     },
     {
       "type": "filing",
@@ -850,6 +859,24 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "2233 EDA 2026",
+      "caption": "City of Phila v. Chambers, A",
+      "status": "Active",
+      "filing_date": "08/13/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2233 EDA 2026&dnh=llcpdHKrgbkCfWanKDhhrQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2234 EDA 2026",
+      "caption": "Miwo, S. v. GM Holdings",
+      "status": "Active",
+      "filing_date": "08/13/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2234 EDA 2026&dnh=%2FfzZZHO7DfDc8C%2FkbUEZcQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "128 EDM 2026",
       "caption": "Moon, H. v. American States Insurance Company",
       "status": "Active",
@@ -1472,7 +1499,7 @@
       "type": "filing",
       "court": "PA Superior Court",
       "docket": "1039 WDA 2026",
-      "caption": "Comm. v. Childs, Terrell Lamont",
+      "caption": "Com. v. Childs, T.",
       "status": "Active",
       "filing_date": "08/13/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1039 WDA 2026&dnh=%2FBsLr82dxkDBszyq6tHTXA%3D%3D"
@@ -1615,6 +1642,15 @@
     {
       "type": "filing",
       "court": "PA Commonwealth Court",
+      "docket": "1191 CD 2026",
+      "caption": "Steigerwalt, L. et al v. Honeygrow, LLC et al",
+      "status": "Active",
+      "filing_date": "08/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1191 CD 2026&dnh=Itp5CLqpeC4HgLB5KmmgnQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
       "docket": "277 FR 2026",
       "caption": "Immaculate Grounds Property v. Com. of Pa.",
       "status": "Active",
@@ -1704,6 +1740,56 @@
     }
   ],
   "opinions": [
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "",
+      "caption": "In Re: Administrative Suspension Pursuant to Rule 219 of the Pennsylvania Rules of Disciplinary Enforcement, No. 61 ID",
+      "author": "Per Curiam",
+      "pub_date": "Wed, 12 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/61IDorder.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/61IDorder.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "",
+      "caption": "In Re: Administrative Suspension Pursuant to Rule 219 of the Pennsylvania Rules of Disciplinary Enforcement, No. 61 ID",
+      "author": "Per Curiam",
+      "pub_date": "Wed, 12 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/61IDList.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/61IDList.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 329 MAL 2026",
+      "caption": "In the Int. of: D.L.J., a Minor",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 13 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/329MAL2026 - 106887311370001334.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/329MAL2026 - 106887311370001334.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 328 MAL 2026",
+      "caption": "In the Int. of: S.D.J., a Minor",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 13 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/328MAL2026 - 106887310370001334.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/328MAL2026 - 106887310370001334.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 327 MAL 2026",
+      "caption": "In the Int. of: A.M.J., a Minor",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 13 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/327MAL2026 - 106887309370001334.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/327MAL2026 - 106887309370001334.pdf"
+    },
     {
       "type": "opinion",
       "court": "PA Supreme Court",

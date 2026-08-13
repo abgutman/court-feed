@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-13T18:07:28.063931+00:00",
+  "generated": "2026-08-13T19:19:32.964545+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -11,28 +11,6 @@
       "courtroom": "Judge's Chambers",
       "hearing_type": "Settlement Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646607"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/13/2026 10:00AM",
-      "case_number": "25-cr-0376",
-      "caption": "USA v. HERRERA CASTILLO",
-      "judge": "DISTRICT JUDGE PAPPERT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642818"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/13/2026 10:00AM",
-      "case_number": "25-cv-7425",
-      "caption": "WEINSTEIN et al v. ADVANTAGE C",
-      "judge": "MAGISTRATE JUDGE REID",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3C",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647937"
     },
     {
       "court": "EDPA",
@@ -371,7 +349,7 @@
       "caption": "MENCH v. MCCORMICK & PRIORE P.",
       "judge": "DISTRICT JUDGE HODGE",
       "city": "Philadelphia",
-      "courtroom": "Courtroom 15A",
+      "courtroom": "Courtroom 17A",
       "hearing_type": "Miscellaneous Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638857"
     },
@@ -762,17 +740,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "08/21/2026 09:30AM",
-      "case_number": "24-cr-0219",
-      "caption": "USA v. AVILA",
-      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 8B",
-      "hearing_type": "Jury Selection",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622823"
-    },
-    {
-      "court": "EDPA",
       "datetime": "08/21/2026 01:00PM",
       "case_number": "26-cv-3003",
       "caption": "COLEMAN et al v. Stuart",
@@ -792,17 +759,6 @@
       "courtroom": "Cahn 4A",
       "hearing_type": "Settlement Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640573"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/24/2026 09:30AM",
-      "case_number": "24-cr-0219",
-      "caption": "USA v. AVILA",
-      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 8B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622823"
     },
     {
       "court": "EDPA",
@@ -946,17 +902,6 @@
       "courtroom": "Courtroom 3B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639534"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/25/2026 10:00AM",
-      "case_number": "25-cv-6223",
-      "caption": "KAGARISE v. AMERICAN SELECT IN",
-      "judge": "DISTRICT JUDGE WEILHEIMER",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom TBD",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645703"
     },
     {
       "court": "EDPA",
