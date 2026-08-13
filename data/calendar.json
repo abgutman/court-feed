@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-13T11:58:45.873370+00:00",
+  "generated": "2026-08-13T13:45:47.723531+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -198,6 +198,39 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Initial Appearance/Revocation",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631077"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/14/2026 01:30PM",
+      "case_number": "26-cr-0331",
+      "caption": "USA v. LOCKETT",
+      "judge": "MAGISTRATE JUDGE COPELAND",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658457"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/14/2026 01:30PM",
+      "case_number": "26-cr-0331",
+      "caption": "USA v. LOCKETT",
+      "judge": "MAGISTRATE JUDGE COPELAND",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658457"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/14/2026 01:30PM",
+      "case_number": "26-cr-0331",
+      "caption": "USA v. LOCKETT",
+      "judge": "MAGISTRATE JUDGE COPELAND",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658457"
     },
     {
       "court": "EDPA",
@@ -1246,6 +1279,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "08/26/2026 03:00PM",
+      "case_number": "20-cv-4570",
+      "caption": "McNamara v. CITY OF PHILADELPH",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?575788"
+    },
+    {
+      "court": "EDPA",
       "datetime": "08/27/2026 08:45AM",
       "case_number": "26-cv-3664",
       "caption": "ETH IS MONEY CHANGE MY MIND, L",
@@ -2085,18 +2129,6 @@
     {
       "court": "PA Superior Court",
       "date": "08/18/2026",
-      "docket_number": "1510 MDA 2025",
-      "journal_number": "J-A20016-26",
-      "caption": "Com. v. Bennetch, S.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "20-ARGUMENT-2026-2",
-      "judges": ""
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "08/18/2026",
       "docket_number": "10 MDA 2026",
       "journal_number": "J-A20017-26",
       "caption": "BJ's Wholesale Club, Inc. v. Pacifica Mech.",
@@ -2172,18 +2204,6 @@
       "docket_number": "1197 MDA 2025",
       "journal_number": "J-A20030-26",
       "caption": "Com. v. Shields, D.",
-      "consideration_type": "Expedited \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "20-ARGUMENT-2026-2",
-      "judges": ""
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "08/19/2026",
-      "docket_number": "194 MDA 2026",
-      "journal_number": "J-A20031-26",
-      "caption": "Deux Amis, LLC, v. Ketterline Inc.",
       "consideration_type": "Expedited \u2014 Argument Panel",
       "location": "",
       "city": "",
@@ -2532,18 +2552,6 @@
       "docket_number": "1061 EDA 2026",
       "journal_number": "J-A21024-26",
       "caption": "In the Int. of: J.J., Appeal of: A.B.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "21-ARGUMENT-2026-2",
-      "judges": ""
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "09/16/2026",
-      "docket_number": "1629 EDA 2025",
-      "journal_number": "J-A21025-26",
-      "caption": "Com. v. Goodman, K.",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "",
       "city": "",
@@ -3861,18 +3869,6 @@
     {
       "court": "PA Superior Court",
       "date": "08/18/2026",
-      "docket_number": "1510 MDA 2025",
-      "journal_number": "J-A20016-26",
-      "caption": "Com. v. Bennetch, S.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "20-ARGUMENT-2026-2",
-      "judges": ""
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "08/18/2026",
       "docket_number": "10 MDA 2026",
       "journal_number": "J-A20017-26",
       "caption": "BJ's Wholesale Club, Inc. v. Pacifica Mech.",
@@ -3948,18 +3944,6 @@
       "docket_number": "1197 MDA 2025",
       "journal_number": "J-A20030-26",
       "caption": "Com. v. Shields, D.",
-      "consideration_type": "Expedited \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "20-ARGUMENT-2026-2",
-      "judges": ""
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "08/19/2026",
-      "docket_number": "194 MDA 2026",
-      "journal_number": "J-A20031-26",
-      "caption": "Deux Amis, LLC, v. Ketterline Inc.",
       "consideration_type": "Expedited \u2014 Argument Panel",
       "location": "",
       "city": "",
@@ -4308,18 +4292,6 @@
       "docket_number": "1061 EDA 2026",
       "journal_number": "J-A21024-26",
       "caption": "In the Int. of: J.J., Appeal of: A.B.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "21-ARGUMENT-2026-2",
-      "judges": ""
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "09/16/2026",
-      "docket_number": "1629 EDA 2025",
-      "journal_number": "J-A21025-26",
-      "caption": "Com. v. Goodman, K.",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "",
       "city": "",
