@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-13T16:09:29.704309+00:00",
+  "generated": "2026-08-13T17:10:46.729073+00:00",
   "filings": [
     {
       "type": "filing",
@@ -153,6 +153,15 @@
       "status": "Active",
       "filing_date": "08/12/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=469 MAL 2026&dnh=99k0b2JXMhoaJo8xdJzU1Q%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "470 MAL 2026",
+      "caption": "BNE Real Estate Group v. City of Easton ZHB et al, Pet.",
+      "status": "Active",
+      "filing_date": "08/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=470 MAL 2026&dnh=vz6ukPtC5FRJ0ATiwUq9ng%3D%3D"
     },
     {
       "type": "filing",
@@ -814,6 +823,33 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "2230 EDA 2026",
+      "caption": "Com. v. Parker, A.",
+      "status": "Active",
+      "filing_date": "08/13/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2230 EDA 2026&dnh=M3Zyt6hAoBH2cAhyXvKWhw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2231 EDA 2026",
+      "caption": "Com. v. Davis, E.",
+      "status": "Active",
+      "filing_date": "08/13/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2231 EDA 2026&dnh=yS4ckkd6l2wMaoCO2pfLpQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2232 EDA 2026",
+      "caption": "Com. v. Davis, E.",
+      "status": "Active",
+      "filing_date": "08/13/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2232 EDA 2026&dnh=Kgse%2F8aH4KviKfjJ4mj8UQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "128 EDM 2026",
       "caption": "Moon, H. v. American States Insurance Company",
       "status": "Active",
@@ -1192,6 +1228,51 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "1241 MDA 2026",
+      "caption": "Ballester, R. v. Harley, S.",
+      "status": "Active",
+      "filing_date": "08/13/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1241 MDA 2026&dnh=nKjvb%2BWimViIivqNQWalig%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1242 MDA 2026",
+      "caption": "Harley, S. v. Ballester, R.",
+      "status": "Active",
+      "filing_date": "08/13/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1242 MDA 2026&dnh=yEQK9ttoIgsPP06DtrZgZQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1243 MDA 2026",
+      "caption": "Com. v. Snelling, S., Jr.",
+      "status": "Active",
+      "filing_date": "08/13/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1243 MDA 2026&dnh=3Zpj%2FqU9mKc%2BpOvAxPw%2FCg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1244 MDA 2026",
+      "caption": "Com. v. Stout, C.",
+      "status": "Active",
+      "filing_date": "08/13/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1244 MDA 2026&dnh=nSM2YF7APvy8rNiWKy5byA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1245 MDA 2026",
+      "caption": "Com. v. Stout, C.",
+      "status": "Active",
+      "filing_date": "08/13/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1245 MDA 2026&dnh=2xn9pZZzRyVMnLIQojDk0g%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "1017 WDA 2026",
       "caption": "Com. v. Coit, K.",
       "status": "Active",
@@ -1516,6 +1597,15 @@
     {
       "type": "filing",
       "court": "PA Commonwealth Court",
+      "docket": "1183 CD 2026",
+      "caption": "Defoggi, J. v. PUC",
+      "status": "Active",
+      "filing_date": "08/07/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1183 CD 2026&dnh=xIErSvfqPeNNqztEojtCQA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
       "docket": "277 FR 2026",
       "caption": "Immaculate Grounds Property v. Com. of Pa.",
       "status": "Active",
@@ -1593,6 +1683,15 @@
       "status": "Active",
       "filing_date": "08/08/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=367 MD 2026&dnh=yzoPlqepG3Bd8A4FNJjkYw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "370 MD 2026",
+      "caption": "BCL Partners v. Miller-Wilson, L. et al",
+      "status": "Active",
+      "filing_date": "08/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=370 MD 2026&dnh=WmoOcK1dIYKwVCRntTLt9w%3D%3D"
     }
   ],
   "opinions": [
@@ -2519,6 +2618,18 @@
     {
       "type": "opinion",
       "court": "Third Circuit",
+      "docket": "25-2630",
+      "caption": "Gersen Gabriel v. DSM Biomedical Inc",
+      "author": "",
+      "pub_date": "Thu, 13 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/252630p.pdf",
+      "guid": "ca3-25-2630-252630p.pdf",
+      "precedential": true,
+      "origin": "USDC for the Eastern District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
       "docket": "25-1516",
       "caption": "Brandon Timmons v. Bohinski",
       "author": "",
@@ -2550,6 +2661,18 @@
       "url": "https://www2.ca3.uscourts.gov/opinarch/252302p.pdf",
       "guid": "ca3-25-2302-252302p.pdf",
       "precedential": true,
+      "origin": "USDC for the District of New Jersey"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "24-2184",
+      "caption": "Lipitor Antitrust Litigation v.",
+      "author": "",
+      "pub_date": "Thu, 13 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/242184np.pdf",
+      "guid": "ca3-24-2184-242184np.pdf",
+      "precedential": false,
       "origin": "USDC for the District of New Jersey"
     },
     {

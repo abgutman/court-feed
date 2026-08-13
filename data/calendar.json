@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-13T16:09:44.666099+00:00",
+  "generated": "2026-08-13T17:11:07.406685+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -198,6 +198,39 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658457"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/14/2026 01:30PM",
+      "case_number": "26-cr-0371",
+      "caption": "USA v. ARMANZA-MORALES",
+      "judge": "MAGISTRATE JUDGE COPELAND",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659612"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/14/2026 01:30PM",
+      "case_number": "26-cr-0374",
+      "caption": "USA v. LOUIS",
+      "judge": "MAGISTRATE JUDGE COPELAND",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659617"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/14/2026 01:30PM",
+      "case_number": "26-cr-0372",
+      "caption": "USA v. ARMANZA-MORALES",
+      "judge": "MAGISTRATE JUDGE COPELAND",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659620"
     },
     {
       "court": "EDPA",
@@ -429,17 +462,6 @@
       "courtroom": "Courtroom 8B",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653457"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/18/2026 11:00AM",
-      "case_number": "23-cr-0028",
-      "caption": "USA v. OYOLA",
-      "judge": "DISTRICT JUDGE SAVAGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?611026"
     },
     {
       "court": "EDPA",
