@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-13T15:15:00.525182+00:00",
+  "generated": "2026-08-13T16:09:44.666099+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -66,17 +66,6 @@
       "courtroom": "Courtroom 12A",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?615364"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/13/2026 11:00AM",
-      "case_number": "24-cr-0003",
-      "caption": "USA v. MUSE",
-      "judge": "DISTRICT JUDGE MURPHY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3B",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617448"
     },
     {
       "court": "EDPA",
@@ -220,17 +209,6 @@
       "courtroom": "Courtroom 13B",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634947"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/17/2026 10:00AM",
-      "case_number": "25-cr-0371",
-      "caption": "USA v. BLOW",
-      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 8B",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642681"
     },
     {
       "court": "EDPA",
@@ -429,6 +407,28 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645603"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/18/2026 11:00AM",
+      "case_number": "25-cr-0371",
+      "caption": "USA v. BLOW",
+      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 8B",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642681"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/18/2026 11:00AM",
+      "case_number": "26-cr-0181",
+      "caption": "USA v. BLOW",
+      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 8B",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653457"
     },
     {
       "court": "EDPA",
