@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-13T10:21:45.143496+00:00",
+  "generated": "2026-08-13T11:58:45.873370+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -297,6 +297,28 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645467"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/17/2026 01:30PM",
+      "case_number": "23-cr-0260",
+      "caption": "USA v. CURTIS",
+      "judge": "MAGISTRATE JUDGE CARLOS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?610527"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/17/2026 01:30PM",
+      "case_number": "23-cr-0260",
+      "caption": "USA v. CURTIS",
+      "judge": "MAGISTRATE JUDGE CARLOS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Probable Cause Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?610527"
     },
     {
       "court": "EDPA",
