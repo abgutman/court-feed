@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-14T19:13:24.634842+00:00",
+  "generated": "2026-08-14T19:55:29.832613+00:00",
   "filings": [
     {
       "type": "filing",
@@ -1364,7 +1364,7 @@
       "type": "filing",
       "court": "PA Superior Court",
       "docket": "1250 MDA 2026",
-      "caption": "In the Interest of: S.R., a Minor",
+      "caption": "In the Int. of: S.R., a Minor",
       "status": "Active",
       "filing_date": "08/14/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1250 MDA 2026&dnh=xNvnvxrKToKktCdwHLM%2FEQ%3D%3D"
@@ -1686,6 +1686,15 @@
     },
     {
       "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "92 WDM 2026",
+      "caption": "Ferrone, R. v. Giuffre, P.",
+      "status": "Active",
+      "filing_date": "08/14/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=92 WDM 2026&dnh=hiGoCUcMFt6%2Bx4i2oNio%2FA%3D%3D"
+    },
+    {
+      "type": "filing",
       "court": "PA Commonwealth Court",
       "docket": "1145 CD 2026",
       "caption": "Kirby, T. v. PCF Holdco, LLC (WCAB)",
@@ -1791,6 +1800,24 @@
       "status": "Active",
       "filing_date": "08/14/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1200 CD 2026&dnh=smHPHkhTlClnKiFTGanPsw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "1202 CD 2026",
+      "caption": "Walker, W. v. PPB",
+      "status": "Active",
+      "filing_date": "08/11/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1202 CD 2026&dnh=ykQxvdfZAALyF42ZdPPEGg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "1203 CD 2026",
+      "caption": "Obi, S. v. BPOA",
+      "status": "Active",
+      "filing_date": "08/14/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1203 CD 2026&dnh=BGQ7oS8UkA0WyReSuoe3Bw%3D%3D"
     },
     {
       "type": "filing",
@@ -1908,6 +1935,15 @@
       "status": "Active",
       "filing_date": "08/14/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=371 MD 2026&dnh=IAyy21rdnpx1UH1212AzSw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "373 MD 2026",
+      "caption": "Com. of Pa. v. Lapish, M.",
+      "status": "Active",
+      "filing_date": "08/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=373 MD 2026&dnh=BQz%2BAc38NoKSLO6f5QjgRg%3D%3D"
     }
   ],
   "opinions": [
