@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-14T20:44:38.814465+00:00",
+  "generated": "2026-08-14T21:39:20.095725+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -583,6 +583,17 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659617"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/20/2026 01:30PM",
+      "case_number": "26-cr-0381",
+      "caption": "USA v. EVANGELISTA",
+      "judge": "MAGISTRATE JUDGE CARLOS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659745"
     },
     {
       "court": "EDPA",
