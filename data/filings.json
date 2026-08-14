@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-14T15:06:39.991935+00:00",
+  "generated": "2026-08-14T16:05:57.534830+00:00",
   "filings": [
     {
       "type": "filing",
@@ -36,6 +36,15 @@
       "status": "Active",
       "filing_date": "08/12/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=69 EM 2026&dnh=F%2BNfwTZxiJ9sK8d%2Bc1P2wQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "70 EM 2026",
+      "caption": "Frempong, S., Pet. v. Court of Common Pleas, Phila",
+      "status": "Active",
+      "filing_date": "08/14/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=70 EM 2026&dnh=%2BrDDdXzSUpZ%2BIw8sMtfuLg%3D%3D"
     },
     {
       "type": "filing",
@@ -122,7 +131,7 @@
       "type": "filing",
       "court": "PA Supreme Court",
       "docket": "470 MAL 2026",
-      "caption": "BNE Real Estate Group v. City of Easton ZHB et al, Pet.",
+      "caption": "BNE Real Estate Group v. City of Easton et al, Pets.",
       "status": "Active",
       "filing_date": "08/12/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=470 MAL 2026&dnh=vz6ukPtC5FRJ0ATiwUq9ng%3D%3D"
@@ -823,6 +832,15 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "2239 EDA 2026",
+      "caption": "Ramirez, T. v. Mantis, M.",
+      "status": "Active",
+      "filing_date": "08/14/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2239 EDA 2026&dnh=Am0lA5ObhYOrVtNLRZfTnw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "128 EDM 2026",
       "caption": "Moon, H. v. American States Insurance Company",
       "status": "Active",
@@ -1463,7 +1481,7 @@
       "type": "filing",
       "court": "PA Superior Court",
       "docket": "1046 WDA 2026",
-      "caption": "In the Interest of:Itongwa, H. Appeal of:Itongwa,A",
+      "caption": "In the Interest of: H.I., Appeal of: A.I.",
       "status": "Active",
       "filing_date": "08/14/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1046 WDA 2026&dnh=Ceoj1dlTR%2Bfuz1IfZiaf2A%3D%3D"
@@ -1674,6 +1692,15 @@
       "status": "Active",
       "filing_date": "08/12/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=370 MD 2026&dnh=WmoOcK1dIYKwVCRntTLt9w%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "371 MD 2026",
+      "caption": "",
+      "status": "Active",
+      "filing_date": "08/14/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=371 MD 2026&dnh=IAyy21rdnpx1UH1212AzSw%3D%3D"
     }
   ],
   "opinions": [
