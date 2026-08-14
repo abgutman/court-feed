@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-14T17:11:06.884758+00:00",
+  "generated": "2026-08-14T18:06:32.578307+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -187,17 +187,6 @@
       "courtroom": "Video Conference",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657308"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/18/2026 09:30AM",
-      "case_number": "25-cv-6134",
-      "caption": "Colella et al v. STATE FARM FI",
-      "judge": "DISTRICT JUDGE MCHUGH",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5B",
-      "hearing_type": "Arbitration Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645505"
     },
     {
       "court": "EDPA",
@@ -550,17 +539,6 @@
       "courtroom": "Courtroom 5D",
       "hearing_type": "Arbitration Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629143"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/20/2026 09:30AM",
-      "case_number": "25-cv-0644",
-      "caption": "STATE FARM FIRE AND CASUALTY C",
-      "judge": "DISTRICT JUDGE SURRICK",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5B",
-      "hearing_type": "Arbitration Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633149"
     },
     {
       "court": "EDPA",
@@ -1133,17 +1111,6 @@
       "courtroom": "Courtroom 10A",
       "hearing_type": "Remand Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631107"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/27/2026 10:00AM",
-      "case_number": "26-cr-0273",
-      "caption": "USA v. ALEXANDER",
-      "judge": "DISTRICT JUDGE MURPHY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656491"
     },
     {
       "court": "EDPA",
@@ -2447,18 +2414,6 @@
       "docket_number": "352 EDA 2026",
       "journal_number": "J-A21031-26",
       "caption": "Garner, D. v. Mendelsohn, S.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "21-ARGUMENT-2026-2",
-      "judges": ""
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "09/17/2026",
-      "docket_number": "285 EDA 2026",
-      "journal_number": "J-A21032-26",
-      "caption": "6172 Ridge Holdings v. Holloway, C.",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "",
       "city": "",
@@ -4187,18 +4142,6 @@
       "docket_number": "352 EDA 2026",
       "journal_number": "J-A21031-26",
       "caption": "Garner, D. v. Mendelsohn, S.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "21-ARGUMENT-2026-2",
-      "judges": ""
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "09/17/2026",
-      "docket_number": "285 EDA 2026",
-      "journal_number": "J-A21032-26",
-      "caption": "6172 Ridge Holdings v. Holloway, C.",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "",
       "city": "",
