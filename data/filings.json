@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-14T16:05:57.534830+00:00",
+  "generated": "2026-08-14T17:10:25.868720+00:00",
   "filings": [
     {
       "type": "filing",
@@ -841,6 +841,33 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "2240 EDA 2026",
+      "caption": "Copeland, H. v. 3001R Stokley",
+      "status": "Active",
+      "filing_date": "08/14/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2240 EDA 2026&dnh=TmtnnO9rrfttzWAxx3Yb3A%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2241 EDA 2026",
+      "caption": "Moyer, D. v. Puiu, K.",
+      "status": "Active",
+      "filing_date": "08/14/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2241 EDA 2026&dnh=67wg9KDJVm5FcPHCJ%2BvN7A%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2242 EDA 2026",
+      "caption": "Redmond, G. v. Terminal Discount Store",
+      "status": "Active",
+      "filing_date": "08/14/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2242 EDA 2026&dnh=pJXM5i6o%2BtF9hBpHeVuDvQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "128 EDM 2026",
       "caption": "Moon, H. v. American States Insurance Company",
       "status": "Active",
@@ -1602,6 +1629,15 @@
       "status": "Active",
       "filing_date": "08/14/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1195 CD 2026&dnh=KzLDfdhgSiOscF74W2tX0A%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "1199 CD 2026",
+      "caption": "Hoffner, N. v. PGC",
+      "status": "Active",
+      "filing_date": "08/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1199 CD 2026&dnh=PJbPlJpmi%2F7jdLO5W4G41w%3D%3D"
     },
     {
       "type": "filing",
@@ -2677,6 +2713,18 @@
     {
       "type": "opinion",
       "court": "Third Circuit",
+      "docket": "25-1490",
+      "caption": "Jose Aristy-Rosa v. Attorney General United States of America",
+      "author": "",
+      "pub_date": "Fri, 14 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/251490p.pdf",
+      "guid": "ca3-25-1490-251490p.pdf",
+      "precedential": true,
+      "origin": "Agency"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
       "docket": "25-2630",
       "caption": "Gersen Gabriel v. DSM Biomedical Inc",
       "author": "",
@@ -2709,6 +2757,42 @@
       "guid": "ca3-24-2116-242116p.pdf",
       "precedential": true,
       "origin": "USDC for the Western District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-1131",
+      "caption": "Dwight Davis v. Secretary US Department of Homeland Security",
+      "author": "",
+      "pub_date": "Fri, 14 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/251131np.pdf",
+      "guid": "ca3-25-1131-251131np.pdf",
+      "precedential": false,
+      "origin": "USDC for the District of New Jersey"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "24-1439",
+      "caption": "William Webb, Jr. v. Kirk Neal",
+      "author": "",
+      "pub_date": "Fri, 14 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/241439npo.pdf",
+      "guid": "ca3-24-1439-241439npo.pdf",
+      "precedential": false,
+      "origin": "USDC for the District of Delaware"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "24-1439",
+      "caption": "William Webb, Jr. v. Kirk Neal",
+      "author": "",
+      "pub_date": "Fri, 14 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/241439npa.pdf",
+      "guid": "ca3-24-1439-241439npa.pdf",
+      "precedential": false,
+      "origin": "USDC for the District of Delaware"
     },
     {
       "type": "opinion",
