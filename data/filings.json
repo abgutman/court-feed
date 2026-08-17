@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-17T16:45:07.601245+00:00",
+  "generated": "2026-08-17T17:43:49.714399+00:00",
   "filings": [
     {
       "type": "filing",
@@ -1588,6 +1588,24 @@
     {
       "type": "filing",
       "court": "PA Commonwealth Court",
+      "docket": "1207 CD 2026",
+      "caption": "Purple Shirt Laundry v. Dept. of L&I",
+      "status": "Active",
+      "filing_date": "08/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1207 CD 2026&dnh=TB%2BjjH8s%2F4%2Brf5XdgKWkhw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "1209 CD 2026",
+      "caption": "In re: Appeal of 1705-63 N. American Alpha",
+      "status": "Active",
+      "filing_date": "08/12/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1209 CD 2026&dnh=o0dDMS6ZggnIyS6Iq5RE3A%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
       "docket": "278 FR 2026",
       "caption": "Arthur Dantchik Trust for Descendants v. Cmmnwlth.",
       "status": "Active",
@@ -1652,13 +1670,23 @@
       "type": "filing",
       "court": "PA Commonwealth Court",
       "docket": "371 MD 2026",
-      "caption": "",
+      "caption": "Ferliano, A. v. DOC",
       "status": "Active",
       "filing_date": "08/14/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=371 MD 2026&dnh=IAyy21rdnpx1UH1212AzSw%3D%3D"
     }
   ],
   "opinions": [
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "",
+      "caption": "October 2026 Argument List",
+      "author": "Per Curiam",
+      "pub_date": "Mon, 17 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/October2026ArgumentList.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/October2026ArgumentList.pdf"
+    },
     {
       "type": "opinion",
       "court": "PA Supreme Court",
