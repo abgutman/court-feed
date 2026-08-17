@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-17T18:56:14.949615+00:00",
+  "generated": "2026-08-17T19:41:23.717255+00:00",
   "filings": [
     {
       "type": "filing",
@@ -868,6 +868,24 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "2260 EDA 2026",
+      "caption": "Com. v. Thompson, T.",
+      "status": "Active",
+      "filing_date": "08/17/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2260 EDA 2026&dnh=Yl%2FjR0yeu0bAQoMV%2FWkCrw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2261 EDA 2026",
+      "caption": "Schneider, L. v. Kammeier, J.",
+      "status": "Active",
+      "filing_date": "08/17/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2261 EDA 2026&dnh=jxd2Os1KhDRxRUo%2BqS6AIg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "131 EDM 2026",
       "caption": "Smith, K. v. Gular, E.",
       "status": "Active",
@@ -1239,7 +1257,7 @@
       "court": "PA Superior Court",
       "docket": "57 MDM 2026",
       "caption": "Kramer, T. v. O'Brien, J.",
-      "status": "Active",
+      "status": "Closed",
       "filing_date": "08/14/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=57 MDM 2026&dnh=RkfILQhC1bgZfcdFUJJStw%3D%3D"
     },
@@ -1647,6 +1665,15 @@
       "status": "Active",
       "filing_date": "08/11/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1212 CD 2026&dnh=XeLD4bP6jFOMCnNcVDLfMA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "1213 CD 2026",
+      "caption": "Nyce Construction Services, Inc. v. PUC",
+      "status": "Active",
+      "filing_date": "08/17/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1213 CD 2026&dnh=I%2BwviMp4xl3rpOAe1ELs3w%3D%3D"
     },
     {
       "type": "filing",

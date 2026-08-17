@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-17T18:57:03.492683+00:00",
+  "generated": "2026-08-17T19:42:14.539827+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -77,6 +77,17 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Detention Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658409"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/17/2026 01:30PM",
+      "case_number": "26-cr-0360",
+      "caption": "USA v. PONZO",
+      "judge": "MAGISTRATE JUDGE CARLOS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659310"
     },
     {
       "court": "EDPA",
@@ -385,6 +396,17 @@
       "courtroom": "Courtroom 17A",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?610527"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/19/2026 01:30PM",
+      "case_number": "26-cr-0373",
+      "caption": "USA v. MANSON",
+      "judge": "DISTRICT JUDGE SAVAGE",
+      "city": "",
+      "courtroom": "unlisted",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659630"
     },
     {
       "court": "EDPA",
