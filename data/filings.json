@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-17T14:42:39.229392+00:00",
+  "generated": "2026-08-17T15:37:55.817898+00:00",
   "filings": [
     {
       "type": "filing",
@@ -135,6 +135,24 @@
       "status": "Active",
       "filing_date": "08/14/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=473 MAL 2026&dnh=70pkvsEgJTkGt8W4GjXUAA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "474 MAL 2026",
+      "caption": "Commonwealth v. Peters, A., Pet.",
+      "status": "Active",
+      "filing_date": "08/17/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=474 MAL 2026&dnh=451tbka4nd6KNYQVWjqwAA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "475 MAL 2026",
+      "caption": "Commonwealth v. Kaushas, E., Pet.",
+      "status": "Active",
+      "filing_date": "08/14/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=475 MAL 2026&dnh=mlkQnk69UOMhx%2BbMwwveNQ%3D%3D"
     },
     {
       "type": "filing",
@@ -805,6 +823,15 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "2255 EDA 2026",
+      "caption": "Reconstrutive Orthopaedic v. OBrien & Ryan",
+      "status": "Active",
+      "filing_date": "08/17/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2255 EDA 2026&dnh=a7CElp87eP6mjsC1lYyCSg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "131 EDM 2026",
       "caption": "Smith, K. v. Gular, E.",
       "status": "Active",
@@ -843,7 +870,7 @@
       "court": "PA Superior Court",
       "docket": "136 EDM 2026",
       "caption": "Helms, S. v. Delaware County Domestic Relations",
-      "status": "Active",
+      "status": "Closed",
       "filing_date": "08/17/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=136 EDM 2026&dnh=%2BqO6hfY69dW2k9vl1%2FmvrQ%3D%3D"
     },
