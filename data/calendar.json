@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-17T13:05:15.770256+00:00",
+  "generated": "2026-08-17T13:53:32.542382+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -121,6 +121,17 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Detention Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658409"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/17/2026 01:30PM",
+      "case_number": "26-cr-0378",
+      "caption": "USA v. AUTRY",
+      "judge": "MAGISTRATE JUDGE CARLOS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Initial Appearance",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659731"
     },
     {
       "court": "EDPA",
