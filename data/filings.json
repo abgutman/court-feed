@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-17T19:41:23.717255+00:00",
+  "generated": "2026-08-17T20:42:22.298509+00:00",
   "filings": [
     {
       "type": "filing",
@@ -886,6 +886,15 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "2262 EDA 2026",
+      "caption": "Fat Tail v. Hurst, C.",
+      "status": "Active",
+      "filing_date": "08/17/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2262 EDA 2026&dnh=i1kVcMJWT2lYwf%2F%2B4s9j4g%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "131 EDM 2026",
       "caption": "Smith, K. v. Gular, E.",
       "status": "Active",
@@ -1472,7 +1481,7 @@
       "type": "filing",
       "court": "PA Superior Court",
       "docket": "1049 WDA 2026",
-      "caption": "Comm. v. Hillberry, Jeffrey Delmont",
+      "caption": "Com. v. Hillberry, J.",
       "status": "Active",
       "filing_date": "08/17/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1049 WDA 2026&dnh=82qgsW3rHlYjtecQG2skGQ%3D%3D"
@@ -1548,15 +1557,6 @@
       "status": "Active",
       "filing_date": "08/14/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=92 WDM 2026&dnh=hiGoCUcMFt6%2Bx4i2oNio%2FA%3D%3D"
-    },
-    {
-      "type": "filing",
-      "court": "PA Commonwealth Court",
-      "docket": "1182 CD 2026",
-      "caption": "Sita Thing v. DHS",
-      "status": "Active",
-      "filing_date": "08/13/2026",
-      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1182 CD 2026&dnh=62%2F6w5iFGh%2B%2FJX1K%2BLTWBg%3D%3D"
     },
     {
       "type": "filing",
@@ -1674,6 +1674,24 @@
       "status": "Active",
       "filing_date": "08/17/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1213 CD 2026&dnh=I%2BwviMp4xl3rpOAe1ELs3w%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "1214 CD 2026",
+      "caption": "Haverstick, M. v. OAG",
+      "status": "Active",
+      "filing_date": "08/17/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1214 CD 2026&dnh=ZILjDgTRclQlWxHdZrqFqg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "1215 CD 2026",
+      "caption": "Lucknow-Highspire Terminals LLC, et al. v. PUC",
+      "status": "Active",
+      "filing_date": "08/17/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1215 CD 2026&dnh=igNhHAZXPnus6lkT%2BUBiXQ%3D%3D"
     },
     {
       "type": "filing",
