@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-18T18:57:44.543958+00:00",
+  "generated": "2026-08-18T19:41:55.439663+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -11,17 +11,6 @@
       "courtroom": "Courtroom 8B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629495"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/18/2026 10:00AM",
-      "case_number": "25-cr-0087",
-      "caption": "USA v. BENSON",
-      "judge": "DISTRICT JUDGE SAVAGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634643"
     },
     {
       "court": "EDPA",
@@ -3344,18 +3333,6 @@
       "docket_number": "1637 WDA 2025",
       "journal_number": "J-A22033-26",
       "caption": "Com. v. Miller, J.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "Pittsburgh",
-      "panel": "22-ARGUMENT-2026-2",
-      "judges": "BOWES ; OLSON ; MURRAY , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "09/16/2026",
-      "docket_number": "239 WDA 2026",
-      "journal_number": "J-A22034-26",
-      "caption": "Com. v. Simmons, Z.",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "",
       "city": "Pittsburgh",
