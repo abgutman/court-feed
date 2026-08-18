@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-18T19:41:55.439663+00:00",
+  "generated": "2026-08-18T20:40:04.909635+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -22,28 +22,6 @@
       "courtroom": "Courtroom 12A",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629061"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/18/2026 10:30AM",
-      "case_number": "25-cr-0469",
-      "caption": "USA v. LIN",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645603"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/18/2026 10:30AM",
-      "case_number": "26-cr-0383",
-      "caption": "USA v. LIN",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Initial Appearance",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659751"
     },
     {
       "court": "EDPA",
@@ -88,17 +66,6 @@
       "courtroom": "Video Conference",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637474"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/18/2026 01:30PM",
-      "case_number": "26-cr-0346",
-      "caption": "USA v. WILLIAMS",
-      "judge": "MAGISTRATE JUDGE CARLOS",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658852"
     },
     {
       "court": "EDPA",
@@ -682,17 +649,6 @@
       "courtroom": "Courtroom 10A",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638969"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/26/2026 10:00AM",
-      "case_number": "25-cr-0368",
-      "caption": "USA v. JOHNSON",
-      "judge": "DISTRICT JUDGE COSTELLO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom TBD",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642638"
     },
     {
       "court": "EDPA",
