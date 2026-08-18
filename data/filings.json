@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-18T13:56:36.434020+00:00",
+  "generated": "2026-08-18T14:51:31.926624+00:00",
   "filings": [
     {
       "type": "filing",
@@ -257,7 +257,7 @@
       "type": "filing",
       "court": "PA Supreme Court",
       "docket": "89 WM 2026",
-      "caption": "McGuire v. Nationwide Ins. Pet. of: US Court",
+      "caption": "McGuire v. Nationwide Ins.; Pet. of: US Court of Appeals",
       "status": "Active",
       "filing_date": "08/13/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=89 WM 2026&dnh=6ni2OmyDFpKwy1CuUA4byg%3D%3D"
@@ -796,6 +796,15 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "2264 EDA 2026",
+      "caption": "Zhyhaylo, T. v. Ciumacenco, E.",
+      "status": "Active",
+      "filing_date": "08/18/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2264 EDA 2026&dnh=PMiq8hnWHzdWLQwHVszMSA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "131 EDM 2026",
       "caption": "Smith, K. v. Gular, E.",
       "status": "Active",
@@ -807,7 +816,7 @@
       "court": "PA Superior Court",
       "docket": "132 EDM 2026",
       "caption": "Com. v. Williams, T.",
-      "status": "Active",
+      "status": "Closed",
       "filing_date": "08/12/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=132 EDM 2026&dnh=3B1Vyoh%2FeFVl0%2BskL%2BzZqw%3D%3D"
     },
@@ -837,6 +846,15 @@
       "status": "Closed",
       "filing_date": "08/17/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=136 EDM 2026&dnh=%2BqO6hfY69dW2k9vl1%2FmvrQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "137 EDM 2026",
+      "caption": "Hu, Y. Sonne, D.",
+      "status": "Active",
+      "filing_date": "08/18/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=137 EDM 2026&dnh=1FTz6eELaQMGD23l0QyBQA%3D%3D"
     },
     {
       "type": "filing",
@@ -1431,6 +1449,15 @@
       "status": "Active",
       "filing_date": "08/18/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1057 WDA 2026&dnh=NASy8VQmEYx%2Fuhz9oDyJTQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1058 WDA 2026",
+      "caption": "Com. v. Thorne, S.",
+      "status": "Active",
+      "filing_date": "08/18/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1058 WDA 2026&dnh=Jq1yt59OCq8pL4aIYJqchA%3D%3D"
     },
     {
       "type": "filing",
