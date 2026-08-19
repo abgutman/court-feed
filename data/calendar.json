@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-19T13:58:20.848191+00:00",
+  "generated": "2026-08-19T14:56:19.090916+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -1188,17 +1188,6 @@
       "courtroom": "Courtroom 9A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652608"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/01/2026 10:00AM",
-      "case_number": "26-cr-0134",
-      "caption": "USA v. RAKHMATOV",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651868"
     },
     {
       "court": "EDPA",
