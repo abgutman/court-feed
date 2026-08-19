@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-19T13:08:59.238396+00:00",
+  "generated": "2026-08-19T13:58:20.848191+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -242,6 +242,28 @@
       "courtroom": "Courtroom 3D",
       "hearing_type": "Settlement Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654072"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/21/2026 01:30PM",
+      "case_number": "26-cr-0298",
+      "caption": "USA v. BURNS",
+      "judge": "MAGISTRATE JUDGE CARLOS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657670"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/21/2026 01:30PM",
+      "case_number": "26-cr-0298",
+      "caption": "USA v. BURNS",
+      "judge": "MAGISTRATE JUDGE CARLOS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657670"
     },
     {
       "court": "EDPA",
