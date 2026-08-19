@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-19T14:56:19.090916+00:00",
+  "generated": "2026-08-19T17:40:15.443227+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -37,17 +37,6 @@
     {
       "court": "EDPA",
       "datetime": "08/19/2026 10:30AM",
-      "case_number": "26-cr-0086",
-      "caption": "USA v. MORALES-ORTIZ",
-      "judge": "DISTRICT JUDGE PEREZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650478"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/19/2026 10:30AM",
       "case_number": "24-cr-0360",
       "caption": "USA v. DALLAS",
       "judge": "DISTRICT JUDGE RUFE",
@@ -55,17 +44,6 @@
       "courtroom": "Courtroom 12A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628571"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/19/2026 11:00AM",
-      "case_number": "25-cr-0491",
-      "caption": "USA v. FLEWELLEN",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646189"
     },
     {
       "court": "EDPA",
@@ -363,6 +341,17 @@
       "courtroom": "Courtroom 11A",
       "hearing_type": "Competency Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?609987"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/24/2026 03:00PM",
+      "case_number": "26-cr-0038",
+      "caption": "USA v. MITCHELL",
+      "judge": "DISTRICT JUDGE PAPPERT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 11A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648819"
     },
     {
       "court": "EDPA",
@@ -858,6 +847,17 @@
       "courtroom": "Courtroom 13B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623373"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/27/2026 01:30PM",
+      "case_number": "25-cr-0460",
+      "caption": "USA v. HERRERA",
+      "judge": "DISTRICT JUDGE HENRY",
+      "city": "Philadelphia",
+      "courtroom": "Philadelphia",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645271"
     },
     {
       "court": "EDPA",
@@ -1707,6 +1707,33 @@
       "date": "2026-09-11",
       "case_number": "24-1817",
       "caption": "Landbridge Port Services (Hong Kong) Ltd v. Notarc Port Inve",
+      "panel": "RESTREPO, MONTGOMERY-REEVES, MCKEE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-11",
+      "case_number": "25-2801",
+      "caption": "USA v. David Gonzalez-Castillo",
+      "panel": "RESTREPO, MONTGOMERY-REEVES, MCKEE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-11",
+      "case_number": "25-3038",
+      "caption": "Christian  Guzman Vargas et al  v. Attorney General United S",
+      "panel": "RESTREPO, MONTGOMERY-REEVES, MCKEE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-11",
+      "case_number": "25-3376",
+      "caption": "Peace Church Risk Retention Group et al  v. Johnson Controls",
       "panel": "RESTREPO, MONTGOMERY-REEVES, MCKEE",
       "location_time": "",
       "disposition": "Submitted"
@@ -8293,6 +8320,18 @@
       "location": "Courtroom 5001 Livestream Link*:",
       "city": "Harrisburg",
       "panel": "Panel 1",
+      "judges": ""
+    },
+    {
+      "court": "PA Commonwealth Court",
+      "date": "09/14/2026",
+      "docket_number": "1621 CD 2024",
+      "journal_number": "54-09-2026",
+      "caption": "Ruiz, E, v. Cleanroom Tecs, Inc., et al. (WCAB)",
+      "consideration_type": "CONTINUED",
+      "location": "Courtroom 5001 Livestream Link*:",
+      "city": "Harrisburg",
+      "panel": "Panel 2",
       "judges": ""
     },
     {
