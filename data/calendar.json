@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-19T11:40:08.358602+00:00",
+  "generated": "2026-08-19T13:08:59.238396+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -245,6 +245,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "08/21/2026 01:30PM",
+      "case_number": "26-cr-0379",
+      "caption": "USA v. WHITE",
+      "judge": "MAGISTRATE JUDGE CARLOS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659742"
+    },
+    {
+      "court": "EDPA",
       "datetime": "08/24/2026 09:30AM",
       "case_number": "25-cv-3682",
       "caption": "HECKLER et al v. WHOLE FOODS M",
@@ -440,6 +451,17 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Initial Appearance",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656818"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/25/2026 12:00PM",
+      "case_number": "26-cr-0024",
+      "caption": "USA v. WOODSON",
+      "judge": "DISTRICT JUDGE HODGE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 17A",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648467"
     },
     {
       "court": "EDPA",
