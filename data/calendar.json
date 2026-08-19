@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-19T17:40:15.443227+00:00",
+  "generated": "2026-08-19T18:56:03.819980+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -58,17 +58,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "08/19/2026 11:00AM",
-      "case_number": "26-cv-0227",
-      "caption": "JONES-TROTTER v. LEACOCK et al",
-      "judge": "DISTRICT JUDGE PADOVA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 17B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648444"
-    },
-    {
-      "court": "EDPA",
       "datetime": "08/19/2026 01:00PM",
       "case_number": "23-cr-0260",
       "caption": "USA v. CURTIS",
@@ -88,17 +77,6 @@
       "courtroom": "unlisted",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659630"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/19/2026 01:30PM",
-      "case_number": "26-cv-3635",
-      "caption": "EMPIRE ROOFING, INC. et al v.",
-      "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "",
-      "courtroom": "Telephone Conference",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655382"
     },
     {
       "court": "EDPA",
@@ -356,17 +334,6 @@
     {
       "court": "EDPA",
       "datetime": "08/25/2026 09:30AM",
-      "case_number": "26-cr-0216",
-      "caption": "USA v. ANDREWS",
-      "judge": "DISTRICT JUDGE BARTLE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654762"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/25/2026 09:30AM",
       "case_number": "26-cr-0065",
       "caption": "USA v. REYES",
       "judge": "DISTRICT JUDGE SAVAGE",
@@ -394,7 +361,7 @@
       "judge": "DISTRICT JUDGE BARTLE",
       "city": "Philadelphia",
       "courtroom": "Courtroom 16A",
-      "hearing_type": "Jury Selection",
+      "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654762"
     },
     {
@@ -444,17 +411,6 @@
     {
       "court": "EDPA",
       "datetime": "08/25/2026 10:30AM",
-      "case_number": "18-cv-3299",
-      "caption": "HUMANA INC. v. ACTAVIS ELIZABE",
-      "judge": "DISTRICT JUDGE RUFE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12A",
-      "hearing_type": "Final Pretrial Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/25/2026 10:30AM",
       "case_number": "26-cr-0287",
       "caption": "USA v. TURNER",
       "judge": "DISTRICT JUDGE SLOMSKY",
@@ -473,17 +429,6 @@
       "courtroom": "Courtroom 17A",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648467"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/25/2026 12:30PM",
-      "case_number": "25-cr-0358",
-      "caption": "USA v. DAVIS",
-      "judge": "DISTRICT JUDGE MURPHY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642388"
     },
     {
       "court": "EDPA",
@@ -938,17 +883,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "08/31/2026 09:00AM",
-      "case_number": "25-cr-0358",
-      "caption": "USA v. DAVIS",
-      "judge": "DISTRICT JUDGE MURPHY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642388"
-    },
-    {
-      "court": "EDPA",
       "datetime": "08/31/2026 09:30AM",
       "case_number": "26-cr-0173",
       "caption": "USA v. ONEAL",
@@ -1100,6 +1034,28 @@
       "courtroom": "Courtroom 17B",
       "hearing_type": "Settlement Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641849"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/31/2026 11:30AM",
+      "case_number": "16-md-2724",
+      "caption": "IN RE: GENERIC PHARMACEUTICALS",
+      "judge": "DISTRICT JUDGE RUFE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12A",
+      "hearing_type": "Final Pretrial Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/31/2026 11:30AM",
+      "case_number": "18-cv-3299",
+      "caption": "HUMANA INC. v. ACTAVIS ELIZABE",
+      "judge": "DISTRICT JUDGE RUFE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12A",
+      "hearing_type": "Final Pretrial Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679"
     },
     {
       "court": "EDPA",
