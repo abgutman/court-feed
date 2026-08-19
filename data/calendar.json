@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-19T10:50:32.152770+00:00",
+  "generated": "2026-08-19T11:40:08.358602+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -1543,6 +1543,141 @@
     }
   ],
   "third_circuit": [
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-08",
+      "case_number": "24-3313",
+      "caption": "USA v. Darnell Jackson",
+      "panel": "RESTREPO, MONTGOMERY-REEVES, MCKEE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-08",
+      "case_number": "25-2655",
+      "caption": "USA v. Jaquan Picott",
+      "panel": "RESTREPO, MONTGOMERY-REEVES, MCKEE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-08",
+      "case_number": "25-2725",
+      "caption": "SEC v. Suyun Gu et al",
+      "panel": "RESTREPO, MONTGOMERY-REEVES, MCKEE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-09",
+      "case_number": "24-2015, 24-2105",
+      "caption": "Edwin Romero v. Secretary Pennsylvania Department of Correct",
+      "panel": "RESTREPO, MONTGOMERY-REEVES, MCKEE",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 10:00 am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-09",
+      "case_number": "24-2596, 24-2670, 25-2252",
+      "caption": "James Dennis v. City of Philadelphia et al",
+      "panel": "RESTREPO, MONTGOMERY-REEVES, MCKEE",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 10:00 am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-09",
+      "case_number": "25-1627",
+      "caption": "Jesse Engram v. Superintendent Mahanoy SCI et al",
+      "panel": "RESTREPO, MONTGOMERY-REEVES, MCKEE",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 10:00 am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-09",
+      "case_number": "25-2996",
+      "caption": "Claudia DiBlasi v. Guthrie/Robert Packer Hospital et al",
+      "panel": "RESTREPO, MONTGOMERY-REEVES, MCKEE",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 10:00 am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-09",
+      "case_number": "25-3073",
+      "caption": "Kamila Bajda v. Attorney General United States of America",
+      "panel": "RESTREPO, MONTGOMERY-REEVES, MCKEE",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 10:00 am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-09",
+      "case_number": "25-2621",
+      "caption": "USA v. Santino  Bellucci",
+      "panel": "RESTREPO, MONTGOMERY-REEVES, MCKEE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-09",
+      "case_number": "25-2864",
+      "caption": "Sunshine Shopping Center Inc et al  v. Travelers Excess and",
+      "panel": "RESTREPO, MONTGOMERY-REEVES, MCKEE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-09",
+      "case_number": "25-3102",
+      "caption": "Jose Lemus Palma v. Attorney General United States of Americ",
+      "panel": "RESTREPO, MONTGOMERY-REEVES, MCKEE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-10",
+      "case_number": "25-2379",
+      "caption": "Charanseet Singh v. Attorney General United States of Americ",
+      "panel": "RESTREPO, MONTGOMERY-REEVES, MCKEE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-10",
+      "case_number": "25-2955",
+      "caption": "Pablo Guimaraes et al  v. Attorney General United States of",
+      "panel": "RESTREPO, MONTGOMERY-REEVES, MCKEE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-10",
+      "case_number": "25-3570",
+      "caption": "USA v. William  Welsh",
+      "panel": "RESTREPO, MONTGOMERY-REEVES, MCKEE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-11",
+      "case_number": "24-1817",
+      "caption": "Landbridge Port Services (Hong Kong) Ltd v. Notarc Port Inve",
+      "panel": "RESTREPO, MONTGOMERY-REEVES, MCKEE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
     {
       "court": "Third Circuit",
       "date": "2026-09-15",
