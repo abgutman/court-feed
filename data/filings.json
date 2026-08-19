@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-19T18:54:37.533399+00:00",
+  "generated": "2026-08-19T19:39:02.215296+00:00",
   "filings": [
     {
       "type": "filing",
@@ -1615,6 +1615,15 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "1076 WDA 2026",
+      "caption": "Adoption of:Chandler, M. Appeal of:Moye, M.",
+      "status": "Active",
+      "filing_date": "08/19/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1076 WDA 2026&dnh=Ob30BJmrjtXTHQ2%2FO0FDdw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "92 WDM 2026",
       "caption": "Ferrone, R. v. Giuffre, P.",
       "status": "Active",
@@ -3046,6 +3055,18 @@
       "guid": "ca3-25-2778-252778np.pdf",
       "precedential": false,
       "origin": "USDC for the Eastern District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-2305",
+      "caption": "Peter Cresci v. Timothy McNamara",
+      "author": "",
+      "pub_date": "Wed, 19 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/252305np.pdf",
+      "guid": "ca3-25-2305-252305np.pdf",
+      "precedential": false,
+      "origin": "USDC for the District of New Jersey"
     },
     {
       "type": "opinion",
