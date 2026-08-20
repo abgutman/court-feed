@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-20T05:47:52.195999+00:00",
+  "generated": "2026-08-20T07:06:26.694306+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -1620,6 +1620,33 @@
     }
   ],
   "third_circuit": [
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-08",
+      "case_number": "24-3313",
+      "caption": "USA v. Darnell Jackson",
+      "panel": "RESTREPO, MONTGOMERY-REEVES, MCKEE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-08",
+      "case_number": "25-2655",
+      "caption": "USA v. Jaquan Picott",
+      "panel": "RESTREPO, MONTGOMERY-REEVES, MCKEE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-08",
+      "case_number": "25-2725",
+      "caption": "SEC v. Suyun Gu et al",
+      "panel": "RESTREPO, MONTGOMERY-REEVES, MCKEE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
     {
       "court": "Third Circuit",
       "date": "2026-09-09",
