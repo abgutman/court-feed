@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-20T11:40:33.508037+00:00",
+  "generated": "2026-08-20T13:10:08.838731+00:00",
   "filings": [
     {
       "type": "filing",
@@ -949,6 +949,15 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "1272 MDA 2026",
+      "caption": "Hertzog, D. v. Francisco, J.",
+      "status": "Active",
+      "filing_date": "08/20/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1272 MDA 2026&dnh=LS3JY2U1cNbdf%2B4kOX03hQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "57 MDM 2026",
       "caption": "Kramer, T. v. O'Brien, J.",
       "status": "Closed",
@@ -1489,6 +1498,15 @@
     {
       "type": "filing",
       "court": "PA Commonwealth Court",
+      "docket": "288 FR 2026",
+      "caption": "A.T. Chadwick Company v. Com. of Pa.",
+      "status": "Active",
+      "filing_date": "08/19/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=288 FR 2026&dnh=%2FGKcDAlVH7zTrDVR1mMIrA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
       "docket": "371 MD 2026",
       "caption": "Ferliano, A. v. DOC",
       "status": "Active",
@@ -1503,6 +1521,15 @@
       "status": "Active",
       "filing_date": "08/18/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=375 MD 2026&dnh=I8Njag3uKUvVzrPtzziMvQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "378 MD 2026",
+      "caption": "Worthington, H. v. Northampton Co. Clerk of Courts",
+      "status": "Active",
+      "filing_date": "08/14/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=378 MD 2026&dnh=ohDyioJ00MiwfKgg21nyDA%3D%3D"
     }
   ],
   "opinions": [
