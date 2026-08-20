@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-20T14:00:17.842186+00:00",
+  "generated": "2026-08-20T14:56:11.377447+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -268,17 +268,6 @@
     {
       "court": "EDPA",
       "datetime": "08/25/2026 10:00AM",
-      "case_number": "24-cr-0023",
-      "caption": "USA v. BURCH",
-      "judge": "DISTRICT JUDGE HODGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617934"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/25/2026 10:00AM",
       "case_number": "25-cr-0266",
       "caption": "USA v. ALLEN",
       "judge": "DISTRICT JUDGE MURPHY",
@@ -330,6 +319,17 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655049"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/25/2026 02:00PM",
+      "case_number": "26-cr-0048",
+      "caption": "USA v. SEGERS",
+      "judge": "DISTRICT JUDGE SAVAGE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 9A",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649110"
     },
     {
       "court": "EDPA",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-20T13:58:41.829084+00:00",
+  "generated": "2026-08-20T14:54:44.434900+00:00",
   "filings": [
     {
       "type": "filing",
@@ -256,6 +256,24 @@
     {
       "type": "filing",
       "court": "PA Supreme Court",
+      "docket": "235 WAL 2026",
+      "caption": "Commonwealth v. Short, D., Pet.",
+      "status": "Active",
+      "filing_date": "08/20/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=235 WAL 2026&dnh=pfHcZRgbUQoqTO3O1ujjGw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "236 WAL 2026",
+      "caption": "Commonwealth v. Short, D., Pet.",
+      "status": "Active",
+      "filing_date": "08/20/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=236 WAL 2026&dnh=jWi2M8cGA854E%2FJ9324KPw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
       "docket": "91 WM 2026",
       "caption": "Commonwealth v. Snyder, K., Pet.",
       "status": "Active",
@@ -270,6 +288,15 @@
       "status": "Active",
       "filing_date": "08/19/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=92 WM 2026&dnh=PKvqGMf8WC%2FMUtGgDjim3w%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "93 WM 2026",
+      "caption": "Harvey, N., Pet v. DOC",
+      "status": "Active",
+      "filing_date": "08/20/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=93 WM 2026&dnh=WovkomTeuFO%2BoOXGHmLaMA%3D%3D"
     },
     {
       "type": "filing",
@@ -693,6 +720,15 @@
       "status": "Active",
       "filing_date": "08/19/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2282 EDA 2026&dnh=T0xD%2BimnUYb7LD2mka3d7w%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2283 EDA 2026",
+      "caption": "Bursey, M. v. Thomas, T.",
+      "status": "Active",
+      "filing_date": "08/20/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2283 EDA 2026&dnh=6wJazgDsiC0Fkk7q5rVJrA%3D%3D"
     },
     {
       "type": "filing",
@@ -1426,6 +1462,24 @@
     {
       "type": "filing",
       "court": "PA Commonwealth Court",
+      "docket": "1227 CD 2026",
+      "caption": "Empire Roofing & More v. Dept. of L&I et al (BOC)",
+      "status": "Active",
+      "filing_date": "08/20/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1227 CD 2026&dnh=03JVOR72Tp5rfUAYoC2lnQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "1228 CD 2026",
+      "caption": "Waybright, M. v. DOT",
+      "status": "Active",
+      "filing_date": "08/19/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1228 CD 2026&dnh=a9lL2mcaRJ1vVaSOPEKraA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
       "docket": "280 FR 2026",
       "caption": "Procacci Brothers Sales Corporation v. Com. of Pa.",
       "status": "Active",
@@ -1539,6 +1593,15 @@
       "status": "Active",
       "filing_date": "08/14/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=378 MD 2026&dnh=ohDyioJ00MiwfKgg21nyDA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "383 MD 2026",
+      "caption": "Noel, M. v. Harry, L.",
+      "status": "Active",
+      "filing_date": "08/14/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=383 MD 2026&dnh=9fHs6qtubutzJB%2BOVOzGIA%3D%3D"
     }
   ],
   "opinions": [
@@ -2581,6 +2644,86 @@
       "pub_date": "Fri, 14 Aug 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S18007-26m - 106888712370151456.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S18007-26m - 106888712370151456.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "481 C.D. 2025",
+      "caption": "Trustees of the University of PA v. N. Braas, et al. (WCAB)",
+      "author": "McCullough, J.",
+      "pub_date": "Thu, 20 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/481CD25_8-20-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/481CD25_8-20-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "350 M.D. 2024",
+      "caption": "A.M. Helferty v. West Whiteland Twp. Police Dept. &amp; S.E. Pezick",
+      "author": "Cohn Jubelirer, President Judge",
+      "pub_date": "Thu, 20 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/350MD24_8-20-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/350MD24_8-20-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "531 C.D. 2025",
+      "caption": "T.R. Deeter, Jr. v. PPB",
+      "author": "Wojcik, J.",
+      "pub_date": "Thu, 20 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/531CD25_8-20-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/531CD25_8-20-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "633 C.D. 2025",
+      "caption": "M. Bocina v. PPB",
+      "author": "Wojcik, J.",
+      "pub_date": "Thu, 20 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/633CD25_8-20-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/633CD25_8-20-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "689 C.D. 2025",
+      "caption": "W. Barton v. PPB",
+      "author": "Wojcik, J.",
+      "pub_date": "Thu, 20 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/689CD25_8-20-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/689CD25_8-20-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "925 C.D. 2025",
+      "caption": "S. Carolla v. UCBR",
+      "author": "Wojcik, J.",
+      "pub_date": "Thu, 20 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/925CD25_8-20-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/925CD25_8-20-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "45 M.D. 2025",
+      "caption": "D.F. Constantini v. PA DOC",
+      "author": "Wojcik, J.",
+      "pub_date": "Thu, 20 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/45MD25_8-20-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/45MD25_8-20-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "731 C.D. 2025",
+      "caption": "R.E. Mendolia v. UCBR",
+      "author": "Fizzano Cannon, J.",
+      "pub_date": "Thu, 20 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/731CD25_8-20-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/731CD25_8-20-26.pdf"
     },
     {
       "type": "opinion",
