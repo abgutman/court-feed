@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-20T20:46:49.865035+00:00",
+  "generated": "2026-08-20T21:44:11.394821+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -1232,6 +1232,17 @@
       "courtroom": "Courtroom 10B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654174"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/02/2026 11:30AM",
+      "case_number": "06-cr-0285",
+      "caption": "USA v. HAWKINS",
+      "judge": "DISTRICT JUDGE SANCHEZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14B",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?204851"
     },
     {
       "court": "EDPA",
