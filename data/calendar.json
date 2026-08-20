@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-20T17:46:15.811223+00:00",
+  "generated": "2026-08-20T18:59:23.230959+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -528,6 +528,17 @@
       "courtroom": "Courtroom 10A",
       "hearing_type": "Remand Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631107"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/27/2026 10:00AM",
+      "case_number": "26-cv-6072",
+      "caption": "Mansfield Oil Company of Gaine",
+      "judge": "DISTRICT JUDGE MCHUGH",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 9A",
+      "hearing_type": "Show Cause Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660197"
     },
     {
       "court": "EDPA",
@@ -2981,6 +2992,18 @@
     },
     {
       "court": "PA Superior Court",
+      "date": "09/15/2026",
+      "docket_number": "368 WDA 2026",
+      "journal_number": "J-A22031-26",
+      "caption": "In the Interest of: D.K., Appeal of: L.R.K.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "Pittsburgh",
+      "panel": "22-ARGUMENT-2026-2",
+      "judges": "BOWES ; OLSON ; MURRAY , JJ."
+    },
+    {
+      "court": "PA Superior Court",
       "date": "09/16/2026",
       "docket_number": "498 WDA 2026",
       "journal_number": "J-A22022-26",
@@ -3045,18 +3068,6 @@
       "docket_number": "1383 WDA 2025",
       "journal_number": "J-A22026-26",
       "caption": "Hartman, L. v. Haines, R.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "Pittsburgh",
-      "panel": "22-ARGUMENT-2026-2",
-      "judges": "BOWES ; OLSON ; MURRAY , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "09/16/2026",
-      "docket_number": "368 WDA 2026",
-      "journal_number": "J-A22031-26",
-      "caption": "In the Interest of: D.K., Appeal of: L.R.K.",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "",
       "city": "Pittsburgh",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-20T17:44:50.778690+00:00",
+  "generated": "2026-08-20T18:57:59.934656+00:00",
   "filings": [
     {
       "type": "filing",
@@ -751,6 +751,51 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "2286 EDA 2026",
+      "caption": "In Re: Est. of: J. Hayes",
+      "status": "Active",
+      "filing_date": "08/20/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2286 EDA 2026&dnh=pCbPYx2TaX3vE8rBM0v5oA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2287 EDA 2026",
+      "caption": "In Re: A.V.N., Appeal of: B.L.M.",
+      "status": "Active",
+      "filing_date": "08/20/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2287 EDA 2026&dnh=EzOMTu1jaFrw44HgmXsi7g%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2288 EDA 2026",
+      "caption": "In Re: A.E.N., Appeal of: B.L.M.",
+      "status": "Active",
+      "filing_date": "08/20/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2288 EDA 2026&dnh=G6kjxqEeWb6kw4xAsLQyyg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2289 EDA 2026",
+      "caption": "Morton, A. v. Wheeler, Diulio and Barnabei",
+      "status": "Active",
+      "filing_date": "08/20/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2289 EDA 2026&dnh=Qt5uNALN%2Fq1W5DBJIu1xNQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2290 EDA 2026",
+      "caption": "Miller, D. v. Zoning Hearing Board",
+      "status": "Active",
+      "filing_date": "08/20/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2290 EDA 2026&dnh=7DfiCpfHPMFAkPpVp5pWKQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "136 EDM 2026",
       "caption": "Helms, S. v. Delaware County Domestic Relations",
       "status": "Active",
@@ -1120,6 +1165,15 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "59 MDM 2026",
+      "caption": "Rhodes, T. v. Serra, A.",
+      "status": "Active",
+      "filing_date": "08/20/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=59 MDM 2026&dnh=Gu6fCo1ipnRe%2FcKCx3OO4Q%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "1041 WDA 2026",
       "caption": "Com. v. Weathersby, J.",
       "status": "Active",
@@ -1436,7 +1490,7 @@
       "type": "filing",
       "court": "PA Superior Court",
       "docket": "1076 WDA 2026",
-      "caption": "Adoption of:Chandler, M. Appeal of:Moye, M.",
+      "caption": "In Re: M.A.J.C, Appeal of: M.A.M.",
       "status": "Active",
       "filing_date": "08/19/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1076 WDA 2026&dnh=Ob30BJmrjtXTHQ2%2FO0FDdw%3D%3D"
@@ -1597,6 +1651,33 @@
     {
       "type": "filing",
       "court": "PA Commonwealth Court",
+      "docket": "1233 CD 2026",
+      "caption": "Jenkins, D. et al v. PGC",
+      "status": "Active",
+      "filing_date": "08/14/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1233 CD 2026&dnh=hFFmeV2gP03yhOuziB8Njg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "1234 CD 2026",
+      "caption": "Crutchfield, I. v. PPB",
+      "status": "Active",
+      "filing_date": "08/20/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1234 CD 2026&dnh=LUzoOmd5Ak0GMXT5UqvRXw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "1235 CD 2026",
+      "caption": "Rust, E. v. UCBR",
+      "status": "Active",
+      "filing_date": "08/20/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1235 CD 2026&dnh=epMJdrDmCRycq0Q%2F62%2BxPA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
       "docket": "280 FR 2026",
       "caption": "Procacci Brothers Sales Corporation v. Com. of Pa.",
       "status": "Active",
@@ -1731,6 +1812,16 @@
     }
   ],
   "opinions": [
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 26 EAP 2026",
+      "caption": "Zied-Campbell, M., et al., Aplts. v. DHS",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 20 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/26EAP2026pco - 106895348370935917.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/26EAP2026pco - 106895348370935917.pdf"
+    },
     {
       "type": "opinion",
       "court": "PA Supreme Court",
@@ -2220,16 +2311,6 @@
       "pub_date": "Tue, 18 Aug 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Supreme/out/131MAL2026 - 106891722370442632.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/131MAL2026 - 106891722370442632.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 132 MAL 2026 (Granted)",
-      "caption": "In Re: Condemnation of Property Located at 145",
-      "author": "Per Curiam",
-      "pub_date": "Tue, 18 Aug 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/132MAL2026 - 106891729370443003.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/132MAL2026 - 106891729370443003.pdf"
     },
     {
       "type": "opinion",
