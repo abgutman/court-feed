@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-20T15:48:17.363090+00:00",
+  "generated": "2026-08-20T16:50:22.670328+00:00",
   "filings": [
     {
       "type": "filing",
@@ -1102,6 +1102,15 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "58 MDM 2026",
+      "caption": "Com. v. Taylor, T.",
+      "status": "Active",
+      "filing_date": "08/20/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=58 MDM 2026&dnh=YNCgWX%2F6ygxXCp%2Fx9iWuqQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "1041 WDA 2026",
       "caption": "Com. v. Weathersby, J.",
       "status": "Active",
@@ -1665,6 +1674,15 @@
       "status": "Active",
       "filing_date": "08/20/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=289 FR 2026&dnh=i8qtk2C9mzfNyGfq3i%2Bk4g%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "290 FR 2026",
+      "caption": "Castle Co-Packers LLC v. Com. of Pa.",
+      "status": "Active",
+      "filing_date": "08/20/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=290 FR 2026&dnh=kwksaAKL7uJsZDIHqW%2F8IA%3D%3D"
     },
     {
       "type": "filing",
@@ -2939,6 +2957,30 @@
       "guid": "ca3-25-1490-251490p.pdf",
       "precedential": true,
       "origin": "Agency"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "26-1741",
+      "caption": "Kaeun Kim v. Essex County Prosecutors Office",
+      "author": "",
+      "pub_date": "Thu, 20 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/261741np.pdf",
+      "guid": "ca3-26-1741-261741np.pdf",
+      "precedential": false,
+      "origin": "USDC for the District of New Jersey"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "26-1118",
+      "caption": "Lucas Guggenheimer v. Wellpath LLC",
+      "author": "",
+      "pub_date": "Thu, 20 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/261118np.pdf",
+      "guid": "ca3-26-1118-261118np.pdf",
+      "precedential": false,
+      "origin": "USDC for the Middle District of Pennsylvania"
     },
     {
       "type": "opinion",
