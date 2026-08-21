@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-21T18:57:42.340378+00:00",
+  "generated": "2026-08-21T19:36:26.666421+00:00",
   "filings": [
     {
       "type": "filing",
@@ -747,6 +747,33 @@
       "status": "Active",
       "filing_date": "08/21/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2300 EDA 2026&dnh=KkT4gbWmk5ISLWEMqBti0A%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2301 EDA 2026",
+      "caption": "In the Int. of: C.N., Appeal of: B.L.",
+      "status": "Active",
+      "filing_date": "08/21/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2301 EDA 2026&dnh=AtJPhaJwdOIHyIMfQN0JfQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2302 EDA 2026",
+      "caption": "In the Int. of: C.N., Appeal of: B.L.",
+      "status": "Active",
+      "filing_date": "08/21/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2302 EDA 2026&dnh=jMY9gwc2pfAB5tBgzdR5fw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2303 EDA 2026",
+      "caption": "In the Int. of: J.W., Appeal of: D.C.",
+      "status": "Active",
+      "filing_date": "08/21/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2303 EDA 2026&dnh=mcvfZ0puLuNn5xyWSyu2yA%3D%3D"
     },
     {
       "type": "filing",
@@ -1617,6 +1644,16 @@
     {
       "type": "opinion",
       "court": "PA Supreme Court",
+      "docket": "No. 563 Magisterial Rules Docket",
+      "caption": "In Re: Appointments to the Minor Court Rules Committee",
+      "author": "Per Curiam",
+      "pub_date": "Fri, 21 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/Order Entered - 106897030371007312.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/Order Entered - 106897030371007312.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
       "docket": "No. 26 EAP 2026",
       "caption": "Zied-Campbell, M., et al., Aplts. v. DHS",
       "author": "Per Curiam",
@@ -2103,16 +2140,6 @@
       "pub_date": "Tue, 18 Aug 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Supreme/out/268MAL2026 - 106892326370537362.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/268MAL2026 - 106892326370537362.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 131 MAL 2026 (Granted)",
-      "caption": "In Re: Condemnation by the General Mun. Auth.",
-      "author": "Per Curiam",
-      "pub_date": "Tue, 18 Aug 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/131MAL2026 - 106891722370442632.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/131MAL2026 - 106891722370442632.pdf"
     },
     {
       "type": "opinion",
@@ -2929,6 +2956,18 @@
       "guid": "ca3-25-2473-252473np.pdf",
       "precedential": false,
       "origin": "USDC for the Middle District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-2255",
+      "caption": "Cesar  Plaza Rivera v. Attorney General United States of America",
+      "author": "",
+      "pub_date": "Fri, 21 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/252255np.pdf",
+      "guid": "ca3-25-2255-252255np.pdf",
+      "precedential": false,
+      "origin": "Agency"
     },
     {
       "type": "opinion",
