@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-21T19:37:48.299161+00:00",
+  "generated": "2026-08-21T20:41:35.672172+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -576,17 +576,6 @@
     {
       "court": "EDPA",
       "datetime": "08/31/2026 09:30AM",
-      "case_number": "26-cr-0173",
-      "caption": "USA v. ONEAL",
-      "judge": "DISTRICT JUDGE BARTLE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653115"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/31/2026 09:30AM",
       "case_number": "20-cr-0227",
       "caption": "USA v. PENNYCOOKE",
       "judge": "DISTRICT JUDGE GALLAGHER",
@@ -627,17 +616,6 @@
       "courtroom": "Courtroom 12B",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631018"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/31/2026 10:00AM",
-      "case_number": "26-cr-0173",
-      "caption": "USA v. ONEAL",
-      "judge": "DISTRICT JUDGE BARTLE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16A",
-      "hearing_type": "Jury Selection",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653115"
     },
     {
       "court": "EDPA",
@@ -2178,18 +2156,6 @@
     {
       "court": "PA Superior Court",
       "date": "09/15/2026",
-      "docket_number": "990 EDA 2025",
-      "journal_number": "J-A21001-26",
-      "caption": "Shelton, J. v. Ortega Gonzalez, C.",
-      "consideration_type": "Expedited \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "21-ARGUMENT-2026-2",
-      "judges": ""
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "09/15/2026",
       "docket_number": "1174 EDA 2025",
       "journal_number": "J-A21002-26",
       "caption": "1726 S 5th St Associate LLC v. Claus AKA Closs, N.",
@@ -2254,18 +2220,6 @@
       "journal_number": "J-A21006-26",
       "caption": "Com. v. Patterson, E.",
       "consideration_type": "Expedited \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "21-ARGUMENT-2026-2",
-      "judges": ""
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "09/15/2026",
-      "docket_number": "73 EDA 2026",
-      "journal_number": "J-A21007-26",
-      "caption": "Cole, K. v. Providence Operator",
-      "consideration_type": "Standard \u2014 Argument Panel",
       "location": "",
       "city": "",
       "panel": "21-ARGUMENT-2026-2",
@@ -2373,18 +2327,6 @@
       "docket_number": "2660 EDA 2025",
       "journal_number": "J-A21018-26",
       "caption": "Zepeda, K. v. Sanchez, M.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "21-ARGUMENT-2026-2",
-      "judges": ""
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "09/16/2026",
-      "docket_number": "2771 EDA 2025",
-      "journal_number": "J-A21019-26",
-      "caption": "Khalil, A. v. Williams, J.",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "",
       "city": "",
@@ -3402,18 +3344,6 @@
     {
       "court": "PA Superior Court",
       "date": "09/15/2026",
-      "docket_number": "990 EDA 2025",
-      "journal_number": "J-A21001-26",
-      "caption": "Shelton, J. v. Ortega Gonzalez, C.",
-      "consideration_type": "Expedited \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "21-ARGUMENT-2026-2",
-      "judges": ""
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "09/15/2026",
       "docket_number": "1174 EDA 2025",
       "journal_number": "J-A21002-26",
       "caption": "1726 S 5th St Associate LLC v. Claus AKA Closs, N.",
@@ -3478,18 +3408,6 @@
       "journal_number": "J-A21006-26",
       "caption": "Com. v. Patterson, E.",
       "consideration_type": "Expedited \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "21-ARGUMENT-2026-2",
-      "judges": ""
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "09/15/2026",
-      "docket_number": "73 EDA 2026",
-      "journal_number": "J-A21007-26",
-      "caption": "Cole, K. v. Providence Operator",
-      "consideration_type": "Standard \u2014 Argument Panel",
       "location": "",
       "city": "",
       "panel": "21-ARGUMENT-2026-2",
@@ -3597,18 +3515,6 @@
       "docket_number": "2660 EDA 2025",
       "journal_number": "J-A21018-26",
       "caption": "Zepeda, K. v. Sanchez, M.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "21-ARGUMENT-2026-2",
-      "judges": ""
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "09/16/2026",
-      "docket_number": "2771 EDA 2025",
-      "journal_number": "J-A21019-26",
-      "caption": "Khalil, A. v. Williams, J.",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "",
       "city": "",
