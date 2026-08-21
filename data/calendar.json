@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-21T13:58:41.610051+00:00",
+  "generated": "2026-08-21T14:54:26.925529+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -151,7 +151,7 @@
       "caption": "LAUREL GARDENS, LLC et al v. M",
       "judge": "DISTRICT JUDGE SCHMEHL",
       "city": "Philadelphia",
-      "courtroom": "Philadelphia",
+      "courtroom": "Courtroom 12B",
       "hearing_type": "Jury Selection",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?526696"
     },
@@ -7389,6 +7389,30 @@
       "location": "Courtroom 5001 Livestream Link*:",
       "city": "Harrisburg",
       "panel": "Panel 1",
+      "judges": ""
+    },
+    {
+      "court": "PA Commonwealth Court",
+      "date": "09/14/2026",
+      "docket_number": "142 CD 2025",
+      "journal_number": "49-09-2026",
+      "caption": "Rinaldi, B., et al. v. Bd. of Sup. of Waverly Twp., et al.",
+      "consideration_type": "SUBMITTED",
+      "location": "Courtroom 5001 Livestream Link*:",
+      "city": "Harrisburg",
+      "panel": "Panel 2",
+      "judges": ""
+    },
+    {
+      "court": "PA Commonwealth Court",
+      "date": "09/14/2026",
+      "docket_number": "1306 CD 2025",
+      "journal_number": "50-09-2026",
+      "caption": "Hetley Assoc. v. Lemoyne Borough ZHB",
+      "consideration_type": "SUBMITTED",
+      "location": "Courtroom 5001 Livestream Link*:",
+      "city": "Harrisburg",
+      "panel": "Panel 2",
       "judges": ""
     },
     {
