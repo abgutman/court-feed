@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-21T13:10:08.439266+00:00",
+  "generated": "2026-08-21T13:57:17.729507+00:00",
   "filings": [
     {
       "type": "filing",
@@ -72,6 +72,15 @@
       "status": "Active",
       "filing_date": "08/18/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=284 EAL 2026&dnh=fFLxIoMd3BAut5bNcmTV%2FA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "285 EAL 2026",
+      "caption": "Commonwealth v. Staples, R., Pet.",
+      "status": "Active",
+      "filing_date": "08/20/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=285 EAL 2026&dnh=Cikep2%2F4fbQ17s6%2FLGq5Zw%3D%3D"
     },
     {
       "type": "filing",
@@ -171,6 +180,15 @@
       "status": "Active",
       "filing_date": "08/18/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=51 MAP 2026&dnh=a1aPK6sVNIw4sgF2x9v3xw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "53 MAP 2026",
+      "caption": "MFW Wine Co. LLC, et al v. PaLCB, Aplt",
+      "status": "Active",
+      "filing_date": "08/19/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=53 MAP 2026&dnh=aLumRkd2Sf51dKB1KLSUiA%3D%3D"
     },
     {
       "type": "filing",
@@ -625,6 +643,24 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "2291 EDA 2026",
+      "caption": "S.B. Conrad v. George, D.",
+      "status": "Active",
+      "filing_date": "08/21/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2291 EDA 2026&dnh=3%2F1TLCNZ6O0bkkDLSS%2B%2Bsw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2292 EDA 2026",
+      "caption": "Hunt-Irving, L. v. King, W.",
+      "status": "Active",
+      "filing_date": "08/21/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2292 EDA 2026&dnh=P1AoSahfmmDe84Di%2Fs4Vpw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "136 EDM 2026",
       "caption": "Helms, S. v. Delaware County Domestic Relations",
       "status": "Active",
@@ -918,6 +954,24 @@
       "status": "Active",
       "filing_date": "08/20/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1282 MDA 2026&dnh=0Mu9QDfqjD9YaHw%2FklxR5g%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1283 MDA 2026",
+      "caption": "Com. v. Honablew, T.",
+      "status": "Active",
+      "filing_date": "08/21/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1283 MDA 2026&dnh=6Ov2A96vWG08xwj0jayM7w%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1284 MDA 2026",
+      "caption": "Com. v. Samuel, K.",
+      "status": "Active",
+      "filing_date": "08/21/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1284 MDA 2026&dnh=488qNcdfSez%2BPKTCmmX8qA%3D%3D"
     },
     {
       "type": "filing",
@@ -1928,6 +1982,16 @@
     {
       "type": "opinion",
       "court": "PA Superior Court",
+      "docket": "",
+      "caption": "Reargument Table",
+      "author": "",
+      "pub_date": "Fri, 21 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/WestReport082126.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/WestReport082126.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Superior Court",
       "docket": "No. 1332 WDA 2025",
       "caption": "Com. v. Crum, M.",
       "author": "Bowes, J.",
@@ -2467,13 +2531,13 @@
     },
     {
       "type": "opinion",
-      "court": "PA Superior Court",
-      "docket": "No. 1320 MDA 2025",
-      "caption": "Holmes-Rawley Family Trust v. UGI Energy Services",
-      "author": "Beck, J.",
-      "pub_date": "Mon, 17 Aug 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-A11004-26m - 106890360370333683.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-A11004-26m - 106890360370333683.pdf"
+      "court": "PA Commonwealth Court",
+      "docket": "586 C.D. 2025",
+      "caption": "C.E. Scharer v. PPB",
+      "author": "Wojcik, J.",
+      "pub_date": "Fri, 21 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/586CD25_8-21-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/586CD25_8-21-26.pdf"
     },
     {
       "type": "opinion",
