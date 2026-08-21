@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-21T17:43:45.669386+00:00",
+  "generated": "2026-08-21T18:57:42.340378+00:00",
   "filings": [
     {
       "type": "filing",
@@ -284,7 +284,7 @@
       "type": "filing",
       "court": "PA Supreme Court",
       "docket": "239 WAL 2026",
-      "caption": "Plunkett, C. v. Alpha Power Sports",
+      "caption": "Plunkett, C., Pet. v. Alpha Power Sports, et al.",
       "status": "Active",
       "filing_date": "08/21/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=239 WAL 2026&dnh=eEgHnvIzM%2BknNsVNeep3iA%3D%3D"
@@ -715,9 +715,45 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "2297 EDA 2026",
+      "caption": "Chestlen Development v. Tutor Perini",
+      "status": "Active",
+      "filing_date": "08/21/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2297 EDA 2026&dnh=dNtv77p6NGG%2BsXvMEfz%2BpA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2298 EDA 2026",
+      "caption": "Fullan, C. v. Fullan, R.",
+      "status": "Active",
+      "filing_date": "08/21/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2298 EDA 2026&dnh=wJaRepWZ9p5ExZ%2BvAL2r%2Fg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2299 EDA 2026",
+      "caption": "Osterneck, A. v. PA Health and Wellness",
+      "status": "Active",
+      "filing_date": "08/21/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2299 EDA 2026&dnh=Di5XHAed6KPMz1HtiaaqCA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2300 EDA 2026",
+      "caption": "Connorso'Dell LLC v. Snyder, J.",
+      "status": "Active",
+      "filing_date": "08/21/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2300 EDA 2026&dnh=KkT4gbWmk5ISLWEMqBti0A%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "136 EDM 2026",
       "caption": "Helms, S. v. Delaware County Domestic Relations",
-      "status": "Active",
+      "status": "Closed",
       "filing_date": "08/17/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=136 EDM 2026&dnh=%2BqO6hfY69dW2k9vl1%2FmvrQ%3D%3D"
     },
@@ -1431,6 +1467,15 @@
       "status": "Active",
       "filing_date": "08/21/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1238 CD 2026&dnh=z9mnwAjR4x%2FgiWdOj3B3Kw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "1239 CD 2026",
+      "caption": "Burgos, J. v. Eagleville Hospital (WCAB)",
+      "status": "Active",
+      "filing_date": "08/21/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1239 CD 2026&dnh=B3QZtAafO%2FN0fDuWqKl9vA%3D%3D"
     },
     {
       "type": "filing",
@@ -2860,6 +2905,18 @@
       "guid": "ca3-26-2348-262348np.pdf",
       "precedential": false,
       "origin": "USDC for the Western District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-3595",
+      "caption": "Chryssoula Arsenis v.",
+      "author": "",
+      "pub_date": "Fri, 21 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/253595np.pdf",
+      "guid": "ca3-25-3595-253595np.pdf",
+      "precedential": false,
+      "origin": "USDC for the District of New Jersey"
     },
     {
       "type": "opinion",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-21T17:45:08.760272+00:00",
+  "generated": "2026-08-21T18:59:08.834606+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -208,6 +208,17 @@
       "city": "Philadelphia",
       "courtroom": "Courtroom 13A",
       "hearing_type": "Initial Appearance",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656818"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/25/2026 11:00AM",
+      "case_number": "26-cr-0287",
+      "caption": "USA v. TURNER",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Plea Agreement Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656818"
     },
     {
@@ -477,17 +488,6 @@
     {
       "court": "EDPA",
       "datetime": "08/27/2026 11:00AM",
-      "case_number": "25-cr-0195",
-      "caption": "USA v. REESE",
-      "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "Reading",
-      "courtroom": "Gateway 5th Floor",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637188"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/27/2026 11:00AM",
       "case_number": "15-cr-0497",
       "caption": "USA v. LANG",
       "judge": "DISTRICT JUDGE SCOTT",
@@ -506,6 +506,17 @@
       "courtroom": "Philadelphia",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645271"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/27/2026 01:30PM",
+      "case_number": "26-cr-0390",
+      "caption": "USA v. SOLTANI",
+      "judge": "MAGISTRATE JUDGE TOPLIN",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Initial Appearance",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660278"
     },
     {
       "court": "EDPA",
@@ -528,17 +539,6 @@
       "courtroom": "Courtroom 12A",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?212349"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/27/2026 02:30PM",
-      "case_number": "25-cv-1553",
-      "caption": "MCGUIGAN et al v. AMERICAN STR",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Final Pretrial Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635291"
     },
     {
       "court": "EDPA",
@@ -1430,17 +1430,6 @@
       "courtroom": "Courtroom 10A",
       "hearing_type": "Plea Agreement Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659516"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/04/2026 09:30AM",
-      "case_number": "25-cv-1553",
-      "caption": "MCGUIGAN et al v. AMERICAN STR",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Trial Date",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635291"
     },
     {
       "court": "EDPA",
