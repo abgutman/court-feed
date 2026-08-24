@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-24T15:54:25.498081+00:00",
+  "generated": "2026-08-24T16:54:42.778203+00:00",
   "filings": [
     {
       "type": "filing",
@@ -954,6 +954,24 @@
       "status": "Active",
       "filing_date": "08/24/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1288 MDA 2026&dnh=R6%2BzKefSdXn34uSniBj9nA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1289 MDA 2026",
+      "caption": "Estate of R.P.N., v. Nunez, Y.",
+      "status": "Active",
+      "filing_date": "08/24/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1289 MDA 2026&dnh=YUZ4GdWz3k3o1ccRjBElIg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1290 MDA 2026",
+      "caption": "Com. v. Oris, D.",
+      "status": "Active",
+      "filing_date": "08/24/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1290 MDA 2026&dnh=Zwl3MtFtdtKqnQdsPg4bJQ%3D%3D"
     },
     {
       "type": "filing",
@@ -2162,6 +2180,66 @@
     {
       "type": "opinion",
       "court": "PA Superior Court",
+      "docket": "No. 3253 EDA 2024",
+      "caption": "Com. v. Thomas, A.",
+      "author": "Nichols, J.",
+      "pub_date": "Mon, 24 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S20014-26m - 106898976371218910.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S20014-26m - 106898976371218910.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Superior Court",
+      "docket": "No. 1143 EDA 2025",
+      "caption": "Com. v. Stewart, B.",
+      "author": "Nichols, J.",
+      "pub_date": "Mon, 24 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S13026-26m - 106899018371221739.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S13026-26m - 106899018371221739.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Superior Court",
+      "docket": "No. 1702 EDA 2025",
+      "caption": "Phills, J. v. Maile, K.",
+      "author": "Stevens, P.J.E.",
+      "pub_date": "Mon, 24 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-A12041-26m - 106898422371156233.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-A12041-26m - 106898422371156233.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Superior Court",
+      "docket": "",
+      "caption": "Judgement Lists",
+      "author": "",
+      "pub_date": "Mon, 24 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/082426 E.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/082426 E.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Superior Court",
+      "docket": "",
+      "caption": "Judgement Lists",
+      "author": "",
+      "pub_date": "Mon, 24 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/082426 M.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/082426 M.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Superior Court",
+      "docket": "",
+      "caption": "Judgement Lists",
+      "author": "",
+      "pub_date": "Mon, 24 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/082426 W.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/082426 W.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Superior Court",
       "docket": "",
       "caption": "Reargument Table",
       "author": "",
@@ -2571,46 +2649,6 @@
     },
     {
       "type": "opinion",
-      "court": "PA Superior Court",
-      "docket": "No. 1070 MDA 2025",
-      "caption": "Com. v. Dawber, J.",
-      "author": "Bender, P.J.E.",
-      "pub_date": "Tue, 18 Aug 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S18041-26m - 106892249370530250.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S18041-26m - 106892249370530250.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Superior Court",
-      "docket": "No. 1644 EDA 2025",
-      "caption": "Com. v. Washington, N.",
-      "author": "Lazarus, P.J.",
-      "pub_date": "Tue, 18 Aug 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-A12024-26m - 106892662370567291.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-A12024-26m - 106892662370567291.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Superior Court",
-      "docket": "No. 2915 EDA 2025",
-      "caption": "Com. v. Tighe, A.",
-      "author": "Olson, J.",
-      "pub_date": "Tue, 18 Aug 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S27024-26m - 106892569370559299.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S27024-26m - 106892569370559299.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Superior Court",
-      "docket": "No. 828 EDA 2025",
-      "caption": "Com. v. Ruiz, C.",
-      "author": "Murray, J.",
-      "pub_date": "Tue, 18 Aug 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S23023-26m - 106892560370556959.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S23023-26m - 106892560370556959.pdf"
-    },
-    {
-      "type": "opinion",
       "court": "PA Commonwealth Court",
       "docket": "1574 C.D. 2025",
       "caption": "L.I. Ordo v. UCBR",
@@ -2742,6 +2780,30 @@
     {
       "type": "opinion",
       "court": "Third Circuit",
+      "docket": "25-1385",
+      "caption": "Jane Parkin v. Avis Rent a Car System LLC",
+      "author": "",
+      "pub_date": "Mon, 24 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/251385p.pdf",
+      "guid": "ca3-25-1385-251385p.pdf",
+      "precedential": true,
+      "origin": "USDC for the District of New Jersey"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-1327",
+      "caption": "Roger Salvatora v. XTO Energy Inc",
+      "author": "",
+      "pub_date": "Mon, 24 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/251327p.pdf",
+      "guid": "ca3-25-1327-251327p.pdf",
+      "precedential": true,
+      "origin": "USDC for the Western District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
       "docket": "25-2380",
       "caption": "USA v. Christopher Birry",
       "author": "",
@@ -2774,6 +2836,42 @@
       "guid": "ca3-25-1435-251435p.pdf",
       "precedential": true,
       "origin": "USDC for the District of New Jersey"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "26-1526",
+      "caption": "Tony Yew v. Attorney General New Jersey",
+      "author": "",
+      "pub_date": "Mon, 24 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/261526np.pdf",
+      "guid": "ca3-26-1526-261526np.pdf",
+      "precedential": false,
+      "origin": "USDC for the District of New Jersey"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-2333",
+      "caption": "Ronald Stockton v. John Wetzel",
+      "author": "",
+      "pub_date": "Mon, 24 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/252333np.pdf",
+      "guid": "ca3-25-2333-252333np.pdf",
+      "precedential": false,
+      "origin": "USDC for the Middle District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-1848",
+      "caption": "Ayman Mohamady-Abdelghaffar v. Attorney General United States of America",
+      "author": "",
+      "pub_date": "Mon, 24 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/251848np.pdf",
+      "guid": "ca3-25-1848-251848np.pdf",
+      "precedential": false,
+      "origin": "Agency"
     },
     {
       "type": "opinion",

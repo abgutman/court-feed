@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-24T15:55:57.149918+00:00",
+  "generated": "2026-08-24T16:56:06.095794+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -11,17 +11,6 @@
       "courtroom": "Cahn 4A",
       "hearing_type": "Settlement Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640573"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/24/2026 10:00AM",
-      "case_number": "26-cr-0034",
-      "caption": "USA v. ROSADO RODRIGUEZ",
-      "judge": "DISTRICT JUDGE BARTLE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648736"
     },
     {
       "court": "EDPA",
@@ -1525,6 +1514,15 @@
       "caption": "Kamila Bajda v. Attorney General United States of America",
       "panel": "RESTREPO, MONTGOMERY-REEVES, MCKEE",
       "location_time": "Philadelphia, PA - Maris Courtroom / 10:00 am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-09",
+      "case_number": "26-2072",
+      "caption": "Holy Trinity Ukrainian Catholic Church v. Township of Collie",
+      "panel": "BIBAS, MATEY, MONTGOMERY-REEVES",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 9:00am",
       "disposition": "Argued"
     },
     {
