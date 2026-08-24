@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-24T18:58:40.874290+00:00",
+  "generated": "2026-08-24T19:43:03.350738+00:00",
   "filings": [
     {
       "type": "filing",
@@ -63,6 +63,15 @@
       "status": "Active",
       "filing_date": "08/24/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=287 EAL 2026&dnh=RYzjKhsxTZrttvf5aTJX9g%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "288 EAL 2026",
+      "caption": "Eshai Corp., etal. v. Shanlin, W., Pet.",
+      "status": "Active",
+      "filing_date": "08/24/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=288 EAL 2026&dnh=%2FS2Pj%2FV5GFQ0O3LXa6y%2Fgw%3D%3D"
     },
     {
       "type": "filing",
@@ -796,6 +805,51 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "2322 EDA 2026",
+      "caption": "Com. v. Vixama, C.",
+      "status": "Active",
+      "filing_date": "08/24/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2322 EDA 2026&dnh=5nnXvGUI0P14b2jCvDCuCg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2323 EDA 2026",
+      "caption": "Com. v. Washington, J.",
+      "status": "Active",
+      "filing_date": "08/24/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2323 EDA 2026&dnh=wkq0xjoWs%2Fh3ec70%2FtSBJg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2324 EDA 2026",
+      "caption": "Com. v. Kruszewski, J.",
+      "status": "Active",
+      "filing_date": "08/24/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2324 EDA 2026&dnh=C4XUsEqFcNR4VGT70Ggr1w%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2325 EDA 2026",
+      "caption": "Com. v. Thomas, A.",
+      "status": "Active",
+      "filing_date": "08/24/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2325 EDA 2026&dnh=Gj9n62u22sVj%2FE2IALm3ag%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2326 EDA 2026",
+      "caption": "Com. v. Colon-White, R.",
+      "status": "Active",
+      "filing_date": "08/24/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2326 EDA 2026&dnh=z2Won2TJIbmfJkMQmEefhA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "137 EDM 2026",
       "caption": "Hu, Y. Sonne, D.",
       "status": "Active",
@@ -1086,7 +1140,7 @@
       "court": "PA Superior Court",
       "docket": "1292 MDA 2026",
       "caption": "Com. v. Merritt, C., Jr.",
-      "status": "Active",
+      "status": "Closed",
       "filing_date": "08/24/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1292 MDA 2026&dnh=e0ZExakV6WRbTpjRPn%2BPzA%3D%3D"
     },
@@ -1656,6 +1710,15 @@
       "status": "Active",
       "filing_date": "08/19/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1244 CD 2026&dnh=ikO3fvQa0XTKrhqedSlqLg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "1245 CD 2026",
+      "caption": "Storms, P. v. DHS",
+      "status": "Active",
+      "filing_date": "08/19/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1245 CD 2026&dnh=sy4U81mCXNo640cvyFRziw%3D%3D"
     },
     {
       "type": "filing",
@@ -3068,6 +3131,18 @@
     {
       "type": "opinion",
       "court": "Third Circuit",
+      "docket": "25-3440",
+      "caption": "Carlos Funes-Coreas v. Attorney General United States of America",
+      "author": "",
+      "pub_date": "Mon, 24 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/253440np.pdf",
+      "guid": "ca3-25-3440-253440np.pdf",
+      "precedential": false,
+      "origin": "Agency"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
       "docket": "25-2333",
       "caption": "Ronald Stockton v. John Wetzel",
       "author": "",
@@ -3076,6 +3151,18 @@
       "guid": "ca3-25-2333-252333np.pdf",
       "precedential": false,
       "origin": "USDC for the Middle District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-1931",
+      "caption": "Kudzai Shonhai v. Attorney General United States of America",
+      "author": "",
+      "pub_date": "Mon, 24 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/251931np.pdf",
+      "guid": "ca3-25-1931-251931np.pdf",
+      "precedential": false,
+      "origin": "Agency"
     },
     {
       "type": "opinion",
