@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-24T19:44:25.454125+00:00",
+  "generated": "2026-08-24T20:48:46.272859+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -25,17 +25,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "08/24/2026 02:00PM",
-      "case_number": "25-cr-0467",
-      "caption": "USA v. GUO",
-      "judge": "DISTRICT JUDGE BARTLE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645556"
-    },
-    {
-      "court": "EDPA",
       "datetime": "08/24/2026 03:00PM",
       "case_number": "26-cr-0038",
       "caption": "USA v. MITCHELL",
@@ -44,17 +33,6 @@
       "courtroom": "Courtroom 11A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648819"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/25/2026 09:30AM",
-      "case_number": "17-cv-0570",
-      "caption": "LAUREL GARDENS, LLC et al v. M",
-      "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12B",
-      "hearing_type": "Jury Selection",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?526696"
     },
     {
       "court": "EDPA",
@@ -234,17 +212,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "08/26/2026 10:00AM",
-      "case_number": "26-cv-0888",
-      "caption": "HAMMOND v. KHUNDIASHULLI et al",
-      "judge": "MAGISTRATE JUDGE REID",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3C",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649736"
-    },
-    {
-      "court": "EDPA",
       "datetime": "08/26/2026 12:30PM",
       "case_number": "25-cr-0512",
       "caption": "USA v. TRICE",
@@ -264,17 +231,6 @@
       "courtroom": "Gateway 5th Floor",
       "hearing_type": "Final Pretrial Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?619701"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/26/2026 02:00PM",
-      "case_number": "25-cv-7318",
-      "caption": "Weston v. VOLVO CAR USA CORPOR",
-      "judge": "DISTRICT JUDGE HENRY",
-      "city": "Easton",
-      "courtroom": "Easton 4th Floor",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647831"
     },
     {
       "court": "EDPA",
@@ -433,6 +389,17 @@
     {
       "court": "EDPA",
       "datetime": "08/27/2026 02:00PM",
+      "case_number": "25-cv-6667",
+      "caption": "REED v. OLD VILLAGE MASTER PAI",
+      "judge": "DISTRICT JUDGE PAPPERT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 11A",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646613"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/27/2026 02:00PM",
       "case_number": "06-cr-0539",
       "caption": "USA v. RODRIGUEZ",
       "judge": "DISTRICT JUDGE RUFE",
@@ -440,6 +407,17 @@
       "courtroom": "Courtroom 12A",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?212349"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/27/2026 02:00PM",
+      "case_number": "24-cr-0168",
+      "caption": "USA v. CLARKE",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621459"
     },
     {
       "court": "EDPA",
@@ -7214,6 +7192,18 @@
       "docket_number": "1306 CD 2025",
       "journal_number": "50-09-2026",
       "caption": "Hetley Assoc. v. Lemoyne Borough ZHB",
+      "consideration_type": "SUBMITTED",
+      "location": "Courtroom 5001 Livestream Link*:",
+      "city": "Harrisburg",
+      "panel": "Panel 2",
+      "judges": ""
+    },
+    {
+      "court": "PA Commonwealth Court",
+      "date": "09/14/2026",
+      "docket_number": "1230 CD 2025",
+      "journal_number": "51-09-2026",
+      "caption": "In re: 374 Sq. Ft. More or Less, et al.  Appeal of: DewBoi Properties, LLC",
       "consideration_type": "SUBMITTED",
       "location": "Courtroom 5001 Livestream Link*:",
       "city": "Harrisburg",
