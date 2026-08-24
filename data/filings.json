@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-24T13:11:59.946896+00:00",
+  "generated": "2026-08-24T14:01:13.930288+00:00",
   "filings": [
     {
       "type": "filing",
@@ -607,6 +607,51 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "2306 EDA 2026",
+      "caption": "Com. v. Jones, D.",
+      "status": "Active",
+      "filing_date": "08/24/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2306 EDA 2026&dnh=Pc%2Fc1%2BrjMgO7saAISoP5uw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2307 EDA 2026",
+      "caption": "Com. v. Reed, J.",
+      "status": "Active",
+      "filing_date": "08/24/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2307 EDA 2026&dnh=pw96%2BElb9EDAUHOpPJ%2FuCQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2308 EDA 2026",
+      "caption": "Com. v. Reed, J.",
+      "status": "Active",
+      "filing_date": "08/24/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2308 EDA 2026&dnh=ppk7xBX8sHFeWcgOITYyLg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2309 EDA 2026",
+      "caption": "Com. v. Dukes, S.",
+      "status": "Active",
+      "filing_date": "08/24/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2309 EDA 2026&dnh=1F99hN%2FeMnsCStl11sCqUw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2310 EDA 2026",
+      "caption": "Com. v. Hernandez, D.",
+      "status": "Active",
+      "filing_date": "08/24/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2310 EDA 2026&dnh=LowykuwD3CftmOTluYXsEg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "137 EDM 2026",
       "caption": "Hu, Y. Sonne, D.",
       "status": "Active",
@@ -837,6 +882,15 @@
       "status": "Active",
       "filing_date": "08/21/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1284 MDA 2026&dnh=488qNcdfSez%2BPKTCmmX8qA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1286 MDA 2026",
+      "caption": "Rhodes, T. v. Serra, A.",
+      "status": "Active",
+      "filing_date": "08/24/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1286 MDA 2026&dnh=zICuD%2BuvngV1cA23FtzE3w%3D%3D"
     },
     {
       "type": "filing",
@@ -2310,6 +2364,26 @@
       "pub_date": "Tue, 18 Aug 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Superior/out/081826 W.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Superior/out/081826 W.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "1574 C.D. 2025",
+      "caption": "L.I. Ordo v. UCBR",
+      "author": "Fizzano Cannon, J.",
+      "pub_date": "Mon, 24 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1574CD25_8-24-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1574CD25_8-24-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "426 C.D. 2025",
+      "caption": "K.J. Lloyd-Pillot v. UCBR",
+      "author": "Leadbetter, President Judge Emerita",
+      "pub_date": "Mon, 24 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/426CD25_8-24-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/426CD25_8-24-26.pdf"
     },
     {
       "type": "opinion",
