@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-24T14:02:35.379948+00:00",
+  "generated": "2026-08-24T15:01:03.377247+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -443,6 +443,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "08/27/2026 01:00PM",
+      "case_number": "25-cr-0395",
+      "caption": "USA v. MILLER",
+      "judge": "DISTRICT JUDGE SCOTT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13B",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654767"
+    },
+    {
+      "court": "EDPA",
       "datetime": "08/27/2026 01:30PM",
       "case_number": "25-cr-0460",
       "caption": "USA v. HERRERA",
@@ -858,17 +869,6 @@
       "courtroom": "Courtroom 15A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643521"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/01/2026 01:30PM",
-      "case_number": "26-cv-2729",
-      "caption": "LIOTT v. CITIZENS BANK, N.A.",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653556"
     },
     {
       "court": "EDPA",
