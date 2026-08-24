@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-24T20:48:46.272859+00:00",
+  "generated": "2026-08-24T21:44:54.746705+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -231,6 +231,28 @@
       "courtroom": "Gateway 5th Floor",
       "hearing_type": "Final Pretrial Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?619701"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/26/2026 01:30PM",
+      "case_number": "26-cr-0384",
+      "caption": "USA v. BRANSTETTER",
+      "judge": "MAGISTRATE JUDGE TOPLIN",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660175"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/26/2026 01:30PM",
+      "case_number": "26-mj-1655",
+      "caption": "USA v. DA SILVA NUNES",
+      "judge": "MAGISTRATE JUDGE TOPLIN",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660434"
     },
     {
       "court": "EDPA",
@@ -1158,17 +1180,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "09/03/2026 10:30AM",
-      "case_number": "25-cr-0109",
-      "caption": "USA v. WARLOW",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635149"
-    },
-    {
-      "court": "EDPA",
       "datetime": "09/03/2026 11:30AM",
       "case_number": "13-cr-0061",
       "caption": "USA v. EASLEY",
@@ -1188,6 +1199,17 @@
       "courtroom": "Courtroom 12A",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?489027"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/03/2026 11:30AM",
+      "case_number": "25-cr-0531",
+      "caption": "USA v. GLOVER",
+      "judge": "DISTRICT JUDGE SANCHEZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14B",
+      "hearing_type": "Evidentiary Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647538"
     },
     {
       "court": "EDPA",
@@ -1298,6 +1320,17 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?580522"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/03/2026 02:30PM",
+      "case_number": "25-cr-0109",
+      "caption": "USA v. WARLOW",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Sentencing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635149"
     },
     {
       "court": "EDPA",
