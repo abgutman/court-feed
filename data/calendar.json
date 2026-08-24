@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-24T16:56:06.095794+00:00",
+  "generated": "2026-08-24T17:47:38.006188+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -213,17 +213,6 @@
     {
       "court": "EDPA",
       "datetime": "08/26/2026 09:30AM",
-      "case_number": "25-cv-4627",
-      "caption": "Weaver et al v. STATE FARM AND",
-      "judge": "DISTRICT JUDGE PEREZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5D",
-      "hearing_type": "Arbitration Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642163"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/26/2026 09:30AM",
       "case_number": "17-cv-0570",
       "caption": "LAUREL GARDENS, LLC et al v. M",
       "judge": "DISTRICT JUDGE SCHMEHL",
@@ -432,6 +421,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "08/27/2026 12:00PM",
+      "case_number": "25-cr-0460",
+      "caption": "USA v. HERRERA",
+      "judge": "DISTRICT JUDGE HENRY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 17B",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645271"
+    },
+    {
+      "court": "EDPA",
       "datetime": "08/27/2026 01:00PM",
       "case_number": "25-cr-0395",
       "caption": "USA v. MILLER",
@@ -440,17 +440,6 @@
       "courtroom": "Courtroom 13B",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654767"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/27/2026 01:30PM",
-      "case_number": "25-cr-0460",
-      "caption": "USA v. HERRERA",
-      "judge": "DISTRICT JUDGE HENRY",
-      "city": "Philadelphia",
-      "courtroom": "Philadelphia",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645271"
     },
     {
       "court": "EDPA",

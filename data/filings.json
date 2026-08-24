@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-24T16:54:42.778203+00:00",
+  "generated": "2026-08-24T17:46:11.621842+00:00",
   "filings": [
     {
       "type": "filing",
@@ -54,6 +54,15 @@
       "status": "Active",
       "filing_date": "08/20/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=286 EAL 2026&dnh=7YSs0He45nPqVllsoEZrXQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "287 EAL 2026",
+      "caption": "Commonwealth v. Williams, J., Pet.",
+      "status": "Active",
+      "filing_date": "08/24/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=287 EAL 2026&dnh=RYzjKhsxTZrttvf5aTJX9g%3D%3D"
     },
     {
       "type": "filing",
@@ -121,6 +130,15 @@
     {
       "type": "filing",
       "court": "PA Supreme Court",
+      "docket": "173 MM 2026",
+      "caption": "Reich, B., Pet. v. Mahon, W.",
+      "status": "Active",
+      "filing_date": "08/18/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=173 MM 2026&dnh=hvcu6GFQJ%2B0yM8yWprxqhA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
       "docket": "233 WAL 2026",
       "caption": "Commonwealth v. Hanna, C., Pet.",
       "status": "Active",
@@ -180,6 +198,15 @@
       "status": "Active",
       "filing_date": "08/21/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=239 WAL 2026&dnh=eEgHnvIzM%2BknNsVNeep3iA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "240 WAL 2026",
+      "caption": "Estate of: Madsen, M., Appeal of: Madsen, C.",
+      "status": "Active",
+      "filing_date": "08/24/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=240 WAL 2026&dnh=vpgotZ9DphiS7KOpNqex1Q%3D%3D"
     },
     {
       "type": "filing",
@@ -976,6 +1003,15 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "1291 MDA 2026",
+      "caption": "Com. v. Perez-Marte, B.",
+      "status": "Active",
+      "filing_date": "08/24/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1291 MDA 2026&dnh=hhwSe0iLD%2FTZvCMFK6BYRQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "58 MDM 2026",
       "caption": "Com. v. Taylor, T.",
       "status": "Active",
@@ -1572,7 +1608,7 @@
       "court": "PA Commonwealth Court",
       "docket": "384 MD 2026",
       "caption": "KIPP North Philadelphia Charter School v. Hall, C.",
-      "status": "Active",
+      "status": "Closed",
       "filing_date": "08/20/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=384 MD 2026&dnh=fsSxQd2DBpqI7NK%2Fpb7DCQ%3D%3D"
     },
@@ -2872,6 +2908,18 @@
       "guid": "ca3-25-1848-251848np.pdf",
       "precedential": false,
       "origin": "Agency"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "24-2991",
+      "caption": "Andre Boyer v. City of Philadelphia",
+      "author": "",
+      "pub_date": "Mon, 24 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/242991np.pdf",
+      "guid": "ca3-24-2991-242991np.pdf",
+      "precedential": false,
+      "origin": "USDC for the Eastern District of Pennsylvania"
     },
     {
       "type": "opinion",
