@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-24T15:01:03.377247+00:00",
+  "generated": "2026-08-24T15:55:57.149918+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -558,7 +558,7 @@
       "caption": "USA v. FIELDS",
       "judge": "DISTRICT JUDGE SLOMSKY",
       "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
+      "courtroom": "Courtroom 17A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?502851"
     },
@@ -653,6 +653,17 @@
     {
       "court": "EDPA",
       "datetime": "08/31/2026 11:00AM",
+      "case_number": "25-cr-0268",
+      "caption": "USA v. SINGH",
+      "judge": "DISTRICT JUDGE HENRY",
+      "city": "Easton",
+      "courtroom": "Easton 4th Floor",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639559"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/31/2026 11:00AM",
       "case_number": "25-cv-4485",
       "caption": "Rivera v. Hanwha Philly Shipya",
       "judge": "DISTRICT JUDGE PADOVA",
@@ -737,6 +748,17 @@
       "courtroom": "Cahn 3C",
       "hearing_type": "Settlement Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647629"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/01/2026 09:00AM",
+      "case_number": "24-cr-0435",
+      "caption": "USA v. CHAYAUD",
+      "judge": "DISTRICT JUDGE WOLSON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12B",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631018"
     },
     {
       "court": "EDPA",
@@ -960,6 +982,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "09/02/2026 09:00AM",
+      "case_number": "24-cr-0435",
+      "caption": "USA v. CHAYAUD",
+      "judge": "DISTRICT JUDGE WOLSON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12B",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631018"
+    },
+    {
+      "court": "EDPA",
       "datetime": "09/02/2026 09:30AM",
       "case_number": "26-cv-4249",
       "caption": "COZZUBBO v. LM GENERAL INSURAN",
@@ -1144,6 +1177,17 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653154"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/03/2026 09:00AM",
+      "case_number": "24-cr-0435",
+      "caption": "USA v. CHAYAUD",
+      "judge": "DISTRICT JUDGE WOLSON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12B",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631018"
     },
     {
       "court": "EDPA",
@@ -1353,6 +1397,17 @@
       "courtroom": "Courtroom 10A",
       "hearing_type": "Plea Agreement Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659516"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/04/2026 09:00AM",
+      "case_number": "24-cr-0435",
+      "caption": "USA v. CHAYAUD",
+      "judge": "DISTRICT JUDGE WOLSON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12B",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631018"
     },
     {
       "court": "EDPA",
