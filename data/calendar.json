@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-25T10:50:27.625152+00:00",
+  "generated": "2026-08-25T11:43:07.324101+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -792,6 +792,17 @@
       "courtroom": "Courtroom 15A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643521"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/01/2026 01:30PM",
+      "case_number": "26-cr-0356",
+      "caption": "USA v. HAWKINS-DIX",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659229"
     },
     {
       "court": "EDPA",
