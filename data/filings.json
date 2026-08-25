@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-25T19:46:36.088197+00:00",
+  "generated": "2026-08-25T20:44:34.828280+00:00",
   "filings": [
     {
       "type": "filing",
@@ -63,6 +63,15 @@
       "status": "Active",
       "filing_date": "08/20/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=481 MAL 2026&dnh=lj7dcWBPs7nqogw2W5hYqQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "486 MAL 2026",
+      "caption": "In re: Petition of John Proctor Child, et al.",
+      "status": "Active",
+      "filing_date": "08/25/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=486 MAL 2026&dnh=1FJ0RxS2gyxDfm9Gzox%2Bug%3D%3D"
     },
     {
       "type": "filing",
@@ -801,6 +810,15 @@
       "status": "Active",
       "filing_date": "08/25/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2342 EDA 2026&dnh=6xAwaXOvR2FOt%2FuVN0Lorg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2343 EDA 2026",
+      "caption": "Mullen, S. v. Mullen, H.",
+      "status": "Active",
+      "filing_date": "08/25/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2343 EDA 2026&dnh=%2BTPot5GphKFvEd1Q%2BLQVSg%3D%3D"
     },
     {
       "type": "filing",
@@ -1615,6 +1633,15 @@
     {
       "type": "filing",
       "court": "PA Commonwealth Court",
+      "docket": "1255 CD 2026",
+      "caption": "Kraus, K. et al. v. Co. Council of Allegheny et al.",
+      "status": "Active",
+      "filing_date": "08/24/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1255 CD 2026&dnh=7Rh4wSUKw0qyuT4DvrG9eA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
       "docket": "284 FR 2026",
       "caption": "Irrv Trust Agree. of R. L. Calhoun v. Com. of Pa.",
       "status": "Active",
@@ -1743,7 +1770,7 @@
       "court": "PA Commonwealth Court",
       "docket": "385 MD 2026",
       "caption": "Montgomery Co. Bd. of Elections v. Schmidt, A.",
-      "status": "Active",
+      "status": "Closed",
       "filing_date": "08/21/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=385 MD 2026&dnh=XwszAyznjT%2BYJe9XF%2FuYWw%3D%3D"
     },
