@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-25T16:01:17.217430+00:00",
+  "generated": "2026-08-25T16:55:54.163926+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -671,28 +671,6 @@
       "courtroom": "Cahn 4A",
       "hearing_type": "Arbitration Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636641"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/01/2026 09:30AM",
-      "case_number": "26-cr-0155",
-      "caption": "USA v. OLIVER",
-      "judge": "DISTRICT JUDGE SAVAGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652607"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/01/2026 09:30AM",
-      "case_number": "26-cr-0155",
-      "caption": "USA v. WHITMORE",
-      "judge": "DISTRICT JUDGE SAVAGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652608"
     },
     {
       "court": "EDPA",

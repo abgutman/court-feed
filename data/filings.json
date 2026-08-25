@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-25T15:59:45.170412+00:00",
+  "generated": "2026-08-25T16:54:23.582757+00:00",
   "filings": [
     {
       "type": "filing",
@@ -681,7 +681,7 @@
       "court": "PA Superior Court",
       "docket": "2330 EDA 2026",
       "caption": "Com. v. Dorylis, W.",
-      "status": "Active",
+      "status": "Closed",
       "filing_date": "08/25/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2330 EDA 2026&dnh=3HY1Imfo1ezXEMek%2Fm1R0Q%3D%3D"
     },
@@ -990,6 +990,51 @@
       "status": "Active",
       "filing_date": "08/24/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1297 MDA 2026&dnh=CiSemMaRgnU34nJGsJv6EQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1298 MDA 2026",
+      "caption": "Com. v. Porter, D.",
+      "status": "Active",
+      "filing_date": "08/25/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1298 MDA 2026&dnh=AS1Z7co6lwvpEpgyKs9GuA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1299 MDA 2026",
+      "caption": "Com. v. Hunter, E., Jr.",
+      "status": "Active",
+      "filing_date": "08/25/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1299 MDA 2026&dnh=1rqM47PG%2BBdijZ3XY4FPaA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1300 MDA 2026",
+      "caption": "Com. v. Coleman, J.",
+      "status": "Active",
+      "filing_date": "08/25/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1300 MDA 2026&dnh=D%2Bim4gJ9bNxd0EjjcuHNXg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1301 MDA 2026",
+      "caption": "Com. v. Brown, S.",
+      "status": "Active",
+      "filing_date": "08/25/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1301 MDA 2026&dnh=aGfPpJPwMSlkuAJlTw5KUQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1302 MDA 2026",
+      "caption": "Com. v. Greiner, R.",
+      "status": "Active",
+      "filing_date": "08/25/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1302 MDA 2026&dnh=GCgGsXdIIiZ4QLnm6uG44w%3D%3D"
     },
     {
       "type": "filing",
@@ -2421,6 +2466,42 @@
     {
       "type": "opinion",
       "court": "Third Circuit",
+      "docket": "25-2487",
+      "caption": "Timofey V v. USA",
+      "author": "",
+      "pub_date": "Tue, 25 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/252487p.pdf",
+      "guid": "ca3-25-2487-252487p.pdf",
+      "precedential": true,
+      "origin": "USDC for the Eastern District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-2184",
+      "caption": "Jose Mejia-Henriquez v. Attorney General United States of America",
+      "author": "",
+      "pub_date": "Tue, 25 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/252184p.pdf",
+      "guid": "ca3-25-2184-252184p.pdf",
+      "precedential": true,
+      "origin": "Agency"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "23-1742",
+      "caption": "USA v. Luis Figueroa",
+      "author": "",
+      "pub_date": "Tue, 25 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/231742p.pdf",
+      "guid": "ca3-23-1742-231742p.pdf",
+      "precedential": true,
+      "origin": "USDC for the District of New Jersey"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
       "docket": "25-1385",
       "caption": "Jane Parkin v. Avis Rent a Car System LLC",
       "author": "",
@@ -2465,6 +2546,30 @@
       "guid": "ca3-24-2542-242542p.pdf",
       "precedential": true,
       "origin": "USDC for the District of Delaware"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "26-1323",
+      "caption": "Bryan Shine v. County of Montgomery",
+      "author": "",
+      "pub_date": "Tue, 25 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/261323np.pdf",
+      "guid": "ca3-26-1323-261323np.pdf",
+      "precedential": false,
+      "origin": "USDC for the Eastern District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-1304",
+      "caption": "Eric Harnett v. CDC",
+      "author": "",
+      "pub_date": "Tue, 25 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/251304np.pdf",
+      "guid": "ca3-25-1304-251304np.pdf",
+      "precedential": false,
+      "origin": "USDC for the District of New Jersey"
     },
     {
       "type": "opinion",
