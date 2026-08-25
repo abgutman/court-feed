@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-25T15:03:20.261176+00:00",
+  "generated": "2026-08-25T15:59:45.170412+00:00",
   "filings": [
     {
       "type": "filing",
@@ -715,11 +715,38 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "2334 EDA 2026",
+      "caption": "Palamar, K. v. Palamar, J.",
+      "status": "Active",
+      "filing_date": "08/25/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2334 EDA 2026&dnh=MGl3Kgc0wlc%2FWAU%2BYElqcg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2335 EDA 2026",
+      "caption": "Winters, J. v. Winters, J.",
+      "status": "Active",
+      "filing_date": "08/25/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2335 EDA 2026&dnh=YXtTp7GRcu%2B6XX%2BWJcT5cg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "138 EDM 2026",
       "caption": "Brunson, T. v. Haven Park Apartments, LLC",
       "status": "Active",
       "filing_date": "08/25/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=138 EDM 2026&dnh=otLpZtLkHKCb72BJObKttw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "139 EDM 2026",
+      "caption": "Hallager, L. v. Springfield Operator LLC",
+      "status": "Active",
+      "filing_date": "08/25/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=139 EDM 2026&dnh=HHxDWSRQF40JbToOaWPlUg%3D%3D"
     },
     {
       "type": "filing",
@@ -2220,6 +2247,56 @@
       "pub_date": "Wed, 19 Aug 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Superior/out/081926 M.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Superior/out/081926 M.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "685 C.D. 2025 (REARGUMENT ORDER)",
+      "caption": "M.L. Burns v. Com. of PA, DOT",
+      "author": "PER CURIAM",
+      "pub_date": "Tue, 25 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/685CD25ORD_8-25-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/685CD25ORD_8-25-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "413 C.D. 2025",
+      "caption": "K. Lemke v. UCBR",
+      "author": "Tsai, J.",
+      "pub_date": "Tue, 25 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/413CD25_8-25-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/413CD25_8-25-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "984 C.D. 2025",
+      "caption": "S. Bates &amp; H. Forster v. North Fayette Twp. &amp; Range Resources - Appalachia, LLC ~ Appeal of: S. Bates, et al.",
+      "author": "Wolf, J. ~ Dissenting Opinion by McCullough, J.",
+      "pub_date": "Tue, 25 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/984CD25_8-25-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/984CD25_8-25-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "156 C.D. 2025",
+      "caption": "A.M. Pulsinelli v. PSERB",
+      "author": "Tsai, J.",
+      "pub_date": "Tue, 25 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/156CD25_8-25-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/156CD25_8-25-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "334 C.D. 2025",
+      "caption": "D. Lonjuin v. Trustees of the Univ. of PA (WCAB)",
+      "author": "Tsai, J.",
+      "pub_date": "Tue, 25 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/334CD25_8-25-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/334CD25_8-25-26.pdf"
     },
     {
       "type": "opinion",

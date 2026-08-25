@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-25T15:04:47.923131+00:00",
+  "generated": "2026-08-25T16:01:17.217430+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -110,17 +110,6 @@
       "courtroom": "Cahn 3C",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631077"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/26/2026 09:30AM",
-      "case_number": "24-cv-4758",
-      "caption": "1500 WALNUT ENTERPRISES LLC v.",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3H",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627247"
     },
     {
       "court": "EDPA",
@@ -242,6 +231,17 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?575788"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/26/2026 04:00PM",
+      "case_number": "20-cv-3790",
+      "caption": "GOLDSMITH et al v. OCWEN FINAN",
+      "judge": "DISTRICT JUDGE PAPPERT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 11A",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?574074"
     },
     {
       "court": "EDPA",
