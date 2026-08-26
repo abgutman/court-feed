@@ -1,17 +1,6 @@
 {
-  "generated": "2026-08-26T16:36:33.211568+00:00",
+  "generated": "2026-08-26T19:19:13.424048+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "08/26/2026 10:00AM",
-      "case_number": "25-cr-0249",
-      "caption": "USA v. MARGERUM",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10A",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638969"
-    },
     {
       "court": "EDPA",
       "datetime": "08/26/2026 10:00AM",
@@ -22,17 +11,6 @@
       "courtroom": "Courtroom 3D",
       "hearing_type": "Settlement Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646870"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/26/2026 10:00AM",
-      "case_number": "23-cv-0828",
-      "caption": "MAYOR AND CITY COUNCIL OF BALT",
-      "judge": "DISTRICT JUDGE MCHUGH",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?606784"
     },
     {
       "court": "EDPA",
@@ -257,17 +235,6 @@
     {
       "court": "EDPA",
       "datetime": "08/27/2026 02:00PM",
-      "case_number": "25-cv-6667",
-      "caption": "REED v. OLD VILLAGE MASTER PAI",
-      "judge": "DISTRICT JUDGE PAPPERT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11A",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646613"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/27/2026 02:00PM",
       "case_number": "06-cr-0539",
       "caption": "USA v. RODRIGUEZ",
       "judge": "DISTRICT JUDGE RUFE",
@@ -352,17 +319,6 @@
       "courtroom": "Courtroom 16A",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653115"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/31/2026 09:00AM",
-      "case_number": "25-cr-0249",
-      "caption": "USA v. MARGERUM",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638969"
     },
     {
       "court": "EDPA",
@@ -638,17 +594,6 @@
       "courtroom": "Courtroom 9A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649111"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/01/2026 11:00AM",
-      "case_number": "26-cr-0077",
-      "caption": "USA v. SENSENIG",
-      "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "Reading",
-      "courtroom": "Reading 5th Floor",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650160"
     },
     {
       "court": "EDPA",
@@ -1059,17 +1004,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "09/03/2026 01:00PM",
-      "case_number": "21-cr-0009",
-      "caption": "USA v. COUNCIL",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?580522"
-    },
-    {
-      "court": "EDPA",
       "datetime": "09/03/2026 01:30PM",
       "case_number": "24-cv-5982",
       "caption": "RODRIGUES v. SHALEEM ENTERPRIS",
@@ -1412,6 +1346,17 @@
     {
       "court": "EDPA",
       "datetime": "09/08/2026 01:00PM",
+      "case_number": "25-cv-6667",
+      "caption": "REED v. OLD VILLAGE MASTER PAI",
+      "judge": "DISTRICT JUDGE PAPPERT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 11A",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646613"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/08/2026 01:00PM",
       "case_number": "25-cr-0200",
       "caption": "USA v. MARTIN",
       "judge": "DISTRICT JUDGE PEREZ",
@@ -1573,17 +1518,6 @@
       "courtroom": "Courtroom 7B",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640490"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/09/2026 09:30AM",
-      "case_number": "25-cv-6050",
-      "caption": "DISTLER v. SENADA BIKES et al",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5B",
-      "hearing_type": "Arbitration Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645263"
     },
     {
       "court": "EDPA",
