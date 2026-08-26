@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-26T11:44:30.713514+00:00",
+  "generated": "2026-08-26T13:17:21.333023+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -311,17 +311,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "08/28/2026 01:30PM",
-      "case_number": "26-cv-1348",
-      "caption": "HUDGINS v. RITTENHOUSE CLARIDG",
-      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3D",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650644"
-    },
-    {
-      "court": "EDPA",
       "datetime": "08/31/2026 09:00AM",
       "case_number": "26-cr-0173",
       "caption": "USA v. ONEAL",
@@ -396,17 +385,6 @@
       "courtroom": "Courtroom 15A",
       "hearing_type": "Miscellaneous Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641323"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/31/2026 10:00AM",
-      "case_number": "24-cr-0219",
-      "caption": "USA v. COLON",
-      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 8B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622830"
     },
     {
       "court": "EDPA",
@@ -616,17 +594,6 @@
       "courtroom": "Courtroom 16B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640895"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/01/2026 10:30AM",
-      "case_number": "26-cr-0048",
-      "caption": "USA v. SEGERS",
-      "judge": "DISTRICT JUDGE SAVAGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649110"
     },
     {
       "court": "EDPA",
@@ -1276,6 +1243,17 @@
       "courtroom": "Courtroom 10A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614824"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/08/2026 10:00AM",
+      "case_number": "26-cv-1348",
+      "caption": "HUDGINS v. RITTENHOUSE CLARIDG",
+      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3D",
+      "hearing_type": "Settlement Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650644"
     },
     {
       "court": "EDPA",
