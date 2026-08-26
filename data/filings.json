@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-26T14:03:41.950802+00:00",
+  "generated": "2026-08-26T16:35:04.552669+00:00",
   "filings": [
     {
       "type": "filing",
@@ -49,6 +49,15 @@
     {
       "type": "filing",
       "court": "PA Supreme Court",
+      "docket": "74 EM 2026",
+      "caption": "Commonwealth v. Muhammid, K.N., Pet.",
+      "status": "Active",
+      "filing_date": "08/26/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=74 EM 2026&dnh=8ml%2BCdgNwRy5GtC9yf8DBA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
       "docket": "481 MAL 2026",
       "caption": "Commonwealth v. Saguilan, G., Pet.",
       "status": "Active",
@@ -67,11 +76,29 @@
     {
       "type": "filing",
       "court": "PA Supreme Court",
+      "docket": "487 MAL 2026",
+      "caption": "Commonwealth v. Breeland, A., Pet.",
+      "status": "Active",
+      "filing_date": "08/25/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=487 MAL 2026&dnh=eSvUGJLZ18d156G%2FODyFZw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
       "docket": "54 MAP 2026",
       "caption": "Co. of Lancaster v. AFSCME District Counsel, Aplt.",
       "status": "Active",
       "filing_date": "08/25/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=54 MAP 2026&dnh=856PHMwY4CiWYgYknkXgUg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "175 MM 2026",
+      "caption": "Lake, G., Pet. v. Goodman, J.",
+      "status": "Active",
+      "filing_date": "08/26/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=175 MM 2026&dnh=SLb%2F8yfwLWMOHWeBUvaZew%3D%3D"
     },
     {
       "type": "filing",
@@ -742,6 +769,33 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "2346 EDA 2026",
+      "caption": "Tang, D. v. Tang, S",
+      "status": "Active",
+      "filing_date": "08/26/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2346 EDA 2026&dnh=jm78Rc%2FFjxnR%2F7ThD7SbiQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2347 EDA 2026",
+      "caption": "In Re: Est. of: L. DePietro",
+      "status": "Active",
+      "filing_date": "08/26/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2347 EDA 2026&dnh=ii7BIA%2F23u7W3PfndkMlJA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2348 EDA 2026",
+      "caption": "In Re: Est. of L. Snyder",
+      "status": "Active",
+      "filing_date": "08/26/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2348 EDA 2026&dnh=0lVYaVHaL1ivVqv1Qp2Aow%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "138 EDM 2026",
       "caption": "Brunson, T. v. Haven Park Apartments, LLC",
       "status": "Active",
@@ -756,6 +810,15 @@
       "status": "Active",
       "filing_date": "08/25/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=139 EDM 2026&dnh=HHxDWSRQF40JbToOaWPlUg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "140 EDM 2026",
+      "caption": "Com. v. Washington, A.",
+      "status": "Active",
+      "filing_date": "08/25/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=140 EDM 2026&dnh=f0ZvhlXjbbxW3fSnTYgzzA%3D%3D"
     },
     {
       "type": "filing",
@@ -1373,7 +1436,7 @@
       "type": "filing",
       "court": "PA Superior Court",
       "docket": "1104 WDA 2026",
-      "caption": "In Re RittenhouseDashner Z Appeal of Rittenhouse T",
+      "caption": "In the Interest of: Z.R., Appeal of:T.R.",
       "status": "Active",
       "filing_date": "08/26/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1104 WDA 2026&dnh=5eDL2nZLXuhNHrv1NX%2Fh8A%3D%3D"
@@ -1382,7 +1445,7 @@
       "type": "filing",
       "court": "PA Superior Court",
       "docket": "1105 WDA 2026",
-      "caption": "In Re: Dashner, Z., Appeal of: Rittenhouse, T.",
+      "caption": "In the Interest of: Z.D., Appeal of: T.R.",
       "status": "Active",
       "filing_date": "08/26/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1105 WDA 2026&dnh=YcSKu4zZEUqC7%2FDguW%2FTqw%3D%3D"
@@ -1508,7 +1571,7 @@
       "type": "filing",
       "court": "PA Commonwealth Court",
       "docket": "1252 CD 2026",
-      "caption": "Smoker, M v. UCBR",
+      "caption": "Smoker, M. v. UCBR",
       "status": "Active",
       "filing_date": "08/20/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1252 CD 2026&dnh=MRNgG9YnxjNaObHKYDK8sw%3D%3D"
@@ -1526,19 +1589,10 @@
       "type": "filing",
       "court": "PA Commonwealth Court",
       "docket": "1256 CD 2026",
-      "caption": "Comm of PA v. Henley, O",
+      "caption": "Comm. of PA v. Henley, O.",
       "status": "Active",
       "filing_date": "08/20/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1256 CD 2026&dnh=STOD%2Fn%2FWiGVBpcKMdQjOwA%3D%3D"
-    },
-    {
-      "type": "filing",
-      "court": "PA Commonwealth Court",
-      "docket": "1257 CD 2026",
-      "caption": "Comm of PA v. Wright, A",
-      "status": "Active",
-      "filing_date": "08/20/2026",
-      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1257 CD 2026&dnh=hX1kY0ymKObUiIiGPh8iyw%3D%3D"
     },
     {
       "type": "filing",
@@ -1643,7 +1697,7 @@
       "type": "filing",
       "court": "PA Commonwealth Court",
       "docket": "390 MD 2026",
-      "caption": "BrayBoy, R v. Delaware County Court",
+      "caption": "BrayBoy, R. v. Delaware County Courthouse",
       "status": "Active",
       "filing_date": "08/21/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=390 MD 2026&dnh=V%2BEAQ0SU9g3YqP5KGsndrQ%3D%3D"
@@ -2480,6 +2534,16 @@
     {
       "type": "opinion",
       "court": "PA Commonwealth Court",
+      "docket": "360 C.D. 2026 (REARGUMENT ORDER)",
+      "caption": "Councilmember J. Young, Jr., et al. v. City of Philadelphia, et al. ~ Appeal of: J. Young, Jr.",
+      "author": "PER CURIAM",
+      "pub_date": "Wed, 26 Aug 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/360CD26ORD_8-26-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/360CD26ORD_8-26-26.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
       "docket": "685 C.D. 2025 (REARGUMENT ORDER)",
       "caption": "M.L. Burns v. Com. of PA, DOT",
       "author": "PER CURIAM",
@@ -2640,6 +2704,18 @@
     {
       "type": "opinion",
       "court": "Third Circuit",
+      "docket": "25-3573",
+      "caption": "USA v. LaMonica McIver",
+      "author": "",
+      "pub_date": "Wed, 26 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/253573p.pdf",
+      "guid": "ca3-25-3573-253573p.pdf",
+      "precedential": true,
+      "origin": "USDC for the District of New Jersey"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
       "docket": "25-2487",
       "caption": "Timofey V v. USA",
       "author": "",
@@ -2719,6 +2795,42 @@
       "url": "https://www2.ca3.uscourts.gov/opinarch/242542p.pdf",
       "guid": "ca3-24-2542-242542p.pdf",
       "precedential": true,
+      "origin": "USDC for the District of Delaware"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-3293",
+      "caption": "Michael Blauser v. Caleb Quimby",
+      "author": "",
+      "pub_date": "Wed, 26 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/253293np.pdf",
+      "guid": "ca3-25-3293-253293np.pdf",
+      "precedential": false,
+      "origin": "USDC for the Western District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-3193",
+      "caption": "Ganiyu Jaiyeola v. Chemours Co",
+      "author": "",
+      "pub_date": "Wed, 26 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/253193np.pdf",
+      "guid": "ca3-25-3193-253193np.pdf",
+      "precedential": false,
+      "origin": "USDC for the District of Delaware"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-3131",
+      "caption": "J. F. v. Delaware Department of Education",
+      "author": "",
+      "pub_date": "Wed, 26 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/253131np.pdf",
+      "guid": "ca3-25-3131-253131np.pdf",
+      "precedential": false,
       "origin": "USDC for the District of Delaware"
     },
     {
