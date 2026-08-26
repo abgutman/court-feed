@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-26T19:17:48.156751+00:00",
+  "generated": "2026-08-26T22:10:54.414830+00:00",
   "filings": [
     {
       "type": "filing",
@@ -94,6 +94,24 @@
     {
       "type": "filing",
       "court": "PA Supreme Court",
+      "docket": "295 EAL 2026",
+      "caption": "Commonwealth v. Olivieri, B., Pet.",
+      "status": "Active",
+      "filing_date": "08/26/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=295 EAL 2026&dnh=N7qHmgm1Uwr9qhTiIyrnBA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "296 EAL 2026",
+      "caption": "Commonwealth v. Olivieri, B., Pet.",
+      "status": "Active",
+      "filing_date": "08/26/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=296 EAL 2026&dnh=gP%2FvxTkIfFzXRKD0hEuuyA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
       "docket": "72 EM 2026",
       "caption": "KIPP North Philadelphia Charter School, Pet. v. Hall, C.",
       "status": "Active",
@@ -171,6 +189,15 @@
       "status": "Active",
       "filing_date": "08/21/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=176 MM 2026&dnh=7hTC4%2FHYUJJDthSCU4NpaA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "177 MM 2026",
+      "caption": "Reich, B., Pet. v. Mahon, W.",
+      "status": "Active",
+      "filing_date": "08/26/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=177 MM 2026&dnh=2p7VQL%2Fgfb9HRYYbVOUpgw%3D%3D"
     },
     {
       "type": "filing",
@@ -909,6 +936,24 @@
       "status": "Active",
       "filing_date": "08/26/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2352 EDA 2026&dnh=9N4%2Fnu2CqNxLftCZHCY5cw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2353 EDA 2026",
+      "caption": "Midland Funding v. Melton, D.",
+      "status": "Active",
+      "filing_date": "08/26/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2353 EDA 2026&dnh=bmK2zpGrPdwbgDHYp9bJFQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2354 EDA 2026",
+      "caption": "Sundance Kids v. Care and Guide",
+      "status": "Active",
+      "filing_date": "08/26/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2354 EDA 2026&dnh=XE%2FCZgMMm4%2BarjI4kgxsWw%3D%3D"
     },
     {
       "type": "filing",
@@ -1737,6 +1782,15 @@
       "status": "Active",
       "filing_date": "08/24/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1262 CD 2026&dnh=yYYcGdaPkQ%2FkImZQRdjEYw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "1263 CD 2026",
+      "caption": "Deas, D. v. Penndot",
+      "status": "Active",
+      "filing_date": "08/25/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1263 CD 2026&dnh=dbZLYanBvy2e16J9LOyrhQ%3D%3D"
     },
     {
       "type": "filing",
@@ -3056,6 +3110,18 @@
       "pub_date": "Wed, 26 Aug 2026 00:00:00 +0000",
       "url": "https://www2.ca3.uscourts.gov/opinarch/242830npo.pdf",
       "guid": "ca3-24-2830-242830npo.pdf",
+      "precedential": false,
+      "origin": "USDC for the District of New Jersey"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "24-2830",
+      "caption": "Hudson Hospital Opco LLC v. Cigna Health and Life Insurance Co",
+      "author": "",
+      "pub_date": "Wed, 26 Aug 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/242830npa.pdf",
+      "guid": "ca3-24-2830-242830npa.pdf",
       "precedential": false,
       "origin": "USDC for the District of New Jersey"
     },
