@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-27T03:19:47.742281+00:00",
+  "generated": "2026-08-27T14:17:12.487960+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -136,17 +136,6 @@
     {
       "court": "EDPA",
       "datetime": "08/27/2026 02:00PM",
-      "case_number": "06-cr-0539",
-      "caption": "USA v. RODRIGUEZ",
-      "judge": "DISTRICT JUDGE RUFE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12A",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?212349"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/27/2026 02:00PM",
       "case_number": "24-cr-0168",
       "caption": "USA v. CLARKE",
       "judge": "DISTRICT JUDGE SLOMSKY",
@@ -179,6 +168,28 @@
     },
     {
       "court": "EDPA",
+      "datetime": "08/28/2026 10:30AM",
+      "case_number": "26-cr-0403",
+      "caption": "USA v. MSC SHIPMANAGEMENT LIMI",
+      "judge": "DISTRICT JUDGE MCHUGH",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 9B",
+      "hearing_type": "Plea and Sentence",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660623"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/28/2026 10:30AM",
+      "case_number": "26-cr-0403",
+      "caption": "USA v. HONG KONG SPIRIT SHIPPI",
+      "judge": "DISTRICT JUDGE MCHUGH",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 9B",
+      "hearing_type": "Plea and Sentence",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660624"
+    },
+    {
+      "court": "EDPA",
       "datetime": "08/28/2026 01:30PM",
       "case_number": "26-cr-0388",
       "caption": "USA v. BRUCE",
@@ -209,6 +220,28 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Detention Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660312"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/28/2026 01:30PM",
+      "case_number": "26-cr-0406",
+      "caption": "USA v. CASTILLO PEGUERO",
+      "judge": "MAGISTRATE JUDGE TOPLIN",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660693"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "08/28/2026 01:30PM",
+      "case_number": "26-cr-0406",
+      "caption": "USA v. CASTILLO PEGUERO",
+      "judge": "MAGISTRATE JUDGE TOPLIN",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Initial Appearance",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660693"
     },
     {
       "court": "EDPA",
@@ -444,17 +477,6 @@
     {
       "court": "EDPA",
       "datetime": "09/01/2026 10:00AM",
-      "case_number": "25-cv-6489",
-      "caption": "SHIMSHOCK v. WACO INSTRUMENTS,",
-      "judge": "MAGISTRATE JUDGE REID",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3C",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646271"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/01/2026 10:00AM",
       "case_number": "23-cv-2315",
       "caption": "DWYER v. LAW OFFICES OF GREGOR",
       "judge": "DISTRICT JUDGE SCOTT",
@@ -605,17 +627,6 @@
       "courtroom": "Telephone Conference",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647138"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/01/2026 04:00PM",
-      "case_number": "26-cv-1233",
-      "caption": "CLINTON v. EXPERIAN INFORMATIO",
-      "judge": "DISTRICT JUDGE LEESON",
-      "city": "Allentown",
-      "courtroom": "Cahn 3C",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650378"
     },
     {
       "court": "EDPA",
@@ -784,14 +795,14 @@
     },
     {
       "court": "EDPA",
-      "datetime": "09/02/2026 02:00PM",
-      "case_number": "26-cv-4568",
-      "caption": "HUDSON v. CITY OF PHILADELPHIA",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "",
-      "courtroom": "Telephone Conference",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657279"
+      "datetime": "09/02/2026 02:30PM",
+      "case_number": "24-cv-0471",
+      "caption": "CUKER et al v. BEREZOFSKY",
+      "judge": "DISTRICT JUDGE SCOTT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618445"
     },
     {
       "court": "EDPA",
@@ -1159,6 +1170,17 @@
     {
       "court": "EDPA",
       "datetime": "09/08/2026 10:00AM",
+      "case_number": "26-cr-0300",
+      "caption": "USA v. SMITH",
+      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 8B",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657662"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/08/2026 10:00AM",
       "case_number": "25-cr-0436",
       "caption": "USA v. SMITH",
       "judge": "DISTRICT JUDGE SAVAGE",
@@ -1331,17 +1353,6 @@
       "courtroom": "Courtroom 9A",
       "hearing_type": "Show Cause Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?537439"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/08/2026 03:00PM",
-      "case_number": "10-cr-0420",
-      "caption": "USA v. WHITE",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?366103"
     },
     {
       "court": "EDPA",
