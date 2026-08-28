@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-28T11:22:28.795999+00:00",
+  "generated": "2026-08-28T22:18:52.518877+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -11,39 +11,6 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660269"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/28/2026 10:00AM",
-      "case_number": "25-cr-0376",
-      "caption": "USA v. GRIFFIN",
-      "judge": "DISTRICT JUDGE PAPPERT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11A",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642813"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/28/2026 10:30AM",
-      "case_number": "26-cr-0403",
-      "caption": "USA v. MSC SHIPMANAGEMENT LIMI",
-      "judge": "DISTRICT JUDGE MCHUGH",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9B",
-      "hearing_type": "Plea and Sentence",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660623"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/28/2026 10:30AM",
-      "case_number": "26-cr-0403",
-      "caption": "USA v. HONG KONG SPIRIT SHIPPI",
-      "judge": "DISTRICT JUDGE MCHUGH",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9B",
-      "hearing_type": "Plea and Sentence",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660624"
     },
     {
       "court": "EDPA",
@@ -169,17 +136,6 @@
     {
       "court": "EDPA",
       "datetime": "08/31/2026 10:00AM",
-      "case_number": "24-cv-1010",
-      "caption": "COPELAND v. ASSOCIATED PRODUCT",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "",
-      "courtroom": "unlisted",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?619759"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/31/2026 10:00AM",
       "case_number": "26-cv-1912",
       "caption": "Cai v. THE TRUSTEES OF THE UNI",
       "judge": "MAGISTRATE JUDGE TOPLIN",
@@ -289,17 +245,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "08/31/2026 02:00PM",
-      "case_number": "26-cr-0030",
-      "caption": "USA v. BROWN",
-      "judge": "DISTRICT JUDGE RUFE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648547"
-    },
-    {
-      "court": "EDPA",
       "datetime": "09/01/2026 09:00AM",
       "case_number": "24-cr-0435",
       "caption": "USA v. CHAYAUD",
@@ -385,28 +330,6 @@
       "courtroom": "Courtroom 9A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649111"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/01/2026 01:00PM",
-      "case_number": "25-cv-5348",
-      "caption": "INTERNATIONAL UNION OF OPERATI",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643748"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/01/2026 01:30PM",
-      "case_number": "26-cr-0356",
-      "caption": "USA v. HAWKINS-DIX",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659229"
     },
     {
       "court": "EDPA",
@@ -554,6 +477,17 @@
     {
       "court": "EDPA",
       "datetime": "09/02/2026 10:30AM",
+      "case_number": "24-cr-0003",
+      "caption": "USA v. MUSE",
+      "judge": "DISTRICT JUDGE MURPHY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3B",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617448"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/02/2026 10:30AM",
       "case_number": "24-cr-0253",
       "caption": "USA v. ROBERSON",
       "judge": "DISTRICT JUDGE SLOMSKY",
@@ -583,6 +517,28 @@
       "courtroom": "Courtroom 10B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654174"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/02/2026 11:00AM",
+      "case_number": "16-md-2724",
+      "caption": "IN RE: GENERIC PHARMACEUTICALS",
+      "judge": "DISTRICT JUDGE RUFE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12A",
+      "hearing_type": "Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/02/2026 11:00AM",
+      "case_number": "18-cv-3299",
+      "caption": "HUMANA INC. v. ACTAVIS ELIZABE",
+      "judge": "DISTRICT JUDGE RUFE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12A",
+      "hearing_type": "Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679"
     },
     {
       "court": "EDPA",
@@ -836,17 +792,6 @@
       "courtroom": "Courtroom 12B",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631018"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/04/2026 10:30AM",
-      "case_number": "24-cr-0253",
-      "caption": "USA v. KING",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624196"
     },
     {
       "court": "EDPA",
@@ -1401,13 +1346,13 @@
     {
       "court": "EDPA",
       "datetime": "09/09/2026 12:30PM",
-      "case_number": "25-cr-0471",
-      "caption": "USA v. TURPIN",
+      "case_number": "19-cr-0684",
+      "caption": "USA v. SAUNDERS",
       "judge": "DISTRICT JUDGE YOUNGE",
       "city": "Philadelphia",
       "courtroom": "Courtroom 15B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645646"
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?564572"
     },
     {
       "court": "EDPA",
@@ -1430,6 +1375,17 @@
       "courtroom": "Courtroom 9A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614637"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/09/2026 01:30PM",
+      "case_number": "26-cr-0356",
+      "caption": "USA v. HAWKINS-DIX",
+      "judge": "MAGISTRATE JUDGE REID",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659229"
     },
     {
       "court": "EDPA",
@@ -1741,6 +1697,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "09/11/2026 09:30AM",
+      "case_number": "17-cv-0570",
+      "caption": "LAUREL GARDENS, LLC et al v. M",
+      "judge": "DISTRICT JUDGE SCHMEHL",
+      "city": "Philadelphia",
+      "courtroom": "Philadelphia",
+      "hearing_type": "Jury Selection",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?526696"
+    },
+    {
+      "court": "EDPA",
       "datetime": "09/11/2026 10:00AM",
       "case_number": "25-cv-6198",
       "caption": "PRITCHARD v. BISIGNANO",
@@ -1874,7 +1841,7 @@
       "court": "Third Circuit",
       "date": "2026-09-09",
       "case_number": "25-3073",
-      "caption": "Kamila Bajda v. Attorney General United States of America",
+      "caption": "Jane Doe v. Attorney General United States of America",
       "panel": "RESTREPO, MONTGOMERY-REEVES, MCKEE",
       "location_time": "Philadelphia, PA - Maris Courtroom / 10:00 am",
       "disposition": "Argued"
