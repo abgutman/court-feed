@@ -1,72 +1,6 @@
 {
-  "generated": "2026-08-28T22:18:52.518877+00:00",
+  "generated": "2026-08-29T03:48:26.907001+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "08/28/2026 01:30AM",
-      "case_number": "26-cr-0388",
-      "caption": "USA v. BRUCE",
-      "judge": "MAGISTRATE JUDGE TOPLIN",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660269"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/28/2026 01:30PM",
-      "case_number": "26-cr-0388",
-      "caption": "USA v. BRUCE",
-      "judge": "MAGISTRATE JUDGE TOPLIN",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Detention Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660269"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/28/2026 01:30PM",
-      "case_number": "26-cr-0389",
-      "caption": "USA v. HOLLAWAY",
-      "judge": "MAGISTRATE JUDGE TOPLIN",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660312"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/28/2026 01:30PM",
-      "case_number": "26-cr-0389",
-      "caption": "USA v. HOLLAWAY",
-      "judge": "MAGISTRATE JUDGE TOPLIN",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Detention Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660312"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/28/2026 01:30PM",
-      "case_number": "26-cr-0406",
-      "caption": "USA v. CASTILLO PEGUERO",
-      "judge": "MAGISTRATE JUDGE TOPLIN",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660693"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "08/28/2026 01:30PM",
-      "case_number": "26-cr-0406",
-      "caption": "USA v. CASTILLO PEGUERO",
-      "judge": "MAGISTRATE JUDGE TOPLIN",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Initial Appearance",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660693"
-    },
     {
       "court": "EDPA",
       "datetime": "08/31/2026 09:00AM",
@@ -561,6 +495,28 @@
       "courtroom": "Courtroom 13B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636403"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/02/2026 01:30PM",
+      "case_number": "26-cr-0393",
+      "caption": "USA v. PRATT",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660317"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/02/2026 01:30PM",
+      "case_number": "26-cr-0393",
+      "caption": "USA v. WILLIAMS",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660318"
     },
     {
       "court": "EDPA",
