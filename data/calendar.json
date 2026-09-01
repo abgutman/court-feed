@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-01T10:06:18.306242+00:00",
+  "generated": "2026-09-01T14:54:38.006256+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -1862,17 +1862,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "09/14/2026 11:30AM",
-      "case_number": "26-cr-0018",
-      "caption": "USA v. CHAPPELLE",
-      "judge": "DISTRICT JUDGE PEREZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10B",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648194"
-    },
-    {
-      "court": "EDPA",
       "datetime": "09/14/2026 01:00PM",
       "case_number": "26-cr-0104",
       "caption": "USA v. COSTER",
@@ -2145,17 +2134,6 @@
       "courtroom": "Courtroom 14A",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626772"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/15/2026 11:00AM",
-      "case_number": "25-cv-5348",
-      "caption": "INTERNATIONAL UNION OF OPERATI",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643748"
     },
     {
       "court": "EDPA",
@@ -2496,6 +2474,15 @@
     {
       "court": "Third Circuit",
       "date": "2026-09-15",
+      "case_number": "25-2023",
+      "caption": "Leo Suniaga et al  v. Downingtown Area School District et al",
+      "panel": "CHAGARES, MATEY, BOVE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-15",
       "case_number": "25-2343",
       "caption": "Eleni Mavrakis v. Marmaxx Operating Corp et al",
       "panel": "HARDIMAN, BIBAS, RENDELL",
@@ -2514,6 +2501,15 @@
     {
       "court": "Third Circuit",
       "date": "2026-09-15",
+      "case_number": "25-2994",
+      "caption": "Yasser Alsharqi v. Main Line Health Inc et al",
+      "panel": "CHAGARES, MATEY, BOVE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-15",
       "case_number": "25-3176",
       "caption": "Maria Llerena Pilicita et al  v. Attorney General United Sta",
       "panel": "HARDIMAN, BIBAS, RENDELL",
@@ -2526,6 +2522,33 @@
       "case_number": "25-3377",
       "caption": "L.-L. et al  v. Attorney General United States of America",
       "panel": "HARDIMAN, BIBAS, RENDELL",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-15",
+      "case_number": "25-3381",
+      "caption": "Chichester School District v. Casa Education Decision Makers",
+      "panel": "CHAGARES, MATEY, BOVE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-15",
+      "case_number": "25-3562",
+      "caption": "Juan Carlos Sanchez-Flores v. Attorney General United States",
+      "panel": "CHAGARES, MATEY, BOVE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-15",
+      "case_number": "26-1087",
+      "caption": "Georgette Obispo Huallasco et al  v. Attorney General United",
+      "panel": "CHAGARES, MATEY, BOVE",
       "location_time": "",
       "disposition": "Submitted"
     },
@@ -2568,9 +2591,63 @@
     {
       "court": "Third Circuit",
       "date": "2026-09-16",
+      "case_number": "25-2647",
+      "caption": "USA v. Anthony D'Ambrosio",
+      "panel": "CHAGARES, MATEY, BOVE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-16",
+      "case_number": "25-2651",
+      "caption": "USA v. James  Gilmore",
+      "panel": "CHAGARES, MATEY, BOVE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-16",
+      "case_number": "25-2730",
+      "caption": "USA v. Charles Lenhart",
+      "panel": "CHAGARES, MATEY, BOVE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-16",
+      "case_number": "25-2877",
+      "caption": "Local 295 IBT Employer Group Pension Trust Fund v. Lincoln N",
+      "panel": "CHAGARES, MATEY, BOVE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-16",
       "case_number": "25-2959",
       "caption": "Milton Rivera-Bonilla v. Attorney General United States of A",
       "panel": "HARDIMAN, BIBAS, RENDELL",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-16",
+      "case_number": "25-3070",
+      "caption": "In re: AH Liquidation Inc et al",
+      "panel": "CHAGARES, MATEY, BOVE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-16",
+      "case_number": "25-3222",
+      "caption": "Reginaldo Pereira et al  v. Attorney General United States o",
+      "panel": "CHAGARES, MATEY, BOVE",
       "location_time": "",
       "disposition": "Submitted"
     },
@@ -2753,6 +2830,15 @@
       "panel": "HARDIMAN, BIBAS, RENDELL",
       "location_time": "",
       "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-22",
+      "case_number": "25-2358, 25-2415, 25-2424",
+      "caption": "R.C.B. v. Attorney General United States of America",
+      "panel": "CHAGARES, MATEY, BOVE",
+      "location_time": "Newark, NJ - Courtroom #2 / 2:30pm",
+      "disposition": "Argued"
     },
     {
       "court": "Third Circuit",
