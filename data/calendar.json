@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-03T09:48:32.664982+00:00",
+  "generated": "2026-09-03T14:35:31.110405+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -620,6 +620,17 @@
     {
       "court": "EDPA",
       "datetime": "09/09/2026 10:00AM",
+      "case_number": "26-cr-0228",
+      "caption": "USA v. BERRIOS",
+      "judge": "DISTRICT JUDGE BARTLE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16A",
+      "hearing_type": "Bond Revocation Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655032"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/09/2026 10:00AM",
       "case_number": "23-cr-0534",
       "caption": "USA v. MILLER",
       "judge": "DISTRICT JUDGE HODGE",
@@ -950,17 +961,6 @@
     {
       "court": "EDPA",
       "datetime": "09/10/2026 09:30AM",
-      "case_number": "26-cv-2389",
-      "caption": "ALEARDI v. AMERICAN HONDA MOTO",
-      "judge": "DISTRICT JUDGE KENNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5D",
-      "hearing_type": "Arbitration Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652826"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/10/2026 09:30AM",
       "case_number": "26-cr-0194",
       "caption": "USA v. TSURIKOV",
       "judge": "DISTRICT JUDGE MCHUGH",
@@ -979,17 +979,6 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622321"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/10/2026 10:00AM",
-      "case_number": "25-cr-0375",
-      "caption": "USA v. HARDY",
-      "judge": "DISTRICT JUDGE BARTLE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642765"
     },
     {
       "court": "EDPA",
@@ -1078,6 +1067,17 @@
       "courtroom": "Cahn 4B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643477"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/10/2026 02:00PM",
+      "case_number": "26-cv-4835",
+      "caption": "FOWLER v. TEMPLE UNIVERSITY HO",
+      "judge": "DISTRICT JUDGE MARSTON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16B",
+      "hearing_type": "Pretrial Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657797"
     },
     {
       "court": "EDPA",
@@ -1639,17 +1639,6 @@
       "courtroom": "Courtroom 14A",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626772"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/15/2026 12:15PM",
-      "case_number": "26-cv-5178",
-      "caption": "UNITED STATES OF AMERICA v. CO",
-      "judge": "DISTRICT JUDGE KEARNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658506"
     },
     {
       "court": "EDPA",
