@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-04T09:37:04.344824+00:00",
+  "generated": "2026-09-04T14:21:04.014092+00:00",
   "filings": [
     {
       "type": "filing",
@@ -162,6 +162,24 @@
       "status": "Active",
       "filing_date": "09/02/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=507 MAL 2026&dnh=%2B%2B6AygUNkuovnvt6T6Mgwg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "509 MAL 2026",
+      "caption": "Moynihan, K., Pet. v. Moynihan, A.",
+      "status": "Active",
+      "filing_date": "09/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=509 MAL 2026&dnh=qvGtSqd5RU9b6dh9%2FwVc0Q%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "510 MAL 2026",
+      "caption": "Commonwealth v. Leonard, E., Pet.",
+      "status": "Active",
+      "filing_date": "09/02/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=510 MAL 2026&dnh=4yMTU%2BZLK4WXkXMI%2BEVoaA%3D%3D"
     },
     {
       "type": "filing",
@@ -1147,6 +1165,42 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "1364 MDA 2026",
+      "caption": "Com. v. Simpson, J.",
+      "status": "Active",
+      "filing_date": "09/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1364 MDA 2026&dnh=hsiAFkOF0DmFeBmrUaMWqw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1365 MDA 2026",
+      "caption": "Com. v. Simpson, J.",
+      "status": "Active",
+      "filing_date": "09/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1365 MDA 2026&dnh=SMuQpssd7HoM%2FPPmJLz1OA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1366 MDA 2026",
+      "caption": "Com. v. Thomas, T.",
+      "status": "Active",
+      "filing_date": "09/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1366 MDA 2026&dnh=ncwnP%2BS3nNPZH7diJEj6IQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1367 MDA 2026",
+      "caption": "Com. v. Nero, J.",
+      "status": "Active",
+      "filing_date": "09/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1367 MDA 2026&dnh=m30oHveFo9LjH8lsiI3nbA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "65 MDM 2026",
       "caption": "Paul, J. v. Pennsylvania College of Technology",
       "status": "Active",
@@ -1530,6 +1584,33 @@
       "status": "Active",
       "filing_date": "09/02/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1297 CD 2026&dnh=EMtvMieMsdtpAdw7bsGfHA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "1302 CD 2026",
+      "caption": "Kendall, B. v. DEP (OOR)",
+      "status": "Active",
+      "filing_date": "09/03/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1302 CD 2026&dnh=NXeLpCqnZvbr6FvXwLudCg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "1305 CD 2026",
+      "caption": "Tong, A. v. UCBR",
+      "status": "Active",
+      "filing_date": "09/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1305 CD 2026&dnh=3MO%2FCAwBAmtA6VtfmSFk8w%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "1306 CD 2026",
+      "caption": "Barrow, V. v. UCBR",
+      "status": "Active",
+      "filing_date": "09/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1306 CD 2026&dnh=gR%2FRrwcO27uYmBwtnVuXqw%3D%3D"
     },
     {
       "type": "filing",
@@ -1965,6 +2046,16 @@
       "pub_date": "Mon, 31 Aug 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Supreme/out/70EAL2026 - 106906237372027984.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/70EAL2026 - 106906237372027984.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Superior Court",
+      "docket": "",
+      "caption": "Reargument Table",
+      "author": "",
+      "pub_date": "Fri, 04 Sep 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Superior/out/WestReport090426.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Superior/out/WestReport090426.pdf"
     },
     {
       "type": "opinion",
@@ -2525,6 +2616,16 @@
       "pub_date": "Mon, 31 Aug 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S24012-26m - 106906388372055153.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S24012-26m - 106906388372055153.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "569 C.D. 2025",
+      "caption": "Com. v. $14,258.36 USD; Appeal of: D. Campbell",
+      "author": "McCullough, J.",
+      "pub_date": "Fri, 04 Sep 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/569CD25_9-4-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/569CD25_9-4-26.pdf"
     },
     {
       "type": "opinion",
