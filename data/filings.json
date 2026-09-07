@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-07T15:51:11.179068+00:00",
+  "generated": "2026-09-07T19:57:41.246897+00:00",
   "filings": [
     {
       "type": "filing",
@@ -157,6 +157,15 @@
     {
       "type": "filing",
       "court": "PA Supreme Court",
+      "docket": "56 MAP 2026",
+      "caption": "In Re: Nomination Papers of Andrew Tupone; Appeal of: Tupone, A.",
+      "status": "Active",
+      "filing_date": "09/07/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=56 MAP 2026&dnh=UqI89kTkB9ezNgXd31Gf%2Fw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
       "docket": "181 MM 2026",
       "caption": "Miller, P., Pet. v. Ember, Jr., F., et al.",
       "status": "Active",
@@ -222,7 +231,7 @@
       "court": "PA Supreme Court",
       "docket": "189 MM 2026",
       "caption": "Boggs, L., Pet. v. Murray, C.",
-      "status": "Active",
+      "status": "Decided/Active",
       "filing_date": "09/06/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=189 MM 2026&dnh=iPO3O9qeA5SH1XlUd4DbWQ%3D%3D"
     },
