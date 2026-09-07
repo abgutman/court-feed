@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-06T23:54:12.076312+00:00",
+  "generated": "2026-09-07T04:38:28.602859+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -1936,6 +1936,171 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644038"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/21/2026 08:45AM",
+      "case_number": "26-cv-5848",
+      "caption": "BRACKIN et al v. STATE FARM MU",
+      "judge": "DISTRICT JUDGE KEARNEY",
+      "city": "",
+      "courtroom": "Telephone Conference",
+      "hearing_type": "Pretrial Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659776"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/21/2026 09:00AM",
+      "case_number": "25-cv-2103",
+      "caption": "PIETY FOLEY v. DREXEL UNIVERSI",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Trial Date",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636712"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/21/2026 09:00AM",
+      "case_number": "24-cr-0202",
+      "caption": "USA v. ABDUL-ALI",
+      "judge": "DISTRICT JUDGE SANCHEZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14B",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622321"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/21/2026 09:30AM",
+      "case_number": "22-cr-0291",
+      "caption": "USA v. SOLTANI",
+      "judge": "DISTRICT JUDGE SANCHEZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14B",
+      "hearing_type": "Pretrial Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?600498"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/21/2026 09:30AM",
+      "case_number": "25-cr-0058",
+      "caption": "USA v. WELDON",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633639"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/21/2026 09:30AM",
+      "case_number": "25-cv-2168",
+      "caption": "SMITH et al v. PAUL",
+      "judge": "MAGISTRATE JUDGE STRAW",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3G",
+      "hearing_type": "Trial Date",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636880"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/21/2026 09:30AM",
+      "case_number": "26-cr-0047",
+      "caption": "USA v. MILLER",
+      "judge": "DISTRICT JUDGE SURRICK",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 8A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649105"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/21/2026 10:00AM",
+      "case_number": "24-cr-0263",
+      "caption": "USA v. MICHAEL",
+      "judge": "DISTRICT JUDGE KEARNEY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 6B",
+      "hearing_type": "Sentencing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624559"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/21/2026 11:00AM",
+      "case_number": "25-cr-0349",
+      "caption": "USA v. JIMENEZ",
+      "judge": "DISTRICT JUDGE MARSTON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16B",
+      "hearing_type": "Sentencing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642195"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/21/2026 11:00AM",
+      "case_number": "26-cv-2909",
+      "caption": "309 CAR WASH, INC. v. ALLIED I",
+      "judge": "DISTRICT JUDGE PADOVA",
+      "city": "",
+      "courtroom": "Telephone Conference",
+      "hearing_type": "Pretrial Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653912"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/21/2026 11:00AM",
+      "case_number": "26-cv-4696",
+      "caption": "MCCLAIN v. ALTEC INDUSTRIES, I",
+      "judge": "DISTRICT JUDGE SANCHEZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657483"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/21/2026 01:30PM",
+      "case_number": "26-cv-2215",
+      "caption": "THOMAS JEFFERSON UNIVERSITY D/",
+      "judge": "DISTRICT JUDGE GALLAGHER",
+      "city": "Allentown",
+      "courtroom": "Cahn 4B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652462"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/21/2026 02:00PM",
+      "case_number": "26-cr-0040",
+      "caption": "USA v. DAVENPORT",
+      "judge": "DISTRICT JUDGE MARSTON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16B",
+      "hearing_type": "Pretrial Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648824"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/21/2026 02:30PM",
+      "case_number": "24-cr-0253",
+      "caption": "USA v. WILLIAMS",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624191"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/21/2026 04:00PM",
+      "case_number": "26-cv-0138",
+      "caption": "Halligan v. DELAWARE VALLEY VE",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "",
+      "courtroom": "Telephone Conference",
+      "hearing_type": "Pretrial Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648227"
     }
   ],
   "third_circuit": [
