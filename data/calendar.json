@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-07T10:16:54.528626+00:00",
+  "generated": "2026-09-07T15:53:14.216967+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -2646,6 +2646,51 @@
     },
     {
       "court": "Third Circuit",
+      "date": "2026-09-22",
+      "case_number": "25-2371",
+      "caption": "Joseph Bologna et al v. Lawrence Krasner et al",
+      "panel": "KRAUSE, PORTER, AMBRO",
+      "location_time": "Remote Participation - Maris Courtroom / 9:30 am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-22",
+      "case_number": "25-2694",
+      "caption": "USA v. Dwayne Fountain",
+      "panel": "KRAUSE, PORTER, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-22",
+      "case_number": "25-2808",
+      "caption": "Travelodge Hotels Inc v. Huber Hotels LLC et al",
+      "panel": "KRAUSE, PORTER, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-22",
+      "case_number": "25-3361",
+      "caption": "John Rodriguez Lage v. Attorney General United States of Ame",
+      "panel": "KRAUSE, PORTER, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-22",
+      "case_number": "26-1486",
+      "caption": "Joseph Gregory v. Terrance Dawdy et al",
+      "panel": "KRAUSE, PORTER, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
       "date": "2026-09-23",
       "case_number": "24-1287",
       "caption": "USA v. Thomas Waters",
@@ -2656,10 +2701,46 @@
     {
       "court": "Third Circuit",
       "date": "2026-09-23",
+      "case_number": "25-1983",
+      "caption": "Ebbynn Eubanks v. Foot Locker Retail Inc",
+      "panel": "KRAUSE, PORTER, AMBRO",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-23",
+      "case_number": "25-2167, 25-2245",
+      "caption": "Darick Easterling v. County of Delaware",
+      "panel": "KRAUSE, PORTER, AMBRO",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-23",
+      "case_number": "25-2371",
+      "caption": "Joseph Bologna et al v. Lawrence Krasner et al",
+      "panel": "KRAUSE, PORTER, AMBRO",
+      "location_time": "Remote Participation - Maris Courtroom / 9:30 am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-23",
       "case_number": "25-2482",
       "caption": "Stefan Gerneth et al v. East Union Township et al",
       "panel": "CHAGARES, MATEY, BOVE",
       "location_time": "Newark, NJ - 9:30 am / Courtroom #2",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-23",
+      "case_number": "25-2969",
+      "caption": "Reading Hospital v. Hill Rom Co Inc et al",
+      "panel": "KRAUSE, PORTER, AMBRO",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
       "disposition": "Argued"
     },
     {
@@ -2682,11 +2763,74 @@
     },
     {
       "court": "Third Circuit",
+      "date": "2026-09-23",
+      "case_number": "24-2836",
+      "caption": "USA v. Jason Mattis",
+      "panel": "KRAUSE, PORTER, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-23",
+      "case_number": "25-2660",
+      "caption": "Thomas Yeransian v. Markel Group Inc",
+      "panel": "KRAUSE, PORTER, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-23",
+      "case_number": "26-1860",
+      "caption": "USA v. John Pollard",
+      "panel": "KRAUSE, PORTER, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
       "date": "2026-09-24",
       "case_number": "23-3181, 24-1527, 24-1527",
       "caption": "USA v. John Glenn, Jr.",
       "panel": "BIBAS, PORTER, BOVE",
       "location_time": "Philadelphia, PA - Maris Courtroom / 3:00pm",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-24",
+      "case_number": "25-1035, 25-2393",
+      "caption": "Paris James v. John Wetzel et al",
+      "panel": "KRAUSE, PORTER, AMBRO",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-24",
+      "case_number": "25-1279",
+      "caption": "Karyn Jakubik et al v. Susan Gibson et al",
+      "panel": "KRAUSE, PORTER, AMBRO",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-24",
+      "case_number": "25-2540, 25-2541, 25-2612",
+      "caption": "Rebecca Cartee-Haring v. Central Bucks School District",
+      "panel": "KRAUSE, PORTER, AMBRO",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-24",
+      "case_number": "25-2969",
+      "caption": "Reading Hospital v. Hill Rom Co Inc et al",
+      "panel": "KRAUSE, PORTER, AMBRO",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
       "disposition": "Argued"
     },
     {
@@ -2704,6 +2848,96 @@
       "case_number": "24-1527",
       "caption": "USA v. Alonzo Johnson",
       "panel": "BIBAS, PORTER, BOVE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-24",
+      "case_number": "25-2680",
+      "caption": "USA v. Troy Anderson",
+      "panel": "KRAUSE, PORTER, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-24",
+      "case_number": "25-3433",
+      "caption": "Gabyargelia Montiel Perez et al  v. Attorney General United",
+      "panel": "KRAUSE, PORTER, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-24",
+      "case_number": "25-3509",
+      "caption": "George Harms Construction Co Inc et al  v. Gateway Developme",
+      "panel": "KRAUSE, PORTER, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-25",
+      "case_number": "25-1039",
+      "caption": "USA v. John Ransome",
+      "panel": "KRAUSE, PORTER, AMBRO",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-25",
+      "case_number": "25-3010",
+      "caption": "Melissa McDonald v. EI DuPont de Nemours & Co Total & Perman",
+      "panel": "KRAUSE, PORTER, AMBRO",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-25",
+      "case_number": "22-2302",
+      "caption": "USA v. William Richardson",
+      "panel": "KRAUSE, PORTER, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-25",
+      "case_number": "23-1146",
+      "caption": "USA v. William Richardson",
+      "panel": "KRAUSE, PORTER, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-25",
+      "case_number": "25-3158",
+      "caption": "Amrapur Inc et al  v. Johnson Controls Security Solutions LL",
+      "panel": "KRAUSE, PORTER, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-25",
+      "case_number": "25-3375",
+      "caption": "USA v. Ronald Carstarphen",
+      "panel": "KRAUSE, PORTER, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-25",
+      "case_number": "25-3421",
+      "caption": "Maria Martinez et al  v. Attorney General United States of A",
+      "panel": "KRAUSE, PORTER, AMBRO",
       "location_time": "",
       "disposition": "Submitted"
     },
