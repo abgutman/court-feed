@@ -1,17 +1,6 @@
 {
-  "generated": "2026-09-08T11:16:06.351652+00:00",
+  "generated": "2026-09-08T15:08:41.756068+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "09/08/2026 09:00AM",
-      "case_number": "18-cv-3299",
-      "caption": "HUMANA INC. v. ACTAVIS ELIZABE",
-      "judge": "DISTRICT JUDGE RUFE",
-      "city": "",
-      "courtroom": "unlisted",
-      "hearing_type": "Jury Selection",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679"
-    },
     {
       "court": "EDPA",
       "datetime": "09/08/2026 09:30AM",
@@ -66,17 +55,6 @@
       "courtroom": "Courtroom 8B",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657662"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/08/2026 10:00AM",
-      "case_number": "25-cv-5348",
-      "caption": "INTERNATIONAL UNION OF OPERATI",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643748"
     },
     {
       "court": "EDPA",
@@ -308,17 +286,6 @@
       "courtroom": "Courtroom 6B",
       "hearing_type": "Trial Date",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641402"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/09/2026 09:00AM",
-      "case_number": "18-cv-3299",
-      "caption": "HUMANA INC. v. ACTAVIS ELIZABE",
-      "judge": "DISTRICT JUDGE RUFE",
-      "city": "",
-      "courtroom": "unlisted",
-      "hearing_type": "Jury Selection",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679"
     },
     {
       "court": "EDPA",
@@ -1125,17 +1092,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "09/14/2026 09:30AM",
-      "case_number": "26-cr-0308",
-      "caption": "USA v. FISHER",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657994"
-    },
-    {
-      "court": "EDPA",
       "datetime": "09/14/2026 10:00AM",
       "case_number": "24-cr-0003",
       "caption": "USA v. MOUSSA",
@@ -1155,6 +1111,17 @@
       "courtroom": "Courtroom 10B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640560"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/14/2026 10:00AM",
+      "case_number": "25-cv-6814",
+      "caption": "KEHS v. STATE FARM FIRE AND CA",
+      "judge": "MAGISTRATE JUDGE REID",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3C",
+      "hearing_type": "Settlement Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646910"
     },
     {
       "court": "EDPA",
@@ -1188,28 +1155,6 @@
       "courtroom": "Courtroom 3B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630770"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/14/2026 02:00PM",
-      "case_number": "25-cv-6814",
-      "caption": "KEHS v. STATE FARM FIRE AND CA",
-      "judge": "MAGISTRATE JUDGE REID",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3C",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646910"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/15/2026 09:00AM",
-      "case_number": "18-cv-3299",
-      "caption": "HUMANA INC. v. ACTAVIS ELIZABE",
-      "judge": "DISTRICT JUDGE RUFE",
-      "city": "",
-      "courtroom": "unlisted",
-      "hearing_type": "Trial Date",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679"
     },
     {
       "court": "EDPA",
@@ -3107,15 +3052,6 @@
     {
       "court": "Third Circuit",
       "date": "2026-09-22",
-      "case_number": "25-2371",
-      "caption": "Joseph Bologna et al v. Lawrence Krasner et al",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "Remote Participation - Maris Courtroom / 9:30 am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-22",
       "case_number": "25-2694",
       "caption": "USA v. Dwayne Fountain",
       "panel": "KRAUSE, PORTER, AMBRO",
@@ -3179,19 +3115,19 @@
     {
       "court": "Third Circuit",
       "date": "2026-09-23",
-      "case_number": "25-2482",
-      "caption": "Stefan Gerneth et al v. East Union Township et al",
-      "panel": "CHAGARES, MATEY, BOVE",
-      "location_time": "Newark, NJ - 9:30 am / Courtroom #2",
+      "case_number": "25-2371",
+      "caption": "Joseph Bologna et al v. Lawrence Krasner et al",
+      "panel": "KRAUSE, PORTER, AMBRO",
+      "location_time": "Remote Participation - Maris Courtroom / 9:30 am",
       "disposition": "Argued"
     },
     {
       "court": "Third Circuit",
       "date": "2026-09-23",
-      "case_number": "25-2969",
-      "caption": "Reading Hospital v. Hill Rom Co Inc et al",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
+      "case_number": "25-2482",
+      "caption": "Stefan Gerneth et al v. East Union Township et al",
+      "panel": "CHAGARES, MATEY, BOVE",
+      "location_time": "Newark, NJ - 9:30 am / Courtroom #2",
       "disposition": "Argued"
     },
     {
@@ -3260,6 +3196,15 @@
     {
       "court": "Third Circuit",
       "date": "2026-09-24",
+      "case_number": "23-3181, 24-1527, 24-1527",
+      "caption": "USA v. John Glenn, Jr.",
+      "panel": "BIBAS, PORTER, BOVE",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 3:00pm",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-24",
       "case_number": "25-1035, 25-2393",
       "caption": "Paris James v. John Wetzel et al",
       "panel": "KRAUSE, PORTER, AMBRO",
@@ -3287,11 +3232,11 @@
     {
       "court": "Third Circuit",
       "date": "2026-09-24",
-      "case_number": "23-3181, 24-1527, 24-1527",
-      "caption": "USA v. John Glenn, Jr.",
-      "panel": "BIBAS, PORTER, BOVE",
-      "location_time": "",
-      "disposition": "Submitted"
+      "case_number": "25-2969",
+      "caption": "Reading Hospital v. Hill Rom Co Inc et al",
+      "panel": "KRAUSE, PORTER, AMBRO",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
+      "disposition": "Argued"
     },
     {
       "court": "Third Circuit",
@@ -3479,18 +3424,6 @@
     {
       "court": "PA Superior Court",
       "date": "09/15/2026",
-      "docket_number": "2439 EDA 2025",
-      "journal_number": "J-A21009-26",
-      "caption": "Est. of D. Williams v. Nazareth Hospital",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "21-ARGUMENT-2026-2",
-      "judges": ""
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "09/15/2026",
       "docket_number": "3288 EDA 2025",
       "journal_number": "J-A21010-26",
       "caption": "IS Jam, LLC v. 20 Armat Properties",
@@ -3542,6 +3475,18 @@
       "docket_number": "1062 EDA 2026",
       "journal_number": "J-A21015-26",
       "caption": "In the Int. of: J.J.Q., Appeal of: J.J.Q.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "21-ARGUMENT-2026-2",
+      "judges": ""
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "09/15/2026",
+      "docket_number": "536 EDA 2026",
+      "journal_number": "J-A21028-26",
+      "caption": "Singh, K. v. Deol, S.",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "",
       "city": "",
@@ -3638,18 +3583,6 @@
       "docket_number": "426 EDA 2025",
       "journal_number": "J-A21027-26",
       "caption": "Com. v. Faust, W.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "21-ARGUMENT-2026-2",
-      "judges": ""
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "09/16/2026",
-      "docket_number": "536 EDA 2026",
-      "journal_number": "J-A21028-26",
-      "caption": "Singh, K. v. Deol, S.",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "",
       "city": "",
@@ -5243,18 +5176,6 @@
     {
       "court": "PA Superior Court",
       "date": "09/15/2026",
-      "docket_number": "2439 EDA 2025",
-      "journal_number": "J-A21009-26",
-      "caption": "Est. of D. Williams v. Nazareth Hospital",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "21-ARGUMENT-2026-2",
-      "judges": ""
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "09/15/2026",
       "docket_number": "3288 EDA 2025",
       "journal_number": "J-A21010-26",
       "caption": "IS Jam, LLC v. 20 Armat Properties",
@@ -5306,6 +5227,18 @@
       "docket_number": "1062 EDA 2026",
       "journal_number": "J-A21015-26",
       "caption": "In the Int. of: J.J.Q., Appeal of: J.J.Q.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "21-ARGUMENT-2026-2",
+      "judges": ""
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "09/15/2026",
+      "docket_number": "536 EDA 2026",
+      "journal_number": "J-A21028-26",
+      "caption": "Singh, K. v. Deol, S.",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "",
       "city": "",
@@ -5402,18 +5335,6 @@
       "docket_number": "426 EDA 2025",
       "journal_number": "J-A21027-26",
       "caption": "Com. v. Faust, W.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "21-ARGUMENT-2026-2",
-      "judges": ""
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "09/16/2026",
-      "docket_number": "536 EDA 2026",
-      "journal_number": "J-A21028-26",
-      "caption": "Singh, K. v. Deol, S.",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "",
       "city": "",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-08T11:13:59.425144+00:00",
+  "generated": "2026-09-08T15:06:35.413028+00:00",
   "filings": [
     {
       "type": "filing",
@@ -27,6 +27,24 @@
       "status": "Active",
       "filing_date": "09/03/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=308 EAL 2026&dnh=47c5xqL28IXJ0cSAny4vzA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "309 EAL 2026",
+      "caption": "Commonwealth v. McDowell, G., Pet.",
+      "status": "Active",
+      "filing_date": "09/05/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=309 EAL 2026&dnh=FVd6Cw31m9SWg5MUwoZXpg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "310 EAL 2026",
+      "caption": "Commonwealth v. Wilson, A., Pet.",
+      "status": "Active",
+      "filing_date": "09/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=310 EAL 2026&dnh=YWFsQ8K5%2FvueQ5wv%2BjscGg%3D%3D"
     },
     {
       "type": "filing",
@@ -247,11 +265,29 @@
     {
       "type": "filing",
       "court": "PA Supreme Court",
+      "docket": "252 WAL 2026",
+      "caption": "Blakemore, J. v. Basher, M.",
+      "status": "Active",
+      "filing_date": "09/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=252 WAL 2026&dnh=qEOTOEKHBYtLfxT9r0Wn%2BA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
       "docket": "112 WM 2026",
       "caption": "Klingensmith, A., Pet. v. Westmoreland Co. CCP",
       "status": "Active",
       "filing_date": "09/02/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=112 WM 2026&dnh=UxLJeHjo87%2BhrgHsRlQJqw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "113 WM 2026",
+      "caption": "Anderson, R., Pet. v. Commonwealth, et al.",
+      "status": "Active",
+      "filing_date": "09/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=113 WM 2026&dnh=FSWkxeotFmOzfSUxIFomOA%3D%3D"
     },
     {
       "type": "filing",
@@ -464,10 +500,19 @@
       "type": "filing",
       "court": "PA Superior Court",
       "docket": "2444 EDA 2026",
-      "caption": "Barthlemess, M. v Bathlemess, R.",
+      "caption": "Barthlemess, M. v Barthlemess, R.",
       "status": "Active",
       "filing_date": "09/04/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2444 EDA 2026&dnh=ju3PnZ7AhT8Cb6OC5dF%2FtQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2445 EDA 2026",
+      "caption": "Granger, J. v. Granger, J.",
+      "status": "Active",
+      "filing_date": "09/08/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2445 EDA 2026&dnh=Bo5wZ4LDjuLMJuJyVOoVNA%3D%3D"
     },
     {
       "type": "filing",
@@ -805,6 +850,51 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "1387 MDA 2026",
+      "caption": "In Re: Montross, D., an incapacitated person",
+      "status": "Active",
+      "filing_date": "09/08/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1387 MDA 2026&dnh=UQIXoXqkrTaMvvuC7IyAfg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1388 MDA 2026",
+      "caption": "Term. of Par. Rights to A.L.G., Appeal of: C.W.G.",
+      "status": "Active",
+      "filing_date": "09/08/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1388 MDA 2026&dnh=zAWQScMmBrQ3nz8N2iIUgg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1389 MDA 2026",
+      "caption": "Term. of Par. Rights to D.M.G., Appeal of: C.W.G.",
+      "status": "Active",
+      "filing_date": "09/08/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1389 MDA 2026&dnh=SUC8XvG5v7n3HuFEN4LxAg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1390 MDA 2026",
+      "caption": "Term. of Par. Rights to E.E.g., Appeal of: C.W.G.",
+      "status": "Active",
+      "filing_date": "09/08/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1390 MDA 2026&dnh=HQrC2YL7v4Fhje6sKjPnmQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1391 MDA 2026",
+      "caption": "Com. v. Pickin, J.",
+      "status": "Active",
+      "filing_date": "09/08/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1391 MDA 2026&dnh=Tbwnv%2Fo8F%2Fqe2dQYlq7nxA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "66 MDM 2026",
       "caption": "Shultz, A. v. Shultz, F.",
       "status": "Closed",
@@ -1107,6 +1197,33 @@
       "status": "Active",
       "filing_date": "09/04/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1318 CD 2026&dnh=%2Byk%2FxjZdS%2FZT7p66mmxRVg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "1319 CD 2026",
+      "caption": "Johnson, B. v. OAG",
+      "status": "Active",
+      "filing_date": "09/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1319 CD 2026&dnh=ia7jrFx5OB9y8s4jDdlk2w%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "1320 CD 2026",
+      "caption": "Johnson, B. v. OAG",
+      "status": "Active",
+      "filing_date": "09/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1320 CD 2026&dnh=Vhpgm52X2uiUDyceHX07mw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "1321 CD 2026",
+      "caption": "Whitaker, J. v. UCBR",
+      "status": "Active",
+      "filing_date": "09/08/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1321 CD 2026&dnh=uVLCtI8IIW7%2BPfXsuvJA%2FQ%3D%3D"
     },
     {
       "type": "filing",
@@ -1618,6 +1735,16 @@
       "pub_date": "Wed, 02 Sep 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S24016-26m - 106910343372424567.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S24016-26m - 106910343372424567.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "965 C.D. 2025",
+      "caption": "Bessemer and Lake Erie Railroad Co. v. PA PUC",
+      "author": "Fizzano Cannon, J.",
+      "pub_date": "Tue, 08 Sep 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/965CD25_9-8-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/965CD25_9-8-26.pdf"
     },
     {
       "type": "opinion",
