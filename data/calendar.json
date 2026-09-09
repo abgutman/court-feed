@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-09T14:37:30.450047+00:00",
+  "generated": "2026-09-09T18:37:25.606477+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -37,17 +37,6 @@
     {
       "court": "EDPA",
       "datetime": "09/09/2026 10:00AM",
-      "case_number": "26-cr-0228",
-      "caption": "USA v. BERRIOS",
-      "judge": "DISTRICT JUDGE BARTLE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16A",
-      "hearing_type": "Bond Revocation Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655032"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/09/2026 10:00AM",
       "case_number": "23-cr-0534",
       "caption": "USA v. MILLER",
       "judge": "DISTRICT JUDGE HODGE",
@@ -66,28 +55,6 @@
       "courtroom": "Courtroom 10B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657515"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/09/2026 10:00AM",
-      "case_number": "25-cr-0264",
-      "caption": "USA v. DAWKINS",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639442"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/09/2026 10:00AM",
-      "case_number": "24-cv-5018",
-      "caption": "ROSENBERGER v. SUPPORTS COORDI",
-      "judge": "MAGISTRATE JUDGE STRAW",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3G",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627733"
     },
     {
       "court": "EDPA",
@@ -143,28 +110,6 @@
       "courtroom": "Courtroom 7B",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640491"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/09/2026 11:00AM",
-      "case_number": "24-cr-0387",
-      "caption": "USA v. OSORIO-VIERA",
-      "judge": "DISTRICT JUDGE PAPPERT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11A",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629154"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/09/2026 11:00AM",
-      "case_number": "25-cr-0155",
-      "caption": "USA v. HANRAHAN",
-      "judge": "DISTRICT JUDGE RUFE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12A",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636233"
     },
     {
       "court": "EDPA",
@@ -1939,6 +1884,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "09/22/2026 10:00AM",
+      "case_number": "26-cv-4453",
+      "caption": "CITIZENS BANK, N. A. v. SCHWAB",
+      "judge": "DISTRICT JUDGE YOUNGE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 15B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657087"
+    },
+    {
+      "court": "EDPA",
       "datetime": "09/22/2026 10:30AM",
       "case_number": "24-cv-2782",
       "caption": "TORRES v. HAROLD F. DAMPMAN, L",
@@ -3060,15 +3016,6 @@
     {
       "court": "Third Circuit",
       "date": "2026-09-23",
-      "case_number": "25-2969",
-      "caption": "Reading Hospital v. Hill Rom Co Inc et al",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-23",
       "case_number": "25-3420",
       "caption": "Tawanna Whitehead v. City of Allentown",
       "panel": "CHAGARES, MATEY, BOVE",
@@ -3123,15 +3070,6 @@
     {
       "court": "Third Circuit",
       "date": "2026-09-24",
-      "case_number": "23-3181, 24-1527, 24-1527",
-      "caption": "USA v. John Glenn, Jr.",
-      "panel": "BIBAS, PORTER, BOVE",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 3:00pm",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-24",
       "case_number": "25-1035, 25-2393",
       "caption": "Paris James v. John Wetzel et al",
       "panel": "KRAUSE, PORTER, AMBRO",
@@ -3155,6 +3093,33 @@
       "panel": "KRAUSE, PORTER, AMBRO",
       "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
       "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-24",
+      "case_number": "25-2969",
+      "caption": "Reading Hospital v. Hill Rom Co Inc et al",
+      "panel": "KRAUSE, PORTER, AMBRO",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-24",
+      "case_number": "23-3181, 24-1527, 24-1527",
+      "caption": "USA v. John Glenn, Jr.",
+      "panel": "BIBAS, PORTER, BOVE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-24",
+      "case_number": "24-1527",
+      "caption": "USA v. Alonzo Johnson",
+      "panel": "BIBAS, PORTER, BOVE",
+      "location_time": "",
+      "disposition": "Submitted"
     },
     {
       "court": "Third Circuit",
@@ -3807,18 +3772,6 @@
       "docket_number": "1030 EDA 2026",
       "journal_number": "J-A21040-26",
       "caption": "In the Int. of: Z.K., Appeal of: Z.K.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "21-ARGUMENT-2026-2",
-      "judges": ""
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "09/17/2026",
-      "docket_number": "342 EDA 2026",
-      "journal_number": "J-A21041-26",
-      "caption": "Dalin Funding v. Gardiner, A.",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "",
       "city": "",
@@ -5547,18 +5500,6 @@
       "docket_number": "1030 EDA 2026",
       "journal_number": "J-A21040-26",
       "caption": "In the Int. of: Z.K., Appeal of: Z.K.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "21-ARGUMENT-2026-2",
-      "judges": ""
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "09/17/2026",
-      "docket_number": "342 EDA 2026",
-      "journal_number": "J-A21041-26",
-      "caption": "Dalin Funding v. Gardiner, A.",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "",
       "city": "",
