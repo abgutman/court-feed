@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-10T09:43:52.619793+00:00",
+  "generated": "2026-09-10T14:27:56.352096+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -15,17 +15,6 @@
     {
       "court": "EDPA",
       "datetime": "09/10/2026 09:30AM",
-      "case_number": "25-cr-0186",
-      "caption": "USA v. HARRISON",
-      "judge": "DISTRICT JUDGE HODGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636965"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/10/2026 09:30AM",
       "case_number": "26-cr-0194",
       "caption": "USA v. TSURIKOV",
       "judge": "DISTRICT JUDGE MCHUGH",
@@ -33,6 +22,17 @@
       "courtroom": "Courtroom 9B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653676"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/10/2026 10:00AM",
+      "case_number": "25-cr-0186",
+      "caption": "USA v. HARRISON",
+      "judge": "DISTRICT JUDGE HODGE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 17A",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636965"
     },
     {
       "court": "EDPA",
@@ -66,17 +66,6 @@
       "courtroom": "Courtroom 3B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642987"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/10/2026 11:00AM",
-      "case_number": "10-cr-0489",
-      "caption": "USA v. SMITH",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?416031"
     },
     {
       "court": "EDPA",
@@ -231,17 +220,6 @@
       "courtroom": "Courtroom 9A",
       "hearing_type": "Miscellaneous Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645664"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/11/2026 10:30AM",
-      "case_number": "26-cv-2926",
-      "caption": "BEY v. GLP CAPITAL LP et al",
-      "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "",
-      "courtroom": "Telephone Conference",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653933"
     },
     {
       "court": "EDPA",
@@ -1467,17 +1445,6 @@
     {
       "court": "EDPA",
       "datetime": "09/22/2026 10:00AM",
-      "case_number": "25-cr-0530",
-      "caption": "USA v. ANDERSON",
-      "judge": "DISTRICT JUDGE BARTLE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647492"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/22/2026 10:00AM",
       "case_number": "24-cv-2806",
       "caption": "Murnane v. Olenick",
       "judge": "DISTRICT JUDGE COSTELLO",
@@ -2291,17 +2258,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "09/24/2026 11:00AM",
-      "case_number": "24-cv-0988",
-      "caption": "MATUTE et al v. THOMAS E. STRA",
-      "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "Reading",
-      "courtroom": "Reading 5th Floor",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?619701"
-    },
-    {
-      "court": "EDPA",
       "datetime": "09/24/2026 12:30PM",
       "case_number": "12-cr-0399",
       "caption": "USA v. JOHNSON",
@@ -2376,6 +2332,17 @@
       "courtroom": "Courtroom 3C",
       "hearing_type": "Scheduling Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644850"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/24/2026 02:00PM",
+      "case_number": "24-cv-0988",
+      "caption": "MATUTE et al v. THOMAS E. STRA",
+      "judge": "DISTRICT JUDGE SCHMEHL",
+      "city": "Reading",
+      "courtroom": "Reading 5th Floor",
+      "hearing_type": "Pretrial Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?619701"
     },
     {
       "court": "EDPA",
@@ -2861,15 +2828,6 @@
       "case_number": "25-2371",
       "caption": "Joseph Bologna et al v. Lawrence Krasner et al",
       "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-22",
-      "case_number": "25-2371",
-      "caption": "Joseph Bologna et al v. Lawrence Krasner et al",
-      "panel": "KRAUSE, PORTER, AMBRO",
       "location_time": "Remote Participation - Maris Courtroom / 9:30 am",
       "disposition": "Argued"
     },
@@ -2932,6 +2890,15 @@
       "date": "2026-09-23",
       "case_number": "25-2167, 25-2245",
       "caption": "Darick Easterling v. County of Delaware",
+      "panel": "KRAUSE, PORTER, AMBRO",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-23",
+      "case_number": "25-2371",
+      "caption": "Joseph Bologna et al v. Lawrence Krasner et al",
       "panel": "KRAUSE, PORTER, AMBRO",
       "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
       "disposition": "Argued"
@@ -3011,6 +2978,15 @@
     {
       "court": "Third Circuit",
       "date": "2026-09-24",
+      "case_number": "23-3181, 24-1527, 24-1527",
+      "caption": "USA v. John Glenn, Jr.",
+      "panel": "BIBAS, PORTER, BOVE",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 3:00pm",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-24",
       "case_number": "25-1035, 25-2393",
       "caption": "Paris James v. John Wetzel et al",
       "panel": "KRAUSE, PORTER, AMBRO",
@@ -3043,15 +3019,6 @@
       "panel": "KRAUSE, PORTER, AMBRO",
       "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
       "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-24",
-      "case_number": "23-3181, 24-1527, 24-1527",
-      "caption": "USA v. John Glenn, Jr.",
-      "panel": "BIBAS, PORTER, BOVE",
-      "location_time": "",
-      "disposition": "Submitted"
     },
     {
       "court": "Third Circuit",
