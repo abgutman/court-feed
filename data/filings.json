@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-10T18:26:10.096018+00:00",
+  "generated": "2026-09-10T21:37:18.981241+00:00",
   "filings": [
     {
       "type": "filing",
@@ -184,6 +184,33 @@
     {
       "type": "filing",
       "court": "PA Supreme Court",
+      "docket": "524 MAL 2026",
+      "caption": "Commonwealth v. Perry, M., Pet.",
+      "status": "Active",
+      "filing_date": "09/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=524 MAL 2026&dnh=NNUA11D60AXs5aTZpDa2lw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "525 MAL 2026",
+      "caption": "Commonwealth v. Perry, M., Pet.",
+      "status": "Active",
+      "filing_date": "09/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=525 MAL 2026&dnh=Td0m4Z%2Bm4AWa5%2Bz07eZrTA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "526 MAL 2026",
+      "caption": "Commonwealth v. Perry, M., Pet.",
+      "status": "Active",
+      "filing_date": "09/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=526 MAL 2026&dnh=vhHAb1C4Qz0st9AtJ8EK9w%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
       "docket": "56 MAP 2026",
       "caption": "In Re: Nomination Papers of Andrew Tupone; Appeal of: Tupone, A.",
       "status": "Active",
@@ -243,6 +270,24 @@
       "status": "Active",
       "filing_date": "09/10/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=195 MM 2026&dnh=4bW0yBwuWpYWf5D%2BXhT5KA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "196 MM 2026",
+      "caption": "Commonwealth v. Payne, III, J., Pet.",
+      "status": "Active",
+      "filing_date": "09/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=196 MM 2026&dnh=5VsTkNKE9lRfIYwf5tP4Ag%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "197 MM 2026",
+      "caption": "In Re: Attorneys Admin Suspended; Pet of: E. Delp",
+      "status": "Active",
+      "filing_date": "09/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=197 MM 2026&dnh=%2FQye7OKZHHf05bAkg4wvzg%3D%3D"
     },
     {
       "type": "filing",
@@ -765,6 +810,15 @@
       "status": "Active",
       "filing_date": "09/10/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2491 EDA 2026&dnh=qvKotZzwn1gNCdcWuR3zDg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2492 EDA 2026",
+      "caption": "PSB Credit v. O'Leary Funeral Home",
+      "status": "Active",
+      "filing_date": "09/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2492 EDA 2026&dnh=2fC%2FX6o%2FMBSDHEmfsSG0BA%3D%3D"
     },
     {
       "type": "filing",
@@ -1400,7 +1454,7 @@
       "type": "filing",
       "court": "PA Superior Court",
       "docket": "1186 WDA 2026",
-      "caption": "In the Interest of:Robinson, V. Appeal of:Bonner,J",
+      "caption": "In the Int. of: V.L.R., Appeal of: J.B.",
       "status": "Active",
       "filing_date": "09/10/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1186 WDA 2026&dnh=D%2BGGTpl2%2BBpDXJ37r744cA%3D%3D"
@@ -1409,7 +1463,7 @@
       "type": "filing",
       "court": "PA Superior Court",
       "docket": "1187 WDA 2026",
-      "caption": "In the Interest of:Robinson, V.Appeal of:Bonner, J",
+      "caption": "In the Int. of: V.L.R., Appeal of: J.B.",
       "status": "Active",
       "filing_date": "09/10/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1187 WDA 2026&dnh=2CNBXiq38FZ8zjwCi3WlNg%3D%3D"
@@ -1580,7 +1634,7 @@
       "type": "filing",
       "court": "PA Commonwealth Court",
       "docket": "1353 CD 2026",
-      "caption": "City of Philadelphia v. Manu, A. et al",
+      "caption": "City of Philadelphia v. Manu, A. et al.",
       "status": "Active",
       "filing_date": "09/09/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1353 CD 2026&dnh=t%2FetmeYhhIV2akpbG7UyPQ%3D%3D"
@@ -1668,6 +1722,46 @@
     }
   ],
   "opinions": [
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 23 WAP 2025",
+      "caption": "Patrick J. Carr, et al., Aplts. v. FCB",
+      "author": "Justice Sallie Mundy",
+      "pub_date": "Thu, 10 Sep 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/J-27B-2026mo - 106920312373503346.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/J-27B-2026mo - 106920312373503346.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 22 WAP 2025",
+      "caption": "Patrick J. Carr, et al., Aplts. v. FCB",
+      "author": "Justice Sallie Mundy",
+      "pub_date": "Thu, 10 Sep 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/J-27A-2026mo - 106920311373500212.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/J-27A-2026mo - 106920311373500212.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 96 WM 2026",
+      "caption": "Esch, J., Pet. v. PSERB",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 10 Sep 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/96WM2026 - 106918941373394726.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/96WM2026 - 106918941373394726.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 78 EM 2026",
+      "caption": "Commonwealth v. Sekou, M., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 10 Sep 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/78EM20261 - 106920168373491005.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/78EM20261 - 106920168373491005.pdf"
+    },
     {
       "type": "opinion",
       "court": "PA Supreme Court",
