@@ -1,105 +1,6 @@
 {
-  "generated": "2026-09-10T21:39:54.401260+00:00",
+  "generated": "2026-09-11T00:12:05.056701+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "09/10/2026 09:30AM",
-      "case_number": "25-cr-0268",
-      "caption": "USA v. SINGH",
-      "judge": "DISTRICT JUDGE HENRY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Jury Selection",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639559"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/10/2026 11:00AM",
-      "case_number": "25-cr-0381",
-      "caption": "USA v. HARRIS",
-      "judge": "DISTRICT JUDGE MURPHY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642987"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/10/2026 01:00PM",
-      "case_number": "26-cr-0174",
-      "caption": "USA v. JULIAN-MENDEZ",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
-      "hearing_type": "Plea and Sentence",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653124"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/10/2026 01:30PM",
-      "case_number": "25-cr-0405",
-      "caption": "USA v. RODRIGUEZ",
-      "judge": "DISTRICT JUDGE GALLAGHER",
-      "city": "Allentown",
-      "courtroom": "Cahn 4B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643477"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/10/2026 01:30PM",
-      "case_number": "26-mj-1624",
-      "caption": "USA v. DIMITRIADIS",
-      "judge": "MAGISTRATE JUDGE REID",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Detention Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661104"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/10/2026 01:30PM",
-      "case_number": "26-mj-1624",
-      "caption": "USA v. DIMITRIADIS",
-      "judge": "MAGISTRATE JUDGE REID",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661104"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/10/2026 02:00PM",
-      "case_number": "25-cr-0531",
-      "caption": "USA v. HAMILTON",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Attorney Appointment Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647537"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/10/2026 03:00PM",
-      "case_number": "25-cr-0376",
-      "caption": "USA v. CROUSET",
-      "judge": "DISTRICT JUDGE PAPPERT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11A",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642817"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/10/2026 03:00PM",
-      "case_number": "24-cr-0405",
-      "caption": "USA v. RANDOLPH",
-      "judge": "DISTRICT JUDGE RUFE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629760"
-    },
     {
       "court": "EDPA",
       "datetime": "09/11/2026 09:30AM",
@@ -2222,36 +2123,42 @@
       "courtroom": "Courtroom 12B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646330"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/25/2026 09:30AM",
+      "case_number": "26-cv-1825",
+      "caption": "SCHLESIER v. WAL-MART STORES,",
+      "judge": "DISTRICT JUDGE GALLAGHER",
+      "city": "Allentown",
+      "courtroom": "Cahn 4A",
+      "hearing_type": "Arbitration Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651602"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/25/2026 10:00AM",
+      "case_number": "26-cv-1445",
+      "caption": "MUNSHI v. ELM TERRACE GARDENS",
+      "judge": "MAGISTRATE JUDGE REID",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3C",
+      "hearing_type": "Settlement Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650834"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/25/2026 11:30AM",
+      "case_number": "24-cv-6337",
+      "caption": "BUSH v. THE CITY OF ALLENTOWN",
+      "judge": "DISTRICT JUDGE SCHMEHL",
+      "city": "",
+      "courtroom": "Video Conference",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630532"
     }
   ],
   "third_circuit": [
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-10",
-      "case_number": "25-2379",
-      "caption": "Charanseet Singh v. Attorney General United States of Americ",
-      "panel": "RESTREPO, MONTGOMERY-REEVES, MCKEE",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-10",
-      "case_number": "25-2955",
-      "caption": "Pablo Guimaraes et al  v. Attorney General United States of",
-      "panel": "RESTREPO, MONTGOMERY-REEVES, MCKEE",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-10",
-      "case_number": "25-3570",
-      "caption": "USA v. William  Welsh",
-      "panel": "RESTREPO, MONTGOMERY-REEVES, MCKEE",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
     {
       "court": "Third Circuit",
       "date": "2026-09-11",
