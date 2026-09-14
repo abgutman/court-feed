@@ -1,17 +1,6 @@
 {
-  "generated": "2026-09-14T18:39:36.235206+00:00",
+  "generated": "2026-09-14T22:31:51.182020+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "09/14/2026 09:30AM",
-      "case_number": "25-cr-0268",
-      "caption": "USA v. SINGH",
-      "judge": "DISTRICT JUDGE HENRY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639559"
-    },
     {
       "court": "EDPA",
       "datetime": "09/14/2026 09:30AM",
@@ -26,17 +15,6 @@
     {
       "court": "EDPA",
       "datetime": "09/14/2026 11:30AM",
-      "case_number": "04-cr-0047",
-      "caption": "USA v. HOWARD",
-      "judge": "DISTRICT JUDGE PADOVA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 17B",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?161937"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/14/2026 11:30AM",
       "case_number": "26-cv-6748",
       "caption": "BANK MIDWEST, A DIVISION OF NB",
       "judge": "DISTRICT JUDGE SCOTT",
@@ -44,28 +22,6 @@
       "courtroom": "Telephone Conference",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661412"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/14/2026 01:00PM",
-      "case_number": "26-cr-0104",
-      "caption": "USA v. COSTER",
-      "judge": "DISTRICT JUDGE PEREZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651073"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/14/2026 01:30PM",
-      "case_number": "26-cr-0193",
-      "caption": "USA v. BARRAZA MEZA",
-      "judge": "MAGISTRATE JUDGE COPELAND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653656"
     },
     {
       "court": "EDPA",
@@ -88,17 +44,6 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661104"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/14/2026 02:00PM",
-      "case_number": "24-cr-0424",
-      "caption": "USA v. BLAZO",
-      "judge": "DISTRICT JUDGE MURPHY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630770"
     },
     {
       "court": "EDPA",
@@ -136,6 +81,17 @@
     {
       "court": "EDPA",
       "datetime": "09/15/2026 09:30AM",
+      "case_number": "25-cr-0268",
+      "caption": "USA v. SINGH",
+      "judge": "DISTRICT JUDGE HENRY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13B",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639559"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/15/2026 09:30AM",
       "case_number": "24-md-3094",
       "caption": "GLUCAGON-LIKE PEPTIDE-1 RECEPT",
       "judge": "DISTRICT JUDGE MARSTON",
@@ -147,17 +103,6 @@
     {
       "court": "EDPA",
       "datetime": "09/15/2026 09:30AM",
-      "case_number": "22-cv-2389",
-      "caption": "PLOEGER v. TRUSTEES OF THE UNI",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Trial Date",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?597860"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/15/2026 09:30AM",
       "case_number": "25-cv-2830",
       "caption": "BURGESS v. COUNTY OF DELAWARE",
       "judge": "DISTRICT JUDGE SLOMSKY",
@@ -165,17 +110,6 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Trial Date",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638523"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/15/2026 10:00AM",
-      "case_number": "25-cr-0175",
-      "caption": "USA v. SMITH",
-      "judge": "DISTRICT JUDGE COSTELLO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636680"
     },
     {
       "court": "EDPA",
@@ -228,7 +162,7 @@
       "caption": "Levy v. HFactor, Inc.",
       "judge": "DISTRICT JUDGE BAYLSON",
       "city": "Philadelphia",
-      "courtroom": "Courtroom 3A",
+      "courtroom": "Courtroom 8A",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626106"
     },
@@ -352,17 +286,6 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Bench Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?525083"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/16/2026 09:30AM",
-      "case_number": "25-cv-4922",
-      "caption": "ROBINSON v. NATIONWIDE INSURAN",
-      "judge": "DISTRICT JUDGE MURPHY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5B",
-      "hearing_type": "Arbitration Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642905"
     },
     {
       "court": "EDPA",
@@ -528,6 +451,17 @@
       "courtroom": "Courtroom 3B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?134331"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/16/2026 02:00PM",
+      "case_number": "25-cr-0178",
+      "caption": "USA v. GROOVER",
+      "judge": "DISTRICT JUDGE PAPPERT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 11A",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636682"
     },
     {
       "court": "EDPA",
@@ -1235,6 +1169,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "09/22/2026 01:00PM",
+      "case_number": "26-cv-6748",
+      "caption": "BANK MIDWEST, A DIVISION OF NB",
+      "judge": "DISTRICT JUDGE SCOTT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661412"
+    },
+    {
+      "court": "EDPA",
       "datetime": "09/22/2026 01:30PM",
       "case_number": "22-cr-0155",
       "caption": "USA v. REYES",
@@ -1719,17 +1664,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "09/24/2026 10:00AM",
-      "case_number": "26-cr-0187",
-      "caption": "USA v. YOUNG",
-      "judge": "DISTRICT JUDGE YOUNGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653470"
-    },
-    {
-      "court": "EDPA",
       "datetime": "09/24/2026 10:30AM",
       "case_number": "24-cr-0413",
       "caption": "USA v. MYLES",
@@ -2200,6 +2134,17 @@
       "courtroom": "Video Conference",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653650"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/28/2026 11:00AM",
+      "case_number": "04-cr-0047",
+      "caption": "USA v. HOWARD",
+      "judge": "DISTRICT JUDGE PADOVA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 17B",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?161937"
     },
     {
       "court": "EDPA",
@@ -4422,6 +4367,18 @@
     },
     {
       "court": "PA Superior Court",
+      "date": "10/13/2026",
+      "docket_number": "3047 EDA 2025",
+      "journal_number": "J-A23038-26",
+      "caption": "Com. v. White, E.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "17th Floor , 530 Walnut St ., Philadelphia",
+      "city": "Philadelphia",
+      "panel": "23-ARGUMENT-2026-2",
+      "judges": "STABILE ; KING , JJ."
+    },
+    {
+      "court": "PA Superior Court",
       "date": "10/14/2026",
       "docket_number": "2922 EDA 2025",
       "journal_number": "J-A23016-26",
@@ -4714,18 +4671,6 @@
       "docket_number": "211 EDA 2026",
       "journal_number": "J-A23037-26",
       "caption": "Farmer, L. v. Lanier, C.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "17th Floor , 530 Walnut St ., Philadelphia",
-      "city": "Philadelphia",
-      "panel": "23-ARGUMENT-2026-2",
-      "judges": "STABILE ; KING , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "10/15/2026",
-      "docket_number": "3047 EDA 2025",
-      "journal_number": "J-A23038-26",
-      "caption": "Com. v. White, E.",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
