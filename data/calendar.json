@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-14T06:17:54.108648+00:00",
+  "generated": "2026-09-14T12:48:38.283214+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -2809,6 +2809,15 @@
     {
       "court": "Third Circuit",
       "date": "2026-09-24",
+      "case_number": "23-3181, 24-1527, 24-1527",
+      "caption": "USA v. John Glenn, Jr.",
+      "panel": "BIBAS, PORTER, BOVE",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 3:00pm",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-24",
       "case_number": "25-1035, 25-2393",
       "caption": "Paris James v. John Wetzel et al",
       "panel": "KRAUSE, PORTER, AMBRO",
@@ -2841,15 +2850,6 @@
       "panel": "KRAUSE, PORTER, AMBRO",
       "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
       "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-24",
-      "case_number": "23-3181, 24-1527, 24-1527",
-      "caption": "USA v. John Glenn, Jr.",
-      "panel": "BIBAS, PORTER, BOVE",
-      "location_time": "",
-      "disposition": "Submitted"
     },
     {
       "court": "Third Circuit",
