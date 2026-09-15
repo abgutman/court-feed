@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-15T18:14:01.765317+00:00",
+  "generated": "2026-09-15T21:18:43.055955+00:00",
   "filings": [
     {
       "type": "filing",
@@ -234,6 +234,15 @@
       "status": "Active",
       "filing_date": "09/14/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=530 MAL 2026&dnh=CQtyxd9FTgazL0SSnkCIYQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "531 MAL 2026",
+      "caption": "Commonwealth v. Mitchell, K., Jr., Pet.",
+      "status": "Active",
+      "filing_date": "09/15/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=531 MAL 2026&dnh=xtWNRpT5isvFJlad6Jhh3g%3D%3D"
     },
     {
       "type": "filing",
@@ -1129,6 +1138,60 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "2541 EDA 2026",
+      "caption": "In the Int. of: N.B.-S., Appeal of: T.S.",
+      "status": "Active",
+      "filing_date": "09/15/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2541 EDA 2026&dnh=1fKZfBNQ6PKKN%2B%2FivViQTA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2542 EDA 2026",
+      "caption": "In the Int. of: N.M.B.-S., Appeal of: T.S.",
+      "status": "Active",
+      "filing_date": "09/15/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2542 EDA 2026&dnh=AhDapRpL4gZk%2B5x8XDfCYw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2543 EDA 2026",
+      "caption": "In the Int. of: N.B.S., Appeal of: T.S.",
+      "status": "Active",
+      "filing_date": "09/15/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2543 EDA 2026&dnh=Cj01%2FaB5rcHRDEcBDbTRig%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2544 EDA 2026",
+      "caption": "In the Int. of: N.T.B.S., Appeal of: T.S.",
+      "status": "Active",
+      "filing_date": "09/15/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2544 EDA 2026&dnh=emqatNwCib8JM5hFWUmsaw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2545 EDA 2026",
+      "caption": "In the Int. of: G.H.-K., Appeal of: L.F.",
+      "status": "Active",
+      "filing_date": "09/15/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2545 EDA 2026&dnh=118oZRbQ9bCt1OCQWC6VQg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2546 EDA 2026",
+      "caption": "In the Int. of: G.M.H.-K., Appeal of: L.F.",
+      "status": "Active",
+      "filing_date": "09/15/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2546 EDA 2026&dnh=ZzhO3IgrlBoF9VAQqjV2cw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "144 EDM 2026",
       "caption": "Temple University Health v. Crenshaw, S.",
       "status": "Active",
@@ -2012,7 +2075,7 @@
       "type": "filing",
       "court": "PA Superior Court",
       "docket": "1199 WDA 2026",
-      "caption": "In the Interest of:Torres,N. Appeal of:Seevers, M.",
+      "caption": "In the Interest of: N.J.T. Appeal of: M.S.",
       "status": "Active",
       "filing_date": "09/15/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1199 WDA 2026&dnh=78ZmIHY2OkUQe2exLd%2FGGQ%3D%3D"
@@ -2093,7 +2156,7 @@
       "type": "filing",
       "court": "PA Superior Court",
       "docket": "1208 WDA 2026",
-      "caption": "In Re: Vardar, H. Appeal of:Vardar, M.",
+      "caption": "In Re: H.H.V. Appeal of: M.V.",
       "status": "Active",
       "filing_date": "09/15/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1208 WDA 2026&dnh=NTZERt9FVQ769eP5JRYE9w%3D%3D"
@@ -2102,7 +2165,7 @@
       "type": "filing",
       "court": "PA Superior Court",
       "docket": "1209 WDA 2026",
-      "caption": "In Re: H.V. Appeal of: C.V.",
+      "caption": "In Re: H.H.V. Appeal of: C.V.",
       "status": "Active",
       "filing_date": "09/15/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1209 WDA 2026&dnh=xECvcyhtYQ4VuwMSDHfC%2FQ%3D%3D"
@@ -2169,6 +2232,15 @@
       "status": "Active",
       "filing_date": "09/15/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=107 WDM 2026&dnh=fkds3oSXVcfljKgL%2F35yrw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "108 WDM 2026",
+      "caption": "Com. v. Klingensmith, A.",
+      "status": "Active",
+      "filing_date": "09/15/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=108 WDM 2026&dnh=%2BPKFba1gtRy4oc%2FPUV9H2Q%3D%3D"
     },
     {
       "type": "filing",
@@ -2290,6 +2362,33 @@
     {
       "type": "filing",
       "court": "PA Commonwealth Court",
+      "docket": "1389 CD 2026",
+      "caption": "Bollinger Solar, LLC v. Fayette County ZHB",
+      "status": "Active",
+      "filing_date": "09/11/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1389 CD 2026&dnh=5tWsmiWWI2%2BB9ol%2BclNaiA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "1392 CD 2026",
+      "caption": "DeGeronimo, J., et al. v. Neshannock Twp., et al.",
+      "status": "Active",
+      "filing_date": "09/09/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1392 CD 2026&dnh=M%2FOs2ZEHgZrD%2F6bMlMaCug%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "1393 CD 2026",
+      "caption": "Westmoreland Cty. v. Cardiff, K",
+      "status": "Active",
+      "filing_date": "09/11/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1393 CD 2026&dnh=0WJAJ1ZBrqeELwxnv6BKxw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
       "docket": "317 FR 2026",
       "caption": "JPC Group, Inc. v. Cmnwlth of Pa.",
       "status": "Active",
@@ -2349,9 +2448,98 @@
       "status": "Active",
       "filing_date": "09/09/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=413 MD 2026&dnh=pGOhopT8lJ9u50Et%2BabMXw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "416 MD 2026",
+      "caption": "DEP v. Coleman, D.",
+      "status": "Active",
+      "filing_date": "09/15/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=416 MD 2026&dnh=LDZ%2FJwdD3OaCLuQ8s7dDfQ%3D%3D"
     }
   ],
   "opinions": [
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 208 MAL 2026",
+      "caption": "Hernandez, L. v. Zook, S., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Tue, 15 Sep 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/208MAL2026 - 106924872373975092.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/208MAL2026 - 106924872373975092.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 127 EAL 2026",
+      "caption": "Commonwealth v. Curry, A., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Tue, 15 Sep 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/127EAL2026 - 106924519373922984.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/127EAL2026 - 106924519373922984.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 132 EAL 2026",
+      "caption": "Burnley, D., et al., v. Loews Hotel, et al.; Cross Pet. of: Burnley, D., et al.",
+      "author": "Per Curiam",
+      "pub_date": "Tue, 15 Sep 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/132EAL2026 - 106924912373979308.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/132EAL2026 - 106924912373979308.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 131 EAL 2026",
+      "caption": "Burnley, D., et al., v. Loews Hotel, et al.; Cross Pet. of: Burnley, D., et al.",
+      "author": "Per Curiam",
+      "pub_date": "Tue, 15 Sep 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/131EAL2026 - 106924911373979308.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/131EAL2026 - 106924911373979308.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 109 EAL 2026",
+      "caption": "Commonwealth v. Bullard, B., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Tue, 15 Sep 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/109EAL2026 - 106924529373923376.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/109EAL2026 - 106924529373923376.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 108 EAL 2026",
+      "caption": "Commonwealth v. Bullard, B., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Tue, 15 Sep 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/108EAL2026 - 106924528373923376.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/108EAL2026 - 106924528373923376.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 107 EAL 2026",
+      "caption": "Burnley, D., et al. v. Loews Hotel, et al; Pet. of: Checkers Indus. Prods., LLC",
+      "author": "Per Curiam",
+      "pub_date": "Tue, 15 Sep 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/107EAL2026 - 106924899373978434.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/107EAL2026 - 106924899373978434.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 106 EAL 2026",
+      "caption": "Burnley, D., et al. v. Loews Hotel, et al.; Pet. of: Checkers Indus. Prods., LLC",
+      "author": "Per Curiam",
+      "pub_date": "Tue, 15 Sep 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/106EAL2026 - 106924898373978434.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/106EAL2026 - 106924898373978434.pdf"
+    },
     {
       "type": "opinion",
       "court": "PA Supreme Court",
@@ -3455,6 +3643,18 @@
       "guid": "ca3-25-2118-252118pa.pdf",
       "precedential": true,
       "origin": "USDC for the Eastern District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "26-1643",
+      "caption": "Paul Pieczynski v. Brian Szumski",
+      "author": "",
+      "pub_date": "Tue, 15 Sep 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/261643np.pdf",
+      "guid": "ca3-26-1643-261643np.pdf",
+      "precedential": false,
+      "origin": "USDC for the Middle District of Pennsylvania"
     },
     {
       "type": "opinion",
