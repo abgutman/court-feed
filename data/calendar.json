@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-16T14:59:50.773069+00:00",
+  "generated": "2026-09-16T18:56:10.702046+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -58,17 +58,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "09/16/2026 10:00AM",
-      "case_number": "24-cr-0003",
-      "caption": "USA v. SQUIRE",
-      "judge": "DISTRICT JUDGE MURPHY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3B",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624813"
-    },
-    {
-      "court": "EDPA",
       "datetime": "09/16/2026 11:00AM",
       "case_number": "25-cr-0121",
       "caption": "USA v. GREENE",
@@ -81,17 +70,6 @@
     {
       "court": "EDPA",
       "datetime": "09/16/2026 11:00AM",
-      "case_number": "26-cr-0018",
-      "caption": "USA v. CHAPPELLE",
-      "judge": "DISTRICT JUDGE PEREZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10B",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648194"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/16/2026 11:00AM",
       "case_number": "26-cr-0272",
       "caption": "USA v. MILLER",
       "judge": "MAGISTRATE JUDGE REID",
@@ -99,17 +77,6 @@
       "courtroom": "Courtroom 3C",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656421"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/16/2026 11:00AM",
-      "case_number": "26-cv-4453",
-      "caption": "CITIZENS BANK, N. A. v. SCHWAB",
-      "judge": "DISTRICT JUDGE YOUNGE",
-      "city": "",
-      "courtroom": "Video Conference",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657087"
     },
     {
       "court": "EDPA",
@@ -308,17 +275,6 @@
       "courtroom": "Courtroom 17A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623830"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/17/2026 10:00AM",
-      "case_number": "25-cv-2076",
-      "caption": "ELMORE v. FALLS TOWNSHIP et al",
-      "judge": "MAGISTRATE JUDGE REID",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3C",
-      "hearing_type": "Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636635"
     },
     {
       "court": "EDPA",
@@ -586,17 +542,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "09/21/2026 04:00PM",
-      "case_number": "26-cv-0138",
-      "caption": "Halligan v. DELAWARE VALLEY VE",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "",
-      "courtroom": "Telephone Conference",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648227"
-    },
-    {
-      "court": "EDPA",
       "datetime": "09/22/2026 09:00AM",
       "case_number": "25-cv-6468",
       "caption": "MARTIN v. SOUTHEASTERN PENNSYL",
@@ -660,17 +605,6 @@
       "courtroom": "Cahn 4B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?619144"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/22/2026 09:30AM",
-      "case_number": "23-cr-0233",
-      "caption": "USA v. BUTLER",
-      "judge": "DISTRICT JUDGE KENNEY",
-      "city": "Philadelphia",
-      "courtroom": "COURTROOM",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?609876"
     },
     {
       "court": "EDPA",
@@ -814,17 +748,6 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655165"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/22/2026 11:00AM",
-      "case_number": "25-cr-0278",
-      "caption": "USA v. PATEL",
-      "judge": "DISTRICT JUDGE BAYLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639745"
     },
     {
       "court": "EDPA",
@@ -1356,14 +1279,14 @@
     },
     {
       "court": "EDPA",
-      "datetime": "09/24/2026 10:30AM",
-      "case_number": "24-cr-0413",
-      "caption": "USA v. MYLES",
-      "judge": "DISTRICT JUDGE SLOMSKY",
+      "datetime": "09/24/2026 10:00AM",
+      "case_number": "19-cr-0684",
+      "caption": "USA v. SAUNDERS",
+      "judge": "DISTRICT JUDGE YOUNGE",
       "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630007"
+      "courtroom": "Courtroom 15B",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?564572"
     },
     {
       "court": "EDPA",
@@ -1522,13 +1445,13 @@
     {
       "court": "EDPA",
       "datetime": "09/24/2026 02:00PM",
-      "case_number": "26-mc-0069",
-      "caption": "XIAMEN PVTECH CORPORATION, LTD",
-      "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "Reading",
-      "courtroom": "Reading 5th Floor",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658576"
+      "case_number": "24-cr-0413",
+      "caption": "USA v. MYLES",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Sentencing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630007"
     },
     {
       "court": "EDPA",
@@ -1573,17 +1496,6 @@
       "courtroom": "Cahn 4A",
       "hearing_type": "Arbitration Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651602"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/25/2026 10:00AM",
-      "case_number": "26-cv-1445",
-      "caption": "MUNSHI v. ELM TERRACE GARDENS",
-      "judge": "MAGISTRATE JUDGE REID",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3C",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650834"
     },
     {
       "court": "EDPA",
@@ -1851,6 +1763,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "09/28/2026 02:00PM",
+      "case_number": "06-cr-0539",
+      "caption": "USA v. RODRIGUEZ",
+      "judge": "DISTRICT JUDGE RUFE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12A",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?212349"
+    },
+    {
+      "court": "EDPA",
       "datetime": "09/28/2026 02:30PM",
       "case_number": "25-cv-2076",
       "caption": "ELMORE v. FALLS TOWNSHIP et al",
@@ -1936,17 +1859,6 @@
       "courtroom": "Courtroom 10A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636899"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/29/2026 10:00AM",
-      "case_number": "25-cr-0355",
-      "caption": "USA v. ROSADO",
-      "judge": "DISTRICT JUDGE COSTELLO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642386"
     },
     {
       "court": "EDPA",
@@ -2079,6 +1991,17 @@
       "courtroom": "Easton 4th Floor",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643818"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/29/2026 12:30PM",
+      "case_number": "25-cr-0471",
+      "caption": "USA v. TURPIN",
+      "judge": "DISTRICT JUDGE YOUNGE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 15B",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645646"
     },
     {
       "court": "EDPA",
@@ -3882,18 +3805,6 @@
     {
       "court": "PA Superior Court",
       "date": "10/06/2026",
-      "docket_number": "56 MDA 2026",
-      "journal_number": "J-A24002-26",
-      "caption": "Com. v. Kuhn, S.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "24-ARGUMENT-2026-2",
-      "judges": "SULLIVAN ; LANE , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "10/06/2026",
       "docket_number": "447 MDA 2026",
       "journal_number": "J-A24003-26",
       "caption": "Com. v. Kostingo, P.",
@@ -3906,45 +3817,9 @@
     {
       "court": "PA Superior Court",
       "date": "10/06/2026",
-      "docket_number": "321 MDA 2026",
-      "journal_number": "J-A24004-26",
-      "caption": "Kershner, H. v. Leclerc Foods",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "24-ARGUMENT-2026-2",
-      "judges": "SULLIVAN ; LANE , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "10/06/2026",
-      "docket_number": "139 MDA 2026",
-      "journal_number": "J-A24005-26",
-      "caption": "Estate of: Loy, J., Appeal of: Mayer, D.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "24-ARGUMENT-2026-2",
-      "judges": "SULLIVAN ; LANE , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "10/06/2026",
       "docket_number": "391 MDA 2026",
       "journal_number": "J-A24006-26",
       "caption": "Top Quality Disc. Heating Oil v. Boonie, R.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "24-ARGUMENT-2026-2",
-      "judges": "SULLIVAN ; LANE , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "10/06/2026",
-      "docket_number": "1416 MDA 2025",
-      "journal_number": "J-A24007-26",
-      "caption": "Higgins, A. v. Higgins, Z.",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "",
       "city": "",
@@ -4161,54 +4036,6 @@
       "docket_number": "636 MDA 2026",
       "journal_number": "J-A24034-26",
       "caption": "Seneca Resources v. BradlLawrence Oil & Gas",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "24-ARGUMENT-2026-2",
-      "judges": "SULLIVAN ; LANE , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "10/07/2026",
-      "docket_number": "1310 MDA 2025",
-      "journal_number": "J-A24035-26",
-      "caption": "In Re: Frankel, Mark D.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "24-ARGUMENT-2026-2",
-      "judges": "SULLIVAN ; LANE , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "10/07/2026",
-      "docket_number": "1689 MDA 2025",
-      "journal_number": "J-A24036-26",
-      "caption": "Scro, P. v. First Nat'l Collection Bur., Inc.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "24-ARGUMENT-2026-2",
-      "judges": "SULLIVAN ; LANE , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "10/07/2026",
-      "docket_number": "1705 MDA 2025",
-      "journal_number": "J-A24037-26",
-      "caption": "Scro, P. v. First Nat'l Collection Bur., Inc.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "24-ARGUMENT-2026-2",
-      "judges": "SULLIVAN ; LANE , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "10/07/2026",
-      "docket_number": "237 MDA 2026",
-      "journal_number": "J-A24038-26",
-      "caption": "Meginess, E. v. Credit Control, LLC",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "",
       "city": "",
