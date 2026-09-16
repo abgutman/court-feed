@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-16T09:55:48.779647+00:00",
+  "generated": "2026-09-16T14:57:43.702518+00:00",
   "filings": [
     {
       "type": "filing",
@@ -162,6 +162,15 @@
       "status": "Active",
       "filing_date": "09/15/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=531 MAL 2026&dnh=xtWNRpT5isvFJlad6Jhh3g%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "532 MAL 2026",
+      "caption": "Nicholas, E. et al. v. Keystone Central SD",
+      "status": "Active",
+      "filing_date": "09/15/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=532 MAL 2026&dnh=LEeMd5u26mMpzPMGdfRF0A%3D%3D"
     },
     {
       "type": "filing",
@@ -904,6 +913,33 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "2547 EDA 2026",
+      "caption": "Wright, A. v. Hasty, T.",
+      "status": "Active",
+      "filing_date": "09/16/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2547 EDA 2026&dnh=p90iLlAz9zXevaQ0QHoDyw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2548 EDA 2026",
+      "caption": "Sharon Bank v. Charlie Properties",
+      "status": "Active",
+      "filing_date": "09/16/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2548 EDA 2026&dnh=yjVBnAo7%2B2mIRAaUOzMtpA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2549 EDA 2026",
+      "caption": "Goode, K. v. Americor Funding",
+      "status": "Active",
+      "filing_date": "09/16/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2549 EDA 2026&dnh=Qz93XCDESQK2B1eKZhkvAw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "145 EDM 2026",
       "caption": "Zimmerman, C. v. Corteva Agriscience LLC",
       "status": "Active",
@@ -1332,6 +1368,24 @@
       "status": "Active",
       "filing_date": "09/15/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1448 MDA 2026&dnh=af%2BgKPtR6k2i4xtJMbllrw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1449 MDA 2026",
+      "caption": "Long, A. v. Land, B.",
+      "status": "Active",
+      "filing_date": "09/16/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1449 MDA 2026&dnh=BnlJIEb5UjRSPsbUUNYCcw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1450 MDA 2026",
+      "caption": "In Re: Est. of: H.W. Jenkins, Deceased",
+      "status": "Active",
+      "filing_date": "09/16/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1450 MDA 2026&dnh=pT942qOVbThg5m2mZmiMmw%3D%3D"
     },
     {
       "type": "filing",
@@ -1788,7 +1842,7 @@
       "court": "PA Superior Court",
       "docket": "107 WDM 2026",
       "caption": "Norman, A. v. Katz, J.",
-      "status": "Active",
+      "status": "Closed",
       "filing_date": "09/15/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=107 WDM 2026&dnh=fkds3oSXVcfljKgL%2F35yrw%3D%3D"
     },
@@ -1800,6 +1854,15 @@
       "status": "Active",
       "filing_date": "09/15/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=108 WDM 2026&dnh=%2BPKFba1gtRy4oc%2FPUV9H2Q%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "109 WDM 2026",
+      "caption": "Com. v. Brewer, D.",
+      "status": "Active",
+      "filing_date": "09/15/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=109 WDM 2026&dnh=dn8Lgxp5KC29V47PB3eFlg%3D%3D"
     },
     {
       "type": "filing",
@@ -1895,10 +1958,19 @@
       "type": "filing",
       "court": "PA Commonwealth Court",
       "docket": "1393 CD 2026",
-      "caption": "Westmoreland Cty. v. Cardiff, K",
+      "caption": "Westmoreland Cty. v. Cardiff, K.",
       "status": "Active",
       "filing_date": "09/11/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1393 CD 2026&dnh=0WJAJ1ZBrqeELwxnv6BKxw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "1394 CD 2026",
+      "caption": "Woodson, T. v. PPB",
+      "status": "Active",
+      "filing_date": "09/16/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1394 CD 2026&dnh=mGc1AASvlbEWJtpBxXMJrw%3D%3D"
     },
     {
       "type": "filing",
@@ -1926,6 +1998,15 @@
       "status": "Active",
       "filing_date": "09/15/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=416 MD 2026&dnh=LDZ%2FJwdD3OaCLuQ8s7dDfQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "417 MD 2026",
+      "caption": "Freeman, C. v. Sunday, D., et al.",
+      "status": "Active",
+      "filing_date": "09/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=417 MD 2026&dnh=z6YP5pEBWCqXgDFMGLtmAw%3D%3D"
     }
   ],
   "opinions": [
