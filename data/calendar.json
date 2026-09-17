@@ -1,17 +1,6 @@
 {
-  "generated": "2026-09-17T17:01:41.027078+00:00",
+  "generated": "2026-09-17T20:21:58.280180+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "09/17/2026 09:30AM",
-      "case_number": "25-cr-0268",
-      "caption": "USA v. SINGH",
-      "judge": "DISTRICT JUDGE HENRY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639559"
-    },
     {
       "court": "EDPA",
       "datetime": "09/17/2026 09:30AM",
@@ -135,17 +124,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "09/17/2026 02:00PM",
-      "case_number": "26-cv-1038",
-      "caption": "MONTGOMERY v. ALLSTATE INSURAN",
-      "judge": "DISTRICT JUDGE KENNEY",
-      "city": "",
-      "courtroom": "Telephone Conference",
-      "hearing_type": "Telephone Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650024"
-    },
-    {
-      "court": "EDPA",
       "datetime": "09/17/2026 03:00PM",
       "case_number": "25-cv-6032",
       "caption": "AKHONDZADEH v. LIFE INSURANCE",
@@ -264,17 +242,6 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?600498"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/21/2026 09:30AM",
-      "case_number": "25-cr-0058",
-      "caption": "USA v. WELDON",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633639"
     },
     {
       "court": "EDPA",
@@ -751,6 +718,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "09/22/2026 02:30PM",
+      "case_number": "19-cr-0667",
+      "caption": "USA v. EWAN",
+      "judge": "DISTRICT JUDGE SCHMEHL",
+      "city": "Reading",
+      "courtroom": "Reading 5th Floor",
+      "hearing_type": "Sentencing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?564301"
+    },
+    {
+      "court": "EDPA",
       "datetime": "09/23/2026 09:00AM",
       "case_number": "25-cv-6966",
       "caption": "REAL et al v. THE BEAN FOUNDAT",
@@ -1092,6 +1070,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "09/24/2026 10:45AM",
+      "case_number": "26-cr-0060",
+      "caption": "USA v. HALL",
+      "judge": "DISTRICT JUDGE MARSTON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16B",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649688"
+    },
+    {
+      "court": "EDPA",
       "datetime": "09/24/2026 11:00AM",
       "case_number": "22-cr-0223",
       "caption": "USA v. ALEXANDER",
@@ -1188,17 +1177,6 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646467"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/24/2026 01:30PM",
-      "case_number": "26-cr-0060",
-      "caption": "USA v. HALL",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649688"
     },
     {
       "court": "EDPA",
@@ -1456,17 +1434,6 @@
     {
       "court": "EDPA",
       "datetime": "09/28/2026 11:00AM",
-      "case_number": "25-cr-0380",
-      "caption": "USA v. MARTE",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642874"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/28/2026 11:00AM",
       "case_number": "26-cv-2798",
       "caption": "FREDERICK MUTUAL INSURANCE COM",
       "judge": "DISTRICT JUDGE HODGE",
@@ -1576,17 +1543,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "09/29/2026 09:00AM",
-      "case_number": "26-cr-0332",
-      "caption": "USA v. MURRAY",
-      "judge": "DISTRICT JUDGE SAVAGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658455"
-    },
-    {
-      "court": "EDPA",
       "datetime": "09/29/2026 09:30AM",
       "case_number": "24-cv-2724",
       "caption": "SHEN MANUFACUTURING COMPANY IN",
@@ -1606,17 +1562,6 @@
       "courtroom": "Courtroom 16B",
       "hearing_type": "Trial Date",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630255"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/29/2026 09:30AM",
-      "case_number": "25-cr-0331",
-      "caption": "USA v. SOLTANI",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641585"
     },
     {
       "court": "EDPA",
