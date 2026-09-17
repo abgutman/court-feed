@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-17T11:40:15.566273+00:00",
+  "generated": "2026-09-17T17:01:41.027078+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -66,6 +66,28 @@
       "courtroom": "Courtroom 3I",
       "hearing_type": "Settlement Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645946"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/17/2026 10:30AM",
+      "case_number": "25-cv-6144",
+      "caption": "ALLIANCE GIRARD OWNER LLC v. T",
+      "judge": "DISTRICT JUDGE SCOTT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645524"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/17/2026 10:30AM",
+      "case_number": "25-cv-6144",
+      "caption": "ALLIANCE GIRARD OWNER LLC v. T",
+      "judge": "DISTRICT JUDGE SCOTT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645524"
     },
     {
       "court": "EDPA",
@@ -146,17 +168,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "09/18/2026 09:30AM",
-      "case_number": "25-cv-2168",
-      "caption": "SMITH et al v. PAUL",
-      "judge": "MAGISTRATE JUDGE STRAW",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3G",
-      "hearing_type": "Jury Selection",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636880"
-    },
-    {
-      "court": "EDPA",
       "datetime": "09/18/2026 10:00AM",
       "case_number": "25-cv-6078",
       "caption": "Jones v. Kannegiesser North Am",
@@ -176,6 +187,17 @@
       "courtroom": "Courtroom 12B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635924"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/18/2026 01:30PM",
+      "case_number": "26-mj-1766",
+      "caption": "USA v. HUERTA HERNANDEZ",
+      "judge": "MAGISTRATE JUDGE COPELAND",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661774"
     },
     {
       "court": "EDPA",
@@ -256,17 +278,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "09/21/2026 09:30AM",
-      "case_number": "25-cv-2168",
-      "caption": "SMITH et al v. PAUL",
-      "judge": "MAGISTRATE JUDGE STRAW",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3G",
-      "hearing_type": "Trial Date",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636880"
-    },
-    {
-      "court": "EDPA",
       "datetime": "09/21/2026 10:00AM",
       "case_number": "24-cr-0263",
       "caption": "USA v. MICHAEL",
@@ -275,17 +286,6 @@
       "courtroom": "Courtroom 6B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624559"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/21/2026 11:00AM",
-      "case_number": "25-cr-0349",
-      "caption": "USA v. JIMENEZ",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642195"
     },
     {
       "court": "EDPA",
@@ -330,6 +330,28 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624191"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/21/2026 04:45PM",
+      "case_number": "25-cr-0227",
+      "caption": "USA v. APONTE",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638023"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/21/2026 04:45PM",
+      "case_number": "25-cr-0227",
+      "caption": "USA v. FERNANDEZ",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638026"
     },
     {
       "court": "EDPA",
@@ -396,6 +418,17 @@
       "courtroom": "Cahn 4B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?619144"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/22/2026 09:30AM",
+      "case_number": "26-cr-0362",
+      "caption": "USA v. BROWN",
+      "judge": "DISTRICT JUDGE KENNEY",
+      "city": "Philadelphia",
+      "courtroom": "COURTROOM",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659316"
     },
     {
       "court": "EDPA",
@@ -774,17 +807,6 @@
     {
       "court": "EDPA",
       "datetime": "09/23/2026 09:30AM",
-      "case_number": "19-cr-0482",
-      "caption": "USA v. MANSON",
-      "judge": "DISTRICT JUDGE KENNEY",
-      "city": "Philadelphia",
-      "courtroom": "COURTROOM",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?560863"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/23/2026 09:30AM",
       "case_number": "26-cv-1607",
       "caption": "WASHINGTON v. UNITED STATES OF",
       "judge": "DISTRICT JUDGE KENNEY",
@@ -938,6 +960,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "09/23/2026 01:30PM",
+      "case_number": "26-cr-0430",
+      "caption": "USA v. DA SILVA NUNES",
+      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661693"
+    },
+    {
+      "court": "EDPA",
       "datetime": "09/23/2026 02:00PM",
       "case_number": "26-cr-0362",
       "caption": "USA v. BROWN",
@@ -983,17 +1016,6 @@
     {
       "court": "EDPA",
       "datetime": "09/24/2026 09:30AM",
-      "case_number": "25-cv-5753",
-      "caption": "McNair v. PRATT INDUSTRIES, IN",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "",
-      "courtroom": "Video Conference",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644564"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/24/2026 09:30AM",
       "case_number": "24-cv-2724",
       "caption": "SHEN MANUFACUTURING COMPANY IN",
       "judge": "DISTRICT JUDGE COSTELLO",
@@ -1023,17 +1045,6 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?609679"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/24/2026 10:00AM",
-      "case_number": "25-cr-0008",
-      "caption": "USA v. LANZO",
-      "judge": "DISTRICT JUDGE MCHUGH",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638671"
     },
     {
       "court": "EDPA",
@@ -1078,17 +1089,6 @@
       "courtroom": "Courtroom 12B",
       "hearing_type": "Miscellaneous Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642867"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/24/2026 10:00AM",
-      "case_number": "19-cr-0684",
-      "caption": "USA v. SAUNDERS",
-      "judge": "DISTRICT JUDGE YOUNGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15B",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?564572"
     },
     {
       "court": "EDPA",
@@ -1191,6 +1191,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "09/24/2026 01:30PM",
+      "case_number": "26-cr-0060",
+      "caption": "USA v. HALL",
+      "judge": "DISTRICT JUDGE MARSTON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16B",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649688"
+    },
+    {
+      "court": "EDPA",
       "datetime": "09/24/2026 02:00PM",
       "case_number": "25-cr-0432",
       "caption": "USA v. JACKSON",
@@ -1290,17 +1301,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "09/25/2026 09:30AM",
-      "case_number": "26-cv-1825",
-      "caption": "SCHLESIER v. WAL-MART STORES,",
-      "judge": "DISTRICT JUDGE GALLAGHER",
-      "city": "Allentown",
-      "courtroom": "Cahn 4A",
-      "hearing_type": "Arbitration Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651602"
-    },
-    {
-      "court": "EDPA",
       "datetime": "09/28/2026 09:00AM",
       "case_number": "25-cv-4693",
       "caption": "FRIAS AQUINO v. LIFEGUARD HOME",
@@ -1320,17 +1320,6 @@
       "courtroom": "Courtroom 11B",
       "hearing_type": "Trial Date",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642972"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/28/2026 09:00AM",
-      "case_number": "26-cr-0205",
-      "caption": "USA v. WENGER",
-      "judge": "DISTRICT JUDGE LEESON",
-      "city": "Allentown",
-      "courtroom": "Cahn 3C",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654506"
     },
     {
       "court": "EDPA",
@@ -1617,17 +1606,6 @@
       "courtroom": "Courtroom 16B",
       "hearing_type": "Trial Date",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630255"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/29/2026 09:30AM",
-      "case_number": "26-cr-0348",
-      "caption": "USA v. GORDON",
-      "judge": "DISTRICT JUDGE PAPPERT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658858"
     },
     {
       "court": "EDPA",
@@ -2656,6 +2634,15 @@
       "date": "2026-09-23",
       "case_number": "25-2482",
       "caption": "Stefan Gerneth et al v. East Union Township et al",
+      "panel": "CHAGARES, MATEY, BOVE",
+      "location_time": "Newark, NJ - 9:30 am / Courtroom #2",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-09-23",
+      "case_number": "25-3420",
+      "caption": "Tawanna Whitehead v. City of Allentown",
       "panel": "CHAGARES, MATEY, BOVE",
       "location_time": "Newark, NJ - 9:30 am / Courtroom #2",
       "disposition": "Argued"
