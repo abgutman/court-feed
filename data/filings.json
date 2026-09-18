@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-18T18:26:54.624502+00:00",
+  "generated": "2026-09-18T21:40:11.981466+00:00",
   "filings": [
     {
       "type": "filing",
@@ -103,6 +103,15 @@
     {
       "type": "filing",
       "court": "PA Supreme Court",
+      "docket": "84 EM 2026",
+      "caption": "Greenaway, S., Pet. v. Honorable Holly J. Ford, et al",
+      "status": "Active",
+      "filing_date": "09/17/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=84 EM 2026&dnh=FRCx%2Fmi%2FUQ2JL7Xvv4rfIA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
       "docket": "527 MAL 2026",
       "caption": "Commonwealth v. Storms, M., Pet.",
       "status": "Active",
@@ -202,6 +211,15 @@
     {
       "type": "filing",
       "court": "PA Supreme Court",
+      "docket": "538 MAL 2026",
+      "caption": "In Re: Washington, Q.",
+      "status": "Active",
+      "filing_date": "09/18/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=538 MAL 2026&dnh=wo13KKTCov0zzSA3QsV6Vg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
       "docket": "202 MM 2026",
       "caption": "Boggs, L., Pet. v. Murray, C., et al.",
       "status": "Active",
@@ -297,6 +315,15 @@
       "status": "Active",
       "filing_date": "09/16/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=257 WAL 2026&dnh=csIhejtzrF8PKJ4rYZzU9w%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "260 WAL 2026",
+      "caption": "Commonwealth, Pet. v. Baker, S.",
+      "status": "Active",
+      "filing_date": "09/18/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=260 WAL 2026&dnh=OQBOQYXSNT9zM1U96ZKDEQ%3D%3D"
     },
     {
       "type": "filing",
@@ -841,6 +868,78 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "2579 EDA 2026",
+      "caption": "Council, L. v. Simmons, B.",
+      "status": "Active",
+      "filing_date": "09/18/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2579 EDA 2026&dnh=K7iANebcNNB4%2FM52EFkSKw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2580 EDA 2026",
+      "caption": "Com. v. Holloman, D.",
+      "status": "Active",
+      "filing_date": "09/18/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2580 EDA 2026&dnh=P82GehKm9l7DgH8%2Fy7R8dw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2581 EDA 2026",
+      "caption": "Com. v. Holloman, D.",
+      "status": "Active",
+      "filing_date": "09/18/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2581 EDA 2026&dnh=JGs70tXxPuYLxtcDaOkNkQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2582 EDA 2026",
+      "caption": "Com. v. Holloman, D.",
+      "status": "Active",
+      "filing_date": "09/18/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2582 EDA 2026&dnh=%2FuuYG1tD1bMx7Y%2Bj0kulHg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2583 EDA 2026",
+      "caption": "Com. v. Holloman, D.",
+      "status": "Active",
+      "filing_date": "09/18/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2583 EDA 2026&dnh=5xs8cg9dxiHhe24EAQhQNw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2584 EDA 2026",
+      "caption": "Com. v. Holloman, D.",
+      "status": "Active",
+      "filing_date": "09/18/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2584 EDA 2026&dnh=o785jNDfzR5N7EirJnLGKg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2585 EDA 2026",
+      "caption": "Com. v. Holloman, D.",
+      "status": "Active",
+      "filing_date": "09/18/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2585 EDA 2026&dnh=CvjmMV%2BgH%2FhMF3PACc8VEg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2586 EDA 2026",
+      "caption": "Com. v. Holloman, D.",
+      "status": "Active",
+      "filing_date": "09/18/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2586 EDA 2026&dnh=9RZ5nDawwZbf2TSxUr1%2BPQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "146 EDM 2026",
       "caption": "Libretti, L. v. City of Philadelphia",
       "status": "Active",
@@ -1228,6 +1327,15 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "1460 MDA 2026",
+      "caption": "Lubin, R. v. Aguy, A.",
+      "status": "Active",
+      "filing_date": "09/18/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1460 MDA 2026&dnh=wkA%2FywhUmU1YlPMJyYDzqA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "1197 WDA 2026",
       "caption": "Com. v. Gies-Ellwood, B.",
       "status": "Active",
@@ -1328,7 +1436,7 @@
       "type": "filing",
       "court": "PA Superior Court",
       "docket": "1208 WDA 2026",
-      "caption": "In Re: H.H.V. Appeal of: M.V.",
+      "caption": "In Re: H.H.V., Appeal of: M.V.",
       "status": "Active",
       "filing_date": "09/15/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1208 WDA 2026&dnh=NTZERt9FVQ769eP5JRYE9w%3D%3D"
@@ -1458,6 +1566,24 @@
       "status": "Active",
       "filing_date": "09/18/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1222 WDA 2026&dnh=szqCEWfOYcN2VNKwT2849A%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1223 WDA 2026",
+      "caption": "In Re: J.K.L.B., Appeal of: J.B.",
+      "status": "Active",
+      "filing_date": "09/18/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1223 WDA 2026&dnh=In7VaIo2whcmHlOkB3dcqw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1224 WDA 2026",
+      "caption": "Com. v. Klingensmith, A.",
+      "status": "Active",
+      "filing_date": "09/18/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1224 WDA 2026&dnh=VPVXpym2nKxG94hVYV0nxA%3D%3D"
     },
     {
       "type": "filing",
@@ -1701,9 +1827,38 @@
       "status": "Active",
       "filing_date": "09/17/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=435 MD 2026&dnh=G5PaEnagMyuJ8r1lMIUDHQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "436 MD 2026",
+      "caption": "Cmwlth of PA., DEP v. Niche Energy, LLC",
+      "status": "Active",
+      "filing_date": "09/18/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=436 MD 2026&dnh=%2FhQkVQkAZYPMRwanYfmdrQ%3D%3D"
     }
   ],
   "opinions": [
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 54 RST 2026",
+      "caption": "In the Matter of: Dana Pinoli",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 17 Sep 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/54RST2026 - 106927986374343123.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/54RST2026 - 106927986374343123.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 53 RST 2026",
+      "caption": "In the Matter of: Melanie Eugenia McHale",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 17 Sep 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/53RST2026 - 106927974374341425.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/53RST2026 - 106927974374341425.pdf"
+    },
     {
       "type": "opinion",
       "court": "PA Supreme Court",
@@ -2203,26 +2358,6 @@
       "pub_date": "Tue, 15 Sep 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Supreme/out/204WAL2026 - 106924604373935517.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/204WAL2026 - 106924604373935517.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 99 WAL 2026",
-      "caption": "Commonwealth v. Washington, S., Pet.",
-      "author": "Per Curiam",
-      "pub_date": "Tue, 15 Sep 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/99WAL2026 - 106924559373926410.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/99WAL2026 - 106924559373926410.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 93 WAL 2026",
-      "caption": "Commonwealth v. Rose, R., Pet.",
-      "author": "Per Curiam",
-      "pub_date": "Tue, 15 Sep 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/93WAL2026 - 106924468373897642.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/93WAL2026 - 106924468373897642.pdf"
     },
     {
       "type": "opinion",
@@ -2937,6 +3072,18 @@
       "guid": "ca3-26-1568-261568np.pdf",
       "precedential": false,
       "origin": "USDC for the Middle District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "26-1341",
+      "caption": "Biniam Nahom v. Attorney General United States of America",
+      "author": "",
+      "pub_date": "Fri, 18 Sep 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/261341np.pdf",
+      "guid": "ca3-26-1341-261341np.pdf",
+      "precedential": false,
+      "origin": "Agency"
     },
     {
       "type": "opinion",
