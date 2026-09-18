@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-18T09:46:07.842600+00:00",
+  "generated": "2026-09-18T14:31:13.907153+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -231,17 +231,6 @@
       "courtroom": "Courtroom 3H",
       "hearing_type": "Arbitration Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640479"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/22/2026 09:30AM",
-      "case_number": "25-cv-7013",
-      "caption": "Henriksen v. Wright",
-      "judge": "MAGISTRATE JUDGE ARTEAGA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5B",
-      "hearing_type": "Arbitration Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647300"
     },
     {
       "court": "EDPA",
@@ -517,6 +506,17 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643811"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/22/2026 01:30PM",
+      "case_number": "26-mj-1757",
+      "caption": "USA v. ACUNA-PENA",
+      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662107"
     },
     {
       "court": "EDPA",
@@ -814,6 +814,17 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661693"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/23/2026 01:30PM",
+      "case_number": "26-cv-7010",
+      "caption": "TABORA-BRIZUELA v. MULLIN et a",
+      "judge": "DISTRICT JUDGE MCHUGH",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 9B",
+      "hearing_type": "Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661815"
     },
     {
       "court": "EDPA",
@@ -1430,17 +1441,6 @@
       "courtroom": "Courtroom 16B",
       "hearing_type": "Trial Date",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630255"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/29/2026 09:30AM",
-      "case_number": "25-cv-6366",
-      "caption": "Ostave v. AMERICAN NATIONAL RE",
-      "judge": "DISTRICT JUDGE YOUNGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5D",
-      "hearing_type": "Arbitration Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646028"
     },
     {
       "court": "EDPA",
@@ -2072,6 +2072,17 @@
     {
       "court": "EDPA",
       "datetime": "10/01/2026 01:00PM",
+      "case_number": "26-cv-2138",
+      "caption": "SCHMIDT v. NORTH MONTCO TECHNI",
+      "judge": "DISTRICT JUDGE PAPPERT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 11A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652225"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/01/2026 01:00PM",
       "case_number": "26-cr-0363",
       "caption": "USA v. LANG",
       "judge": "DISTRICT JUDGE SCOTT",
@@ -2299,450 +2310,20 @@
       "courtroom": "Courtroom 8B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646823"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/02/2026 02:00PM",
+      "case_number": "01-cr-0169",
+      "caption": "USA v. HOFFMAN",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?112447"
     }
   ],
   "third_circuit": [
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-18",
-      "case_number": "25-2209",
-      "caption": "USA v. Robert Higgins",
-      "panel": "CHAGARES, MATEY, BOVE",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-18",
-      "case_number": "25-2588",
-      "caption": "Rachel Alintoff v. State of New Jersey et al",
-      "panel": "HARDIMAN, BIBAS, RENDELL",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-18",
-      "case_number": "25-2779",
-      "caption": "Jeinmy Heras-Campoverde et al  v. Attorney General United St",
-      "panel": "HARDIMAN, BIBAS, RENDELL",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-18",
-      "case_number": "25-2786",
-      "caption": "In Re: Imerys Talc America Inc et al",
-      "panel": "CHAGARES, MATEY, BOVE",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-18",
-      "case_number": "25-3093",
-      "caption": "Nicholas Sequino v. Richland School District et al",
-      "panel": "HARDIMAN, BIBAS, RENDELL",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-18",
-      "case_number": "25-3113",
-      "caption": "Emmanuel Yirenkyi v. Attorney General United States of Ameri",
-      "panel": "CHAGARES, MATEY, BOVE",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-18",
-      "case_number": "25-3515",
-      "caption": "Biazzo Dairy Products Inc v. Pennsylvania Milk Marketing Boa",
-      "panel": "HARDIMAN, BIBAS, RENDELL",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-18",
-      "case_number": "25-3549",
-      "caption": "Vestolit GmbH et al  v. Shell Chemical Lp",
-      "panel": "CHAGARES, MATEY, BOVE",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-18",
-      "case_number": "25-3559",
-      "caption": "R. Anderson et al  v. Bausch Health Cos Inc et al",
-      "panel": "CHAGARES, MATEY, BOVE",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-18",
-      "case_number": "26-1011",
-      "caption": "USA v. Jose Santana-Robles",
-      "panel": "HARDIMAN, BIBAS, RENDELL",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-22",
-      "case_number": "25-2358, 25-2415, 25-2424",
-      "caption": "R.C.B. v. Attorney General United States of America",
-      "panel": "CHAGARES, MATEY, BOVE",
-      "location_time": "Newark, NJ - Courtroom #2 / 2:30pm",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-22",
-      "case_number": "25-2694",
-      "caption": "USA v. Dwayne Fountain",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-22",
-      "case_number": "25-2808",
-      "caption": "Travelodge Hotels Inc v. Huber Hotels LLC et al",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-22",
-      "case_number": "25-3361",
-      "caption": "John Rodriguez Lage v. Attorney General United States of Ame",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-22",
-      "case_number": "26-1486",
-      "caption": "Joseph Gregory v. Terrance Dawdy et al",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-23",
-      "case_number": "24-1287",
-      "caption": "USA v. Thomas Waters",
-      "panel": "RESTREPO, MCKEE, AMBRO",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 2:30pm",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-23",
-      "case_number": "25-1983",
-      "caption": "Ebbynn Eubanks v. Foot Locker Retail Inc",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-23",
-      "case_number": "25-2167, 25-2245",
-      "caption": "Darick Easterling v. County of Delaware",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-23",
-      "case_number": "25-2371",
-      "caption": "Joseph Bologna et al v. Lawrence Krasner et al",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-23",
-      "case_number": "25-2482",
-      "caption": "Stefan Gerneth et al v. East Union Township et al",
-      "panel": "CHAGARES, MATEY, BOVE",
-      "location_time": "Newark, NJ - 9:30 am / Courtroom #2",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-23",
-      "case_number": "25-3420",
-      "caption": "Tawanna Whitehead v. City of Allentown",
-      "panel": "CHAGARES, MATEY, BOVE",
-      "location_time": "Newark, NJ - 9:30 am / Courtroom #2",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-23",
-      "case_number": "26-1001",
-      "caption": "Sean Curran et al v. Governor of Delaware et al",
-      "panel": "CHAGARES, MATEY, BOVE",
-      "location_time": "Newark, NJ - 9:30 am / Courtroom #2",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-23",
-      "case_number": "24-2836",
-      "caption": "USA v. Jason Mattis",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-23",
-      "case_number": "25-2660",
-      "caption": "Thomas Yeransian v. Markel Group Inc",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-23",
-      "case_number": "26-1860",
-      "caption": "USA v. John Pollard",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-24",
-      "case_number": "23-3181, 24-1527, 24-1527",
-      "caption": "USA v. John Glenn, Jr.",
-      "panel": "BIBAS, PORTER, BOVE",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 3:00pm",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-24",
-      "case_number": "25-1035, 25-2393",
-      "caption": "Paris James v. John Wetzel et al",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-24",
-      "case_number": "25-1279",
-      "caption": "Karyn Jakubik et al v. Susan Gibson et al",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-24",
-      "case_number": "25-2540, 25-2541, 25-2612",
-      "caption": "Rebecca Cartee-Haring v. Central Bucks School District",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-24",
-      "case_number": "25-2969",
-      "caption": "Reading Hospital v. Hill Rom Co Inc et al",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-24",
-      "case_number": "25-2680",
-      "caption": "USA v. Troy Anderson",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-24",
-      "case_number": "25-3433",
-      "caption": "Gabyargelia Montiel Perez et al  v. Attorney General United",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-24",
-      "case_number": "25-3509",
-      "caption": "George Harms Construction Co Inc et al  v. Gateway Developme",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-25",
-      "case_number": "25-1039",
-      "caption": "USA v. John Ransome",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-25",
-      "case_number": "25-3010",
-      "caption": "Melissa McDonald v. EI DuPont de Nemours & Co Total & Perman",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-25",
-      "case_number": "22-2302",
-      "caption": "USA v. William Richardson",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-25",
-      "case_number": "23-1146",
-      "caption": "USA v. William Richardson",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-25",
-      "case_number": "25-3158",
-      "caption": "Amrapur Inc et al  v. Johnson Controls Security Solutions LL",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-25",
-      "case_number": "25-3375",
-      "caption": "USA v. Ronald Carstarphen",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-25",
-      "case_number": "25-3421",
-      "caption": "Maria Martinez et al  v. Attorney General United States of A",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-28",
-      "case_number": "24-2076",
-      "caption": "SWN Production Co LLC v. Blue Beck Ltd",
-      "panel": "SHWARTZ, RESTREPO, CHUNG",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-28",
-      "case_number": "25-2057",
-      "caption": "USA v. Antonio Bowie",
-      "panel": "SHWARTZ, RESTREPO, CHUNG",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-28",
-      "case_number": "25-2128",
-      "caption": "Christian Toscan Gomez v. Reyna Lopez Ramirez",
-      "panel": "SHWARTZ, RESTREPO, CHUNG",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-28",
-      "case_number": "25-3447",
-      "caption": "In re: BlockFi Inc",
-      "panel": "SHWARTZ, RESTREPO, CHUNG",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-29",
-      "case_number": "25-2241",
-      "caption": "Arlene Rodriguez Garza v. Wellspan Philhaven",
-      "panel": "SHWARTZ, RESTREPO, CHUNG",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-29",
-      "case_number": "25-3045",
-      "caption": "Vanda Pharmaceuticals Inc v. MSN Pharmaceuticals Inc et al",
-      "panel": "SHWARTZ, RESTREPO, CHUNG",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-29",
-      "case_number": "25-3085",
-      "caption": "C J Hesse Inc et al  v. American Family Home Insurance Co",
-      "panel": "SHWARTZ, RESTREPO, CHUNG",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-29",
-      "case_number": "25-3528",
-      "caption": "USA v. Renato Teixera",
-      "panel": "SHWARTZ, RESTREPO, CHUNG",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-30",
-      "case_number": "25-1766",
-      "caption": "Ya Global Investments et al v. Commissioner of Internal Rev",
-      "panel": "SHWARTZ, RESTREPO, CHUNG",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 10:00am",
-      "disposition": "Argued"
-    },
     {
       "court": "Third Circuit",
       "date": "2026-10-01",
