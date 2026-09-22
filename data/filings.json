@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22T18:53:18.559950+00:00",
+  "generated": "2026-09-22T22:06:59.678108+00:00",
   "filings": [
     {
       "type": "filing",
@@ -207,6 +207,15 @@
       "status": "Active",
       "filing_date": "09/22/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=545 MAL 2026&dnh=0OvvPEBaTJ0%2BA%2B9%2FLsDqrw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "546 MAL 2026",
+      "caption": "Burns, M. v. DOT, Pet.",
+      "status": "Active",
+      "filing_date": "09/22/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=546 MAL 2026&dnh=VJ%2ByCQlEeSbEg1pBkIwgTg%3D%3D"
     },
     {
       "type": "filing",
@@ -1084,6 +1093,24 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "2631 EDA 2026",
+      "caption": "In the Int. of: M.G., Appeal of: K.G.",
+      "status": "Active",
+      "filing_date": "09/22/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2631 EDA 2026&dnh=K%2BokXqsB58iNyhTdd%2FB5Hw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2632 EDA 2026",
+      "caption": "Keller, M. v. Ott, C.",
+      "status": "Active",
+      "filing_date": "09/22/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2632 EDA 2026&dnh=lVJ%2BCVFGuaI5KauOWwAPRQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "147 EDM 2026",
       "caption": "Com. v. Gazzara, M.",
       "status": "Active",
@@ -1625,7 +1652,7 @@
       "type": "filing",
       "court": "PA Superior Court",
       "docket": "1239 WDA 2026",
-      "caption": "Comm. v. Fox-Beacom, Melissa Sue",
+      "caption": "Com. v. Fox-Beacom, M.",
       "status": "Active",
       "filing_date": "09/22/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1239 WDA 2026&dnh=xXpvxk2vfLYcpYo7qvziDw%3D%3D"
@@ -1751,7 +1778,7 @@
       "type": "filing",
       "court": "PA Commonwealth Court",
       "docket": "1427 CD 2026",
-      "caption": "Cmwlth Charter Academy CS v. Advance Publications",
+      "caption": "Cmwlth Chtr. Academy CS v. Adv. Publications et al.",
       "status": "Active",
       "filing_date": "09/16/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1427 CD 2026&dnh=2s2zpY3XZExjcIn241ac9Q%3D%3D"
@@ -3223,6 +3250,30 @@
       "pub_date": "Tue, 22 Sep 2026 00:00:00 +0000",
       "url": "https://www2.ca3.uscourts.gov/opinarch/252621np.pdf",
       "guid": "ca3-25-2621-252621np.pdf",
+      "precedential": false,
+      "origin": "USDC for the Middle District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "23-2733",
+      "caption": "USA v. Robert Jackson",
+      "author": "",
+      "pub_date": "Tue, 22 Sep 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/232733npo.pdf",
+      "guid": "ca3-23-2733-232733npo.pdf",
+      "precedential": false,
+      "origin": "USDC for the Middle District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "23-2733",
+      "caption": "USA v. Robert Jackson",
+      "author": "",
+      "pub_date": "Tue, 22 Sep 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/272733nppan.pdf",
+      "guid": "ca3-23-2733-272733nppan.pdf",
       "precedential": false,
       "origin": "USDC for the Middle District of Pennsylvania"
     },
