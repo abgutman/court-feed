@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-23T20:19:45.306344+00:00",
+  "generated": "2026-09-23T23:40:27.962723+00:00",
   "filings": [
     {
       "type": "filing",
@@ -36,6 +36,15 @@
       "status": "Active",
       "filing_date": "09/23/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=331 EAL 2026&dnh=2AHV3mDuEo0X%2FwQggI%2BlJA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "332 EAL 2026",
+      "caption": "Commonwealth v. Devlin, M., Pet.",
+      "status": "Active",
+      "filing_date": "09/23/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=332 EAL 2026&dnh=qXwsRCOttntFX3yttdlZQA%3D%3D"
     },
     {
       "type": "filing",
@@ -1908,6 +1917,15 @@
       "status": "Active",
       "filing_date": "09/22/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=442 MD 2026&dnh=sAHoMdQ3oGNnisSz%2BZOKPg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "444 MD 2026",
+      "caption": "W., C. v. PSP",
+      "status": "Active",
+      "filing_date": "09/17/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=444 MD 2026&dnh=C5kQyKo6RHQRCxMohECyCw%3D%3D"
     }
   ],
   "opinions": [
