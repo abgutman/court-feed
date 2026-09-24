@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-24T19:09:18.005521+00:00",
+  "generated": "2026-09-24T22:24:17.711719+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -36,17 +36,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "09/24/2026 01:00PM",
-      "case_number": "24-cr-0420",
-      "caption": "USA v. WHYTE-FRANCIS",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630621"
-    },
-    {
-      "court": "EDPA",
       "datetime": "09/24/2026 01:30PM",
       "case_number": "25-cr-0503",
       "caption": "USA v. DORY",
@@ -70,17 +59,6 @@
     {
       "court": "EDPA",
       "datetime": "09/24/2026 02:00PM",
-      "case_number": "25-cr-0432",
-      "caption": "USA v. JACKSON",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644130"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/24/2026 02:00PM",
       "case_number": "25-cv-5861",
       "caption": "Mazyck v. Commercial Resource",
       "judge": "MAGISTRATE JUDGE REID",
@@ -99,17 +77,6 @@
       "courtroom": "Reading 5th Floor",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?619701"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/24/2026 02:00PM",
-      "case_number": "24-cr-0413",
-      "caption": "USA v. MYLES",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630007"
     },
     {
       "court": "EDPA",
@@ -322,14 +289,14 @@
     },
     {
       "court": "EDPA",
-      "datetime": "09/28/2026 11:00AM",
-      "case_number": "25-cv-3156",
-      "caption": "Healy Long & Jevin, Inc. V. CQ",
-      "judge": "DISTRICT JUDGE BAYLSON",
-      "city": "",
-      "courtroom": "Telephone Conference",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639306"
+      "datetime": "09/28/2026 10:30AM",
+      "case_number": "16-cr-0125",
+      "caption": "USA v. COOK",
+      "judge": "DISTRICT JUDGE RUFE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12A",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?515754"
     },
     {
       "court": "EDPA",
@@ -575,17 +542,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "09/29/2026 10:30AM",
-      "case_number": "23-cv-2410",
-      "caption": "CIERI v. AIR LIQUID SYSTEMS CO",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?610863"
-    },
-    {
-      "court": "EDPA",
       "datetime": "09/29/2026 11:00AM",
       "case_number": "26-cr-0183",
       "caption": "USA v. TEJADA-ACOSTA",
@@ -594,6 +550,17 @@
       "courtroom": "Courtroom 14A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653443"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/29/2026 11:00AM",
+      "case_number": "26-cv-6426",
+      "caption": "MARPLE NEWTOWN SCHOOL DISTRICT",
+      "judge": "DISTRICT JUDGE KENNEY",
+      "city": "Philadelphia",
+      "courtroom": "COURTROOM",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660815"
     },
     {
       "court": "EDPA",
@@ -2189,6 +2156,17 @@
       "courtroom": "Courtroom 12B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640793"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/08/2026 02:30PM",
+      "case_number": "26-cv-1828",
+      "caption": "BLACK CAT INC. v. 4C's SPRAY E",
+      "judge": "DISTRICT JUDGE KEARNEY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 6B",
+      "hearing_type": "Evidentiary Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651607"
     },
     {
       "court": "EDPA",
