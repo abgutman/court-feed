@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-25T07:46:26.594502+00:00",
+  "generated": "2026-09-25T13:46:06.028159+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -125,17 +125,6 @@
     {
       "court": "EDPA",
       "datetime": "09/28/2026 09:30AM",
-      "case_number": "24-cv-2724",
-      "caption": "SHEN MANUFACUTURING COMPANY IN",
-      "judge": "DISTRICT JUDGE COSTELLO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623632"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/28/2026 09:30AM",
       "case_number": "24-cr-0253",
       "caption": "USA v. WILLIAMS",
       "judge": "DISTRICT JUDGE SLOMSKY",
@@ -246,17 +235,6 @@
     {
       "court": "EDPA",
       "datetime": "09/28/2026 01:30PM",
-      "case_number": "26-cv-1828",
-      "caption": "BLACK CAT INC. v. 4C's SPRAY E",
-      "judge": "DISTRICT JUDGE KEARNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6B",
-      "hearing_type": "Miscellaneous Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651607"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/28/2026 01:30PM",
       "case_number": "07-cr-0430",
       "caption": "USA v. SANDERS",
       "judge": "DISTRICT JUDGE SANCHEZ",
@@ -341,17 +319,6 @@
       "courtroom": "Courtroom 12A",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?212349"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/29/2026 09:30AM",
-      "case_number": "24-cv-2724",
-      "caption": "SHEN MANUFACUTURING COMPANY IN",
-      "judge": "DISTRICT JUDGE COSTELLO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623632"
     },
     {
       "court": "EDPA",
@@ -488,6 +455,28 @@
     {
       "court": "EDPA",
       "datetime": "09/29/2026 02:00PM",
+      "case_number": "25-cr-0265",
+      "caption": "USA v. MOORE",
+      "judge": "DISTRICT JUDGE LEESON",
+      "city": "Allentown",
+      "courtroom": "Cahn 3C",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639438"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/29/2026 02:00PM",
+      "case_number": "25-cv-6758",
+      "caption": "KRASLEY et al v. COUNTY OF MON",
+      "judge": "DISTRICT JUDGE POZOS",
+      "city": "",
+      "courtroom": "Video Conference",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646815"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/29/2026 02:00PM",
       "case_number": "26-cr-0253",
       "caption": "USA v. TORIBIO-CANTOR",
       "judge": "DISTRICT JUDGE WOLSON",
@@ -572,17 +561,6 @@
       "courtroom": "Courtroom 6B",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658847"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/30/2026 09:30AM",
-      "case_number": "24-cv-2724",
-      "caption": "SHEN MANUFACUTURING COMPANY IN",
-      "judge": "DISTRICT JUDGE COSTELLO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623632"
     },
     {
       "court": "EDPA",
@@ -737,6 +715,17 @@
       "courtroom": "Courtroom 14A",
       "hearing_type": "Final Pretrial Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627831"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "09/30/2026 01:30PM",
+      "case_number": "26-cr-0093",
+      "caption": "USA v. RICHARDSON-HOPPER",
+      "judge": "MAGISTRATE JUDGE TOPLIN",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650759"
     },
     {
       "court": "EDPA",
@@ -1368,17 +1357,6 @@
     {
       "court": "EDPA",
       "datetime": "10/07/2026 09:30AM",
-      "case_number": "26-cr-0076",
-      "caption": "USA v. RICHARDSON",
-      "judge": "DISTRICT JUDGE BAYLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650146"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/07/2026 09:30AM",
       "case_number": "24-cv-1508",
       "caption": "BARK U, LLC v. TERWISSCHA CONS",
       "judge": "DISTRICT JUDGE COSTELLO",
@@ -1738,50 +1716,6 @@
       "courtroom": "Courtroom 5B",
       "hearing_type": "Arbitration Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651094"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/08/2026 09:30AM",
-      "case_number": "26-cr-0024",
-      "caption": "USA v. SANCHEZ",
-      "judge": "DISTRICT JUDGE HODGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648465"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/08/2026 09:30AM",
-      "case_number": "26-cr-0024",
-      "caption": "USA v. TUCKER",
-      "judge": "DISTRICT JUDGE HODGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648466"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/08/2026 09:30AM",
-      "case_number": "26-cr-0024",
-      "caption": "USA v. WOODSON",
-      "judge": "DISTRICT JUDGE HODGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648467"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/08/2026 09:30AM",
-      "case_number": "26-cr-0024",
-      "caption": "USA v. VEGA",
-      "judge": "DISTRICT JUDGE HODGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648468"
     },
     {
       "court": "EDPA",
