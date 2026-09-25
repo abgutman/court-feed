@@ -1,116 +1,6 @@
 {
-  "generated": "2026-09-24T22:24:17.711719+00:00",
+  "generated": "2026-09-25T01:31:21.315322+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "09/24/2026 09:30AM",
-      "case_number": "24-cv-2724",
-      "caption": "SHEN MANUFACUTURING COMPANY IN",
-      "judge": "DISTRICT JUDGE COSTELLO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6A",
-      "hearing_type": "Trial Date",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623632"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/24/2026 09:30AM",
-      "case_number": "23-cr-0225",
-      "caption": "USA v. ALAMOUTINIA",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?609679"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/24/2026 11:00AM",
-      "case_number": "26-cr-0047",
-      "caption": "USA v. MILLER",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649105"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/24/2026 01:30PM",
-      "case_number": "25-cr-0503",
-      "caption": "USA v. DORY",
-      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646467"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/24/2026 01:30PM",
-      "case_number": "26-cr-0385",
-      "caption": "USA v. FLORENTINO-CHINO",
-      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660177"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/24/2026 02:00PM",
-      "case_number": "25-cv-5861",
-      "caption": "Mazyck v. Commercial Resource",
-      "judge": "MAGISTRATE JUDGE REID",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3C",
-      "hearing_type": "Scheduling Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644850"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/24/2026 02:00PM",
-      "case_number": "24-cv-0988",
-      "caption": "MATUTE et al v. THOMAS E. STRA",
-      "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "Reading",
-      "courtroom": "Reading 5th Floor",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?619701"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/24/2026 02:30PM",
-      "case_number": "26-cr-0219",
-      "caption": "USA v. MACK",
-      "judge": "DISTRICT JUDGE MCHUGH",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9B",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654754"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/24/2026 03:00PM",
-      "case_number": "16-cr-0513",
-      "caption": "USA v. SANDERS",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12B",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?524975"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/24/2026 04:00PM",
-      "case_number": "25-cr-0227",
-      "caption": "USA v. GONZALEZ",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638025"
-    },
     {
       "court": "EDPA",
       "datetime": "09/25/2026 10:00AM",
@@ -2222,81 +2112,130 @@
       "courtroom": "Courtroom 13B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643748"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/09/2026 08:45AM",
+      "case_number": "26-cv-4821",
+      "caption": "GREENWICH TERMINALS LLC et al",
+      "judge": "DISTRICT JUDGE KEARNEY",
+      "city": "",
+      "courtroom": "Video Conference",
+      "hearing_type": "Pretrial Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657767"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/09/2026 09:00AM",
+      "case_number": "25-cv-4619",
+      "caption": "Godbey v. CITY OF BETHLEHEM et",
+      "judge": "DISTRICT JUDGE GALLAGHER",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom TBD",
+      "hearing_type": "Jury Selection",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642172"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/09/2026 09:00AM",
+      "case_number": "25-cv-5226",
+      "caption": "LORAH-RODRIGUEZ v. ZAMILSKI",
+      "judge": "DISTRICT JUDGE GALLAGHER",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom TBD",
+      "hearing_type": "Jury Selection",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643464"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/09/2026 09:30AM",
+      "case_number": "26-cv-4249",
+      "caption": "COZZUBBO v. LM GENERAL INSURAN",
+      "judge": "DISTRICT JUDGE GALLAGHER",
+      "city": "Allentown",
+      "courtroom": "Cahn 4A",
+      "hearing_type": "Arbitration Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656711"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/09/2026 09:30AM",
+      "case_number": "22-cv-0315",
+      "caption": "VERTEX, INC. v. AVALARA, INC.",
+      "judge": "DISTRICT JUDGE YOUNGE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 15B",
+      "hearing_type": "Jury Selection",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/09/2026 10:00AM",
+      "case_number": "26-cr-0068",
+      "caption": "USA v. HICKMAN",
+      "judge": "DISTRICT JUDGE MCHUGH",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 9B",
+      "hearing_type": "Sentencing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649964"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/09/2026 10:00AM",
+      "case_number": "24-cr-0141",
+      "caption": "USA v. VALENTIN",
+      "judge": "DISTRICT JUDGE MURPHY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3B",
+      "hearing_type": "Sentencing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?620928"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/09/2026 10:30AM",
+      "case_number": "26-cr-0004",
+      "caption": "USA v. ROBINSON",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648045"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/09/2026 01:00PM",
+      "case_number": "26-cv-1785",
+      "caption": "BROWNE et al v. INTERNATIONAL",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651548"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/09/2026 02:00PM",
+      "case_number": "22-cr-0260",
+      "caption": "USA v. HARRIS",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?599639"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/09/2026 02:30PM",
+      "case_number": "23-cv-2410",
+      "caption": "CIERI v. AIR LIQUID SYSTEMS CO",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Final Pretrial Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?610863"
     }
   ],
   "third_circuit": [
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-24",
-      "case_number": "23-3181, 24-1527, 24-1527",
-      "caption": "USA v. John Glenn, Jr.",
-      "panel": "BIBAS, PORTER, BOVE",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 3:00pm",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-24",
-      "case_number": "25-1035, 25-2393",
-      "caption": "Paris James v. John Wetzel et al",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-24",
-      "case_number": "25-1279",
-      "caption": "Karyn Jakubik et al v. Susan Gibson et al",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-24",
-      "case_number": "25-2540, 25-2541, 25-2612",
-      "caption": "Rebecca Cartee-Haring v. Central Bucks School District",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-24",
-      "case_number": "25-2969",
-      "caption": "Reading Hospital v. Hill Rom Co Inc et al",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-24",
-      "case_number": "25-2680",
-      "caption": "USA v. Troy Anderson",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-24",
-      "case_number": "25-3433",
-      "caption": "Gabyargelia Montiel Perez et al  v. Attorney General United",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-24",
-      "case_number": "25-3509",
-      "caption": "George Harms Construction Co Inc et al  v. Gateway Developme",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
     {
       "court": "Third Circuit",
       "date": "2026-09-25",
