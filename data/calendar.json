@@ -1,28 +1,6 @@
 {
-  "generated": "2026-09-25T22:19:59.727638+00:00",
+  "generated": "2026-09-26T01:33:26.885934+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "09/25/2026 01:30PM",
-      "case_number": "26-cr-0440",
-      "caption": "USA v. MCFIELD",
-      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662139"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/25/2026 01:30PM",
-      "case_number": "26-cr-0440",
-      "caption": "USA v. MCFIELD",
-      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Detention Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662139"
-    },
     {
       "court": "EDPA",
       "datetime": "09/28/2026 09:00AM",
@@ -2071,78 +2049,6 @@
     }
   ],
   "third_circuit": [
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-25",
-      "case_number": "25-1039",
-      "caption": "USA v. John Ransome",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-25",
-      "case_number": "25-2762",
-      "caption": "Gregory Hartmann et al v. Brian Chudzik et al",
-      "panel": "SHWARTZ, PHIPPS, RENDELL",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 2:30pm",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-25",
-      "case_number": "25-3010",
-      "caption": "Melissa McDonald v. EI DuPont de Nemours & Co Total & Perman",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30 am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-25",
-      "case_number": "22-2302",
-      "caption": "USA v. William Richardson",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-25",
-      "case_number": "23-1146",
-      "caption": "USA v. William Richardson",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-25",
-      "case_number": "25-3158",
-      "caption": "Amrapur Inc et al  v. Johnson Controls Security Solutions LL",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-25",
-      "case_number": "25-3375",
-      "caption": "USA v. Ronald Carstarphen",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-09-25",
-      "case_number": "25-3421",
-      "caption": "Maria Martinez et al  v. Attorney General United States of A",
-      "panel": "KRAUSE, PORTER, AMBRO",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
     {
       "court": "Third Circuit",
       "date": "2026-09-28",
