@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-28T06:51:59.904929+00:00",
+  "generated": "2026-09-28T15:26:11.138491+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -55,17 +55,6 @@
       "courtroom": "Courtroom 3C",
       "hearing_type": "Settlement Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635622"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/28/2026 10:30AM",
-      "case_number": "26-cv-6079",
-      "caption": "Cifelli v. THE SCHOOL DISTRICT",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660209"
     },
     {
       "court": "EDPA",
@@ -257,28 +246,6 @@
     {
       "court": "EDPA",
       "datetime": "09/29/2026 10:00AM",
-      "case_number": "25-cr-0178",
-      "caption": "USA v. GROOVER",
-      "judge": "DISTRICT JUDGE PAPPERT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11A",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636682"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/29/2026 10:00AM",
-      "case_number": "25-cv-1661",
-      "caption": "K v. CHOICE HOTELS INTERNATION",
-      "judge": "DISTRICT JUDGE POZOS",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 8A",
-      "hearing_type": "Scheduling Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635578"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/29/2026 10:00AM",
       "case_number": "26-cv-0770",
       "caption": "Gruppo v. OLYMPUS CORPORATION",
       "judge": "MAGISTRATE JUDGE STRAW",
@@ -356,17 +323,6 @@
     {
       "court": "EDPA",
       "datetime": "09/29/2026 02:00PM",
-      "case_number": "25-cr-0265",
-      "caption": "USA v. MOORE",
-      "judge": "DISTRICT JUDGE LEESON",
-      "city": "Allentown",
-      "courtroom": "Cahn 3C",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639438"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/29/2026 02:00PM",
       "case_number": "25-cv-6758",
       "caption": "KRASLEY et al v. COUNTY OF MON",
       "judge": "DISTRICT JUDGE POZOS",
@@ -418,17 +374,6 @@
       "courtroom": "Courtroom 9A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?611026"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/29/2026 03:00PM",
-      "case_number": "25-cr-0195",
-      "caption": "USA v. REESE",
-      "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "Reading",
-      "courtroom": "Reading 5th Floor",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637188"
     },
     {
       "court": "EDPA",
@@ -686,17 +631,6 @@
     {
       "court": "EDPA",
       "datetime": "10/01/2026 09:30AM",
-      "case_number": "26-cv-1591",
-      "caption": "JACKSON v. PUBLIC HEALTH MANAG",
-      "judge": "DISTRICT JUDGE COSTELLO",
-      "city": "",
-      "courtroom": "Video Conference",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651134"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/01/2026 09:30AM",
       "case_number": "20-cr-0315",
       "caption": "USA v. CRUMP",
       "judge": "DISTRICT JUDGE KENNEY",
@@ -715,17 +649,6 @@
       "courtroom": "Courtroom 16A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636684"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/01/2026 09:30AM",
-      "case_number": "26-cv-1806",
-      "caption": "SHAKIR v. CVS PHARMACY INC.",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5D",
-      "hearing_type": "Arbitration Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651580"
     },
     {
       "court": "EDPA",
@@ -927,17 +850,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "10/02/2026 09:00AM",
-      "case_number": "25-cv-6435",
-      "caption": "Jarvis v. Carreras et al",
-      "judge": "DISTRICT JUDGE GALLAGHER",
-      "city": "Philadelphia",
-      "courtroom": "Philadelphia",
-      "hearing_type": "Jury Selection",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646185"
-    },
-    {
-      "court": "EDPA",
       "datetime": "10/02/2026 09:30AM",
       "case_number": "26-cv-2540",
       "caption": "REICHWEIN et al v. COSTCO WHOL",
@@ -946,17 +858,6 @@
       "courtroom": "Cahn 4A",
       "hearing_type": "Arbitration Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653109"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/02/2026 09:30AM",
-      "case_number": "26-cr-0281",
-      "caption": "USA v. BOSTIC",
-      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 8B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656619"
     },
     {
       "court": "EDPA",
@@ -1027,17 +928,6 @@
     {
       "court": "EDPA",
       "datetime": "10/05/2026 09:00AM",
-      "case_number": "25-cv-6435",
-      "caption": "Jarvis v. Carreras et al",
-      "judge": "DISTRICT JUDGE GALLAGHER",
-      "city": "Allentown",
-      "courtroom": "Cahn 4B",
-      "hearing_type": "Trial Date",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646185"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/05/2026 09:00AM",
       "case_number": "22-cr-0291",
       "caption": "USA v. SOLTANI",
       "judge": "DISTRICT JUDGE SANCHEZ",
@@ -1078,17 +968,6 @@
       "courtroom": "Courtroom 14A",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642878"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/05/2026 09:30AM",
-      "case_number": "25-cv-4619",
-      "caption": "Godbey v. CITY OF BETHLEHEM et",
-      "judge": "DISTRICT JUDGE GALLAGHER",
-      "city": "Allentown",
-      "courtroom": "Cahn 4B",
-      "hearing_type": "Final Pretrial Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642172"
     },
     {
       "court": "EDPA",
@@ -1430,6 +1309,17 @@
       "courtroom": "Courtroom 14A",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?552051"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/07/2026 01:30PM",
+      "case_number": "25-cv-4619",
+      "caption": "Godbey v. CITY OF BETHLEHEM et",
+      "judge": "DISTRICT JUDGE GALLAGHER",
+      "city": "Allentown",
+      "courtroom": "Cahn 4B",
+      "hearing_type": "Final Pretrial Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642172"
     },
     {
       "court": "EDPA",
@@ -2005,17 +1895,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "10/09/2026 10:30AM",
-      "case_number": "26-cr-0004",
-      "caption": "USA v. ROBINSON",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648045"
-    },
-    {
-      "court": "EDPA",
       "datetime": "10/09/2026 01:00PM",
       "case_number": "26-cv-1785",
       "caption": "BROWNE et al v. INTERNATIONAL",
@@ -2024,6 +1903,17 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651548"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/09/2026 01:30PM",
+      "case_number": "26-cr-0470",
+      "caption": "USA v. UPCHURCH",
+      "judge": "DISTRICT JUDGE KEARNEY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 6B",
+      "hearing_type": "Initial Appearance",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662675"
     },
     {
       "court": "EDPA",
@@ -3046,7 +2936,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3058,7 +2948,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3070,7 +2960,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3082,7 +2972,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3090,11 +2980,11 @@
       "docket_number": "1039 WDA 2026",
       "journal_number": "J-A26005-26",
       "caption": "Com. v. Childs, T.",
-      "consideration_type": "Standard \u2014 Argument Panel",
+      "consideration_type": "Expedited \u2014 Argument Panel",
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3106,7 +2996,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3118,7 +3008,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3130,7 +3020,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3142,7 +3032,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3154,7 +3044,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3166,7 +3056,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3178,7 +3068,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3190,7 +3080,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3202,7 +3092,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3214,7 +3104,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3226,7 +3116,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3238,7 +3128,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3250,7 +3140,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3262,7 +3152,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3274,7 +3164,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3286,7 +3176,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3298,7 +3188,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3310,7 +3200,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3322,7 +3212,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3334,7 +3224,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3346,7 +3236,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3358,7 +3248,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3370,7 +3260,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3382,7 +3272,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3394,7 +3284,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3406,7 +3296,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3418,7 +3308,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3430,7 +3320,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3442,7 +3332,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3454,7 +3344,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3466,7 +3356,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3478,7 +3368,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3490,7 +3380,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3502,7 +3392,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3514,7 +3404,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -3526,7 +3416,7 @@
       "location": "",
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
-      "judges": "DUBOW ; KUNSELMAN ; BECK , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
