@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-29T08:27:51.326128+00:00",
+  "generated": "2026-09-29T15:49:41.514162+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -88,17 +88,6 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661220"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/29/2026 02:00PM",
-      "case_number": "25-cv-6758",
-      "caption": "KRASLEY et al v. COUNTY OF MON",
-      "judge": "DISTRICT JUDGE POZOS",
-      "city": "",
-      "courtroom": "Video Conference",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646815"
     },
     {
       "court": "EDPA",
@@ -289,7 +278,7 @@
     },
     {
       "court": "EDPA",
-      "datetime": "09/30/2026 11:00AM",
+      "datetime": "09/30/2026 11:30AM",
       "case_number": "25-cr-0489",
       "caption": "USA v. DIXON",
       "judge": "DISTRICT JUDGE WOLSON",
@@ -319,17 +308,6 @@
       "courtroom": "Courtroom 8A",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?571161"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "09/30/2026 01:30PM",
-      "case_number": "24-cv-5078",
-      "caption": "Papi v. COUNTY OF DELAWARE",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Final Pretrial Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627831"
     },
     {
       "court": "EDPA",
@@ -484,6 +462,17 @@
       "courtroom": "Courtroom 12B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652570"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/01/2026 11:30AM",
+      "case_number": "26-cv-7481",
+      "caption": "SMEG USA, LLC v. UNIS, LLC",
+      "judge": "DISTRICT JUDGE GALLAGHER",
+      "city": "Allentown",
+      "courtroom": "Cahn 4B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662804"
     },
     {
       "court": "EDPA",
@@ -740,17 +729,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "10/05/2026 09:30AM",
-      "case_number": "26-cr-0389",
-      "caption": "USA v. HOLLAWAY",
-      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 8B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660312"
-    },
-    {
-      "court": "EDPA",
       "datetime": "10/05/2026 10:00AM",
       "case_number": "26-cr-0324",
       "caption": "USA v. ANDERSON",
@@ -773,6 +751,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "10/05/2026 11:00AM",
+      "case_number": "25-cr-0110",
+      "caption": "USA v. CULVER",
+      "judge": "DISTRICT JUDGE PADOVA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 17B",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635156"
+    },
+    {
+      "court": "EDPA",
       "datetime": "10/06/2026 09:30AM",
       "case_number": "26-cv-1787",
       "caption": "Torres v. HOME DEPOT USA INC.",
@@ -781,17 +770,6 @@
       "courtroom": "Courtroom 5D",
       "hearing_type": "Arbitration Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651554"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/06/2026 09:30AM",
-      "case_number": "24-cv-5078",
-      "caption": "Papi v. COUNTY OF DELAWARE",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Trial Date",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627831"
     },
     {
       "court": "EDPA",
@@ -979,6 +957,17 @@
       "courtroom": "Courtroom 3B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639622"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/07/2026 10:00AM",
+      "case_number": "24-cv-3424",
+      "caption": "ISMIE INDEMNITY COMPANY v. HAR",
+      "judge": "DISTRICT JUDGE SCOTT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624988"
     },
     {
       "court": "EDPA",
@@ -1199,6 +1188,17 @@
       "courtroom": "Courtroom 10B",
       "hearing_type": "Final Pretrial Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?615895"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/07/2026 03:30PM",
+      "case_number": "25-cv-2186",
+      "caption": "FIGUEROA v. CDHA Management, L",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636899"
     },
     {
       "court": "EDPA",
@@ -1631,6 +1631,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "10/09/2026 12:00PM",
+      "case_number": "26-cr-0474",
+      "caption": "USA v. GOLDSMITH",
+      "judge": "DISTRICT JUDGE KEARNEY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 6B",
+      "hearing_type": "Initial Appearance",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662798"
+    },
+    {
+      "court": "EDPA",
       "datetime": "10/09/2026 01:00PM",
       "case_number": "26-cv-1785",
       "caption": "BROWNE et al v. INTERNATIONAL",
@@ -1863,39 +1874,6 @@
     {
       "court": "EDPA",
       "datetime": "10/13/2026 09:00AM",
-      "case_number": "26-cr-0346",
-      "caption": "USA v. BENEVOLENT HOME HEALTH",
-      "judge": "DISTRICT JUDGE SAVAGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658851"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/13/2026 09:00AM",
-      "case_number": "26-cr-0346",
-      "caption": "USA v. WILLIAMS",
-      "judge": "DISTRICT JUDGE SAVAGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658852"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/13/2026 09:00AM",
-      "case_number": "26-cr-0346",
-      "caption": "USA v. DAVIS",
-      "judge": "DISTRICT JUDGE SAVAGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658853"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/13/2026 09:00AM",
       "case_number": "26-cr-0373",
       "caption": "USA v. MANSON",
       "judge": "DISTRICT JUDGE SAVAGE",
@@ -2112,6 +2090,17 @@
       "courtroom": "Courtroom 8B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650882"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/13/2026 11:00AM",
+      "case_number": "20-cr-0115",
+      "caption": "USA v. MOSLEY",
+      "judge": "DISTRICT JUDGE DIAMOND",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14A",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?568499"
     },
     {
       "court": "EDPA",
@@ -2745,18 +2734,6 @@
     {
       "court": "PA Superior Court",
       "date": "10/13/2026",
-      "docket_number": "1969 EDA 2025",
-      "journal_number": "J-A23008-26",
-      "caption": "B. Braun Melsungen, AG v. Adorno, M.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "17th Floor , 530 Walnut St ., Philadelphia",
-      "city": "Philadelphia",
-      "panel": "23-ARGUMENT-2026-2",
-      "judges": "STABILE ; KING , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "10/13/2026",
       "docket_number": "2849 EDA 2025",
       "journal_number": "J-A23009-26",
       "caption": "Abdelwahab, D. v. Temple University Health",
@@ -3168,18 +3145,6 @@
       "docket_number": "625 EDA 2026",
       "journal_number": "J-A23043-26",
       "caption": "Wallace, N. v. Wallace, D.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "17th Floor , 530 Walnut St ., Philadelphia",
-      "city": "Philadelphia",
-      "panel": "23-ARGUMENT-2026-2",
-      "judges": "STABILE ; KING , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "10/15/2026",
-      "docket_number": "349 EDA 2026",
-      "journal_number": "J-A23044-26",
-      "caption": "Freedom Mortgage v. Yankauskas, J.",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
