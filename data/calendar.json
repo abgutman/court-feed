@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-01T08:54:23.331269+00:00",
+  "generated": "2026-10-01T16:27:07.156001+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -77,17 +77,6 @@
       "courtroom": "Courtroom 15B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640883"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/01/2026 01:00PM",
-      "case_number": "26-cv-2453",
-      "caption": "BARTON v. BARTON et al",
-      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3D",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652928"
     },
     {
       "court": "EDPA",
@@ -268,17 +257,6 @@
     {
       "court": "EDPA",
       "datetime": "10/05/2026 09:00AM",
-      "case_number": "22-cr-0291",
-      "caption": "USA v. SOLTANI",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?600498"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/05/2026 09:00AM",
       "case_number": "25-cr-0331",
       "caption": "USA v. SOLTANI",
       "judge": "DISTRICT JUDGE SANCHEZ",
@@ -377,28 +355,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "10/06/2026 09:30AM",
-      "case_number": "26-cr-0052",
-      "caption": "USA v. MIESES-GUZMAN",
-      "judge": "DISTRICT JUDGE SAVAGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649420"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/06/2026 09:30AM",
-      "case_number": "25-cv-0772",
-      "caption": "WOLTMAN et al v. NATIONWIDE IN",
-      "judge": "DISTRICT JUDGE WEILHEIMER",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5B",
-      "hearing_type": "Arbitration Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633459"
-    },
-    {
-      "court": "EDPA",
       "datetime": "10/06/2026 11:00AM",
       "case_number": "24-cr-0307",
       "caption": "USA v. REYES-PAGAN",
@@ -418,6 +374,28 @@
       "courtroom": "Courtroom 3D",
       "hearing_type": "Settlement Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655266"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/06/2026 01:30PM",
+      "case_number": "26-cr-0461",
+      "caption": "USA v. PRICE",
+      "judge": "MAGISTRATE JUDGE REID",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662607"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/06/2026 01:30PM",
+      "case_number": "26-cr-0461",
+      "caption": "USA v. PRICE",
+      "judge": "MAGISTRATE JUDGE REID",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662607"
     },
     {
       "court": "EDPA",
@@ -627,17 +605,6 @@
       "courtroom": "Courtroom 13B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649417"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/07/2026 01:30PM",
-      "case_number": "26-cv-7139",
-      "caption": "PARK v. RIFE",
-      "judge": "DISTRICT JUDGE WEILHEIMER",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 7B",
-      "hearing_type": "Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662051"
     },
     {
       "court": "EDPA",
@@ -1709,28 +1676,6 @@
     {
       "court": "EDPA",
       "datetime": "10/13/2026 02:00PM",
-      "case_number": "25-cr-0376",
-      "caption": "USA v. QUEZADA",
-      "judge": "DISTRICT JUDGE PAPPERT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11A",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642815"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/13/2026 02:00PM",
-      "case_number": "25-cr-0376",
-      "caption": "USA v. HERRERA CASTILLO",
-      "judge": "DISTRICT JUDGE PAPPERT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11A",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642818"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/13/2026 02:00PM",
       "case_number": "25-cv-5299",
       "caption": "STAR MUTUAL RRG, INC. v. AV TR",
       "judge": "DISTRICT JUDGE POZOS",
@@ -1785,6 +1730,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "10/14/2026 01:00AM",
+      "case_number": "26-cr-0475",
+      "caption": "USA v. AHMAD",
+      "judge": "MAGISTRATE JUDGE STRAW",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3G",
+      "hearing_type": "Plea Agreement Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662821"
+    },
+    {
+      "court": "EDPA",
       "datetime": "10/14/2026 09:00AM",
       "case_number": "26-cv-1719",
       "caption": "Rodriquez v. CITY OF PHILADELP",
@@ -1815,6 +1771,17 @@
       "courtroom": "Courtroom 3B",
       "hearing_type": "Trial Date",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642417"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/14/2026 09:00AM",
+      "case_number": "06-cr-0285",
+      "caption": "USA v. HAWKINS",
+      "judge": "DISTRICT JUDGE SANCHEZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14B",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?204851"
     },
     {
       "court": "EDPA",
@@ -1962,6 +1929,17 @@
     {
       "court": "EDPA",
       "datetime": "10/14/2026 10:00AM",
+      "case_number": "25-cr-0376",
+      "caption": "USA v. HERRERA CASTILLO",
+      "judge": "DISTRICT JUDGE PAPPERT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 11A",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642818"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/14/2026 10:00AM",
       "case_number": "23-cv-4991",
       "caption": "HUGHES et al v. REGULATORY DAT",
       "judge": "DISTRICT JUDGE PEREZ",
@@ -1969,6 +1947,17 @@
       "courtroom": "Courtroom 10B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616943"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/14/2026 10:00AM",
+      "case_number": "26-cr-0411",
+      "caption": "USA v. TIFFANY IV",
+      "judge": "DISTRICT JUDGE SAVAGE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 9A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660755"
     },
     {
       "court": "EDPA",
@@ -2035,6 +2024,17 @@
       "courtroom": "Philadelphia",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645030"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/14/2026 11:30AM",
+      "case_number": "25-cr-0376",
+      "caption": "USA v. QUEZADA",
+      "judge": "DISTRICT JUDGE PAPPERT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 11A",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642815"
     },
     {
       "court": "EDPA",
@@ -2211,17 +2211,6 @@
       "courtroom": "Courtroom 3B",
       "hearing_type": "Trial Date",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642417"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/15/2026 09:00AM",
-      "case_number": "26-cr-0052",
-      "caption": "USA v. MIESES-GUZMAN",
-      "judge": "DISTRICT JUDGE SAVAGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649420"
     },
     {
       "court": "EDPA",
