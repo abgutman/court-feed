@@ -1,50 +1,6 @@
 {
-  "generated": "2026-10-02T20:44:01.423769+00:00",
+  "generated": "2026-10-03T00:29:29.950411+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "10/02/2026 11:30AM",
-      "case_number": "26-cr-0153",
-      "caption": "USA v. GAINES",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10A",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652375"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/02/2026 01:30PM",
-      "case_number": "19-cr-0540",
-      "caption": "USA v. BERMUDEZ",
-      "judge": "MAGISTRATE JUDGE TOPLIN",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Detention Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?561778"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/02/2026 01:30PM",
-      "case_number": "26-cr-0462",
-      "caption": "USA v. SCOTT",
-      "judge": "MAGISTRATE JUDGE TOPLIN",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Detention Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662599"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/02/2026 02:00PM",
-      "case_number": "01-cr-0169",
-      "caption": "USA v. HOFFMAN",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?112447"
-    },
     {
       "court": "EDPA",
       "datetime": "10/05/2026 09:00AM",
@@ -66,17 +22,6 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641585"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/05/2026 10:30AM",
-      "case_number": "26-cv-7556",
-      "caption": "MELENDEZ-GUZMAN v. JAMISON et",
-      "judge": "DISTRICT JUDGE RUFE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12A",
-      "hearing_type": "Show Cause Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662937"
     },
     {
       "court": "EDPA",
@@ -176,6 +121,17 @@
       "courtroom": "Courtroom 15B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660815"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/06/2026 10:30AM",
+      "case_number": "26-cv-7614",
+      "caption": "NURIDINOV v. JAMISON et al",
+      "judge": "DISTRICT JUDGE RUFE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12A",
+      "hearing_type": "Show Cause Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663133"
     },
     {
       "court": "EDPA",
@@ -891,17 +847,6 @@
       "courtroom": "Courtroom 5C",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649779"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/08/2026 02:00PM",
-      "case_number": "25-cv-3787",
-      "caption": "MARQUIS v. PENNSYLVANIA LIQUOR",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640793"
     },
     {
       "court": "EDPA",
@@ -2522,42 +2467,6 @@
     }
   ],
   "third_circuit": [
-    {
-      "court": "Third Circuit",
-      "date": "2026-10-02",
-      "case_number": "25-2166",
-      "caption": "Troy Lewald v. Pennsylvania Department of Corrections et al",
-      "panel": "SHWARTZ, CHUNG, FISHER",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-10-02",
-      "case_number": "25-3229",
-      "caption": "Bryant Arrey v. Jonathan Zebley",
-      "panel": "SHWARTZ, CHUNG, FISHER",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-10-02",
-      "case_number": "25-3538",
-      "caption": "Zenith Smith v. The Independent Order of Foresters",
-      "panel": "SHWARTZ, CHUNG, FISHER",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-10-02",
-      "case_number": "25-3547",
-      "caption": "Keith Daniels v. USA",
-      "panel": "SHWARTZ, CHUNG, FISHER",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
     {
       "court": "Third Circuit",
       "date": "2026-10-14",
