@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-04T09:43:54.376051+00:00",
+  "generated": "2026-10-04T15:21:13.674978+00:00",
   "filings": [
     {
       "type": "filing",
@@ -1935,6 +1935,18 @@
       "status": "Active",
       "filing_date": "09/28/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=460 MD 2026&dnh=Rxi5CVGqnGULPN9xvAwKOw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "SCOTUS",
+      "docket": "26-5647",
+      "caption": "Kenneth R. Talley, et al. v. United States District Court for the District of Delaware",
+      "status": "Cert Petition",
+      "filing_date": "09/22/2026",
+      "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/26-5647.html",
+      "lower_court": "United States Court of Appeals for the Third Circuit",
+      "lower_court_docket": "(26-1847)",
+      "case_type": "IFP"
     }
   ],
   "opinions": [
