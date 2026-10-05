@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-05T09:00:56.862116+00:00",
+  "generated": "2026-10-05T18:25:26.352295+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -158,6 +158,28 @@
     {
       "court": "EDPA",
       "datetime": "10/06/2026 01:30PM",
+      "case_number": "09-cr-0317",
+      "caption": "USA v. EDWARDS",
+      "judge": "MAGISTRATE JUDGE REID",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?302571"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/06/2026 01:30PM",
+      "case_number": "26-cr-0462",
+      "caption": "USA v. SCOTT",
+      "judge": "MAGISTRATE JUDGE REID",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662599"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/06/2026 01:30PM",
       "case_number": "26-cr-0461",
       "caption": "USA v. PRICE",
       "judge": "MAGISTRATE JUDGE REID",
@@ -176,6 +198,17 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Detention Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662607"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/06/2026 01:30PM",
+      "case_number": "26-cr-0479",
+      "caption": "USA v. SERRANO FERNANDEZ",
+      "judge": "MAGISTRATE JUDGE REID",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662863"
     },
     {
       "court": "EDPA",
@@ -286,17 +319,6 @@
       "courtroom": "Courtroom 13B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654686"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/07/2026 10:00AM",
-      "case_number": "01-cr-0169",
-      "caption": "USA v. HOFFMAN",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?112447"
     },
     {
       "court": "EDPA",
@@ -741,6 +763,17 @@
     {
       "court": "EDPA",
       "datetime": "10/08/2026 01:00PM",
+      "case_number": "26-cv-7258",
+      "caption": "SOSOF v. MULLIN et al",
+      "judge": "DISTRICT JUDGE MCHUGH",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 9B",
+      "hearing_type": "Miscellaneous Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662294"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/08/2026 01:00PM",
       "case_number": "24-cr-0003",
       "caption": "USA v. MOUSSA",
       "judge": "DISTRICT JUDGE MURPHY",
@@ -759,17 +792,6 @@
       "courtroom": "Courtroom 13B",
       "hearing_type": "Scheduling Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659731"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/08/2026 01:30PM",
-      "case_number": "24-cr-0324",
-      "caption": "USA v. JAMES",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627412"
     },
     {
       "court": "EDPA",
@@ -1434,17 +1456,6 @@
     {
       "court": "EDPA",
       "datetime": "10/13/2026 11:00AM",
-      "case_number": "20-cr-0115",
-      "caption": "USA v. MOSLEY",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?568499"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/13/2026 11:00AM",
       "case_number": "25-md-3163",
       "caption": "GLUCAGON-LIKE PEPTIDE-1 RECEPT",
       "judge": "DISTRICT JUDGE MARSTON",
@@ -1793,6 +1804,17 @@
       "courtroom": "Philadelphia",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645284"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/14/2026 10:30AM",
+      "case_number": "26-cv-3931",
+      "caption": "TROTTER v. FOX ROTHSCHILD LLP",
+      "judge": "DISTRICT JUDGE KENNEY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 11B",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656012"
     },
     {
       "court": "EDPA",
@@ -2358,6 +2380,17 @@
     {
       "court": "EDPA",
       "datetime": "10/16/2026 10:00AM",
+      "case_number": "24-cv-0406",
+      "caption": "FAUST v. THE TRUSTEES OF THE U",
+      "judge": "DISTRICT JUDGE MURPHY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618278"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/16/2026 10:00AM",
       "case_number": "26-cr-0028",
       "caption": "USA v. KANTE",
       "judge": "DISTRICT JUDGE PAPPERT",
@@ -2861,15 +2894,6 @@
     {
       "court": "Third Circuit",
       "date": "2026-10-20",
-      "case_number": "25-2306, 25-2399",
-      "caption": "Rim Bio Inc et al v. Avantor Fluid Handling LLC et al",
-      "panel": "BIBAS, MATEY, BOVE",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 9:00am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-10-20",
       "case_number": "25-2845, 25-2941",
       "caption": "In re: Healthcare Real Estate Partners LLC",
       "panel": "BIBAS, MATEY, BOVE",
@@ -2901,6 +2925,15 @@
       "caption": "Lamar Gayle-Brooms v. Attorney General United States of Amer",
       "panel": "PHIPPS, FREEMAN, ROTH",
       "location_time": "Philadelphia, PA - Maris Courtroom / 1:30pm",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-10-20",
+      "case_number": "25-3432",
+      "caption": "Guadalupe Garcia v. Attorney General United States of Americ",
+      "panel": "BIBAS, MATEY, BOVE",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 9:00am",
       "disposition": "Argued"
     },
     {
@@ -3014,6 +3047,15 @@
     {
       "court": "Third Circuit",
       "date": "2026-10-21",
+      "case_number": "25-2306, 25-2399, 25-2399",
+      "caption": "Rim Bio Inc et al v. Avantor Fluid Handling LLC et al",
+      "panel": "BIBAS, MATEY, BOVE",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 9:00am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-10-21",
       "case_number": "25-2849",
       "caption": "Jaromir Kovarik et al v. IRS",
       "panel": "PHIPPS, FREEMAN, ROTH",
@@ -3036,15 +3078,6 @@
       "caption": "Crystallex International Corp v. Bolivarian Republic of Vene",
       "panel": "RESTREPO, PORTER, MATEY",
       "location_time": "Philadelphia, PA - Maris Courtroom / 11:30am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-10-21",
-      "case_number": "25-3432",
-      "caption": "Guadalupe Garcia v. Attorney General United States of Americ",
-      "panel": "BIBAS, MATEY, BOVE",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 9:00 am",
       "disposition": "Argued"
     },
     {
@@ -4184,18 +4217,6 @@
       "docket_number": "1549 WDA 2025",
       "journal_number": "J-A26021-26",
       "caption": "Lucas, T. v. Bialosky, G.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "26-ARGUMENT-2026-2",
-      "judges": ""
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "10/27/2026",
-      "docket_number": "377 WDA 2026",
-      "journal_number": "J-A26022-26",
-      "caption": "Nonhuman Rights Project v. Zoological Society",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "",
       "city": "",
