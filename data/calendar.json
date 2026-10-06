@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-06T15:09:26.263103+00:00",
+  "generated": "2026-10-06T20:17:59.087867+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -22,17 +22,6 @@
       "courtroom": "Courtroom 15B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660815"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/06/2026 11:00AM",
-      "case_number": "24-cr-0307",
-      "caption": "USA v. REYES-PAGAN",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626772"
     },
     {
       "court": "EDPA",
@@ -305,7 +294,7 @@
       "caption": "USA v. CASTILLO",
       "judge": "DISTRICT JUDGE HENRY",
       "city": "Philadelphia",
-      "courtroom": "Philadelphia",
+      "courtroom": "Courtroom 7B",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645286"
     },
@@ -352,17 +341,6 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656114"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/07/2026 01:30PM",
-      "case_number": "26-mj-1885",
-      "caption": "USA v. ALMONTE",
-      "judge": "MAGISTRATE JUDGE REID",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Detention Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662955"
     },
     {
       "court": "EDPA",
@@ -510,17 +488,6 @@
     {
       "court": "EDPA",
       "datetime": "10/08/2026 09:30AM",
-      "case_number": "26-cv-1574",
-      "caption": "SCOTT v. BOYD GAMING",
-      "judge": "DISTRICT JUDGE COSTELLO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5B",
-      "hearing_type": "Arbitration Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651094"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/08/2026 09:30AM",
       "case_number": "25-cv-6468",
       "caption": "MARTIN v. SOUTHEASTERN PENNSYL",
       "judge": "DISTRICT JUDGE KEARNEY",
@@ -572,17 +539,6 @@
       "courtroom": "Courtroom 3D",
       "hearing_type": "Settlement Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655007"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/08/2026 10:00AM",
-      "case_number": "25-cr-0306",
-      "caption": "USA v. DE JESUS FABIAN",
-      "judge": "DISTRICT JUDGE MURPHY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640485"
     },
     {
       "court": "EDPA",
@@ -752,6 +708,28 @@
     {
       "court": "EDPA",
       "datetime": "10/08/2026 01:30PM",
+      "case_number": "26-cr-0459",
+      "caption": "USA v. HILL",
+      "judge": "MAGISTRATE JUDGE REID",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662562"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/08/2026 01:30PM",
+      "case_number": "26-mj-1885",
+      "caption": "USA v. ALMONTE",
+      "judge": "MAGISTRATE JUDGE REID",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662955"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/08/2026 01:30PM",
       "case_number": "26-cr-0496",
       "caption": "USA v. ENCARNACION",
       "judge": "MAGISTRATE JUDGE REID",
@@ -847,17 +825,6 @@
       "courtroom": "Courtroom 7B",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656498"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/08/2026 03:00PM",
-      "case_number": "25-cv-7005",
-      "caption": "MARQUIS v. PHILADELPHIA GAS WO",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647362"
     },
     {
       "court": "EDPA",
@@ -1121,17 +1088,6 @@
       "city": "Philadelphia",
       "courtroom": "Courtroom 3B",
       "hearing_type": "Jury Selection",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640485"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/13/2026 09:00AM",
-      "case_number": "25-cr-0306",
-      "caption": "USA v. DE JESUS FABIAN",
-      "judge": "DISTRICT JUDGE MURPHY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3B",
-      "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640485"
     },
     {
@@ -1544,17 +1500,6 @@
     {
       "court": "EDPA",
       "datetime": "10/14/2026 09:00AM",
-      "case_number": "25-cr-0306",
-      "caption": "USA v. DE JESUS FABIAN",
-      "judge": "DISTRICT JUDGE MURPHY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640485"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/14/2026 09:00AM",
       "case_number": "25-cv-4726",
       "caption": "MAHRT et al v. XU",
       "judge": "DISTRICT JUDGE MURPHY",
@@ -1727,6 +1672,17 @@
       "courtroom": "Courtroom 11B",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656012"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/14/2026 10:30AM",
+      "case_number": "26-cr-0287",
+      "caption": "USA v. TURNER",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Initial Appearance",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656818"
     },
     {
       "court": "EDPA",
@@ -1947,17 +1903,6 @@
       "courtroom": "Courtroom 6B",
       "hearing_type": "Trial Date",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651369"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/15/2026 09:00AM",
-      "case_number": "25-cr-0306",
-      "caption": "USA v. DE JESUS FABIAN",
-      "judge": "DISTRICT JUDGE MURPHY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640485"
     },
     {
       "court": "EDPA",
@@ -2302,17 +2247,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "10/16/2026 09:00AM",
-      "case_number": "25-cr-0306",
-      "caption": "USA v. DE JESUS FABIAN",
-      "judge": "DISTRICT JUDGE MURPHY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640485"
-    },
-    {
-      "court": "EDPA",
       "datetime": "10/16/2026 10:00AM",
       "case_number": "24-cv-0406",
       "caption": "FAUST v. THE TRUSTEES OF THE U",
@@ -2651,17 +2585,6 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Trial Date",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?610863"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/19/2026 09:30AM",
-      "case_number": "21-cr-0040",
-      "caption": "USA v. PHILLIPS",
-      "judge": "DISTRICT JUDGE SURRICK",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 8A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?581541"
     },
     {
       "court": "EDPA",
@@ -4250,18 +4173,6 @@
     {
       "court": "PA Superior Court",
       "date": "10/27/2026",
-      "docket_number": "1039 WDA 2026",
-      "journal_number": "J-A26005-26",
-      "caption": "Com. v. Childs, T.",
-      "consideration_type": "Expedited \u2014 Argument Panel",
-      "location": "",
-      "city": "",
-      "panel": "26-ARGUMENT-2026-2",
-      "judges": ""
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "10/27/2026",
       "docket_number": "62 WDA 2026",
       "journal_number": "J-A26006-26",
       "caption": "Campbell, C. v. Scherle, J.",
@@ -4666,6 +4577,390 @@
       "city": "",
       "panel": "26-ARGUMENT-2026-2",
       "judges": ""
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "11/17/2026",
+      "docket_number": "2777 EDA 2025",
+      "journal_number": "J-A27001-26",
+      "caption": "Com. v. Brock, R.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "17th Floor , 530 Walnut St ., Philadelphia",
+      "city": "Philadelphia",
+      "panel": "27-ARGUMENT-2026-2",
+      "judges": "BOWES ; KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "11/17/2026",
+      "docket_number": "677 EDA 2026",
+      "journal_number": "J-A27002-26",
+      "caption": "Foley, K. v. Woodloch Pines",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "17th Floor , 530 Walnut St ., Philadelphia",
+      "city": "Philadelphia",
+      "panel": "27-ARGUMENT-2026-2",
+      "judges": "BOWES ; KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "11/17/2026",
+      "docket_number": "2906 EDA 2025",
+      "journal_number": "J-A27003-26",
+      "caption": "Com. v. Flippen, D.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "17th Floor , 530 Walnut St ., Philadelphia",
+      "city": "Philadelphia",
+      "panel": "27-ARGUMENT-2026-2",
+      "judges": "BOWES ; KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "11/17/2026",
+      "docket_number": "3014 EDA 2025",
+      "journal_number": "J-A27004-26",
+      "caption": "In Re: Est. of: Angstadt, L., Appeal of: Crossley, M.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "17th Floor , 530 Walnut St ., Philadelphia",
+      "city": "Philadelphia",
+      "panel": "27-ARGUMENT-2026-2",
+      "judges": "BOWES ; KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "11/17/2026",
+      "docket_number": "1958 EDA 2025",
+      "journal_number": "J-A27005-26",
+      "caption": "Com. v. Wilson, A.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "17th Floor , 530 Walnut St ., Philadelphia",
+      "city": "Philadelphia",
+      "panel": "27-ARGUMENT-2026-2",
+      "judges": "BOWES ; KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "11/17/2026",
+      "docket_number": "2005 EDA 2026",
+      "journal_number": "J-A27006-26",
+      "caption": "In the Int. of J.A.,a Minor, Appeal of: Com. of PA",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "17th Floor , 530 Walnut St ., Philadelphia",
+      "city": "Philadelphia",
+      "panel": "27-ARGUMENT-2026-2",
+      "judges": "BOWES ; KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "11/17/2026",
+      "docket_number": "2962 EDA 2025",
+      "journal_number": "J-A27007-26",
+      "caption": "Com. v. Johnson, Y.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "17th Floor , 530 Walnut St ., Philadelphia",
+      "city": "Philadelphia",
+      "panel": "27-ARGUMENT-2026-2",
+      "judges": "BOWES ; KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "11/17/2026",
+      "docket_number": "2490 EDA 2025",
+      "journal_number": "J-A27008-26",
+      "caption": "Tritt, G. v. Lam, L.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "17th Floor , 530 Walnut St ., Philadelphia",
+      "city": "Philadelphia",
+      "panel": "27-ARGUMENT-2026-2",
+      "judges": "BOWES ; KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "11/17/2026",
+      "docket_number": "2775 EDA 2025",
+      "journal_number": "J-A27009-26",
+      "caption": "Turner, L. v. Killino, J.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "17th Floor , 530 Walnut St ., Philadelphia",
+      "city": "Philadelphia",
+      "panel": "27-ARGUMENT-2026-2",
+      "judges": "BOWES ; KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "11/17/2026",
+      "docket_number": "2831 EDA 2025",
+      "journal_number": "J-A27009-26",
+      "caption": "Turner, L. v. Killino, J.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "17th Floor , 530 Walnut St ., Philadelphia",
+      "city": "Philadelphia",
+      "panel": "27-ARGUMENT-2026-2",
+      "judges": "BOWES ; KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "11/17/2026",
+      "docket_number": "420 EDA 2026",
+      "journal_number": "J-A27010-26",
+      "caption": "Com. v. Gray, E.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "17th Floor , 530 Walnut St ., Philadelphia",
+      "city": "Philadelphia",
+      "panel": "27-ARGUMENT-2026-2",
+      "judges": "BOWES ; KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "11/17/2026",
+      "docket_number": "99 EDA 2026",
+      "journal_number": "J-A27011-26",
+      "caption": "Elliott, C. v. Elliott, S.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "17th Floor , 530 Walnut St ., Philadelphia",
+      "city": "Philadelphia",
+      "panel": "27-ARGUMENT-2026-2",
+      "judges": "BOWES ; KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "11/17/2026",
+      "docket_number": "2006 EDA 2026",
+      "journal_number": "J-A27016-26",
+      "caption": "Clark, C. v. Clark, M.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "17th Floor , 530 Walnut St ., Philadelphia",
+      "city": "Philadelphia",
+      "panel": "27-ARGUMENT-2026-2",
+      "judges": "BOWES ; KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "11/17/2026",
+      "docket_number": "618 EDA 2026",
+      "journal_number": "J-A27017-26",
+      "caption": "Lipton, G. v. Drumheller Construction Company",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "17th Floor , 530 Walnut St ., Philadelphia",
+      "city": "Philadelphia",
+      "panel": "27-ARGUMENT-2026-2",
+      "judges": "BOWES ; KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "11/17/2026",
+      "docket_number": "43 EDA 2026",
+      "journal_number": "J-A27018-26",
+      "caption": "Com. v. Malinak, V.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "17th Floor , 530 Walnut St ., Philadelphia",
+      "city": "Philadelphia",
+      "panel": "27-ARGUMENT-2026-2",
+      "judges": "BOWES ; KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "11/17/2026",
+      "docket_number": "915 EDA 2026",
+      "journal_number": "J-A27019-26",
+      "caption": "Com. v. Bsharat, M.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "17th Floor , 530 Walnut St ., Philadelphia",
+      "city": "Philadelphia",
+      "panel": "27-ARGUMENT-2026-2",
+      "judges": "BOWES ; KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "11/17/2026",
+      "docket_number": "2495 EDA 2025",
+      "journal_number": "J-A27020-26",
+      "caption": "Com. v. Norfleet, J.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "17th Floor , 530 Walnut St ., Philadelphia",
+      "city": "Philadelphia",
+      "panel": "27-ARGUMENT-2026-2",
+      "judges": "BOWES ; KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "11/18/2026",
+      "docket_number": "2088 EDA 2025",
+      "journal_number": "J-A27021-26",
+      "caption": "Fisher, K. v. Smith, T.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "17th Floor , 530 Walnut St ., Philadelphia",
+      "city": "Philadelphia",
+      "panel": "27-ARGUMENT-2026-2",
+      "judges": "BOWES ; KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "11/18/2026",
+      "docket_number": "558 EDA 2026",
+      "journal_number": "J-A27022-26",
+      "caption": "Pancella, E. v. 2509 South Fourth Operating",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "17th Floor , 530 Walnut St ., Philadelphia",
+      "city": "Philadelphia",
+      "panel": "27-ARGUMENT-2026-2",
+      "judges": "BOWES ; KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "11/18/2026",
+      "docket_number": "1818 EDA 2026",
+      "journal_number": "J-A27023-26",
+      "caption": "In the Int. of: A.S., Appeal of: T.W.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "17th Floor , 530 Walnut St ., Philadelphia",
+      "city": "Philadelphia",
+      "panel": "27-ARGUMENT-2026-2",
+      "judges": "BOWES ; KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "11/18/2026",
+      "docket_number": "586 EDA 2024",
+      "journal_number": "J-A27024-26",
+      "caption": "Eclipse Liquidity v. Geden Holdings",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "17th Floor , 530 Walnut St ., Philadelphia",
+      "city": "Philadelphia",
+      "panel": "27-ARGUMENT-2026-2",
+      "judges": "BOWES ; KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "11/18/2026",
+      "docket_number": "589 EDA 2024",
+      "journal_number": "J-A27025-26",
+      "caption": "Eclipse Liquidity v. Geden Holdings Limited",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "17th Floor , 530 Walnut St ., Philadelphia",
+      "city": "Philadelphia",
+      "panel": "27-ARGUMENT-2026-2",
+      "judges": "BOWES ; KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "11/18/2026",
+      "docket_number": "2074 EDA 2025",
+      "journal_number": "J-A27031-26",
+      "caption": "PB Heat v. Irvine, F.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "17th Floor , 530 Walnut St ., Philadelphia",
+      "city": "Philadelphia",
+      "panel": "27-ARGUMENT-2026-2",
+      "judges": "BOWES ; KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "11/18/2026",
+      "docket_number": "3257 EDA 2025",
+      "journal_number": "J-A27032-26",
+      "caption": "Williams, D. v. Serenity Transport",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "17th Floor , 530 Walnut St ., Philadelphia",
+      "city": "Philadelphia",
+      "panel": "27-ARGUMENT-2026-2",
+      "judges": "BOWES ; KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "11/18/2026",
+      "docket_number": "3048 EDA 2025",
+      "journal_number": "J-A27033-26",
+      "caption": "Com. v. White, C.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "17th Floor , 530 Walnut St ., Philadelphia",
+      "city": "Philadelphia",
+      "panel": "27-ARGUMENT-2026-2",
+      "judges": "BOWES ; KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "11/18/2026",
+      "docket_number": "1356 EDA 2026",
+      "journal_number": "J-A27034-26",
+      "caption": "In the Int of: R.M., Appeal of: H.R.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "17th Floor , 530 Walnut St ., Philadelphia",
+      "city": "Philadelphia",
+      "panel": "27-ARGUMENT-2026-2",
+      "judges": "BOWES ; KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "11/18/2026",
+      "docket_number": "634 EDA 2025",
+      "journal_number": "J-A27035-26",
+      "caption": "Com. v. Pitts, J.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "17th Floor , 530 Walnut St ., Philadelphia",
+      "city": "Philadelphia",
+      "panel": "27-ARGUMENT-2026-2",
+      "judges": "BOWES ; KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "11/18/2026",
+      "docket_number": "3246 EDA 2025",
+      "journal_number": "J-A27036-26",
+      "caption": "Com. v. Pritt, J.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "17th Floor , 530 Walnut St ., Philadelphia",
+      "city": "Philadelphia",
+      "panel": "27-ARGUMENT-2026-2",
+      "judges": "BOWES ; KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "11/18/2026",
+      "docket_number": "1074 EDA 2025",
+      "journal_number": "J-A27037-26",
+      "caption": "SYG, LLC v. All Unknown Occupants",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "17th Floor , 530 Walnut St ., Philadelphia",
+      "city": "Philadelphia",
+      "panel": "27-ARGUMENT-2026-2",
+      "judges": "BOWES ; KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "11/18/2026",
+      "docket_number": "1956 EDA 2024",
+      "journal_number": "J-A27038-26",
+      "caption": "Blue Green, LLC v. Garcia-Villareal, D.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "17th Floor , 530 Walnut St ., Philadelphia",
+      "city": "Philadelphia",
+      "panel": "27-ARGUMENT-2026-2",
+      "judges": "BOWES ; KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "11/18/2026",
+      "docket_number": "1149 EDA 2026",
+      "journal_number": "J-A27039-26",
+      "caption": "In Re: Est. of L. Vazquez, Appeal of: S. Vazquez",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "17th Floor , 530 Walnut St ., Philadelphia",
+      "city": "Philadelphia",
+      "panel": "27-ARGUMENT-2026-2",
+      "judges": "BOWES ; KING ; LANE , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "11/18/2026",
+      "docket_number": "678 EDA 2026",
+      "journal_number": "J-A27040-26",
+      "caption": "Com. v. Weston, D.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "17th Floor , 530 Walnut St ., Philadelphia",
+      "city": "Philadelphia",
+      "panel": "27-ARGUMENT-2026-2",
+      "judges": "BOWES ; KING ; LANE , JJ."
     },
     {
       "court": "PA Superior Court",
