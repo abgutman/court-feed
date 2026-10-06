@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-06T07:33:40.025610+00:00",
+  "generated": "2026-10-06T15:09:26.263103+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -102,6 +102,28 @@
     },
     {
       "court": "EDPA",
+      "datetime": "10/06/2026 01:30PM",
+      "case_number": "26-cr-0139",
+      "caption": "",
+      "judge": "MAGISTRATE JUDGE REID",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662978"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/06/2026 01:30PM",
+      "case_number": "26-cr-0139",
+      "caption": "",
+      "judge": "MAGISTRATE JUDGE REID",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662978"
+    },
+    {
+      "court": "EDPA",
       "datetime": "10/06/2026 03:30PM",
       "case_number": "22-cr-0399",
       "caption": "USA v. WILLIAMS",
@@ -121,6 +143,17 @@
       "courtroom": "Courtroom 3B",
       "hearing_type": "Jury Selection",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655348"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/07/2026 09:00AM",
+      "case_number": "25-cr-0331",
+      "caption": "USA v. SOLTANI",
+      "judge": "DISTRICT JUDGE SANCHEZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14B",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641585"
     },
     {
       "court": "EDPA",
@@ -198,17 +231,6 @@
       "courtroom": "Courtroom 13B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624988"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/07/2026 10:00AM",
-      "case_number": "26-cr-0211",
-      "caption": "USA v. BILSKI",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654686"
     },
     {
       "court": "EDPA",
@@ -462,6 +484,17 @@
       "courtroom": "Courtroom 3B",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640485"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/08/2026 09:00AM",
+      "case_number": "25-cr-0331",
+      "caption": "USA v. SOLTANI",
+      "judge": "DISTRICT JUDGE SANCHEZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14B",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641585"
     },
     {
       "court": "EDPA",
@@ -726,6 +759,17 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663040"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/08/2026 01:30PM",
+      "case_number": "26-mj-1892",
+      "caption": "USA v. ROJAS",
+      "judge": "MAGISTRATE JUDGE REID",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663080"
     },
     {
       "court": "EDPA",
@@ -1203,17 +1247,6 @@
     {
       "court": "EDPA",
       "datetime": "10/13/2026 09:30AM",
-      "case_number": "26-cr-0014",
-      "caption": "USA v. HADJ ALI",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648150"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/13/2026 09:30AM",
       "case_number": "22-cv-0315",
       "caption": "VERTEX, INC. v. AVALARA, INC.",
       "judge": "DISTRICT JUDGE YOUNGE",
@@ -1555,6 +1588,17 @@
     {
       "court": "EDPA",
       "datetime": "10/14/2026 09:30AM",
+      "case_number": "25-cr-0529",
+      "caption": "USA v. WILLIAMS",
+      "judge": "DISTRICT JUDGE BARTLE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647505"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/14/2026 09:30AM",
       "case_number": "25-cv-5283",
       "caption": "ROSARIO v. ROSS STORES, INC. e",
       "judge": "MAGISTRATE JUDGE CARLOS",
@@ -1627,17 +1671,6 @@
       "city": "Philadelphia",
       "courtroom": "Courtroom 16A",
       "hearing_type": "Jury Selection",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647505"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/14/2026 10:00AM",
-      "case_number": "25-cr-0529",
-      "caption": "USA v. WILLIAMS",
-      "judge": "DISTRICT JUDGE BARTLE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16A",
-      "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647505"
     },
     {
@@ -2203,6 +2236,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "10/15/2026 01:30PM",
+      "case_number": "26-cr-0467",
+      "caption": "USA v. MELVIN",
+      "judge": "DISTRICT JUDGE MCHUGH",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 9B",
+      "hearing_type": "Plea Agreement Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662628"
+    },
+    {
+      "court": "EDPA",
       "datetime": "10/15/2026 02:00PM",
       "case_number": "25-cr-0458",
       "caption": "USA v. MURRAY",
@@ -2530,17 +2574,6 @@
       "courtroom": "COURTROOM",
       "hearing_type": "Trial Date",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636229"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/19/2026 09:30AM",
-      "case_number": "26-cv-1555",
-      "caption": "LOTT-BECKLES et al v. BOULEVAR",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Trial Date",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651061"
     },
     {
       "court": "EDPA",
@@ -2991,6 +3024,24 @@
       "caption": "Patria Laureano v. Attorney General United States of America",
       "panel": "ENBANC242433",
       "location_time": "Philadelphia, PA - 9:30 am / Maris Courtroom",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-10-19",
+      "case_number": "25-1863, 25-1965",
+      "caption": "Marilyn Piety Foley v. Drexel University et al",
+      "panel": "PHIPPS, MONTGOMERY-REEVES, ROTH",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 1:00pm",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-10-19",
+      "case_number": "25-2603",
+      "caption": "Marilyn Piety Foley v. Drexel University et al",
+      "panel": "PHIPPS, MONTGOMERY-REEVES, ROTH",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 1:00pm",
       "disposition": "Argued"
     },
     {
@@ -3659,18 +3710,6 @@
     {
       "court": "PA Superior Court",
       "date": "10/13/2026",
-      "docket_number": "171 EDA 2026",
-      "journal_number": "J-A23002-26",
-      "caption": "Petrick, G. v. Mad Golfer",
-      "consideration_type": "Expedited \u2014 Argument Panel",
-      "location": "17th Floor , 530 Walnut St ., Philadelphia",
-      "city": "Philadelphia",
-      "panel": "23-ARGUMENT-2026-2",
-      "judges": "STABILE ; KING , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "10/13/2026",
       "docket_number": "2021 EDA 2025",
       "journal_number": "J-A23003-26",
       "caption": "Com. v. Seing, S.",
@@ -3698,18 +3737,6 @@
       "docket_number": "2189 EDA 2025",
       "journal_number": "J-A23004-26",
       "caption": "Com. v. Turner, P.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "17th Floor , 530 Walnut St ., Philadelphia",
-      "city": "Philadelphia",
-      "panel": "23-ARGUMENT-2026-2",
-      "judges": "STABILE ; KING , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "10/13/2026",
-      "docket_number": "2413 EDA 2025",
-      "journal_number": "J-A23005-26",
-      "caption": "Com. v. Pressley, Q.",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
