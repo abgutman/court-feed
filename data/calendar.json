@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-07T05:55:40.832966+00:00",
+  "generated": "2026-10-07T13:18:13.252088+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -268,17 +268,6 @@
     {
       "court": "EDPA",
       "datetime": "10/07/2026 02:00PM",
-      "case_number": "25-cr-0413",
-      "caption": "USA v. CARROLL",
-      "judge": "DISTRICT JUDGE KENNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643811"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/07/2026 02:00PM",
       "case_number": "26-cr-0247",
       "caption": "USA v. ROSSI",
       "judge": "DISTRICT JUDGE LEESON",
@@ -539,17 +528,6 @@
       "courtroom": "Courtroom 17B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?388577"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/08/2026 01:00PM",
-      "case_number": "26-cv-7258",
-      "caption": "SOSOF v. MULLIN et al",
-      "judge": "DISTRICT JUDGE MCHUGH",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9B",
-      "hearing_type": "Miscellaneous Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662294"
     },
     {
       "court": "EDPA",
@@ -861,6 +839,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "10/09/2026 01:30PM",
+      "case_number": "25-mj-1595",
+      "caption": "USA v. MARTINEZ-GEVARA",
+      "judge": "MAGISTRATE JUDGE REID",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641579"
+    },
+    {
+      "court": "EDPA",
       "datetime": "10/09/2026 02:00PM",
       "case_number": "22-cr-0260",
       "caption": "USA v. HARRIS",
@@ -1067,17 +1056,6 @@
       "courtroom": "Courtroom 10B",
       "hearing_type": "Jury Selection",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653657"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/13/2026 09:30AM",
-      "case_number": "26-cr-0014",
-      "caption": "USA v. HADJ ALI",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648150"
     },
     {
       "court": "EDPA",
@@ -1742,17 +1720,6 @@
     {
       "court": "EDPA",
       "datetime": "10/14/2026 03:00PM",
-      "case_number": "26-cr-0134",
-      "caption": "USA v. RAKHMATOV",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651868"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/14/2026 03:00PM",
       "case_number": "25-cr-0349",
       "caption": "USA v. BALLARDO",
       "judge": "DISTRICT JUDGE MARSTON",
@@ -2068,17 +2035,6 @@
       "courtroom": "Courtroom 9B",
       "hearing_type": "Plea Agreement Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662628"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/15/2026 02:00PM",
-      "case_number": "25-cr-0458",
-      "caption": "USA v. MURRAY",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645058"
     },
     {
       "court": "EDPA",
@@ -2442,17 +2398,6 @@
       "courtroom": "Courtroom 11A",
       "hearing_type": "Trial Date",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?574074"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/19/2026 09:30AM",
-      "case_number": "26-cr-0211",
-      "caption": "USA v. BILSKI",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654686"
     },
     {
       "court": "EDPA",
