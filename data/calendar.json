@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T15:17:51.071024+00:00",
+  "generated": "2026-10-09T20:08:52.262271+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -33,39 +33,6 @@
       "courtroom": "Courtroom 15B",
       "hearing_type": "Jury Selection",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/09/2026 10:00AM",
-      "case_number": "26-cr-0068",
-      "caption": "USA v. HICKMAN",
-      "judge": "DISTRICT JUDGE MCHUGH",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649964"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/09/2026 10:00AM",
-      "case_number": "24-cr-0141",
-      "caption": "USA v. VALENTIN",
-      "judge": "DISTRICT JUDGE MURPHY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?620928"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/09/2026 10:30AM",
-      "case_number": "24-cr-0211",
-      "caption": "USA v. KNIGHT",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622593"
     },
     {
       "court": "EDPA",
@@ -124,17 +91,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "10/09/2026 02:00PM",
-      "case_number": "22-cr-0260",
-      "caption": "USA v. HARRIS",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10A",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?599639"
-    },
-    {
-      "court": "EDPA",
       "datetime": "10/09/2026 02:30PM",
       "case_number": "23-cv-2410",
       "caption": "CIERI v. AIR LIQUID SYSTEMS CO",
@@ -169,17 +125,6 @@
     {
       "court": "EDPA",
       "datetime": "10/13/2026 09:00AM",
-      "case_number": "26-cr-0415",
-      "caption": "USA v. VEGA",
-      "judge": "DISTRICT JUDGE LEESON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom TBD",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661150"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/13/2026 09:00AM",
       "case_number": "25-cr-0306",
       "caption": "USA v. DE JESUS FABIAN",
       "judge": "DISTRICT JUDGE MURPHY",
@@ -209,50 +154,6 @@
       "courtroom": "Courtroom 3B",
       "hearing_type": "Trial Date",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642417"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/13/2026 09:00AM",
-      "case_number": "25-cr-0531",
-      "caption": "USA v. HAMILTON",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Evidentiary Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647537"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/13/2026 09:00AM",
-      "case_number": "25-cr-0531",
-      "caption": "USA v. HAMILTON",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647537"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/13/2026 09:00AM",
-      "case_number": "25-cr-0531",
-      "caption": "USA v. GLOVER",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Evidentiary Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647538"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/13/2026 09:00AM",
-      "case_number": "25-cr-0531",
-      "caption": "USA v. GLOVER",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647538"
     },
     {
       "court": "EDPA",
@@ -462,6 +363,28 @@
       "courtroom": "Courtroom 16B",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648472"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/13/2026 01:30PM",
+      "case_number": "26-cr-0139",
+      "caption": "",
+      "judge": "MAGISTRATE JUDGE CARLOS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662979"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/13/2026 01:30PM",
+      "case_number": "26-cr-0139",
+      "caption": "",
+      "judge": "MAGISTRATE JUDGE CARLOS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662979"
     },
     {
       "court": "EDPA",
@@ -1144,6 +1067,17 @@
       "courtroom": "Courtroom 8B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643216"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/15/2026 11:30AM",
+      "case_number": "26-cv-4621",
+      "caption": "KANNEH v. RIFE et al",
+      "judge": "DISTRICT JUDGE SANCHEZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657387"
     },
     {
       "court": "EDPA",
@@ -3552,18 +3486,6 @@
       "docket_number": "2465 EDA 2025",
       "journal_number": "J-A23018-26",
       "caption": "Com. v. Johnson, D.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "17th Floor , 530 Walnut St ., Philadelphia",
-      "city": "Philadelphia",
-      "panel": "23-ARGUMENT-2026-2",
-      "judges": "STABILE ; KING , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "10/14/2026",
-      "docket_number": "2590 EDA 2025",
-      "journal_number": "J-A23019-26",
-      "caption": "Com. v. Stallings, C.",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
