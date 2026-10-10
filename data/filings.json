@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-10T05:47:59.347907+00:00",
+  "generated": "2026-10-10T12:27:15.650143+00:00",
   "filings": [
     {
       "type": "filing",
@@ -2051,6 +2051,18 @@
       "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/26-5791.html",
       "lower_court": "United States Court of Appeals for the Third Circuit",
       "lower_court_docket": "(26-1135)",
+      "case_type": "IFP"
+    },
+    {
+      "type": "filing",
+      "court": "SCOTUS",
+      "docket": "26-5797",
+      "caption": "Maurice Smith v. United States",
+      "status": "Cert Petition",
+      "filing_date": "10/09/2026",
+      "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/26-5797.html",
+      "lower_court": "United States Court of Appeals for the Third Circuit",
+      "lower_court_docket": "(24-2734)",
       "case_type": "IFP"
     }
   ],
