@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-10T17:51:29.288021+00:00",
+  "generated": "2026-10-10T21:40:11.844659+00:00",
   "filings": [
     {
       "type": "filing",
@@ -2063,6 +2063,18 @@
       "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/26-5797.html",
       "lower_court": "United States Court of Appeals for the Third Circuit",
       "lower_court_docket": "(24-2734)",
+      "case_type": "IFP"
+    },
+    {
+      "type": "filing",
+      "court": "SCOTUS",
+      "docket": "26-5803",
+      "caption": "Jeremy G. Mill v. Monsanto Company",
+      "status": "Cert Petition",
+      "filing_date": "10/10/2026",
+      "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/26-5803.html",
+      "lower_court": "United States Court of Appeals for the Third Circuit",
+      "lower_court_docket": "(25-2847)",
       "case_type": "IFP"
     }
   ],
