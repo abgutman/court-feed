@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-10T21:41:12.510995+00:00",
+  "generated": "2026-10-11T01:01:12.988202+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -2486,6 +2486,17 @@
       "courtroom": "Courtroom 3B",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657199"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/25/2026 09:30AM",
+      "case_number": "26-cv-0753",
+      "caption": "WILLIAMS v. LOWE et al",
+      "judge": "MAGISTRATE JUDGE CARLOS",
+      "city": "Allentown",
+      "courtroom": "Cahn 4A",
+      "hearing_type": "Final Pretrial Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649491"
     }
   ],
   "third_circuit": [
