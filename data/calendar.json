@@ -1,17 +1,6 @@
 {
-  "generated": "2026-10-14T07:35:05.896057+00:00",
+  "generated": "2026-10-14T13:42:19.353882+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "10/14/2026 01:00AM",
-      "case_number": "26-cr-0475",
-      "caption": "USA v. AHMAD",
-      "judge": "MAGISTRATE JUDGE STRAW",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3G",
-      "hearing_type": "Plea Agreement Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662821"
-    },
     {
       "court": "EDPA",
       "datetime": "10/14/2026 08:45AM",
@@ -140,7 +129,7 @@
       "caption": "TROTTER v. FOX ROTHSCHILD LLP",
       "judge": "DISTRICT JUDGE KENNEY",
       "city": "Philadelphia",
-      "courtroom": "Courtroom 12A",
+      "courtroom": "Judge's Chambers",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656012"
     },
@@ -264,6 +253,17 @@
       "courtroom": "Courtroom 6B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642383"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/14/2026 01:00PM",
+      "case_number": "26-cr-0475",
+      "caption": "USA v. AHMAD",
+      "judge": "MAGISTRATE JUDGE STRAW",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3G",
+      "hearing_type": "Plea Agreement Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662821"
     },
     {
       "court": "EDPA",
@@ -1808,17 +1808,6 @@
     {
       "court": "EDPA",
       "datetime": "10/22/2026 09:30AM",
-      "case_number": "26-cr-0374",
-      "caption": "USA v. LOUIS",
-      "judge": "DISTRICT JUDGE RUFE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659617"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/22/2026 09:30AM",
       "case_number": "25-cr-0482",
       "caption": "USA v. WHITAKER",
       "judge": "DISTRICT JUDGE SANCHEZ",
@@ -3262,15 +3251,6 @@
       "date": "2026-10-20",
       "case_number": "25-3123",
       "caption": "Edwin Calderon-Ruiz v. Attorney General United States of Ame",
-      "panel": "PHIPPS, FREEMAN, ROTH",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 1:30pm",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-10-20",
-      "case_number": "25-3400",
-      "caption": "Lamar Gayle-Brooms v. Attorney General United States of Amer",
       "panel": "PHIPPS, FREEMAN, ROTH",
       "location_time": "Philadelphia, PA - Maris Courtroom / 1:30pm",
       "disposition": "Argued"
