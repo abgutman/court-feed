@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-15T16:57:12.571581+00:00",
+  "generated": "2026-10-15T20:20:38.953177+00:00",
   "filings": [
     {
       "type": "filing",
@@ -32,7 +32,7 @@
       "type": "filing",
       "court": "PA Supreme Court",
       "docket": "354 EAL 2026",
-      "caption": "Fat Tail v. Hurst, C., Pet.",
+      "caption": "Fat Tail v. Hurst, C., Pet.: of Curtis Hurst",
       "status": "Active",
       "filing_date": "10/13/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=354 EAL 2026&dnh=Hth1Ib1weL1qRhHClR8pzw%3D%3D"
@@ -45,6 +45,15 @@
       "status": "Active",
       "filing_date": "10/15/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=355 EAL 2026&dnh=o%2FdKFC5zx3qiDNHLMXs77w%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "356 EAL 2026",
+      "caption": "SEPTA v. Shuler, D., Pet.",
+      "status": "Active",
+      "filing_date": "10/15/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=356 EAL 2026&dnh=S3YECzyKYS390RnMA6A7Uw%3D%3D"
     },
     {
       "type": "filing",
@@ -198,6 +207,15 @@
       "status": "Active",
       "filing_date": "10/15/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=599 MAL 2026&dnh=p52gmR6spU7U93oJL2R1xQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "600 MAL 2026",
+      "caption": "Commonwealth v. Flood, T., Pet.",
+      "status": "Active",
+      "filing_date": "10/15/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=600 MAL 2026&dnh=X7QzHJIg82AAiQGq1D9PLw%3D%3D"
     },
     {
       "type": "filing",
@@ -630,6 +648,33 @@
       "status": "Active",
       "filing_date": "10/15/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2874 EDA 2026&dnh=YMOxIc2NjTXvv4%2BWhVmjwg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2875 EDA 2026",
+      "caption": "Com. v. Green, M.",
+      "status": "Active",
+      "filing_date": "10/15/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2875 EDA 2026&dnh=oyKXcy39eAC6lMs4TYHFNg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2876 EDA 2026",
+      "caption": "Com. v. Allen, T.",
+      "status": "Active",
+      "filing_date": "10/15/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2876 EDA 2026&dnh=LVsrnxD7%2FEZO7v6YZHDZBw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2877 EDA 2026",
+      "caption": "Com. v. Randolph, D.",
+      "status": "Active",
+      "filing_date": "10/15/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2877 EDA 2026&dnh=wvaI6u8qDrAKxbi0QupqPQ%3D%3D"
     },
     {
       "type": "filing",
@@ -1290,6 +1335,15 @@
     },
     {
       "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "129 WDM 2026",
+      "caption": "Com. v. Sample, A.",
+      "status": "Active",
+      "filing_date": "10/15/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=129 WDM 2026&dnh=1y62nxDlHUmKfzOgWzybGA%3D%3D"
+    },
+    {
+      "type": "filing",
       "court": "PA Commonwealth Court",
       "docket": "1560 CD 2026",
       "caption": "Dorman, T. v. PPB",
@@ -1413,6 +1467,15 @@
       "status": "Active",
       "filing_date": "10/14/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1588 CD 2026&dnh=x32AH7MFy4mSEy88X9bJVQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "1592 CD 2026",
+      "caption": "Patoki, S. v. DHS",
+      "status": "Active",
+      "filing_date": "10/15/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1592 CD 2026&dnh=bSFdvp25c%2Bb8iBAzUuifwA%3D%3D"
     },
     {
       "type": "filing",
@@ -1563,9 +1626,311 @@
       "lower_court": "United States Court of Appeals for the Third Circuit",
       "lower_court_docket": "(24-2824)",
       "case_type": "IFP"
+    },
+    {
+      "type": "filing",
+      "court": "SCOTUS",
+      "docket": "26-5850",
+      "caption": "John F. Kodenkandeth v. UPMC Health Plan Inc., dba UPMC for Life, et al.",
+      "status": "Cert Petition",
+      "filing_date": "10/15/2026",
+      "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/26-5850.html",
+      "lower_court": "United States Court of Appeals for the Third Circuit",
+      "lower_court_docket": "(25-1513)",
+      "case_type": "IFP"
     }
   ],
   "opinions": [
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 71 EM 2026",
+      "caption": "Govan, K., Pet. v. Commonwealth Court of Pa.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/71EM2026 - 106961676377772646.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/71EM2026 - 106961676377772646.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 17 EM 2026",
+      "caption": "City of Philadelphia v. F.A. Realty Investors, Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/17EM2026 - 106961684377773049.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/17EM2026 - 106961684377773049.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 75 EM 2026",
+      "caption": "Bugg, W., Pet. v. Desvigne, D.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/75EM2026 - 106961737377776957.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/75EM2026 - 106961737377776957.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 74 EM 2026",
+      "caption": "Commonwealth v. Muhammid, K.N., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/74EM2026 - 106961682377773097.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/74EM2026 - 106961682377773097.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 145 EAL 2026",
+      "caption": "Commonwealth v. Williams, D., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/145EAL2026 - 106961420377747066.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/145EAL2026 - 106961420377747066.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 130 EAL 2026",
+      "caption": "Commonwealth v. Hart, J., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/130EAL2026 - 106961412377746374.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/130EAL2026 - 106961412377746374.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 117 EAL 2026",
+      "caption": "Commonwealth v. Wilkersen, K., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/117EAL2026 - 106961408377746146.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/117EAL2026 - 106961408377746146.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 54 EAL 2025",
+      "caption": "Commonwealth v. Cook, J., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/54EAL2025 - 106961364377739837.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/54EAL2025 - 106961364377739837.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 111 WM 2026",
+      "caption": "Commonwealth v. Piner, S., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/111WM2026 - 106961532377760694.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/111WM2026 - 106961532377760694.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 110 WM 2026",
+      "caption": "Commonwealth v. Piner, S., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/110WM2026 - 106961531377760694.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/110WM2026 - 106961531377760694.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 109 WM 2026",
+      "caption": "Commonwealth v. Piner, S., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/109WM2026 - 106961530377760694.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/109WM2026 - 106961530377760694.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 108 WM 2026",
+      "caption": "Commonwealth v. Piner, S., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/108WM2026 - 106961529377760694.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/108WM2026 - 106961529377760694.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 107 WM 2026",
+      "caption": "Commonwealth v. Piner, S., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/107WM2026 - 106961528377760694.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/107WM2026 - 106961528377760694.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 106 WM 2026",
+      "caption": "Commonwealth v. Piner, S., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/106WM2026 - 106961527377760694.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/106WM2026 - 106961527377760694.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 105 WM 2026",
+      "caption": "Commonwealth v. Piner, S., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/105WM2026 - 106961526377760694.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/105WM2026 - 106961526377760694.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 104 WM 2026",
+      "caption": "Commonwealth v. Piner, S., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/104WM2026 - 106961525377760694.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/104WM2026 - 106961525377760694.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 103 WM 2026",
+      "caption": "Commonwealth v. Piner, S., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/103WM2026 - 106961524377760694.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/103WM2026 - 106961524377760694.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 102 WM 2026",
+      "caption": "Commonwealth v. Piner, S., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/102WM2026 - 106961523377760694.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/102WM2026 - 106961523377760694.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 101 WM 2026",
+      "caption": "Commonwealth v. Piner, S., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/101WM2026 - 106961522377760694.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/101WM2026 - 106961522377760694.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 100 WM 2026",
+      "caption": "Commonwealth v. Piner, S., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/100WM2026 - 106961521377760694.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/100WM2026 - 106961521377760694.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 99 WM 2026",
+      "caption": "Commonwealth v. Piner, S., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/99WM2026 - 106961520377760694.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/99WM2026 - 106961520377760694.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 3219 DD3",
+      "caption": "ODC, Pet. v. John Paul Senich, Jr.",
+      "author": "Per Curiam",
+      "pub_date": "Wed, 14 Oct 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/3219DD3 - 106959822377597283.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/3219DD3 - 106959822377597283.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 175 MM 2026",
+      "caption": "Lake, G., Pet. v. Schuylkill Co. CCP Judge",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/175MM2026 - 106961611377767369.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/175MM2026 - 106961611377767369.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 170 MM 2026",
+      "caption": "US Bank Trust Natl. Assoc. v. Schaeffer, K., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/170MM2026 - 106961564377762882.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/170MM2026 - 106961564377762882.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 171 MM 2026",
+      "caption": "Groff, B. &amp; L. v. Ostrowski, A., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/171MM2026 - 106961717377775469.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/171MM2026 - 106961717377775469.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 379 MAL 2026",
+      "caption": "Commonwealth v. Orner, E., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/379MAL2026 - 106961425377748509.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/379MAL2026 - 106961425377748509.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 241 MAL 2026",
+      "caption": "Kartik, LLC, Pet. v. Tinicum Twp. ZHB et al.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/241MAL2026 - 106961423377748170.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/241MAL2026 - 106961423377748170.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 240 MAL 2026",
+      "caption": "Kartik, LLC, Pet. v. Tinicum Twp. ZHB et al.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/240MAL2026 - 106961422377748170.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/240MAL2026 - 106961422377748170.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 153 MAL 2026",
+      "caption": "Miller, K., et al., Pets. v. Pottstown Hospital, et al.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/153MAL2026 - 106961335377736017.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/153MAL2026 - 106961335377736017.pdf"
+    },
     {
       "type": "opinion",
       "court": "PA Supreme Court",
@@ -1775,216 +2140,6 @@
       "pub_date": "Wed, 14 Oct 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Supreme/out/325MAL2026 - 106959330377520300.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/325MAL2026 - 106959330377520300.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 324 MAL 2026",
-      "caption": "Commonwealth v. Reed, J., Pet.",
-      "author": "Per Curiam",
-      "pub_date": "Wed, 14 Oct 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/324MAL2026 - 106959329377520300.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/324MAL2026 - 106959329377520300.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 316 MAL 2026",
-      "caption": "Commonwealth v. Derr, E., Pet.",
-      "author": "Per Curiam",
-      "pub_date": "Wed, 14 Oct 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/316MAL2026 - 106959511377562620.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/316MAL2026 - 106959511377562620.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 306 MAL 2026",
-      "caption": "Commonwealth v. Carbaugh, S., Pet.",
-      "author": "Per Curiam",
-      "pub_date": "Wed, 14 Oct 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/306MAL2026 - 106959480377557640.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/306MAL2026 - 106959480377557640.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 295 MAL 2026",
-      "caption": "In Re: Est. of Rodenbach, A., Pet. of: Marrero, A., et al.",
-      "author": "Per Curiam",
-      "pub_date": "Wed, 14 Oct 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/295MAL2026 - 106959509377561699.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/295MAL2026 - 106959509377561699.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 287 MAL 2026",
-      "caption": "Commonwealth v. Saunders, K., Pet.",
-      "author": "Per Curiam",
-      "pub_date": "Wed, 14 Oct 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/287MAL2026 - 106959507377561229.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/287MAL2026 - 106959507377561229.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 274 MAL 2026",
-      "caption": "C.M. v. Rillema, K., Pet.",
-      "author": "Per Curiam",
-      "pub_date": "Wed, 14 Oct 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/274MAL2026 - 106959479377556969.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/274MAL2026 - 106959479377556969.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 253 MAL 2026",
-      "caption": "Commonwealth v. Luperi, M., Pet.",
-      "author": "Per Curiam",
-      "pub_date": "Wed, 14 Oct 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/253MAL2026 - 106959505377559376.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/253MAL2026 - 106959505377559376.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 202 MAL 2026",
-      "caption": "Commonwealth v. Spencer, N., Jr., Pet.",
-      "author": "Per Curiam",
-      "pub_date": "Wed, 14 Oct 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/202MAL2026 - 106959427377545654.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/202MAL2026 - 106959427377545654.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 201 MAL 2026",
-      "caption": "Commonwealth v. Doll, J., Pet.",
-      "author": "Per Curiam",
-      "pub_date": "Wed, 14 Oct 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/201MAL2026 - 106959426377545645.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/201MAL2026 - 106959426377545645.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 196 MAL 2026",
-      "caption": "Commonwealth v. Monighan, J., Pet.",
-      "author": "Per Curiam",
-      "pub_date": "Wed, 14 Oct 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/196MAL2026 - 106959425377545049.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/196MAL2026 - 106959425377545049.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 187 MAL 2026",
-      "caption": "Commonwealth v. Roman, J., Pet.",
-      "author": "Per Curiam",
-      "pub_date": "Wed, 14 Oct 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/187MAL2026 - 106959423377545003.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/187MAL2026 - 106959423377545003.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 162 MAL 2026",
-      "caption": "Commonwealth v. Flythe, A., Pet.",
-      "author": "Per Curiam",
-      "pub_date": "Wed, 14 Oct 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/162MAL2026 - 106959422377544351.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/162MAL2026 - 106959422377544351.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 133 MAL 2026",
-      "caption": "Commonwealth v. Weathers, R., Pet.",
-      "author": "Per Curiam",
-      "pub_date": "Wed, 14 Oct 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/133MAL2026 - 106959421377544305.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/133MAL2026 - 106959421377544305.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 116 MAL 2026",
-      "caption": "Commonwealth v. Baker, P., Pet.",
-      "author": "Per Curiam",
-      "pub_date": "Wed, 14 Oct 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/116MAL2026 - 106959450377552521.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/116MAL2026 - 106959450377552521.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 23 MAP 2025",
-      "caption": "Commonwealth v. Scott, J., Aplt.",
-      "author": "",
-      "pub_date": "Tue, 13 Oct 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/J-12B-2026mo - 106958341377444531.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/J-12B-2026mo - 106958341377444531.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 23 MAP 2025",
-      "caption": "Commonwealth v. Scott, J., Aplt.",
-      "author": "Justice David Wecht",
-      "pub_date": "Tue, 13 Oct 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/J-12B-2026co - 106958341377445164.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/J-12B-2026co - 106958341377445164.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 22 MAP 2025",
-      "caption": "Commonwealth v. Cassell, III, C., Aplt.",
-      "author": "",
-      "pub_date": "Tue, 13 Oct 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/J-12A-2026mo - 106958340377444136.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/J-12A-2026mo - 106958340377444136.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 22 MAP 2025",
-      "caption": "Commonwealth v. Cassell, III, C., Aplt.",
-      "author": "Justice David Wecht",
-      "pub_date": "Tue, 13 Oct 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/J-12A-2026co - 106958340377444628.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/J-12A-2026co - 106958340377444628.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 16 WAP 2026",
-      "caption": "Hommrich, D., Aplt. v. PUC",
-      "author": "Per Curiam",
-      "pub_date": "Tue, 13 Oct 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/16WAP2026pco - 106957708377387415.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/16WAP2026pco - 106957708377387415.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 227 MM 2026",
-      "caption": "Pet. of Veterans of Foreign Wars Vesle Post 418; et al.",
-      "author": "Per Curiam",
-      "pub_date": "Fri, 09 Oct 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/227MM2026 - 106956560377233409.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/227MM2026 - 106956560377233409.pdf"
-    },
-    {
-      "type": "opinion",
-      "court": "PA Supreme Court",
-      "docket": "No. 224 MM 2026",
-      "caption": "Pet. for Exercise of King's Bench Auth. (2 EAP 2024 &amp; 50 MAP 2024);  Pet of: Senator Gene Yaw, et al.",
-      "author": "Per Curiam",
-      "pub_date": "Fri, 09 Oct 2026 04:00:00 GMT",
-      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/224MM2026 - 106956555377232795.pdf",
-      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/224MM2026 - 106956555377232795.pdf"
     },
     {
       "type": "opinion",
