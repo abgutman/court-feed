@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-19T06:12:22.660998+00:00",
+  "generated": "2026-10-19T13:07:51.081833+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -2813,15 +2813,6 @@
     {
       "court": "Third Circuit",
       "date": "2026-10-20",
-      "case_number": "25-2987",
-      "caption": "Muhamad Rifai v. DOJ et al",
-      "panel": "PHIPPS, FREEMAN, ROTH",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 1:30pm",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-10-20",
       "case_number": "25-3123",
       "caption": "Edwin Calderon-Ruiz v. Attorney General United States of Ame",
       "panel": "PHIPPS, FREEMAN, ROTH",
@@ -3131,6 +3122,132 @@
       "case_number": "25-3114",
       "caption": "Sandra  Manzano-Lopez et al  v. Attorney General United Stat",
       "panel": "PHIPPS, FREEMAN, ROTH",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-03",
+      "case_number": "24-9002",
+      "caption": "USA v. Robert Bowers",
+      "panel": "HARDIMAN, BIBAS, MATEY",
+      "location_time": "Pittsburgh, PA - Courtroom 3A / 9:30am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-09",
+      "case_number": "25-3257",
+      "caption": "USA v. Eliot Gentry",
+      "panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 10:00am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-09",
+      "case_number": "25-3582",
+      "caption": "Brian Callery et al v. HOP Energy",
+      "panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 10:00am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-09",
+      "case_number": "24-3063",
+      "caption": "USA v. Kevin Jones",
+      "panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-09",
+      "case_number": "25-2490",
+      "caption": "USA v. Thomas Autry",
+      "panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-09",
+      "case_number": "25-2623",
+      "caption": "PPL Electric Utilities et al  v. IBEW Local 1600",
+      "panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-09",
+      "case_number": "25-3080",
+      "caption": "AmTrust Financial Services Inc v. Liberty Insurance Underwri",
+      "panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-09",
+      "case_number": "25-3175",
+      "caption": "USA v. Ivan Baez",
+      "panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-10",
+      "case_number": "24-2759",
+      "caption": "USA v. Antoine Montgomery",
+      "panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-10",
+      "case_number": "25-1469",
+      "caption": "Ruben  Morales-Medina v. Attorney General United States of A",
+      "panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-10",
+      "case_number": "25-3145",
+      "caption": "USA v. Yanthonic Herrera",
+      "panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-10",
+      "case_number": "25-3224",
+      "caption": "Ruben Morales-Medina v. Attorney General United States of Am",
+      "panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-10",
+      "case_number": "25-3409",
+      "caption": "USA v. Naquann Simmons",
+      "panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-10",
+      "case_number": "25-3537",
+      "caption": "USA v. Michael Hochman",
+      "panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
       "location_time": "",
       "disposition": "Submitted"
     }
