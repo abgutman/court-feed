@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-18T23:09:58.303852+00:00",
+  "generated": "2026-10-19T01:15:05.017726+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -2442,6 +2442,281 @@
       "courtroom": "Courtroom 3B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655348"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/02/2026 09:00AM",
+      "case_number": "26-cr-0232",
+      "caption": "USA v. DAVIS",
+      "judge": "DISTRICT JUDGE KEARNEY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 6B",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655171"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/02/2026 09:00AM",
+      "case_number": "25-cr-0116",
+      "caption": "USA v. CONTRERAS-ALBALADEJO",
+      "judge": "DISTRICT JUDGE LEESON",
+      "city": "Allentown",
+      "courtroom": "Cahn 3C",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635381"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/02/2026 09:00AM",
+      "case_number": "26-cr-0029",
+      "caption": "USA v. GARDNER",
+      "judge": "DISTRICT JUDGE LEESON",
+      "city": "Allentown",
+      "courtroom": "Cahn 3C",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648529"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/02/2026 09:00AM",
+      "case_number": "26-cr-0029",
+      "caption": "USA v. GARDNER",
+      "judge": "DISTRICT JUDGE LEESON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom TBD",
+      "hearing_type": "Jury Selection",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648529"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/02/2026 09:30AM",
+      "case_number": "25-cv-1517",
+      "caption": "PATRIOT GROWTH INSURANCE COMPA",
+      "judge": "DISTRICT JUDGE COSTELLO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 6A",
+      "hearing_type": "Bench Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635195"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/02/2026 09:30AM",
+      "case_number": "23-cv-1436",
+      "caption": "MICKENS v. CITY OF PHILADELPHI",
+      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 8B",
+      "hearing_type": "Jury Selection",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?608465"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/02/2026 09:30AM",
+      "case_number": "25-cv-6277",
+      "caption": "Holloway v. PHILADELPHIA PARKI",
+      "judge": "DISTRICT JUDGE SANCHEZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14B",
+      "hearing_type": "Final Pretrial Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645841"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/02/2026 09:30AM",
+      "case_number": "26-cr-0177",
+      "caption": "USA v. HOLOTA",
+      "judge": "DISTRICT JUDGE SCHMEHL",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom TBD",
+      "hearing_type": "Jury Selection",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653344"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/02/2026 09:30AM",
+      "case_number": "25-cr-0471",
+      "caption": "USA v. TURPIN",
+      "judge": "DISTRICT JUDGE YOUNGE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 15B",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645646"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/02/2026 10:00AM",
+      "case_number": "26-cv-3023",
+      "caption": "FIRKIN v. STATE FARM FIRE & CA",
+      "judge": "MAGISTRATE JUDGE REID",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3C",
+      "hearing_type": "Settlement Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654120"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/02/2026 10:30AM",
+      "case_number": "26-cr-0214",
+      "caption": "USA v. NEWELL",
+      "judge": "DISTRICT JUDGE DIAMOND",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654729"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/02/2026 11:00AM",
+      "case_number": "25-cr-0479",
+      "caption": "USA v. LEMAR",
+      "judge": "DISTRICT JUDGE BAYLSON",
+      "city": "Philadelphia",
+      "courtroom": "COURTROOM",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645795"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/02/2026 11:00AM",
+      "case_number": "25-cr-0380",
+      "caption": "USA v. ESPINAL INFANTE",
+      "judge": "DISTRICT JUDGE DIAMOND",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14A",
+      "hearing_type": "Sentencing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642879"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/02/2026 01:00PM",
+      "case_number": "24-cv-0484",
+      "caption": "SATTERFIELD v. GALLO",
+      "judge": "DISTRICT JUDGE PEREZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10B",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618480"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/02/2026 01:30PM",
+      "case_number": "09-cr-0317",
+      "caption": "USA v. EDWARDS",
+      "judge": "DISTRICT JUDGE DIAMOND",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14A",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?302571"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/02/2026 01:30PM",
+      "case_number": "26-cv-0539",
+      "caption": "MAJORS v. 1-800-PACK-RAT, LLC",
+      "judge": "DISTRICT JUDGE SANCHEZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14B",
+      "hearing_type": "Final Pretrial Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649018"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/02/2026 02:00PM",
+      "case_number": "18-cr-0214",
+      "caption": "USA v. VAZANELLIS",
+      "judge": "DISTRICT JUDGE BARTLE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16A",
+      "hearing_type": "Sentencing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?543105"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/02/2026 02:00PM",
+      "case_number": "26-cr-0134",
+      "caption": "USA v. RAKHMATOV",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Sentencing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651868"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/02/2026 02:00PM",
+      "case_number": "25-cr-0305",
+      "caption": "USA v. HUNTER",
+      "judge": "DISTRICT JUDGE WEILHEIMER",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 7B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640489"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/02/2026 02:00PM",
+      "case_number": "25-cr-0305",
+      "caption": "USA v. TABBS",
+      "judge": "DISTRICT JUDGE WEILHEIMER",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 7B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640490"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/02/2026 02:00PM",
+      "case_number": "25-cr-0305",
+      "caption": "USA v. TABBS",
+      "judge": "DISTRICT JUDGE WEILHEIMER",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 7B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640491"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/02/2026 02:00PM",
+      "case_number": "25-cr-0305",
+      "caption": "USA v. HUNTER",
+      "judge": "DISTRICT JUDGE WEILHEIMER",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 7B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640492"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/02/2026 02:00PM",
+      "case_number": "25-cr-0305",
+      "caption": "USA v. STALLWORTH",
+      "judge": "DISTRICT JUDGE WEILHEIMER",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 7B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640493"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/02/2026 02:00PM",
+      "case_number": "25-cr-0305",
+      "caption": "USA v. SAEED",
+      "judge": "DISTRICT JUDGE WEILHEIMER",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 7B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640494"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/02/2026 02:00PM",
+      "case_number": "25-cr-0305",
+      "caption": "USA v. PINKNEY",
+      "judge": "DISTRICT JUDGE WEILHEIMER",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 7B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640495"
     }
   ],
   "third_circuit": [
