@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-19T19:19:22.081632+00:00",
+  "generated": "2026-10-19T23:37:44.725692+00:00",
   "filings": [
     {
       "type": "filing",
@@ -801,6 +801,15 @@
       "status": "Active",
       "filing_date": "10/19/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2903 EDA 2026&dnh=1wwsEBqHKa94c8rfHFvY7g%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2904 EDA 2026",
+      "caption": "Com. v. Dyson, J.",
+      "status": "Active",
+      "filing_date": "10/19/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2904 EDA 2026&dnh=wPr32uW21QwVAUfB9CnURA%3D%3D"
     },
     {
       "type": "filing",
@@ -1742,7 +1751,7 @@
       "type": "filing",
       "court": "PA Commonwealth Court",
       "docket": "1601 CD 2026",
-      "caption": "In re: Appeal of Esbert, LLC et al",
+      "caption": "In re: Appeal of Esbert, LLC et al.",
       "status": "Active",
       "filing_date": "10/13/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1601 CD 2026&dnh=t7we1TG83L4JLjXYrtvzsA%3D%3D"
@@ -3467,6 +3476,18 @@
       "url": "https://www2.ca3.uscourts.gov/opinarch/241091p.pdf",
       "guid": "ca3-24-1091-241091p.pdf",
       "precedential": true,
+      "origin": "USDC for the Eastern District of Pennsylvania"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "26-2713",
+      "caption": "Aaron Mazie v.",
+      "author": "",
+      "pub_date": "Mon, 19 Oct 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/262713np.pdf",
+      "guid": "ca3-26-2713-262713np.pdf",
+      "precedential": false,
       "origin": "USDC for the Eastern District of Pennsylvania"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-19T19:20:43.873920+00:00",
+  "generated": "2026-10-19T23:38:59.237005+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -58,28 +58,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "10/19/2026 09:30AM",
-      "case_number": "22-cv-0315",
-      "caption": "VERTEX, INC. v. AVALARA, INC.",
-      "judge": "DISTRICT JUDGE YOUNGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15B",
-      "hearing_type": "Trial Date",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/19/2026 10:30AM",
-      "case_number": "26-cr-0468",
-      "caption": "USA v. MELVIN",
-      "judge": "DISTRICT JUDGE MCHUGH",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9B",
-      "hearing_type": "Plea Agreement Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662760"
-    },
-    {
-      "court": "EDPA",
       "datetime": "10/19/2026 11:00AM",
       "case_number": "25-cv-5697",
       "caption": "Alonso v. Unionville Chadds Fo",
@@ -91,17 +69,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "10/19/2026 01:00PM",
-      "case_number": "26-cv-5612",
-      "caption": "BANK MIDWEST, a division of NB",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659312"
-    },
-    {
-      "court": "EDPA",
       "datetime": "10/19/2026 01:30PM",
       "case_number": "04-cr-0732",
       "caption": "USA v. BUTLER",
@@ -110,39 +77,6 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?178997"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/19/2026 02:00PM",
-      "case_number": "26-cv-7681",
-      "caption": "OGUNDAIRO v. JAMISON et al",
-      "judge": "DISTRICT JUDGE HODGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15A",
-      "hearing_type": "Miscellaneous Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663289"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/19/2026 02:00PM",
-      "case_number": "25-cr-0110",
-      "caption": "USA v. CULVER",
-      "judge": "DISTRICT JUDGE PADOVA",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 17B",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635156"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/19/2026 02:00PM",
-      "case_number": "25-cr-0042",
-      "caption": "USA v. TUCKER",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638247"
     },
     {
       "court": "EDPA",
@@ -176,6 +110,17 @@
       "courtroom": "Courtroom 17A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635673"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/20/2026 09:30AM",
+      "case_number": "22-cv-0315",
+      "caption": "VERTEX, INC. v. AVALARA, INC.",
+      "judge": "DISTRICT JUDGE YOUNGE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 15B",
+      "hearing_type": "Trial Date",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977"
     },
     {
       "court": "EDPA",
@@ -275,6 +220,17 @@
       "courtroom": "Courtroom 7B",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643895"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/20/2026 9:30AM",
+      "case_number": "26-cv-5612",
+      "caption": "BANK MIDWEST, a division of NB",
+      "judge": "DISTRICT JUDGE SCOTT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659312"
     },
     {
       "court": "EDPA",
@@ -839,14 +795,14 @@
     },
     {
       "court": "EDPA",
-      "datetime": "10/22/2026 11:00AM",
-      "case_number": "23-cv-0995",
-      "caption": "PRYSM GROUP, LLC v. TRUSTEES O",
-      "judge": "DISTRICT JUDGE COSTELLO",
+      "datetime": "10/22/2026 10:30AM",
+      "case_number": "25-cr-0141",
+      "caption": "USA v. WARREN",
+      "judge": "DISTRICT JUDGE WOLSON",
       "city": "Philadelphia",
-      "courtroom": "Courtroom 17A",
+      "courtroom": "Courtroom 12B",
       "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?607255"
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635924"
     },
     {
       "court": "EDPA",
@@ -1397,17 +1353,6 @@
       "courtroom": "Courtroom 6A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631195"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/27/2026 10:00AM",
-      "case_number": "24-cr-0377",
-      "caption": "USA v. MCFARLAND",
-      "judge": "DISTRICT JUDGE HODGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628863"
     },
     {
       "court": "EDPA",
@@ -2398,6 +2343,17 @@
       "courtroom": "Cahn 3C",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635381"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/02/2026 09:00AM",
+      "case_number": "23-cv-3300",
+      "caption": "BENSON v. DELAWARE COUNTY SHER",
+      "judge": "DISTRICT JUDGE SANCHEZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14B",
+      "hearing_type": "Trial Date",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?613031"
     },
     {
       "court": "EDPA",
@@ -3736,18 +3692,6 @@
       "docket_number": "2609 EDA 2025",
       "journal_number": "J-A25016-26",
       "caption": "Com. v. Monsee, A.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "17th Floor , 530 Walnut St ., Philadelphia",
-      "city": "Philadelphia",
-      "panel": "25-ARGUMENT-2026-2",
-      "judges": "NICHOLS ; MURRAY ; MCLAUGHLIN , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "10/27/2026",
-      "docket_number": "2808 EDA 2025",
-      "journal_number": "J-A25017-26",
-      "caption": "Com. v. Baker, C.",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
@@ -5344,18 +5288,6 @@
       "docket_number": "2609 EDA 2025",
       "journal_number": "J-A25016-26",
       "caption": "Com. v. Monsee, A.",
-      "consideration_type": "Standard \u2014 Argument Panel",
-      "location": "17th Floor , 530 Walnut St ., Philadelphia",
-      "city": "Philadelphia",
-      "panel": "25-ARGUMENT-2026-2",
-      "judges": "NICHOLS ; MURRAY ; MCLAUGHLIN , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "10/27/2026",
-      "docket_number": "2808 EDA 2025",
-      "journal_number": "J-A25017-26",
-      "caption": "Com. v. Baker, C.",
       "consideration_type": "Standard \u2014 Argument Panel",
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
