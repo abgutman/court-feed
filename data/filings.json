@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20T19:12:59.671961+00:00",
+  "generated": "2026-10-20T22:16:39.689638+00:00",
   "filings": [
     {
       "type": "filing",
@@ -207,6 +207,15 @@
       "status": "Active",
       "filing_date": "10/19/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=610 MAL 2026&dnh=WQ6sHsGqaz2A82MFdN0oQA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "613 MAL 2026",
+      "caption": "Armenti, C., Pet. v. Chester Co. DA's Office",
+      "status": "Active",
+      "filing_date": "10/20/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=613 MAL 2026&dnh=nqrCt5l9yV1se0nogcCq8A%3D%3D"
     },
     {
       "type": "filing",
@@ -792,6 +801,15 @@
       "status": "Active",
       "filing_date": "10/20/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2914 EDA 2026&dnh=vAjVM1LPwJfIltPuOvSz1w%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2915 EDA 2026",
+      "caption": "Demessie, D. v. Moges, E.",
+      "status": "Active",
+      "filing_date": "10/20/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2915 EDA 2026&dnh=H44318ISEjFvWbIDRMufeQ%3D%3D"
     },
     {
       "type": "filing",
@@ -2891,6 +2909,16 @@
       "pub_date": "Thu, 15 Oct 2026 04:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Superior/out/101526 W.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Superior/out/101526 W.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "1516 C.D. 2026",
+      "caption": "R. Mancini v. Delaware County, PA",
+      "author": "Covey, J.",
+      "pub_date": "Tue, 20 Oct 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1516CD26_10-20-26.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1516CD26_10-20-26.pdf"
     },
     {
       "type": "opinion",

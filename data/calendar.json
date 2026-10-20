@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20T19:14:30.077859+00:00",
+  "generated": "2026-10-20T22:17:59.108991+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -25,17 +25,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "10/20/2026 09:30AM",
-      "case_number": "22-cv-0315",
-      "caption": "VERTEX, INC. v. AVALARA, INC.",
-      "judge": "DISTRICT JUDGE YOUNGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15B",
-      "hearing_type": "Trial Date",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977"
-    },
-    {
-      "court": "EDPA",
       "datetime": "10/20/2026 10:00AM",
       "case_number": "18-cv-4040",
       "caption": "SCANLAN et al., v. AMERICAN AI",
@@ -44,39 +33,6 @@
       "courtroom": "Courtroom 16A",
       "hearing_type": "Trial Date",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?547375"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/20/2026 10:00AM",
-      "case_number": "25-cr-0407",
-      "caption": "USA v. FOFANA",
-      "judge": "DISTRICT JUDGE HODGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643521"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/20/2026 10:00AM",
-      "case_number": "25-cr-0407",
-      "caption": "USA v. FOFANA",
-      "judge": "DISTRICT JUDGE HODGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15A",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643521"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/20/2026 10:00AM",
-      "case_number": "24-cv-6079",
-      "caption": "JACKSON v. YELLEN",
-      "judge": "DISTRICT JUDGE MCHUGH",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9B",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629991"
     },
     {
       "court": "EDPA",
@@ -235,28 +191,6 @@
     {
       "court": "EDPA",
       "datetime": "10/20/2026 02:00PM",
-      "case_number": "26-cr-0432",
-      "caption": "USA v. GARCIA ESPINAL",
-      "judge": "DISTRICT JUDGE SAVAGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9A",
-      "hearing_type": "Plea Agreement Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661631"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/20/2026 02:00PM",
-      "case_number": "08-cr-0434",
-      "caption": "USA v. ALVAREZ",
-      "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "Reading",
-      "courtroom": "Reading 5th Floor",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?279071"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/20/2026 02:00PM",
       "case_number": "24-cr-0418",
       "caption": "USA v. EL",
       "judge": "DISTRICT JUDGE SLOMSKY",
@@ -264,17 +198,6 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630322"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/20/2026 03:00PM",
-      "case_number": "25-cr-0465",
-      "caption": "USA v. KITCHENS",
-      "judge": "DISTRICT JUDGE COSTELLO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 17A",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645492"
     },
     {
       "court": "EDPA",
@@ -308,6 +231,17 @@
       "courtroom": "Cahn 4B",
       "hearing_type": "Final Pretrial Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639373"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/21/2026 09:30AM",
+      "case_number": "22-cv-0315",
+      "caption": "VERTEX, INC. v. AVALARA, INC.",
+      "judge": "DISTRICT JUDGE YOUNGE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 15B",
+      "hearing_type": "Trial Date",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977"
     },
     {
       "court": "EDPA",
@@ -814,6 +748,17 @@
       "courtroom": "Courtroom 3B",
       "hearing_type": "Show Cause Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618278"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/23/2026 01:30PM",
+      "case_number": "26-cr-0490",
+      "caption": "USA v. PATTERSON",
+      "judge": "MAGISTRATE JUDGE STRAW",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Initial Appearance",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662976"
     },
     {
       "court": "EDPA",
@@ -1642,6 +1587,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "10/28/2026 03:00PM",
+      "case_number": "21-cr-0325",
+      "caption": "USA v. WILEY",
+      "judge": "DISTRICT JUDGE PAPPERT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 11A",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?588013"
+    },
+    {
+      "court": "EDPA",
       "datetime": "10/29/2026 09:00AM",
       "case_number": "23-cv-3300",
       "caption": "BENSON v. DELAWARE COUNTY SHER",
@@ -1804,17 +1760,6 @@
       "courtroom": "Courtroom TBD",
       "hearing_type": "Show Cause Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661333"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/29/2026 10:00AM",
-      "case_number": "26-cr-0267",
-      "caption": "USA v. BHATTI",
-      "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "Reading",
-      "courtroom": "Gateway 5th Floor",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656125"
     },
     {
       "court": "EDPA",
@@ -2170,17 +2115,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "11/02/2026 09:30AM",
-      "case_number": "25-cr-0471",
-      "caption": "USA v. TURPIN",
-      "judge": "DISTRICT JUDGE YOUNGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645646"
-    },
-    {
-      "court": "EDPA",
       "datetime": "11/02/2026 10:00AM",
       "case_number": "25-cv-5681",
       "caption": "PULIMKALAYIL v. CITY OF PHILAD",
@@ -2255,17 +2189,6 @@
       "courtroom": "Courtroom 14A",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?302571"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/02/2026 01:30PM",
-      "case_number": "26-cv-0539",
-      "caption": "MAJORS v. 1-800-PACK-RAT, LLC",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Final Pretrial Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649018"
     },
     {
       "court": "EDPA",
