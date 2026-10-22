@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T19:14:23.668739+00:00",
+  "generated": "2026-10-22T22:20:47.905840+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -26,17 +26,6 @@
     {
       "court": "EDPA",
       "datetime": "10/22/2026 09:30AM",
-      "case_number": "25-cv-1587",
-      "caption": "SIGMOND et al v. STATE FARM FI",
-      "judge": "DISTRICT JUDGE MCHUGH",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5D",
-      "hearing_type": "Arbitration Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635421"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/22/2026 09:30AM",
       "case_number": "26-cv-2354",
       "caption": "McNeil v. STATE FARM FIRE AND",
       "judge": "DISTRICT JUDGE WEILHEIMER",
@@ -44,17 +33,6 @@
       "courtroom": "Courtroom 5B",
       "hearing_type": "Arbitration Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652763"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/22/2026 09:30AM",
-      "case_number": "25-cv-6859",
-      "caption": "WILLIAMS v. USA",
-      "judge": "DISTRICT JUDGE YOUNGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5D",
-      "hearing_type": "Arbitration Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647010"
     },
     {
       "court": "EDPA",
@@ -80,17 +58,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "10/22/2026 10:30AM",
-      "case_number": "25-cr-0141",
-      "caption": "USA v. WARREN",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12B",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635924"
-    },
-    {
-      "court": "EDPA",
       "datetime": "10/22/2026 11:00AM",
       "case_number": "25-cv-6984",
       "caption": "WESTHOVEN v. HAND AND STONE FR",
@@ -99,17 +66,6 @@
       "courtroom": "Telephone Conference",
       "hearing_type": "Telephone Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647239"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/22/2026 12:30PM",
-      "case_number": "25-cr-0193",
-      "caption": "USA v. GALLAGHER",
-      "judge": "DISTRICT JUDGE YOUNGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15B",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637146"
     },
     {
       "court": "EDPA",
@@ -165,6 +121,17 @@
       "courtroom": "Courtroom 3B",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624813"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/23/2026 09:30AM",
+      "case_number": "22-cv-0315",
+      "caption": "VERTEX, INC. v. AVALARA, INC.",
+      "judge": "DISTRICT JUDGE YOUNGE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 15B",
+      "hearing_type": "Trial Date",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977"
     },
     {
       "court": "EDPA",
@@ -323,17 +290,6 @@
     {
       "court": "EDPA",
       "datetime": "10/26/2026 09:30AM",
-      "case_number": "25-cr-0058",
-      "caption": "USA v. WELDON",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633639"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/26/2026 09:30AM",
       "case_number": "26-cr-0071",
       "caption": "USA v. HILL",
       "judge": "DISTRICT JUDGE WEILHEIMER",
@@ -396,6 +352,17 @@
       "courtroom": "Courtroom 6B",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651582"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/26/2026 11:00AM",
+      "case_number": "25-cr-0531",
+      "caption": "USA v. HAMILTON",
+      "judge": "DISTRICT JUDGE SANCHEZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14B",
+      "hearing_type": "Attorney Appointment Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647537"
     },
     {
       "court": "EDPA",
@@ -1060,6 +1027,17 @@
     {
       "court": "EDPA",
       "datetime": "10/28/2026 01:30PM",
+      "case_number": "26-cr-0529",
+      "caption": "USA v. DIXON",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Initial Appearance",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664115"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/28/2026 01:30PM",
       "case_number": "25-cv-2810",
       "caption": "Gibbs v. CITY OF PHILADELPHIA",
       "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
@@ -1496,17 +1474,6 @@
       "courtroom": "Courtroom TBD",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647970"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/30/2026 10:30AM",
-      "case_number": "25-cr-0212",
-      "caption": "USA v. ALVAREZ",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637611"
     },
     {
       "court": "EDPA",
@@ -2181,17 +2148,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "11/04/2026 09:30AM",
-      "case_number": "25-cr-0141",
-      "caption": "USA v. WARREN",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635924"
-    },
-    {
-      "court": "EDPA",
       "datetime": "11/04/2026 10:00AM",
       "case_number": "25-cr-0134",
       "caption": "USA v. MATTHEWS",
@@ -2665,78 +2621,6 @@
     }
   ],
   "third_circuit": [
-    {
-      "court": "Third Circuit",
-      "date": "2026-10-22",
-      "case_number": "24-3241",
-      "caption": "USA v. Alex Agyemang",
-      "panel": "PHIPPS, FREEMAN, ROTH",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-10-22",
-      "case_number": "25-2952",
-      "caption": "Shaquana Duncan v. City of Paterson et al",
-      "panel": "PHIPPS, FREEMAN, ROTH",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-10-22",
-      "case_number": "25-3025",
-      "caption": "Edith Aponte v. Philadelphia Gas Works",
-      "panel": "PHIPPS, FREEMAN, ROTH",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-10-22",
-      "case_number": "25-3313",
-      "caption": "Jose Culajay-Sequen v. Attorney General United States of Ame",
-      "panel": "PHIPPS, FREEMAN, ROTH",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-10-22",
-      "case_number": "26-1047",
-      "caption": "Dorothy Prior v. State of Delaware Division of Developmental",
-      "panel": "PHIPPS, FREEMAN, ROTH",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-10-23",
-      "case_number": "24-2575",
-      "caption": "Michael Cummins et al  v. WalMart Stores East LP et al",
-      "panel": "PHIPPS, FREEMAN, ROTH",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-10-23",
-      "case_number": "25-2108",
-      "caption": "AFG Media Ltd v. Poptrend-Official et al",
-      "panel": "PHIPPS, FREEMAN, ROTH",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-10-23",
-      "case_number": "25-3114",
-      "caption": "Sandra  Manzano-Lopez et al  v. Attorney General United Stat",
-      "panel": "PHIPPS, FREEMAN, ROTH",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
     {
       "court": "Third Circuit",
       "date": "2026-11-03",

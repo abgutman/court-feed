@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T19:13:35.607657+00:00",
+  "generated": "2026-10-22T22:19:05.538812+00:00",
   "filings": [
     {
       "type": "filing",
@@ -177,7 +177,7 @@
       "court": "PA Supreme Court",
       "docket": "242 MM 2026",
       "caption": "Remax Centre Realty v. Burtes, E. and M., Pets.",
-      "status": "Active",
+      "status": "Decided/Active",
       "filing_date": "10/21/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=242 MM 2026&dnh=d9uN6NNqJASz1H4wnwKzAw%3D%3D"
     },
@@ -234,6 +234,15 @@
       "status": "Active",
       "filing_date": "10/21/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=285 WAL 2026&dnh=teJ%2FHI4qpbf7DUvcm7VuLQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "286 WAL 2026",
+      "caption": "Concerned Res. of West Deer, et al., Pet. v. Twp. of W.D. v. EQT",
+      "status": "Active",
+      "filing_date": "10/22/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=286 WAL 2026&dnh=c0XJBL0kiIKl4gPSYV4oQA%3D%3D"
     },
     {
       "type": "filing",
@@ -855,6 +864,51 @@
       "status": "Active",
       "filing_date": "10/22/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2946 EDA 2026&dnh=6VZmIJWpqUg2KktEgRYwwg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2947 EDA 2026",
+      "caption": "Tampellini, J. v. Celona, F.",
+      "status": "Active",
+      "filing_date": "10/22/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2947 EDA 2026&dnh=xRJLJmSB4i5Eqr65gM1Dug%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2948 EDA 2026",
+      "caption": "Ringgold, J. v. Jones, J.",
+      "status": "Active",
+      "filing_date": "10/22/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2948 EDA 2026&dnh=ZJ%2FtugD%2FGrqF%2Bw%2BU52KQtw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2949 EDA 2026",
+      "caption": "Jones, R. v. Jones, J.",
+      "status": "Active",
+      "filing_date": "10/22/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2949 EDA 2026&dnh=AsJrdSI4g%2FwNb6X%2BBKR0XA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2950 EDA 2026",
+      "caption": "White, G. v. Jones, J.",
+      "status": "Active",
+      "filing_date": "10/22/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2950 EDA 2026&dnh=JIvZbvh3EQrHmp3ysg1s3A%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2951 EDA 2026",
+      "caption": "Scott, F. v. Jones, J.",
+      "status": "Active",
+      "filing_date": "10/22/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2951 EDA 2026&dnh=ralABSTdLvG7oGu2IzMoOg%3D%3D"
     },
     {
       "type": "filing",
@@ -1687,6 +1741,24 @@
     {
       "type": "filing",
       "court": "PA Commonwealth Court",
+      "docket": "1633 CD 2026",
+      "caption": "Gaskins, D. v. PPB",
+      "status": "Active",
+      "filing_date": "10/20/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1633 CD 2026&dnh=8at3VtXJ8QxNdPqcS0tJng%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "1634 CD 2026",
+      "caption": "Wellpath LLC v. DGS",
+      "status": "Active",
+      "filing_date": "10/22/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1634 CD 2026&dnh=ANTYu%2Bv5PJF3FfXyBwAZRw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
       "docket": "356 FR 2026",
       "caption": "Dooley 2010 Irrevocable Trust v. Cmnwlth.",
       "status": "Active",
@@ -1908,6 +1980,16 @@
     }
   ],
   "opinions": [
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 242 MM 2026",
+      "caption": "Remax Centre Realty v. Burtes, E. and M., Pets.",
+      "author": "Per Curiam",
+      "pub_date": "Thu, 22 Oct 2026 04:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/242MM2026 - 106972176378798483.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/242MM2026 - 106972176378798483.pdf"
+    },
     {
       "type": "opinion",
       "court": "PA Supreme Court",
