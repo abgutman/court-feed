@@ -1,116 +1,6 @@
 {
-  "generated": "2026-10-21T20:40:14.789291+00:00",
+  "generated": "2026-10-22T00:01:20.024836+00:00",
   "edpa": [
-    {
-      "court": "EDPA",
-      "datetime": "10/21/2026 09:30AM",
-      "case_number": "22-cv-0315",
-      "caption": "VERTEX, INC. v. AVALARA, INC.",
-      "judge": "DISTRICT JUDGE YOUNGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15B",
-      "hearing_type": "Trial Date",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/21/2026 10:00AM",
-      "case_number": "26-cr-0385",
-      "caption": "USA v. FLORENTINO-CHINO",
-      "judge": "DISTRICT JUDGE MCHUGH",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9B",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660177"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/21/2026 10:00AM",
-      "case_number": "26-cr-0385",
-      "caption": "USA v. FLORENTINO-CHINO",
-      "judge": "DISTRICT JUDGE MCHUGH",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660177"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/21/2026 10:30AM",
-      "case_number": "24-cr-0453",
-      "caption": "USA v. SPELLER",
-      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 8B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631470"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/21/2026 10:30AM",
-      "case_number": "24-cr-0453",
-      "caption": "USA v. SPELLER",
-      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 8B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631470"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/21/2026 11:00AM",
-      "case_number": "25-cr-0368",
-      "caption": "USA v. JOHNSON",
-      "judge": "DISTRICT JUDGE COSTELLO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 17A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642638"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/21/2026 01:00PM",
-      "case_number": "26-cr-0135",
-      "caption": "USA v. PAULINO",
-      "judge": "DISTRICT JUDGE HENRY",
-      "city": "Easton",
-      "courtroom": "Easton 4th Floor",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651902"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/21/2026 02:00PM",
-      "case_number": "26-cr-0055",
-      "caption": "USA v. BARLOW",
-      "judge": "DISTRICT JUDGE LEESON",
-      "city": "Allentown",
-      "courtroom": "Cahn 3C",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649422"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/21/2026 02:00PM",
-      "case_number": "26-cr-0264",
-      "caption": "USA v. ROMERO-ROSARIO",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656137"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/21/2026 04:45PM",
-      "case_number": "23-cr-0454",
-      "caption": "USA v. DIXON",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631106"
-    },
     {
       "court": "EDPA",
       "datetime": "10/22/2026 08:45AM",
@@ -2530,132 +2420,364 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653445"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/05/2026 09:30AM",
+      "case_number": "23-cv-1436",
+      "caption": "MICKENS v. CITY OF PHILADELPHI",
+      "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 8B",
+      "hearing_type": "Trial Date",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?608465"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/05/2026 09:30AM",
+      "case_number": "25-cr-0225",
+      "caption": "USA v. ZENG",
+      "judge": "DISTRICT JUDGE SANCHEZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637962"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/05/2026 09:30AM",
+      "case_number": "25-cr-0225",
+      "caption": "USA v. LIN",
+      "judge": "DISTRICT JUDGE SANCHEZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637963"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/05/2026 09:30AM",
+      "case_number": "25-cr-0225",
+      "caption": "USA v. LI",
+      "judge": "DISTRICT JUDGE SANCHEZ",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637964"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/05/2026 10:00AM",
+      "case_number": "26-cr-0040",
+      "caption": "USA v. DAVENPORT",
+      "judge": "DISTRICT JUDGE MARSTON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16B",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648824"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/05/2026 10:00AM",
+      "case_number": "26-cr-0251",
+      "caption": "USA v. AUGUSTUS",
+      "judge": "DISTRICT JUDGE MCHUGH",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 9B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655748"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/05/2026 10:00AM",
+      "case_number": "26-cr-0190",
+      "caption": "USA v. MULDOR",
+      "judge": "DISTRICT JUDGE PAPPERT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 11A",
+      "hearing_type": "Evidentiary Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653662"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/05/2026 10:00AM",
+      "case_number": "26-cv-3847",
+      "caption": "Leslie et al v. STATE FARM FIR",
+      "judge": "MAGISTRATE JUDGE REID",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3C",
+      "hearing_type": "Settlement Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655815"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/05/2026 10:00AM",
+      "case_number": "23-cv-4531",
+      "caption": "CINNER v. XACTUS, LLC",
+      "judge": "DISTRICT JUDGE YOUNGE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 15B",
+      "hearing_type": "Miscellaneous Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?615888"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/05/2026 10:30AM",
+      "case_number": "25-cr-0385",
+      "caption": "USA v. CUSTODIO",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643054"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/05/2026 11:00AM",
+      "case_number": "25-cr-0454",
+      "caption": "USA v. CORBETT-BURNS",
+      "judge": "DISTRICT JUDGE DIAMOND",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 14A",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645019"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/05/2026 11:00AM",
+      "case_number": "25-cr-0432",
+      "caption": "USA v. WALLACE",
+      "judge": "DISTRICT JUDGE MARSTON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16B",
+      "hearing_type": "Sentencing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644131"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/05/2026 01:30PM",
+      "case_number": "24-cr-0164",
+      "caption": "USA v. POSTELL",
+      "judge": "DISTRICT JUDGE MARSTON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16B",
+      "hearing_type": "Sentencing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621380"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/05/2026 02:00PM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. BYRD",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "",
+      "courtroom": "unlisted",
+      "hearing_type": "Pretrial Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614823"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/05/2026 02:00PM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. PALMER",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "",
+      "courtroom": "unlisted",
+      "hearing_type": "Pretrial Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614825"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/05/2026 02:00PM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. DIXON",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "",
+      "courtroom": "unlisted",
+      "hearing_type": "Pretrial Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631102"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/05/2026 02:00PM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. MATHIS",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "",
+      "courtroom": "unlisted",
+      "hearing_type": "Pretrial Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631103"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/05/2026 02:00PM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. PALMER",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "",
+      "courtroom": "unlisted",
+      "hearing_type": "Pretrial Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631104"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/05/2026 02:00PM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. KANNEH",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "",
+      "courtroom": "unlisted",
+      "hearing_type": "Pretrial Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631105"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/05/2026 02:00PM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. DIXON",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "",
+      "courtroom": "unlisted",
+      "hearing_type": "Pretrial Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631106"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/05/2026 02:00PM",
+      "case_number": "25-cr-0472",
+      "caption": "USA v. TUGGLES",
+      "judge": "DISTRICT JUDGE MCHUGH",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 9B",
+      "hearing_type": "Sentencing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645650"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/05/2026 02:00PM",
+      "case_number": "26-cv-0012",
+      "caption": "Elker v. SPECIAL PEOPLE IN THE",
+      "judge": "DISTRICT JUDGE POZOS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom TBD",
+      "hearing_type": "Final Pretrial Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647969"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/05/2026 02:00PM",
+      "case_number": "24-cr-0376",
+      "caption": "USA v. WALSH",
+      "judge": "DISTRICT JUDGE SCHMEHL",
+      "city": "Reading",
+      "courtroom": "Reading 5th Floor",
+      "hearing_type": "Sentencing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637297"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/05/2026 03:00PM",
+      "case_number": "25-cv-4270",
+      "caption": "NEWELL v. RXLINK INC.",
+      "judge": "DISTRICT JUDGE POZOS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom TBD",
+      "hearing_type": "Miscellaneous Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641404"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/05/2026 03:00PM",
+      "case_number": "26-cv-3238",
+      "caption": "WILLIAMS-COOPER v. COLLINS",
+      "judge": "DISTRICT JUDGE POZOS",
+      "city": "Philadelphia",
+      "courtroom": "COURTROOM",
+      "hearing_type": "Scheduling Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654552"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/05/2026 03:00PM",
+      "case_number": "26-cv-3492",
+      "caption": "AURANGZEB v. SAMARA et al",
+      "judge": "DISTRICT JUDGE POZOS",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom TBD",
+      "hearing_type": "Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655125"
     }
   ],
   "third_circuit": [
     {
       "court": "Third Circuit",
-      "date": "2026-10-21",
-      "case_number": "24-2856",
-      "caption": "USA v. Timothy Baukman",
+      "date": "2026-10-22",
+      "case_number": "24-3241",
+      "caption": "USA v. Alex Agyemang",
       "panel": "PHIPPS, FREEMAN, ROTH",
-      "location_time": "Philadelphia, PA - Seitz Courtroom / 9:00am",
-      "disposition": "Argued"
+      "location_time": "",
+      "disposition": "Submitted"
     },
     {
       "court": "Third Circuit",
-      "date": "2026-10-21",
-      "case_number": "25-2306, 25-2399, 25-2399",
-      "caption": "Rim Bio Inc et al v. Avantor Fluid Handling LLC et al",
-      "panel": "BIBAS, MATEY, BOVE",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 9:00am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-10-21",
-      "case_number": "25-2849",
-      "caption": "Jaromir Kovarik et al v. IRS",
+      "date": "2026-10-22",
+      "case_number": "25-2952",
+      "caption": "Shaquana Duncan v. City of Paterson et al",
       "panel": "PHIPPS, FREEMAN, ROTH",
-      "location_time": "Philadelphia, PA - Seitz Courtroom / 9:00am",
-      "disposition": "Argued"
+      "location_time": "",
+      "disposition": "Submitted"
     },
     {
       "court": "Third Circuit",
-      "date": "2026-10-21",
-      "case_number": "25-2923",
-      "caption": "Arm Ltd. v. Qualcomm Inc. et al",
+      "date": "2026-10-22",
+      "case_number": "25-3025",
+      "caption": "Edith Aponte v. Philadelphia Gas Works",
       "panel": "PHIPPS, FREEMAN, ROTH",
-      "location_time": "Philadelphia, PA - Seitz Courtroom / 9:00am",
-      "disposition": "Argued"
+      "location_time": "",
+      "disposition": "Submitted"
     },
     {
       "court": "Third Circuit",
-      "date": "2026-10-21",
-      "case_number": "25-3347, 25-3348, 25-3349, 25-3350, 25-3363, 25-3453, 25-3454, 25-3467, 25-3455, 25-3461, 25-3485, 25-3468, 25-3456, 25-3486, 25-3462, 25-3469, 25-3470, 25-3457, 25-3471, 25-3491, 25-3463, 25-3458, 25-3464, 25-3465, 25-3472, 25-3466, 25-3459, 25-3492, 25-",
-      "caption": "Crystallex International Corp v. Bolivarian Republic of Vene",
-      "panel": "RESTREPO, PORTER, MATEY",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 11:30am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-10-21",
-      "case_number": "25-3524",
-      "caption": "Selbin Esteban-Suchite v. Attorney General United States of",
-      "panel": "BIBAS, MATEY, BOVE",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 9:00 am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-10-21",
-      "case_number": "25-3592",
-      "caption": "Justin Flinn v. Edward Lawless et al",
+      "date": "2026-10-22",
+      "case_number": "25-3313",
+      "caption": "Jose Culajay-Sequen v. Attorney General United States of Ame",
       "panel": "PHIPPS, FREEMAN, ROTH",
-      "location_time": "Philadelphia, PA - Seitz Courtroom / 9:00am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-10-21",
-      "case_number": "26-1091",
-      "caption": "Commonwealth Preservation Alliance Inc v. Dorothy Delgado et",
-      "panel": "BIBAS, MATEY, BOVE",
-      "location_time": "Philadelphia, PA - Maris Courtroom / 9:00 am",
-      "disposition": "Argued"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-10-21",
-      "case_number": "24-1440",
-      "caption": "USA v. Darryl Craig",
-      "panel": "MONTGOMERY-REEVES, ROTH, AMBRO",
       "location_time": "",
       "disposition": "Submitted"
     },
     {
       "court": "Third Circuit",
-      "date": "2026-10-21",
-      "case_number": "25-2244",
-      "caption": "Maria Martins-Maduriera et al  v. Attorney General United St",
-      "panel": "BIBAS, MATEY, BOVE",
+      "date": "2026-10-22",
+      "case_number": "26-1047",
+      "caption": "Dorothy Prior v. State of Delaware Division of Developmental",
+      "panel": "PHIPPS, FREEMAN, ROTH",
       "location_time": "",
       "disposition": "Submitted"
     },
     {
       "court": "Third Circuit",
-      "date": "2026-10-21",
-      "case_number": "25-2891",
-      "caption": "USA v. Michael Redmon",
-      "panel": "BIBAS, MATEY, BOVE",
+      "date": "2026-10-23",
+      "case_number": "24-2575",
+      "caption": "Michael Cummins et al  v. WalMart Stores East LP et al",
+      "panel": "PHIPPS, FREEMAN, ROTH",
       "location_time": "",
       "disposition": "Submitted"
     },
     {
       "court": "Third Circuit",
-      "date": "2026-10-21",
-      "case_number": "25-3390",
-      "caption": "Zuhal Butuner v. Novartis Pharmaceuticals Corp",
-      "panel": "BIBAS, MATEY, BOVE",
+      "date": "2026-10-23",
+      "case_number": "25-2108",
+      "caption": "AFG Media Ltd v. Poptrend-Official et al",
+      "panel": "PHIPPS, FREEMAN, ROTH",
       "location_time": "",
       "disposition": "Submitted"
     },
     {
       "court": "Third Circuit",
-      "date": "2026-10-21",
-      "case_number": "25-3445",
-      "caption": "A. L. et al  v. Laboratory Charter School",
-      "panel": "BIBAS, MATEY, BOVE",
-      "location_time": "",
-      "disposition": "Submitted"
-    },
-    {
-      "court": "Third Circuit",
-      "date": "2026-10-21",
-      "case_number": "26-1187",
-      "caption": "Julie Thomas v. Transcore LP et al",
-      "panel": "BIBAS, MATEY, BOVE",
+      "date": "2026-10-23",
+      "case_number": "25-3114",
+      "caption": "Sandra  Manzano-Lopez et al  v. Attorney General United Stat",
+      "panel": "PHIPPS, FREEMAN, ROTH",
       "location_time": "",
       "disposition": "Submitted"
     },
@@ -2667,6 +2789,123 @@
       "panel": "HARDIMAN, BIBAS, MATEY",
       "location_time": "Pittsburgh, PA - Courtroom 3A / 9:30am",
       "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-09",
+      "case_number": "25-3257",
+      "caption": "USA v. Eliot Gentry",
+      "panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 10:00am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-09",
+      "case_number": "25-3582",
+      "caption": "Brian Callery et al v. HOP Energy",
+      "panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 10:00am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-09",
+      "case_number": "24-3063",
+      "caption": "USA v. Kevin Jones",
+      "panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-09",
+      "case_number": "25-2490",
+      "caption": "USA v. Thomas Autry",
+      "panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-09",
+      "case_number": "25-2623",
+      "caption": "PPL Electric Utilities et al  v. IBEW Local 1600",
+      "panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-09",
+      "case_number": "25-3080",
+      "caption": "AmTrust Financial Services Inc v. Liberty Insurance Underwri",
+      "panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-09",
+      "case_number": "25-3175",
+      "caption": "USA v. Ivan Baez",
+      "panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-10",
+      "case_number": "24-2759",
+      "caption": "USA v. Antoine Montgomery",
+      "panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-10",
+      "case_number": "25-1469",
+      "caption": "Ruben  Morales-Medina v. Attorney General United States of A",
+      "panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-10",
+      "case_number": "25-3145",
+      "caption": "USA v. Yanthonic Herrera",
+      "panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-10",
+      "case_number": "25-3224",
+      "caption": "Ruben Morales-Medina v. Attorney General United States of Am",
+      "panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-10",
+      "case_number": "25-3409",
+      "caption": "USA v. Naquann Simmons",
+      "panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-10",
+      "case_number": "25-3537",
+      "caption": "USA v. Michael Hochman",
+      "panel": "SHWARTZ, MONTGOMERY-REEVES, RENDELL",
+      "location_time": "",
+      "disposition": "Submitted"
     }
   ],
   "pa_supreme": [],
