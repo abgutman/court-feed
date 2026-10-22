@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T10:11:03.981994+00:00",
+  "generated": "2026-10-22T15:15:58.758111+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -176,17 +176,6 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649459"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/22/2026 02:30PM",
-      "case_number": "26-cv-0929",
-      "caption": "THACKER v. MANOR MANAGEMENT CO",
-      "judge": "MAGISTRATE JUDGE CARLOS",
-      "city": "",
-      "courtroom": "unlisted",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649813"
     },
     {
       "court": "EDPA",
@@ -609,17 +598,6 @@
     {
       "court": "EDPA",
       "datetime": "10/27/2026 10:00AM",
-      "case_number": "24-cr-0255",
-      "caption": "USA v. SIMPSON",
-      "judge": "DISTRICT JUDGE COSTELLO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631195"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/27/2026 10:00AM",
       "case_number": "24-cr-0003",
       "caption": "USA v. MUSE",
       "judge": "DISTRICT JUDGE MURPHY",
@@ -663,14 +641,14 @@
     },
     {
       "court": "EDPA",
-      "datetime": "10/27/2026 10:00AM",
-      "case_number": "23-cr-0522",
-      "caption": "USA v. LAWSON",
-      "judge": "DISTRICT JUDGE WEILHEIMER",
+      "datetime": "10/27/2026 10:30AM",
+      "case_number": "26-cr-0340",
+      "caption": "USA v. COCCIA",
+      "judge": "DISTRICT JUDGE BARTLE",
       "city": "Philadelphia",
-      "courtroom": "Courtroom 7B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616860"
+      "courtroom": "Courtroom 16A",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658715"
     },
     {
       "court": "EDPA",
@@ -894,17 +872,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "10/28/2026 09:30AM",
-      "case_number": "93-cr-0495",
-      "caption": "USA v. DORSEY",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?132398"
-    },
-    {
-      "court": "EDPA",
       "datetime": "10/28/2026 10:00AM",
       "case_number": "17-cr-0344",
       "caption": "USA v. WILSON",
@@ -979,6 +946,17 @@
       "courtroom": "Courtroom 16B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642581"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/28/2026 10:30AM",
+      "case_number": "24-cr-0253",
+      "caption": "USA v. WILLIAMS",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624191"
     },
     {
       "court": "EDPA",
@@ -1078,17 +1056,6 @@
       "courtroom": "Courtroom 7B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621231"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/28/2026 02:00PM",
-      "case_number": "25-cv-1517",
-      "caption": "PATRIOT GROWTH INSURANCE COMPA",
-      "judge": "DISTRICT JUDGE COSTELLO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6A",
-      "hearing_type": "Final Pretrial Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635195"
     },
     {
       "court": "EDPA",
@@ -1346,6 +1313,17 @@
     {
       "court": "EDPA",
       "datetime": "10/29/2026 11:00AM",
+      "case_number": "26-cr-0149",
+      "caption": "USA v. WILFORD",
+      "judge": "DISTRICT JUDGE MCHUGH",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 9B",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652012"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "10/29/2026 11:00AM",
       "case_number": "26-cv-0227",
       "caption": "JONES-TROTTER v. LEACOCK et al",
       "judge": "DISTRICT JUDGE PADOVA",
@@ -1584,17 +1562,6 @@
       "courtroom": "Courtroom 16A",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644403"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/02/2026 09:30AM",
-      "case_number": "25-cv-1517",
-      "caption": "PATRIOT GROWTH INSURANCE COMPA",
-      "judge": "DISTRICT JUDGE COSTELLO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6A",
-      "hearing_type": "Bench Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635195"
     },
     {
       "court": "EDPA",
@@ -1936,6 +1903,17 @@
       "courtroom": "Courtroom 3C",
       "hearing_type": "Settlement Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645404"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/03/2026 10:00AM",
+      "case_number": "23-cv-0216",
+      "caption": "NEXUS 1, LLC et al v. SIDWELL",
+      "judge": "DISTRICT JUDGE SCOTT",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?604986"
     },
     {
       "court": "EDPA",
