@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-26T19:16:11.980229+00:00",
+  "generated": "2026-10-26T23:08:04.721498+00:00",
   "filings": [
     {
       "type": "filing",
@@ -166,6 +166,33 @@
     {
       "type": "filing",
       "court": "PA Supreme Court",
+      "docket": "626 MAL 2026",
+      "caption": "Commonwealth v. Jamison, D., Pet.",
+      "status": "Active",
+      "filing_date": "10/26/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=626 MAL 2026&dnh=CKxlA%2BUuEDGJRM8yxqe%2B%2BA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "627 MAL 2026",
+      "caption": "Commonwealth v. Jamison, D., Pet.",
+      "status": "Active",
+      "filing_date": "10/26/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=627 MAL 2026&dnh=NUMweQwuygXyZpZJZjDvyw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "628 MAL 2026",
+      "caption": "Commonwealth v. Jamison, D., Pet.",
+      "status": "Active",
+      "filing_date": "10/26/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=628 MAL 2026&dnh=io0aYL8%2FrEQLEG1lgIcEng%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
       "docket": "69 MAP 2026",
       "caption": "Commonwealth v. Clayborne, L., Aplt.",
       "status": "Active",
@@ -207,6 +234,15 @@
       "status": "Active",
       "filing_date": "10/26/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=244 MM 2026&dnh=DZPcrr8kZUln4UMEZoexKg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "245 MM 2026",
+      "caption": "Henderson, J. v. Kardosh, J. v. Kardosh, M. & W.; Pet. of Kardosh, J.",
+      "status": "Active",
+      "filing_date": "10/24/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=245 MM 2026&dnh=f4Y5RCgDqOPq0J0RnQ5u9A%3D%3D"
     },
     {
       "type": "filing",
@@ -936,6 +972,42 @@
       "status": "Active",
       "filing_date": "10/26/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2983 EDA 2026&dnh=6t%2BHZtMhfT8x%2Fhmnl1gMnw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2984 EDA 2026",
+      "caption": "Com. v. Dennis, J.",
+      "status": "Active",
+      "filing_date": "10/26/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2984 EDA 2026&dnh=Lkgb8Lg69mwlKRKbAy%2BZgQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2985 EDA 2026",
+      "caption": "Com. v. Cotton, K.",
+      "status": "Active",
+      "filing_date": "10/26/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2985 EDA 2026&dnh=MgRYdDV0WBGEKclIH%2BA8dw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2986 EDA 2026",
+      "caption": "Com. v. Diaz, J.",
+      "status": "Active",
+      "filing_date": "10/26/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2986 EDA 2026&dnh=UTCpPKXOg7EFMlix8edaWA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "2987 EDA 2026",
+      "caption": "Com. v. Carrillo, V.",
+      "status": "Active",
+      "filing_date": "10/26/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=2987 EDA 2026&dnh=Afs%2FVctui0AGqc%2BdxFOH2g%3D%3D"
     },
     {
       "type": "filing",
@@ -1935,18 +2007,6 @@
       "status": "Active",
       "filing_date": "10/20/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=478 MD 2026&dnh=MSgsQwlQo0pL%2FX9NW1pw9Q%3D%3D"
-    },
-    {
-      "type": "filing",
-      "court": "SCOTUS",
-      "docket": "26-5797",
-      "caption": "Maurice Smith v. United States",
-      "status": "Cert Petition",
-      "filing_date": "10/09/2026",
-      "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/26-5797.html",
-      "lower_court": "United States Court of Appeals for the Third Circuit",
-      "lower_court_docket": "(24-2734)",
-      "case_type": "IFP"
     },
     {
       "type": "filing",
