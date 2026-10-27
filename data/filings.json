@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-27T20:08:37.450740+00:00",
+  "generated": "2026-10-27T23:45:52.310556+00:00",
   "filings": [
     {
       "type": "filing",
@@ -2003,7 +2003,7 @@
       "type": "filing",
       "court": "PA Commonwealth Court",
       "docket": "1626 CD 2026",
-      "caption": "Goldberger, A. v. Pa. Comm. on Crime and Delinq.",
+      "caption": "Goldberger, A. v. PCCD",
       "status": "Active",
       "filing_date": "10/21/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1626 CD 2026&dnh=%2FLWvMdkU4eyYxzsfLwdAjA%3D%3D"
@@ -2232,18 +2232,6 @@
       "status": "Active",
       "filing_date": "10/26/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=488 MD 2026&dnh=IquIS3roZNl%2FjrIEYYgnSQ%3D%3D"
-    },
-    {
-      "type": "filing",
-      "court": "SCOTUS",
-      "docket": "26-5809",
-      "caption": "Abrahim Fata v. Abraham Ortiz, et al.",
-      "status": "Cert Petition",
-      "filing_date": "10/13/2026",
-      "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/26-5809.html",
-      "lower_court": "United States Court of Appeals for the Third Circuit",
-      "lower_court_docket": "(25-1887)",
-      "case_type": "IFP"
     },
     {
       "type": "filing",
