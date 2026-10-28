@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-28T18:50:52.882920+00:00",
+  "generated": "2026-10-28T23:12:16.748851+00:00",
   "filings": [
     {
       "type": "filing",
@@ -148,6 +148,33 @@
     {
       "type": "filing",
       "court": "PA Supreme Court",
+      "docket": "630 MAL 2026",
+      "caption": "In Re: Est. of W. Weseman",
+      "status": "Active",
+      "filing_date": "10/28/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=630 MAL 2026&dnh=LmRV7uZZrVce7ArKRr5AtA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "631 MAL 2026",
+      "caption": "In Re: D.M., an incapacitated person",
+      "status": "Active",
+      "filing_date": "10/26/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=631 MAL 2026&dnh=8PfmR7b%2B9DHMbqF0%2FiM6Ng%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "632 MAL 2026",
+      "caption": "Commonwealth v. Moragne-El, B., Pet.",
+      "status": "Active",
+      "filing_date": "10/27/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=632 MAL 2026&dnh=vC04gMSr60g7bOLmWMoQ5Q%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
       "docket": "243 MM 2026",
       "caption": "In re: Junius P. Leisure II",
       "status": "Active",
@@ -189,6 +216,24 @@
       "status": "Active",
       "filing_date": "10/27/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=247 MM 2026&dnh=xgf%2BnXGuNqyXE3gkqTaPmw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "252 MM 2026",
+      "caption": "Commonwealth v. Mayo, W., Pet.",
+      "status": "Active",
+      "filing_date": "10/28/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=252 MM 2026&dnh=V56%2FmvfThCZ7PFi15XZ%2F8Q%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "253 MM 2026",
+      "caption": "Commonwealth v. Mayo, W., Pet.",
+      "status": "Active",
+      "filing_date": "10/28/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=253 MM 2026&dnh=N6g4dyxIl81VzLFVup%2Fo2w%3D%3D"
     },
     {
       "type": "filing",
@@ -1062,6 +1107,24 @@
       "status": "Active",
       "filing_date": "10/28/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=3018 EDA 2026&dnh=2ywW9o2W7rNEzI8zOEoOsA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "3019 EDA 2026",
+      "caption": "Willner, N. v. Willner, J.",
+      "status": "Active",
+      "filing_date": "10/28/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=3019 EDA 2026&dnh=PdJ18evHS9G4RBi3Ioijyw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "3020 EDA 2026",
+      "caption": "Enshire Inc v. Alturu, R.",
+      "status": "Active",
+      "filing_date": "10/28/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=3020 EDA 2026&dnh=cycArwPGdl3qc5yGoVVvMQ%3D%3D"
     },
     {
       "type": "filing",
@@ -2209,6 +2272,15 @@
     {
       "type": "filing",
       "court": "PA Commonwealth Court",
+      "docket": "1665 CD 2026",
+      "caption": "South, Kyle, Petitioner v. Pennsylvania Parole Board",
+      "status": "Active",
+      "filing_date": "10/28/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1665 CD 2026&dnh=NjVtIJKxZ%2FR9%2B%2Fu%2F5SxxeA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
       "docket": "366 FR 2026",
       "caption": "Express Scripts, Inc. v. Cmwlth",
       "status": "Active",
@@ -2219,7 +2291,7 @@
       "type": "filing",
       "court": "PA Commonwealth Court",
       "docket": "367 FR 2026",
-      "caption": "Express Scripts, Inc. v. Cmnwlth",
+      "caption": "Express Scripts, Inc. v. Cmwlth.",
       "status": "Active",
       "filing_date": "10/27/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=367 FR 2026&dnh=7S%2BdDYe0xOvmAB3PJurxBg%3D%3D"
@@ -2354,6 +2426,18 @@
       "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/26-5951.html",
       "lower_court": "United States Court of Appeals for the Third Circuit",
       "lower_court_docket": "(20-1194)",
+      "case_type": "IFP"
+    },
+    {
+      "type": "filing",
+      "court": "SCOTUS",
+      "docket": "26-5975",
+      "caption": "Holly Ann Crawford v. Samuel M. Sanguedolce, District Attorney of Luzerne County, Pennsylvania, et al.",
+      "status": "Cert Petition",
+      "filing_date": "10/28/2026",
+      "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/26-5975.html",
+      "lower_court": "United States Court of Appeals for the Third Circuit",
+      "lower_court_docket": "(25-1743)",
       "case_type": "IFP"
     }
   ],
@@ -3635,6 +3719,18 @@
       "guid": "ca3-25-2681-252681np.pdf",
       "precedential": false,
       "origin": "Agency"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "24-2527",
+      "caption": "USA v. Racoco Williams",
+      "author": "",
+      "pub_date": "Wed, 28 Oct 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/242527np.pdf",
+      "guid": "ca3-24-2527-242527np.pdf",
+      "precedential": false,
+      "origin": "USDC for the Western District of Pennsylvania"
     },
     {
       "type": "opinion",
