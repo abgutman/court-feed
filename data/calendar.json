@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-29T09:54:30.601088+00:00",
+  "generated": "2026-10-29T16:55:37.790386+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -11,17 +11,6 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Final Pretrial Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?613031"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/29/2026 09:30AM",
-      "case_number": "26-cr-0110",
-      "caption": "USA v. BROWN",
-      "judge": "DISTRICT JUDGE KENNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651165"
     },
     {
       "court": "EDPA",
@@ -44,17 +33,6 @@
       "courtroom": "Courtroom 15B",
       "hearing_type": "Trial Date",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/29/2026 10:00AM",
-      "case_number": "23-cr-0454",
-      "caption": "USA v. DIXON",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10A",
-      "hearing_type": "Change of Plea Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631102"
     },
     {
       "court": "EDPA",
@@ -157,17 +135,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "10/29/2026 10:00AM",
-      "case_number": "26-cr-0108",
-      "caption": "USA v. BEY",
-      "judge": "DISTRICT JUDGE WEILHEIMER",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 7B",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651159"
-    },
-    {
-      "court": "EDPA",
       "datetime": "10/29/2026 10:30AM",
       "case_number": "26-cr-0023",
       "caption": "USA v. TERRY",
@@ -237,9 +204,9 @@
       "datetime": "10/29/2026 12:00PM",
       "case_number": "26-cr-0529",
       "caption": "USA v. DIXON",
-      "judge": "CHIEF JUDGE BEETLESTONE",
+      "judge": "MAGISTRATE JUDGE ARTEAGA",
       "city": "Philadelphia",
-      "courtroom": "Courtroom 8A",
+      "courtroom": "Courtroom 8B",
       "hearing_type": "Detention Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664115"
     },
@@ -308,17 +275,6 @@
       "courtroom": "Courtroom 17A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647970"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "10/30/2026 11:30AM",
-      "case_number": "25-cv-2559",
-      "caption": "FREIGHT INNOVATION LLC v. FELL",
-      "judge": "DISTRICT JUDGE KENNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9A",
-      "hearing_type": "Miscellaneous Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637862"
     },
     {
       "court": "EDPA",
@@ -653,17 +609,6 @@
     {
       "court": "EDPA",
       "datetime": "11/03/2026 09:00AM",
-      "case_number": "26-cr-0408",
-      "caption": "USA v. REYES",
-      "judge": "DISTRICT JUDGE SAVAGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660751"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/03/2026 09:00AM",
       "case_number": "26-cr-0411",
       "caption": "USA v. TIFFANY IV",
       "judge": "DISTRICT JUDGE SAVAGE",
@@ -715,17 +660,6 @@
       "courtroom": "Courtroom 8B",
       "hearing_type": "Trial Date",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?608465"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/03/2026 09:30AM",
-      "case_number": "24-cr-0239",
-      "caption": "USA v. STEFAN",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623808"
     },
     {
       "court": "EDPA",
@@ -946,17 +880,6 @@
       "courtroom": "Courtroom 15A",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662673"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/03/2026 02:00PM",
-      "case_number": "23-cr-0101",
-      "caption": "USA v. FELICIANO-ECHEVARRIA",
-      "judge": "DISTRICT JUDGE KENNEY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11B",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?607208"
     },
     {
       "court": "EDPA",
@@ -1457,17 +1380,6 @@
       "court": "EDPA",
       "datetime": "11/05/2026 02:00PM",
       "case_number": "23-cr-0454",
-      "caption": "USA v. DIXON",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "",
-      "courtroom": "unlisted",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631102"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/05/2026 02:00PM",
-      "case_number": "23-cr-0454",
       "caption": "USA v. MATHIS",
       "judge": "CHIEF JUDGE BEETLESTONE",
       "city": "",
@@ -1595,17 +1507,6 @@
       "courtroom": "Courtroom 10A",
       "hearing_type": "Jury Selection",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614825"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/06/2026 09:00AM",
-      "case_number": "23-cr-0454",
-      "caption": "USA v. DIXON",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10A",
-      "hearing_type": "Jury Selection",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631102"
     },
     {
       "court": "EDPA",
@@ -1771,17 +1672,6 @@
       "courtroom": "Courtroom 10A",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614825"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/09/2026 09:00AM",
-      "case_number": "23-cr-0454",
-      "caption": "USA v. DIXON",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631102"
     },
     {
       "court": "EDPA",
@@ -2556,17 +2446,6 @@
     {
       "court": "EDPA",
       "datetime": "11/12/2026 09:00AM",
-      "case_number": "26-cr-0408",
-      "caption": "USA v. REYES",
-      "judge": "DISTRICT JUDGE SAVAGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660751"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/12/2026 09:00AM",
       "case_number": "26-cr-0411",
       "caption": "USA v. TIFFANY IV",
       "judge": "DISTRICT JUDGE SAVAGE",
@@ -3189,9 +3068,27 @@
     },
     {
       "court": "Third Circuit",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "case_number": "25-2888",
       "caption": "Amy Wax v. Trustees of the University of Pennsylvania",
+      "panel": "HARDIMAN, MCKEE, AMBRO",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-17",
+      "case_number": "25-3269",
+      "caption": "Peter Kravitz v. Samson Energy Co LLC et al",
+      "panel": "HARDIMAN, MCKEE, AMBRO",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 9:30am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-17",
+      "case_number": "26-1014",
+      "caption": "Josh Shapiro et al v. U.S. Department of Agriculture et al",
       "panel": "HARDIMAN, MCKEE, AMBRO",
       "location_time": "Philadelphia, PA - Maris Courtroom / 9:30am",
       "disposition": "Argued"
@@ -3217,6 +3114,15 @@
     {
       "court": "Third Circuit",
       "date": "2026-11-18",
+      "case_number": "25-2583",
+      "caption": "USA v. Dennis Nerolich",
+      "panel": "HARDIMAN, MCKEE, AMBRO",
+      "location_time": "Philadelphia, PA - Seitz Courtroom / 9:30am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-18",
       "case_number": "25-2903",
       "caption": "FTC et al v. American Future Systems Inc et al",
       "panel": "CHAGARES, PORTER, MASCOTT",
@@ -3230,6 +3136,24 @@
       "caption": "Thomas Neuberger et al v. Cabinet Secretary Delaware Depart",
       "panel": "CHAGARES, PORTER, MASCOTT",
       "location_time": "Philadelphia, PA - Maris Courtroom / 9:00 am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-18",
+      "case_number": "25-3310",
+      "caption": "Sophia O'Neill v. Trustees of the University of Pennsylvania",
+      "panel": "HARDIMAN, MCKEE, AMBRO",
+      "location_time": "Philadelphia, PA - Seitz Courtroom / 9:30am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-18",
+      "case_number": "26-1015",
+      "caption": "Matthew Heckman v. North Penn Comprehensive Health Services",
+      "panel": "HARDIMAN, MCKEE, AMBRO",
+      "location_time": "Philadelphia, PA - Seitz Courtroom / 9:30am",
       "disposition": "Argued"
     },
     {
@@ -4084,18 +4008,6 @@
       "docket_number": "2777 EDA 2025",
       "journal_number": "J-A27001-26",
       "caption": "Com. v. Brock, R.",
-      "consideration_type": "Expedited \u2014 Argument Panel",
-      "location": "17th Floor , 530 Walnut St ., Philadelphia",
-      "city": "Philadelphia",
-      "panel": "27-ARGUMENT-2026-2",
-      "judges": "BOWES ; KING ; LANE , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "11/17/2026",
-      "docket_number": "677 EDA 2026",
-      "journal_number": "J-A27002-26",
-      "caption": "Foley, K. v. Woodloch Pines",
       "consideration_type": "Expedited \u2014 Argument Panel",
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
