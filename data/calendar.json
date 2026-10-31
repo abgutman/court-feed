@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-31T06:59:45.306682+00:00",
+  "generated": "2026-10-31T13:39:28.412145+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -66,17 +66,6 @@
       "courtroom": "Courtroom 11A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656380"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/02/2026 11:00AM",
-      "case_number": "25-cr-0479",
-      "caption": "USA v. LEMAR",
-      "judge": "DISTRICT JUDGE BAYLSON",
-      "city": "Philadelphia",
-      "courtroom": "COURTROOM",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645795"
     },
     {
       "court": "EDPA",
@@ -635,7 +624,7 @@
       "caption": "USA v. ALEXANDER",
       "judge": "DISTRICT JUDGE BAYLSON",
       "city": "Philadelphia",
-      "courtroom": "Courtroom TBD",
+      "courtroom": "Courtroom 17A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?598540"
     },
@@ -690,7 +679,7 @@
       "caption": "USA v. PATEL",
       "judge": "DISTRICT JUDGE BAYLSON",
       "city": "Philadelphia",
-      "courtroom": "Courtroom TBD",
+      "courtroom": "Courtroom 17A",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662944"
     },
@@ -778,7 +767,7 @@
       "caption": "USA v. MATTHEWS",
       "judge": "DISTRICT JUDGE BAYLSON",
       "city": "Philadelphia",
-      "courtroom": "Courtroom TBD",
+      "courtroom": "Courtroom 17A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635736"
     },
@@ -891,6 +880,17 @@
       "courtroom": "Courtroom 13B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649416"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/04/2026 02:00PM",
+      "case_number": "25-cr-0479",
+      "caption": "USA v. LEMAR",
+      "judge": "DISTRICT JUDGE BAYLSON",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 17A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645795"
     },
     {
       "court": "EDPA",
