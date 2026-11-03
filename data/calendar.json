@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-03T16:14:10.265174+00:00",
+  "generated": "2026-11-03T21:46:41.464016+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -37,17 +37,6 @@
     {
       "court": "EDPA",
       "datetime": "11/03/2026 09:30AM",
-      "case_number": "25-cr-0405",
-      "caption": "USA v. RODRIGUEZ",
-      "judge": "DISTRICT JUDGE GALLAGHER",
-      "city": "Allentown",
-      "courtroom": "Cahn 4B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643477"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/03/2026 09:30AM",
       "case_number": "23-cv-1436",
       "caption": "MICKENS v. CITY OF PHILADELPHI",
       "judge": "DISTRICT JUDGE QUINONES ALEJANDRO",
@@ -55,83 +44,6 @@
       "courtroom": "Courtroom 8B",
       "hearing_type": "Trial Date",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?608465"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/03/2026 09:30AM",
-      "case_number": "25-cr-0212",
-      "caption": "USA v. ALVAREZ",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637611"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/03/2026 10:00AM",
-      "case_number": "19-cv-1648",
-      "caption": "SIMMONS v. CITY OF PHILADELPHI",
-      "judge": "DISTRICT JUDGE PAPPERT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?555738"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/03/2026 10:00AM",
-      "case_number": "19-cv-1692",
-      "caption": "FRAZIER v. CITY OF PHILADELPHI",
-      "judge": "DISTRICT JUDGE PAPPERT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?555811"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/03/2026 10:00AM",
-      "case_number": "23-cv-1002",
-      "caption": "HILL v. CITY OF PHILADELPHIA e",
-      "judge": "DISTRICT JUDGE PAPPERT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 11A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?607293"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/03/2026 10:00AM",
-      "case_number": "20-cr-0223",
-      "caption": "USA v. BURTON",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12B",
-      "hearing_type": "Revocation Superv Rls-FinalHrg",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?574121"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/03/2026 10:00AM",
-      "case_number": "26-cr-0085",
-      "caption": "USA v. CASABURRI",
-      "judge": "DISTRICT JUDGE YOUNGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15B",
-      "hearing_type": "Competency Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650484"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/03/2026 11:00AM",
-      "case_number": "01-cr-0169",
-      "caption": "USA v. HOFFMAN",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?112447"
     },
     {
       "court": "EDPA",
@@ -169,17 +81,6 @@
     {
       "court": "EDPA",
       "datetime": "11/03/2026 01:00PM",
-      "case_number": "25-cv-2298",
-      "caption": "UNITED STATES OF AMERICA v. D'",
-      "judge": "DISTRICT JUDGE SAVAGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637151"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/03/2026 01:00PM",
       "case_number": "26-cr-0523",
       "caption": "USA v. BARFIELD",
       "judge": "DISTRICT JUDGE SCOTT",
@@ -212,83 +113,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "11/03/2026 01:30PM",
-      "case_number": "26-cr-0540",
-      "caption": "USA v. JORDAN",
-      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Detention Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664198"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/03/2026 01:30PM",
-      "case_number": "26-cr-0533",
-      "caption": "USA v. PERKINS",
-      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664209"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/03/2026 01:30PM",
-      "case_number": "26-cv-4167",
-      "caption": "ALLEN v. EAGLEVILLE HOSPITAL",
-      "judge": "DISTRICT JUDGE PEREZ",
-      "city": "Philadelphia",
-      "courtroom": "Judge's Chambers",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656512"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/03/2026 02:00PM",
-      "case_number": "22-cr-0223",
-      "caption": "USA v. ALEXANDER",
-      "judge": "DISTRICT JUDGE BAYLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 17A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?598540"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/03/2026 02:00PM",
-      "case_number": "26-cr-0469",
-      "caption": "USA v. HAN",
-      "judge": "DISTRICT JUDGE HODGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662673"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/03/2026 02:00PM",
-      "case_number": "26-cr-0125",
-      "caption": "USA v. NEVIUS",
-      "judge": "DISTRICT JUDGE LEESON",
-      "city": "Allentown",
-      "courtroom": "Cahn 3C",
-      "hearing_type": "Bond Revocation Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651600"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/03/2026 02:00PM",
-      "case_number": "25-cv-7265",
-      "caption": "Steel Land, LLC V. LOWER SAUCO",
-      "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "Reading",
-      "courtroom": "Reading 5th Floor",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647708"
-    },
-    {
-      "court": "EDPA",
       "datetime": "11/03/2026 02:00PM",
       "case_number": "26-cv-0625",
       "caption": "Lewis v. Fridley et al",
@@ -297,17 +121,6 @@
       "courtroom": "Courtroom 3G",
       "hearing_type": "Settlement Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649186"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/03/2026 02:30PM",
-      "case_number": "26-cr-0489",
-      "caption": "USA v. PATEL",
-      "judge": "DISTRICT JUDGE BAYLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 17A",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662944"
     },
     {
       "court": "EDPA",
@@ -400,17 +213,6 @@
     {
       "court": "EDPA",
       "datetime": "11/04/2026 10:00AM",
-      "case_number": "25-cr-0516",
-      "caption": "USA v. HANNAH",
-      "judge": "DISTRICT JUDGE MCHUGH",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647084"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/04/2026 10:00AM",
       "case_number": "26-cv-1893",
       "caption": "THOMAS v. READING HOSPITAL et",
       "judge": "MAGISTRATE JUDGE TOPLIN",
@@ -487,7 +289,7 @@
     },
     {
       "court": "EDPA",
-      "datetime": "11/04/2026 01:00PM",
+      "datetime": "11/04/2026 12:00PM",
       "case_number": "25-cr-0349",
       "caption": "USA v. JIMENEZ",
       "judge": "DISTRICT JUDGE MARSTON",
@@ -894,17 +696,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "11/06/2026 10:00AM",
-      "case_number": "25-cv-7302",
-      "caption": "FITZGERALD v. VAUGHN et al",
-      "judge": "MAGISTRATE JUDGE REID",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3C",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647761"
-    },
-    {
-      "court": "EDPA",
       "datetime": "11/06/2026 10:30AM",
       "case_number": "23-cr-0476",
       "caption": "USA v. VAN BUREN",
@@ -924,6 +715,17 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664148"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/06/2026 12:30PM",
+      "case_number": "26-cv-8387",
+      "caption": "GARASOV v. RIFE et al",
+      "judge": "DISTRICT JUDGE RUFE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 12A",
+      "hearing_type": "Miscellaneous Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664741"
     },
     {
       "court": "EDPA",
@@ -1291,17 +1093,6 @@
     {
       "court": "EDPA",
       "datetime": "11/10/2026 09:30AM",
-      "case_number": "26-cv-1448",
-      "caption": "BLUME et al v. PRIORITIES FOR",
-      "judge": "DISTRICT JUDGE MURPHY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5D",
-      "hearing_type": "Arbitration Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650838"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/10/2026 09:30AM",
       "case_number": "23-cv-0890",
       "caption": "BOUNTS TECHNOLOGIES LTD. vs. C",
       "judge": "DISTRICT JUDGE PEREZ",
@@ -1342,6 +1133,17 @@
       "courtroom": "Courtroom 11A",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653662"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/10/2026 10:00AM",
+      "case_number": "25-cv-5002",
+      "caption": "WALKER v. CITY OF PHILADELPHIA",
+      "judge": "MAGISTRATE JUDGE REID",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3C",
+      "hearing_type": "Settlement Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643018"
     },
     {
       "court": "EDPA",
@@ -1511,17 +1313,6 @@
     {
       "court": "EDPA",
       "datetime": "11/10/2026 10:00AM",
-      "case_number": "25-cr-0167",
-      "caption": "USA v. LIGON",
-      "judge": "DISTRICT JUDGE SCOTT",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13B",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636402"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/10/2026 10:00AM",
       "case_number": "25-cv-6372",
       "caption": "FLORES v. ADARE PHARMA SOLUTIO",
       "judge": "DISTRICT JUDGE WOLSON",
@@ -1562,17 +1353,6 @@
       "courtroom": "Courtroom 6A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635673"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/10/2026 11:00AM",
-      "case_number": "26-cr-0258",
-      "caption": "USA v. CEDANO",
-      "judge": "DISTRICT JUDGE HENRY",
-      "city": "Easton",
-      "courtroom": "Easton 4th Floor",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655847"
     },
     {
       "court": "EDPA",
@@ -1650,17 +1430,6 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664576"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/10/2026 02:00PM",
-      "case_number": "26-cv-8070",
-      "caption": "CHERIAN v. EDLOW et al",
-      "judge": "DISTRICT JUDGE BAYLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom TBD",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664079"
     },
     {
       "court": "EDPA",
@@ -2325,17 +2094,6 @@
     {
       "court": "EDPA",
       "datetime": "11/13/2026 02:00PM",
-      "case_number": "26-cv-0624",
-      "caption": "MACK v. Fitness International,",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649184"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/13/2026 02:00PM",
       "case_number": "26-cr-0275",
       "caption": "USA v. PENA",
       "judge": "DISTRICT JUDGE WOLSON",
@@ -2948,17 +2706,6 @@
       "courtroom": "Courtroom 8B",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648438"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/17/2026 11:00AM",
-      "case_number": "26-cr-0316",
-      "caption": "USA v. BULLOCK",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658112"
     },
     {
       "court": "EDPA",
@@ -5168,6 +4915,426 @@
     },
     {
       "court": "PA Superior Court",
+      "date": "12/08/2026",
+      "docket_number": "551 WDA 2026",
+      "journal_number": "J-A29001-26",
+      "caption": "Scharritter, T. v. Scharritter, K.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "29-ARGUMENT-2026-2",
+      "judges": "KUNSELMAN ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "12/08/2026",
+      "docket_number": "363 WDA 2026",
+      "journal_number": "J-A29002-26",
+      "caption": "Com. v. Nemyo, B.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "29-ARGUMENT-2026-2",
+      "judges": "KUNSELMAN ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "12/08/2026",
+      "docket_number": "359 WDA 2026",
+      "journal_number": "J-A29003-26",
+      "caption": "Com. v. Dean, J.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "29-ARGUMENT-2026-2",
+      "judges": "KUNSELMAN ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "12/08/2026",
+      "docket_number": "271 WDA 2026",
+      "journal_number": "J-A29004-26",
+      "caption": "In Re: Carmine Bloise",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "29-ARGUMENT-2026-2",
+      "judges": "KUNSELMAN ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "12/08/2026",
+      "docket_number": "741 WDA 2026",
+      "journal_number": "J-A29005-26",
+      "caption": "McIntyre, A. v. Alcantara, M. v. Piggott, C.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "29-ARGUMENT-2026-2",
+      "judges": "KUNSELMAN ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "12/08/2026",
+      "docket_number": "475 WDA 2026",
+      "journal_number": "J-A29006-26",
+      "caption": "AMP V LP v. Bolind, L.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "29-ARGUMENT-2026-2",
+      "judges": "KUNSELMAN ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "12/08/2026",
+      "docket_number": "903 WDA 2026",
+      "journal_number": "J-A29016-26",
+      "caption": "In Re: A.T.S., Appeal of: H.D.C.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "29-ARGUMENT-2026-2",
+      "judges": "KUNSELMAN ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "12/08/2026",
+      "docket_number": "15 WDA 2026",
+      "journal_number": "J-A29017-26",
+      "caption": "Com. v. Klein, R.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "29-ARGUMENT-2026-2",
+      "judges": "KUNSELMAN ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "12/08/2026",
+      "docket_number": "17 WDA 2026",
+      "journal_number": "J-A29017-26",
+      "caption": "Com. v. Klein, R.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "29-ARGUMENT-2026-2",
+      "judges": "KUNSELMAN ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "12/08/2026",
+      "docket_number": "18 WDA 2026",
+      "journal_number": "J-A29017-26",
+      "caption": "Com. v. Klein, R.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "29-ARGUMENT-2026-2",
+      "judges": "KUNSELMAN ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "12/08/2026",
+      "docket_number": "19 WDA 2026",
+      "journal_number": "J-A29017-26",
+      "caption": "Com. v. Klein, R.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "29-ARGUMENT-2026-2",
+      "judges": "KUNSELMAN ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "12/08/2026",
+      "docket_number": "20 WDA 2026",
+      "journal_number": "J-A29017-26",
+      "caption": "Com. v. Klein, R.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "29-ARGUMENT-2026-2",
+      "judges": "KUNSELMAN ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "12/08/2026",
+      "docket_number": "21 WDA 2026",
+      "journal_number": "J-A29017-26",
+      "caption": "Com. v. Klein, R.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "29-ARGUMENT-2026-2",
+      "judges": "KUNSELMAN ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "12/08/2026",
+      "docket_number": "22 WDA 2026",
+      "journal_number": "J-A29017-26",
+      "caption": "Com. v. Klein, R.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "29-ARGUMENT-2026-2",
+      "judges": "KUNSELMAN ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "12/08/2026",
+      "docket_number": "23 WDA 2026",
+      "journal_number": "J-A29017-26",
+      "caption": "Com. v. Klein, R.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "29-ARGUMENT-2026-2",
+      "judges": "KUNSELMAN ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "12/08/2026",
+      "docket_number": "24 WDA 2026",
+      "journal_number": "J-A29017-26",
+      "caption": "Com. v. Klein, R.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "29-ARGUMENT-2026-2",
+      "judges": "KUNSELMAN ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "12/08/2026",
+      "docket_number": "25 WDA 2026",
+      "journal_number": "J-A29017-26",
+      "caption": "Com. v. Klein, R.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "29-ARGUMENT-2026-2",
+      "judges": "KUNSELMAN ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "12/08/2026",
+      "docket_number": "26 WDA 2026",
+      "journal_number": "J-A29017-26",
+      "caption": "Com. v. Klein, R.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "29-ARGUMENT-2026-2",
+      "judges": "KUNSELMAN ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "12/08/2026",
+      "docket_number": "27 WDA 2026",
+      "journal_number": "J-A29017-26",
+      "caption": "Com. v. Klein, R.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "29-ARGUMENT-2026-2",
+      "judges": "KUNSELMAN ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "12/08/2026",
+      "docket_number": "28 WDA 2026",
+      "journal_number": "J-A29017-26",
+      "caption": "Com. v. Klein, R.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "29-ARGUMENT-2026-2",
+      "judges": "KUNSELMAN ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "12/08/2026",
+      "docket_number": "29 WDA 2026",
+      "journal_number": "J-A29017-26",
+      "caption": "Com. v. Klein, R.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "29-ARGUMENT-2026-2",
+      "judges": "KUNSELMAN ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "12/08/2026",
+      "docket_number": "30 WDA 2026",
+      "journal_number": "J-A29017-26",
+      "caption": "Com. v. Klein, R.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "29-ARGUMENT-2026-2",
+      "judges": "KUNSELMAN ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "12/08/2026",
+      "docket_number": "16 WDA 2026",
+      "journal_number": "J-A29017-26",
+      "caption": "Com. v. Klein, R.",
+      "consideration_type": "Expedited \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "29-ARGUMENT-2026-2",
+      "judges": "KUNSELMAN ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "12/08/2026",
+      "docket_number": "1572 WDA 2025",
+      "journal_number": "J-A29018-26",
+      "caption": "Com. v. Onesko, P.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "29-ARGUMENT-2026-2",
+      "judges": "KUNSELMAN ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "12/08/2026",
+      "docket_number": "146 WDA 2026",
+      "journal_number": "J-A29019-26",
+      "caption": "Com. v. Perkins-Jiles, B.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "29-ARGUMENT-2026-2",
+      "judges": "KUNSELMAN ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "12/08/2026",
+      "docket_number": "276 WDA 2026",
+      "journal_number": "J-A29019-26",
+      "caption": "Com. v. Perkins-Jiles, B.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "29-ARGUMENT-2026-2",
+      "judges": "KUNSELMAN ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "12/08/2026",
+      "docket_number": "805 WDA 2026",
+      "journal_number": "J-A29020-26",
+      "caption": "McDonnell, M. v. Power House Subs",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "29-ARGUMENT-2026-2",
+      "judges": "KUNSELMAN ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "12/08/2026",
+      "docket_number": "435 WDA 2026",
+      "journal_number": "J-A29021-26",
+      "caption": "F.J. Busse Company Inc. v. Mikelic, M.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "29-ARGUMENT-2026-2",
+      "judges": "KUNSELMAN ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "12/09/2026",
+      "docket_number": "1128 WDA 2025",
+      "journal_number": "J-A29022-26",
+      "caption": "Mineweaser, G. v. The PNC Financial Services Group",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "29-ARGUMENT-2026-2",
+      "judges": "KUNSELMAN ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "12/09/2026",
+      "docket_number": "966 WDA 2026",
+      "journal_number": "J-A29031-26",
+      "caption": "Young, R. v. Young, S.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "29-ARGUMENT-2026-2",
+      "judges": "KUNSELMAN ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "12/09/2026",
+      "docket_number": "954 WDA 2026",
+      "journal_number": "J-A29032-26",
+      "caption": "Duttry, L. v. Duttry, L.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "29-ARGUMENT-2026-2",
+      "judges": "KUNSELMAN ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "12/09/2026",
+      "docket_number": "208 WDA 2026",
+      "journal_number": "J-A29033-26",
+      "caption": "Com. v. Falisi, J.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "29-ARGUMENT-2026-2",
+      "judges": "KUNSELMAN ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "12/09/2026",
+      "docket_number": "574 WDA 2026",
+      "journal_number": "J-A29034-26",
+      "caption": "Com. v. Gray, D.",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "29-ARGUMENT-2026-2",
+      "judges": "KUNSELMAN ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "12/09/2026",
+      "docket_number": "602 WDA 2026",
+      "journal_number": "J-A29035-26",
+      "caption": "Dreibelbis, S. v. Geneva College",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "29-ARGUMENT-2026-2",
+      "judges": "KUNSELMAN ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
+      "date": "12/09/2026",
+      "docket_number": "370 WDA 2026",
+      "journal_number": "J-A29036-26",
+      "caption": "Benedict, B. v. Southwestern Pennsylvania Human",
+      "consideration_type": "Standard \u2014 Argument Panel",
+      "location": "",
+      "city": "",
+      "panel": "29-ARGUMENT-2026-2",
+      "judges": "KUNSELMAN ; NEUMAN , JJ."
+    },
+    {
+      "court": "PA Superior Court",
       "date": "12/15/2026",
       "docket_number": "1043 EDA 2026",
       "journal_number": "J-A30001-26",
@@ -5176,7 +5343,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5188,7 +5355,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5200,7 +5367,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5212,7 +5379,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5224,7 +5391,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5236,7 +5403,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5248,7 +5415,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5260,7 +5427,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5272,7 +5439,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5284,7 +5451,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5296,7 +5463,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5308,7 +5475,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5320,7 +5487,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5332,7 +5499,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5344,7 +5511,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5356,7 +5523,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5368,7 +5535,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5380,7 +5547,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5392,7 +5559,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5404,7 +5571,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5416,7 +5583,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5428,7 +5595,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5440,7 +5607,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5452,7 +5619,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5464,7 +5631,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5476,7 +5643,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5488,7 +5655,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5500,7 +5667,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5512,7 +5679,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5524,7 +5691,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5536,7 +5703,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5548,7 +5715,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5560,7 +5727,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5572,7 +5739,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5584,7 +5751,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5596,7 +5763,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5608,7 +5775,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5620,7 +5787,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5632,7 +5799,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5644,7 +5811,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5656,7 +5823,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5668,7 +5835,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5680,7 +5847,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5692,7 +5859,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5704,7 +5871,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5716,7 +5883,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
@@ -5728,7 +5895,7 @@
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
       "panel": "30-ARGUMENT-2026-2",
-      "judges": "MCLAUGHLIN ; SULLIVAN , JJ."
+      "judges": ""
     },
     {
       "court": "PA Superior Court",
