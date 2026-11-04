@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-04T17:58:58.483183+00:00",
+  "generated": "2026-11-04T23:38:35.377063+00:00",
   "filings": [
     {
       "type": "filing",
@@ -54,6 +54,15 @@
       "status": "Active",
       "filing_date": "11/04/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=391 EAL 2026&dnh=D6Oy%2BMtI2OIQKVWDkvlm2Q%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "392 EAL 2026",
+      "caption": "McKelvey, M. v. Sintokogio LTD.",
+      "status": "Active",
+      "filing_date": "11/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=392 EAL 2026&dnh=vQfIjdYSwPEwRefQtFR5AA%3D%3D"
     },
     {
       "type": "filing",
@@ -171,6 +180,15 @@
       "status": "Active",
       "filing_date": "11/02/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=648 MAL 2026&dnh=0pnmEyWhrNAMaMtYZAxRGQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "649 MAL 2026",
+      "caption": "Smith, T. v. Ostapowicz, M., Pet.",
+      "status": "Active",
+      "filing_date": "11/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=649 MAL 2026&dnh=QcbUx6%2BN2%2FcKlCFUh87Qsw%3D%3D"
     },
     {
       "type": "filing",
@@ -814,11 +832,56 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "3084 EDA 2026",
+      "caption": "Howell, L. v. Gonzalez, J.",
+      "status": "Active",
+      "filing_date": "11/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=3084 EDA 2026&dnh=KbDTw%2BZJ0mQK7YNALymPJw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "3085 EDA 2026",
+      "caption": "Bridle Path Woods v. Chapman, F.",
+      "status": "Active",
+      "filing_date": "11/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=3085 EDA 2026&dnh=TRy7LWRTkd1mKV4OtY7WcA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "3086 EDA 2026",
+      "caption": "Trobman, C. v. Fox Subacute",
+      "status": "Active",
+      "filing_date": "11/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=3086 EDA 2026&dnh=NcI44i0pI6YVAfw5SBxIfA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "3087 EDA 2026",
+      "caption": "Clark, A. v. PECO",
+      "status": "Active",
+      "filing_date": "11/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=3087 EDA 2026&dnh=71h8bnFLdzydNuFV2mAP%2Fw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "172 EDM 2026",
       "caption": "Com. v. Coyle, P.",
       "status": "Active",
       "filing_date": "11/02/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=172 EDM 2026&dnh=QwQspK7RDguP4Gy1OpPf6Q%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "173 EDM 2026",
+      "caption": "Com. v. Destin, S.",
+      "status": "Active",
+      "filing_date": "11/04/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=173 EDM 2026&dnh=Ap%2FO1dmtjAu%2BixKyZQjexg%3D%3D"
     },
     {
       "type": "filing",
@@ -1535,7 +1598,7 @@
       "type": "filing",
       "court": "PA Superior Court",
       "docket": "1468 WDA 2026",
-      "caption": "Comm. v. Mendez, Luz Idalia",
+      "caption": "Com. v. Mendez, L.",
       "status": "Active",
       "filing_date": "11/04/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1468 WDA 2026&dnh=g1qPMJxbUUtdPMmH%2BSU9lQ%3D%3D"
@@ -1544,7 +1607,7 @@
       "type": "filing",
       "court": "PA Superior Court",
       "docket": "1469 WDA 2026",
-      "caption": "Comm. v. Dubrock, James Michael",
+      "caption": "Com. v. Dubrock, J.",
       "status": "Active",
       "filing_date": "11/04/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1469 WDA 2026&dnh=kZcIqwwAoB7gHXgo0%2BbpSw%3D%3D"
@@ -1589,7 +1652,7 @@
       "type": "filing",
       "court": "PA Commonwealth Court",
       "docket": "1679 CD 2026",
-      "caption": "Jean-Philippe, E. v. Pa OOR",
+      "caption": "Jean-Philippe, E. v. PHRC (OOR)",
       "status": "Active",
       "filing_date": "10/29/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1679 CD 2026&dnh=3qubqMzdgDuMWgZ4NJpi2Q%3D%3D"
@@ -1821,6 +1884,76 @@
     }
   ],
   "opinions": [
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 336 MAL 2026 (Granted)",
+      "caption": "Duffield, W. v. Legend Spine, LLC, et al.",
+      "author": "Per Curiam",
+      "pub_date": "Wed, 04 Nov 2026 05:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/336MAL2026 - 106987191380170753.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/336MAL2026 - 106987191380170753.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 332 MAL 2026 (Granted)",
+      "caption": "Duffield, W. v. Legend Spine, et al, Pet of: Wagener, C.",
+      "author": "Per Curiam",
+      "pub_date": "Wed, 04 Nov 2026 05:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/332MAL2026 - 106987190380170753.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/332MAL2026 - 106987190380170753.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 297 MAL 2026",
+      "caption": "Commonwealth v. Ayoub, J., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Wed, 04 Nov 2026 05:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/297MAL2026 - 106987181380168363.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/297MAL2026 - 106987181380168363.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 282 MAL 2026",
+      "caption": "Commonwealth v. Blount, D., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Wed, 04 Nov 2026 05:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/282MAL2026 - 106987162380162611.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/282MAL2026 - 106987162380162611.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 281 MAL 2026",
+      "caption": "Commonwealth v. Lee, D., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Wed, 04 Nov 2026 05:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/281MAL2026 - 106987161380162611.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/281MAL2026 - 106987161380162611.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 185 WAL 2026",
+      "caption": "Commonwealth v. Rosario, K., Pet.",
+      "author": "Per Curiam",
+      "pub_date": "Wed, 04 Nov 2026 05:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/185WAL2026 - 106987169380163129.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/185WAL2026 - 106987169380163129.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Supreme Court",
+      "docket": "No. 3213 DD3",
+      "caption": "ODC, Pet. v. Ashley M Lovelace",
+      "author": "Per Curiam",
+      "pub_date": "Tue, 03 Nov 2026 05:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Supreme/out/3213DD3 - 106986575380112457.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Supreme/out/3213DD3 - 106986575380112457.pdf"
+    },
     {
       "type": "opinion",
       "court": "PA Supreme Court",
@@ -2914,6 +3047,18 @@
     {
       "type": "opinion",
       "court": "Third Circuit",
+      "docket": "26-1531",
+      "caption": "Andre Davis v. The Borough of Leonia",
+      "author": "",
+      "pub_date": "Wed, 04 Nov 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/261531np.pdf",
+      "guid": "ca3-26-1531-261531np.pdf",
+      "precedential": false,
+      "origin": "USDC for the District of New Jersey"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
       "docket": "26-1177",
       "caption": "Libby Profitt v. City of Harrisburg",
       "author": "",
@@ -2934,6 +3079,18 @@
       "guid": "ca3-25-2660-252660np.pdf",
       "precedential": false,
       "origin": "USDC for the District of Delaware"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "24-2836",
+      "caption": "USA v. Jason Mattis",
+      "author": "",
+      "pub_date": "Wed, 04 Nov 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/242836np.pdf",
+      "guid": "ca3-24-2836-242836np.pdf",
+      "precedential": false,
+      "origin": "USDC for the Eastern District of Pennsylvania"
     },
     {
       "type": "opinion",
