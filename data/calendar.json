@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-05T06:40:29.662807+00:00",
+  "generated": "2026-11-05T15:41:52.774247+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -11,17 +11,6 @@
       "courtroom": "Courtroom 8B",
       "hearing_type": "Trial Date",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?608465"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/05/2026 09:30AM",
-      "case_number": "26-cr-0265",
-      "caption": "USA v. DE LA CRUZ JEREZ",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Detention Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656132"
     },
     {
       "court": "EDPA",
@@ -223,17 +212,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "11/05/2026 03:00PM",
-      "case_number": "26-cv-3492",
-      "caption": "AURANGZEB v. SAMARA et al",
-      "judge": "DISTRICT JUDGE POZOS",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 17A",
-      "hearing_type": "Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655125"
-    },
-    {
-      "court": "EDPA",
       "datetime": "11/06/2026 09:00AM",
       "case_number": "23-cr-0454",
       "caption": "USA v. BYRD",
@@ -289,6 +267,61 @@
     },
     {
       "court": "EDPA",
+      "datetime": "11/06/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. BYRD",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614823"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/06/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. PALMER",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614825"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/06/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. MATHIS",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631103"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/06/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. KANNEH",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631105"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/06/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. DIXON",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631106"
+    },
+    {
+      "court": "EDPA",
       "datetime": "11/06/2026 10:30AM",
       "case_number": "23-cr-0476",
       "caption": "USA v. VAN BUREN",
@@ -308,17 +341,6 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664148"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/06/2026 12:30PM",
-      "case_number": "26-cv-8387",
-      "caption": "GARASOV v. RIFE et al",
-      "judge": "DISTRICT JUDGE RUFE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12A",
-      "hearing_type": "Miscellaneous Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664741"
     },
     {
       "court": "EDPA",
@@ -352,61 +374,6 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Initial Appearance",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662214"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/09/2026 09:00AM",
-      "case_number": "23-cr-0454",
-      "caption": "USA v. BYRD",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614823"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/09/2026 09:00AM",
-      "case_number": "23-cr-0454",
-      "caption": "USA v. PALMER",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614825"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/09/2026 09:00AM",
-      "case_number": "23-cr-0454",
-      "caption": "USA v. MATHIS",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631103"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/09/2026 09:00AM",
-      "case_number": "23-cr-0454",
-      "caption": "USA v. KANNEH",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631105"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/09/2026 09:00AM",
-      "case_number": "23-cr-0454",
-      "caption": "USA v. DIXON",
-      "judge": "CHIEF JUDGE BEETLESTONE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 10A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631106"
     },
     {
       "court": "EDPA",
@@ -466,6 +433,61 @@
     {
       "court": "EDPA",
       "datetime": "11/09/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. BYRD",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614823"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/09/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. PALMER",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614825"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/09/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. MATHIS",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631103"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/09/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. KANNEH",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631105"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/09/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. DIXON",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631106"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/09/2026 09:30AM",
       "case_number": "26-cr-0226",
       "caption": "USA v. CLARKE",
       "judge": "DISTRICT JUDGE KENNEY",
@@ -495,17 +517,6 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643054"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/09/2026 09:30AM",
-      "case_number": "26-cr-0186",
-      "caption": "USA v. WILSON",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653445"
     },
     {
       "court": "EDPA",
@@ -597,6 +608,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "11/09/2026 11:00AM",
+      "case_number": "24-cr-0049",
+      "caption": "USA v. HAWKINS",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618673"
+    },
+    {
+      "court": "EDPA",
       "datetime": "11/09/2026 9:30AM",
       "case_number": "25-cv-6758",
       "caption": "KRASLEY et al v. COUNTY OF MON",
@@ -682,6 +704,61 @@
       "courtroom": "Courtroom 16B",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?613877"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/10/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. BYRD",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614823"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/10/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. PALMER",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614825"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/10/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. MATHIS",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631103"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/10/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. KANNEH",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631105"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/10/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. DIXON",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631106"
     },
     {
       "court": "EDPA",
@@ -1291,6 +1368,61 @@
     {
       "court": "EDPA",
       "datetime": "11/12/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. BYRD",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614823"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/12/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. PALMER",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614825"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/12/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. MATHIS",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631103"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/12/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. KANNEH",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631105"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/12/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. DIXON",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631106"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/12/2026 09:30AM",
       "case_number": "26-cr-0443",
       "caption": "USA v. MILLER",
       "judge": "DISTRICT JUDGE HODGE",
@@ -1560,6 +1692,17 @@
       "judge": "DISTRICT JUDGE SLOMSKY",
       "city": "Philadelphia",
       "courtroom": "Courtroom 13A",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?580522"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/12/2026 02:00PM",
+      "case_number": "21-cr-0009",
+      "caption": "USA v. COUNCIL",
+      "judge": "DISTRICT JUDGE SLOMSKY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 13A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?580522"
     },
@@ -1628,6 +1771,61 @@
       "courtroom": "Courtroom TBD",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656806"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/13/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. BYRD",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614823"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/13/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. PALMER",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614825"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/13/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. MATHIS",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631103"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/13/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. KANNEH",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631105"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/13/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. DIXON",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631106"
     },
     {
       "court": "EDPA",
@@ -1804,6 +2002,61 @@
       "courtroom": "Courtroom 3A",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635736"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/16/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. BYRD",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614823"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/16/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. PALMER",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614825"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/16/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. MATHIS",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631103"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/16/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. KANNEH",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631105"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/16/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. DIXON",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631106"
     },
     {
       "court": "EDPA",
@@ -2101,6 +2354,61 @@
       "courtroom": "Courtroom 5B",
       "hearing_type": "Arbitration Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653916"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/17/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. BYRD",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614823"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/17/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. PALMER",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614825"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/17/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. MATHIS",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631103"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/17/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. KANNEH",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631105"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/17/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. DIXON",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631106"
     },
     {
       "court": "EDPA",
@@ -2534,6 +2842,61 @@
     {
       "court": "EDPA",
       "datetime": "11/18/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. BYRD",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614823"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/18/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. PALMER",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614825"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/18/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. MATHIS",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631103"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/18/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. KANNEH",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631105"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/18/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. DIXON",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631106"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/18/2026 09:30AM",
       "case_number": "25-cr-0516",
       "caption": "USA v. HANNAH",
       "judge": "DISTRICT JUDGE MCHUGH",
@@ -2750,6 +3113,61 @@
       "courtroom": "Courtroom 6B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662021"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/19/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. BYRD",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614823"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/19/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. PALMER",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614825"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/19/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. MATHIS",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631103"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/19/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. KANNEH",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631105"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/19/2026 09:30AM",
+      "case_number": "23-cr-0454",
+      "caption": "USA v. DIXON",
+      "judge": "CHIEF JUDGE BEETLESTONE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 10A",
+      "hearing_type": "Jury Trial",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631106"
     },
     {
       "court": "EDPA",
@@ -3612,18 +4030,6 @@
       "docket_number": "2088 EDA 2025",
       "journal_number": "J-A27021-26",
       "caption": "Fisher, K. v. Smith, T.",
-      "consideration_type": "Expedited \u2014 Argument Panel",
-      "location": "17th Floor , 530 Walnut St ., Philadelphia",
-      "city": "Philadelphia",
-      "panel": "27-ARGUMENT-2026-2",
-      "judges": "BOWES ; KING ; LANE , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "11/18/2026",
-      "docket_number": "558 EDA 2026",
-      "journal_number": "J-A27022-26",
-      "caption": "Pancella, E. v. 2509 South Fourth Operating",
       "consideration_type": "Expedited \u2014 Argument Panel",
       "location": "17th Floor , 530 Walnut St ., Philadelphia",
       "city": "Philadelphia",
