@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-06T17:58:27.269810+00:00",
+  "generated": "2026-11-06T23:07:20.162977+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -113,17 +113,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "11/06/2026 11:00AM",
-      "case_number": "26-cv-8095",
-      "caption": "OWL INTERNATIONAL, INC. v. Dar",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664148"
-    },
-    {
-      "court": "EDPA",
       "datetime": "11/06/2026 01:30PM",
       "case_number": "09-cr-0317",
       "caption": "USA v. EDWARDS",
@@ -162,7 +151,7 @@
       "caption": "USA v. WILLIAMS",
       "judge": "DISTRICT JUDGE MURPHY",
       "city": "Philadelphia",
-      "courtroom": "COURTROOM",
+      "courtroom": "Courtroom 17A",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624047"
     },
@@ -172,8 +161,8 @@
       "case_number": "26-cr-0236",
       "caption": "USA v. SEHUANCATZI-ROJAS",
       "judge": "DISTRICT JUDGE MURPHY",
-      "city": "",
-      "courtroom": "unlisted",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 17A",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655348"
     },
@@ -278,17 +267,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "11/09/2026 09:30AM",
-      "case_number": "26-cr-0187",
-      "caption": "USA v. YOUNG",
-      "judge": "DISTRICT JUDGE YOUNGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653470"
-    },
-    {
-      "court": "EDPA",
       "datetime": "11/09/2026 10:00AM",
       "case_number": "26-cr-0359",
       "caption": "USA v. SUSSWELL-DONALDSON",
@@ -338,7 +316,7 @@
       "caption": "USA v. CORREA MORALES",
       "judge": "DISTRICT JUDGE MARSTON",
       "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
+      "courtroom": "Judge's Chambers",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655829"
     },
@@ -1312,28 +1290,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "11/12/2026 10:30AM",
-      "case_number": "17-cr-0553",
-      "caption": "USA v. ROSARIO",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12B",
-      "hearing_type": "Evidentiary Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?535479"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/12/2026 10:30AM",
-      "case_number": "17-cr-0553",
-      "caption": "USA v. ROSARIO",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12B",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?535479"
-    },
-    {
-      "court": "EDPA",
       "datetime": "11/12/2026 11:00AM",
       "case_number": "26-cr-0261",
       "caption": "USA v. TROCHE",
@@ -2149,17 +2105,6 @@
     {
       "court": "EDPA",
       "datetime": "11/17/2026 09:30AM",
-      "case_number": "25-cr-0516",
-      "caption": "USA v. HANNAH",
-      "judge": "DISTRICT JUDGE MCHUGH",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647084"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/17/2026 09:30AM",
       "case_number": "26-cr-0284",
       "caption": "USA v. JAMES",
       "judge": "DISTRICT JUDGE SCOTT",
@@ -2578,17 +2523,6 @@
     {
       "court": "EDPA",
       "datetime": "11/18/2026 09:30AM",
-      "case_number": "25-cr-0516",
-      "caption": "USA v. HANNAH",
-      "judge": "DISTRICT JUDGE MCHUGH",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647084"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/18/2026 09:30AM",
       "case_number": "26-cr-0435",
       "caption": "USA v. ROSS",
       "judge": "DISTRICT JUDGE PAPPERT",
@@ -2907,17 +2841,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "11/19/2026 09:30AM",
-      "case_number": "25-cr-0516",
-      "caption": "USA v. HANNAH",
-      "judge": "DISTRICT JUDGE MCHUGH",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647084"
-    },
-    {
-      "court": "EDPA",
       "datetime": "11/19/2026 10:00AM",
       "case_number": "26-cv-7346",
       "caption": "KERR v. CURALTA HEALTH, LLC",
@@ -3127,17 +3050,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "11/20/2026 09:30AM",
-      "case_number": "25-cr-0516",
-      "caption": "USA v. HANNAH",
-      "judge": "DISTRICT JUDGE MCHUGH",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 9B",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647084"
-    },
-    {
-      "court": "EDPA",
       "datetime": "11/20/2026 10:00AM",
       "case_number": "25-cr-0023",
       "caption": "USA v. WHITE-MCDONALD",
@@ -3157,6 +3069,17 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661621"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/20/2026 11:00AM",
+      "case_number": "25-cv-7146",
+      "caption": "MILLER et al v. CITY OF PHILAD",
+      "judge": "DISTRICT JUDGE RUFE",
+      "city": "",
+      "courtroom": "Telephone Conference",
+      "hearing_type": "Scheduling Conference",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647529"
     }
   ],
   "third_circuit": [
