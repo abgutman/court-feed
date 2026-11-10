@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T08:24:27.225072+00:00",
+  "generated": "2026-11-10T17:00:37.023328+00:00",
   "filings": [
     {
       "type": "filing",
@@ -32,7 +32,7 @@
       "type": "filing",
       "court": "PA Supreme Court",
       "docket": "394 EAL 2026",
-      "caption": "Burnett, H. v. Blue Federal Credit Union",
+      "caption": "Burnett, H. v. Blue Federal Credit Union, Pet.",
       "status": "Active",
       "filing_date": "11/09/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=394 EAL 2026&dnh=ryU7Oq6iCvG48zRRziApWA%3D%3D"
@@ -139,6 +139,15 @@
     {
       "type": "filing",
       "court": "PA Supreme Court",
+      "docket": "263 MM 2026",
+      "caption": "Francis, R., Pet. v. Francis, N.",
+      "status": "Active",
+      "filing_date": "11/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=263 MM 2026&dnh=MgPQ1ccZtzY4JbuxIWwCLw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
       "docket": "302 WAL 2026",
       "caption": "Commonwealth v. Wright, D., Pet.",
       "status": "Active",
@@ -162,6 +171,24 @@
       "status": "Active",
       "filing_date": "11/06/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=304 WAL 2026&dnh=%2BTgnm7hTIo7KfIt2m%2Fo59g%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "305 WAL 2026",
+      "caption": "Miller, J. v. Festival Fun Parks, et al., Pets",
+      "status": "Active",
+      "filing_date": "11/09/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=305 WAL 2026&dnh=daW9I5RzQilpIYJc4KVfmw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Supreme Court",
+      "docket": "306 WAL 2026",
+      "caption": "Commonwealth v. Washington, T., Pet.",
+      "status": "Active",
+      "filing_date": "11/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=306 WAL 2026&dnh=IBRLZczEp2IeNIBxhC5Y4g%3D%3D"
     },
     {
       "type": "filing",
@@ -634,6 +661,15 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "3133 EDA 2026",
+      "caption": "In Re: Est. of C. Danella",
+      "status": "Active",
+      "filing_date": "11/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=3133 EDA 2026&dnh=J%2BFUWbITumgjkf4fIa%2F%2BWA%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "173 EDM 2026",
       "caption": "Com. v. Destin, S.",
       "status": "Active",
@@ -940,6 +976,51 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "1774 MDA 2026",
+      "caption": "Com. v. Potter, C.",
+      "status": "Active",
+      "filing_date": "11/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1774 MDA 2026&dnh=hHmq1gT%2Frg8IT1wsrTrdjg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1775 MDA 2026",
+      "caption": "Murray, C. v. Boggs, L.",
+      "status": "Active",
+      "filing_date": "11/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1775 MDA 2026&dnh=e5e8L8QqaBoOEbq6AQTqMQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1776 MDA 2026",
+      "caption": "Murray, C. v. Boggs, L.",
+      "status": "Active",
+      "filing_date": "11/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1776 MDA 2026&dnh=3vI1bWd3ttqFeYuNq9W7Zg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1777 MDA 2026",
+      "caption": "Com. v. Laker, R.",
+      "status": "Active",
+      "filing_date": "11/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1777 MDA 2026&dnh=VeBGhxZVnE3Hg0stsYNu2w%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "1778 MDA 2026",
+      "caption": "Com. v. Sanchez, J.",
+      "status": "Active",
+      "filing_date": "11/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1778 MDA 2026&dnh=TSFgBg5oQ5NSrNI3hBbksw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "92 MDM 2026",
       "caption": "Com. v. Anderson, S., III",
       "status": "Active",
@@ -954,6 +1035,24 @@
       "status": "Active",
       "filing_date": "11/09/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=93 MDM 2026&dnh=IKpuMXzzNFLfIWUrd9KlSw%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "94 MDM 2026",
+      "caption": "Com. v. Bilal, F.",
+      "status": "Active",
+      "filing_date": "11/09/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=94 MDM 2026&dnh=AIB%2FKD8Hv5wRjtC0mUWfJQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
+      "docket": "95 MDM 2026",
+      "caption": "Comm. v. Harp, Vincent Lloyd",
+      "status": "Active",
+      "filing_date": "11/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=95 MDM 2026&dnh=A9XGxMKrMpxXaEAG4kO2iw%3D%3D"
     },
     {
       "type": "filing",
@@ -1228,6 +1327,15 @@
     {
       "type": "filing",
       "court": "PA Superior Court",
+      "docket": "1488 WDA 2026",
+      "caption": "Keeler, R. v. Toth, A.",
+      "status": "Active",
+      "filing_date": "11/10/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1488 WDA 2026&dnh=2NiZIG52AT0x1M7t2UMCeQ%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Superior Court",
       "docket": "136 WDM 2026",
       "caption": "Bonetti, N. v. Bettis, R.",
       "status": "Closed",
@@ -1260,6 +1368,15 @@
       "status": "Active",
       "filing_date": "11/09/2026",
       "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1727 CD 2026&dnh=kOloHOn3goKUHwYmt%2Ba1xg%3D%3D"
+    },
+    {
+      "type": "filing",
+      "court": "PA Commonwealth Court",
+      "docket": "1736 CD 2026",
+      "caption": "Davis, M. v. Pyramid Healthcare(WCAB)",
+      "status": "Active",
+      "filing_date": "11/09/2026",
+      "url": "https://ujsportal.pacourts.us/Report/PacDocketSheet?docketNumber=1736 CD 2026&dnh=MUSibOm%2FsyXXxly5EFWoQw%3D%3D"
     },
     {
       "type": "filing",
@@ -2051,6 +2168,26 @@
       "pub_date": "Wed, 04 Nov 2026 05:00:00 GMT",
       "url": "https://www.pacourts.us/assets/opinions/Superior/out/J-S31024-26m - 106987583380215484.pdf",
       "guid": "https://www.pacourts.us/assets/opinions/Superior/out/J-S31024-26m - 106987583380215484.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "581 C.D. 2025",
+      "caption": "Bluetriton Brands, Inc. v. Washington Twp. ZHB and Weis Markets, Inc.",
+      "author": "Cohn Jubelirer, President Judge",
+      "pub_date": "Tue, 10 Nov 2026 05:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/581CD25_11-10-2026.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/581CD25_11-10-2026.pdf"
+    },
+    {
+      "type": "opinion",
+      "court": "PA Commonwealth Court",
+      "docket": "1541 C.D. 2024",
+      "caption": "C. Caldwell v. Secretary J. Wetzel, et al.",
+      "author": "Wolf, J.",
+      "pub_date": "Tue, 10 Nov 2026 05:00:00 GMT",
+      "url": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1541CD24_11-10-2026.pdf",
+      "guid": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1541CD24_11-10-2026.pdf"
     },
     {
       "type": "opinion",

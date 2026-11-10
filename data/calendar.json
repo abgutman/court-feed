@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T08:25:25.134217+00:00",
+  "generated": "2026-11-10T17:01:44.475046+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -99,17 +99,6 @@
       "courtroom": "Courtroom 9A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638797"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/10/2026 10:00AM",
-      "case_number": "25-cv-5002",
-      "caption": "WALKER v. CITY OF PHILADELPHIA",
-      "judge": "MAGISTRATE JUDGE REID",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3C",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643018"
     },
     {
       "court": "EDPA",
@@ -275,17 +264,6 @@
       "courtroom": "Gateway 5th Floor",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?605016"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/10/2026 10:00AM",
-      "case_number": "25-cv-6372",
-      "caption": "FLORES v. ADARE PHARMA SOLUTIO",
-      "judge": "DISTRICT JUDGE WOLSON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 12B",
-      "hearing_type": "Pretrial Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646330"
     },
     {
       "court": "EDPA",
@@ -465,6 +443,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "11/10/2026 03:00PM",
+      "case_number": "25-cv-0432",
+      "caption": "GRAHAM v. PHH MORTGAGE CORPORA",
+      "judge": "MAGISTRATE JUDGE TOPLIN",
+      "city": "",
+      "courtroom": "Telephone Conference",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632663"
+    },
+    {
+      "court": "EDPA",
       "datetime": "11/12/2026 08:45AM",
       "case_number": "26-cv-2426",
       "caption": "LEAHY v. TULIP ST PASTA LLC et",
@@ -528,61 +517,6 @@
       "courtroom": "Courtroom 16A",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653917"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/12/2026 09:30AM",
-      "case_number": "26-cv-5029",
-      "caption": "JONES v. BOEHRINGER INGELHEIM",
-      "judge": "DISTRICT JUDGE BARTLE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16A",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658211"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/12/2026 09:30AM",
-      "case_number": "26-cv-5936",
-      "caption": "COLE v. BOEHRINGER INGELHEIM P",
-      "judge": "DISTRICT JUDGE BARTLE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16A",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659961"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/12/2026 09:30AM",
-      "case_number": "26-cv-6222",
-      "caption": "TAYLOR v. BOEHRINGER INGELHEIM",
-      "judge": "DISTRICT JUDGE BARTLE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16A",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660494"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/12/2026 09:30AM",
-      "case_number": "26-cv-6490",
-      "caption": "WHEELER v. BOEHRINGER INGELHEI",
-      "judge": "DISTRICT JUDGE BARTLE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16A",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660934"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/12/2026 09:30AM",
-      "case_number": "26-cv-6791",
-      "caption": "HILL v. BOEHRINGER INGELHEIM P",
-      "judge": "DISTRICT JUDGE BARTLE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16A",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661496"
     },
     {
       "court": "EDPA",
@@ -719,17 +653,6 @@
     {
       "court": "EDPA",
       "datetime": "11/12/2026 10:00AM",
-      "case_number": "24-cv-4251",
-      "caption": "Kotelnicki et al v. STATE FARM",
-      "judge": "DISTRICT JUDGE HODGE",
-      "city": "Philadelphia",
-      "courtroom": "Judge's Chambers",
-      "hearing_type": "Final Pretrial Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626269"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/12/2026 10:00AM",
       "case_number": "25-cv-1661",
       "caption": "K v. CHOICE HOTELS INTERNATION",
       "judge": "DISTRICT JUDGE POZOS",
@@ -737,17 +660,6 @@
       "courtroom": "Courtroom 6B",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635578"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/12/2026 10:00AM",
-      "case_number": "26-cv-4978",
-      "caption": "LNHA NEW HOMES, LLC et al v. A",
-      "judge": "DISTRICT JUDGE POZOS",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6B",
-      "hearing_type": "Scheduling Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658097"
     },
     {
       "court": "EDPA",
@@ -1114,6 +1026,83 @@
     },
     {
       "court": "EDPA",
+      "datetime": "11/13/2026 11:00AM",
+      "case_number": "25-cr-0305",
+      "caption": "USA v. HUNTER",
+      "judge": "DISTRICT JUDGE WEILHEIMER",
+      "city": "",
+      "courtroom": "unlisted",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640489"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/13/2026 11:00AM",
+      "case_number": "25-cr-0305",
+      "caption": "USA v. TABBS",
+      "judge": "DISTRICT JUDGE WEILHEIMER",
+      "city": "",
+      "courtroom": "unlisted",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640490"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/13/2026 11:00AM",
+      "case_number": "25-cr-0305",
+      "caption": "USA v. TABBS",
+      "judge": "DISTRICT JUDGE WEILHEIMER",
+      "city": "",
+      "courtroom": "unlisted",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640491"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/13/2026 11:00AM",
+      "case_number": "25-cr-0305",
+      "caption": "USA v. HUNTER",
+      "judge": "DISTRICT JUDGE WEILHEIMER",
+      "city": "",
+      "courtroom": "unlisted",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640492"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/13/2026 11:00AM",
+      "case_number": "25-cr-0305",
+      "caption": "USA v. STALLWORTH",
+      "judge": "DISTRICT JUDGE WEILHEIMER",
+      "city": "",
+      "courtroom": "unlisted",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640493"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/13/2026 11:00AM",
+      "case_number": "25-cr-0305",
+      "caption": "USA v. SAEED",
+      "judge": "DISTRICT JUDGE WEILHEIMER",
+      "city": "",
+      "courtroom": "unlisted",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640494"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/13/2026 11:00AM",
+      "case_number": "25-cr-0305",
+      "caption": "USA v. PINKNEY",
+      "judge": "DISTRICT JUDGE WEILHEIMER",
+      "city": "",
+      "courtroom": "unlisted",
+      "hearing_type": "Status Conference/Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640495"
+    },
+    {
+      "court": "EDPA",
       "datetime": "11/13/2026 12:30PM",
       "case_number": "26-cr-0010",
       "caption": "USA v. SCOTT",
@@ -1133,6 +1122,17 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Sentencing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?112447"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/13/2026 01:30PM",
+      "case_number": "26-cr-0551",
+      "caption": "USA v. AYLLON ORTIZ",
+      "judge": "DISTRICT JUDGE YOUNGE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664594"
     },
     {
       "court": "EDPA",
@@ -1606,17 +1606,6 @@
       "courtroom": "Cahn 4B",
       "hearing_type": "Miscellaneous Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?611692"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/17/2026 09:30AM",
-      "case_number": "26-cv-2691",
-      "caption": "FITCHETTE et al v. WEAVER OIL",
-      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3D",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653430"
     },
     {
       "court": "EDPA",
@@ -2325,17 +2314,6 @@
     {
       "court": "EDPA",
       "datetime": "11/19/2026 09:30AM",
-      "case_number": "24-cv-4251",
-      "caption": "Kotelnicki et al v. STATE FARM",
-      "judge": "DISTRICT JUDGE HODGE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 15A",
-      "hearing_type": "Jury Trial",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626269"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/19/2026 09:30AM",
       "case_number": "26-cr-0478",
       "caption": "USA v. BEATO",
       "judge": "DISTRICT JUDGE HODGE",
@@ -2607,6 +2585,28 @@
       "courtroom": "Telephone Conference",
       "hearing_type": "Scheduling Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647529"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/20/2026 01:30PM",
+      "case_number": "24-cr-0325",
+      "caption": "USA v. MCLAUGHLIN",
+      "judge": "MAGISTRATE JUDGE SITARSKI",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5C",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627400"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/20/2026 01:30PM",
+      "case_number": "24-cr-0325",
+      "caption": "USA v. BROADY",
+      "judge": "MAGISTRATE JUDGE SITARSKI",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5C",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642579"
     },
     {
       "court": "EDPA",
@@ -3091,17 +3091,6 @@
       "courtroom": "Courtroom 12A",
       "hearing_type": "Final Pretrial Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?530678"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/24/2026 11:00AM",
-      "case_number": "25-cv-0753",
-      "caption": "SHEET METAL WORKERS ANNUITY FU",
-      "judge": "DISTRICT JUDGE DIAMOND",
-      "city": "Philadelphia",
-      "courtroom": "Judge's Chambers",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633414"
     },
     {
       "court": "EDPA",
@@ -3872,18 +3861,6 @@
       "city": "Philadelphia",
       "panel": "27-ARGUMENT-2026-2",
       "judges": "BOWES ; KING ; LANE , JJ."
-    },
-    {
-      "court": "PA Superior Court",
-      "date": "12/01/2026",
-      "docket_number": "356 MDA 2026",
-      "journal_number": "J-A28001-26",
-      "caption": "Com. v. Hartmoyer, K.",
-      "consideration_type": "Expedited \u2014 Argument Panel",
-      "location": "Courtroom 437-Main Capitol , Harrisburg",
-      "city": "Harrisburg",
-      "panel": "28-ARGUMENT-2026-2",
-      "judges": "OLSON ; STABILE ; BECK , JJ."
     },
     {
       "court": "PA Superior Court",
