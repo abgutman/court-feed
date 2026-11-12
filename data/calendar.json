@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T18:16:16.438639+00:00",
+  "generated": "2026-11-12T23:40:11.392794+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -1356,28 +1356,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "11/17/2026 01:00PM",
-      "case_number": "24-md-3094",
-      "caption": "GLUCAGON-LIKE PEPTIDE-1 RECEPT",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618532"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/17/2026 01:00PM",
-      "case_number": "01-md-3094",
-      "caption": "Glucagon-Like Peptide-1 Recept",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648472"
-    },
-    {
-      "court": "EDPA",
       "datetime": "11/17/2026 01:30PM",
       "case_number": "25-cr-0460",
       "caption": "USA v. RIOS-VALENTIN",
@@ -1573,17 +1551,6 @@
       "courtroom": "Courtroom 10A",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631106"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/18/2026 10:00AM",
-      "case_number": "02-cr-0157",
-      "caption": "USA v. BOGATIN",
-      "judge": "DISTRICT JUDGE COSTELLO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 6A",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?117190"
     },
     {
       "court": "EDPA",
@@ -2082,6 +2049,39 @@
     },
     {
       "court": "EDPA",
+      "datetime": "11/19/2026 01:30PM",
+      "case_number": "25-cr-0460",
+      "caption": "USA v. RAMIREZ-DIAZ",
+      "judge": "MAGISTRATE JUDGE SITARSKI",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5C",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645288"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/19/2026 01:30PM",
+      "case_number": "25-cr-0460",
+      "caption": "USA v. DEJESUS",
+      "judge": "MAGISTRATE JUDGE SITARSKI",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5C",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645290"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/19/2026 01:30PM",
+      "case_number": "25-cr-0460",
+      "caption": "USA v. OTERO-RODRIGUEZ",
+      "judge": "MAGISTRATE JUDGE SITARSKI",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5C",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645291"
+    },
+    {
+      "court": "EDPA",
       "datetime": "11/19/2026 03:00PM",
       "case_number": "21-cv-2688",
       "caption": "WHITE v. FARRELL et al",
@@ -2431,6 +2431,17 @@
       "courtroom": "Courtroom 3B",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643210"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/23/2026 01:00PM",
+      "case_number": "26-cr-0339",
+      "caption": "USA v. ISRAEL",
+      "judge": "DISTRICT JUDGE BARTLE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 16A",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658710"
     },
     {
       "court": "EDPA",
