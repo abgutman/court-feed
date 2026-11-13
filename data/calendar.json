@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T06:38:54.147371+00:00",
+  "generated": "2026-11-13T15:22:51.512604+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -184,7 +184,7 @@
       "caption": "USA v. SCOTT",
       "judge": "DISTRICT JUDGE MURPHY",
       "city": "Philadelphia",
-      "courtroom": "COURTROOM",
+      "courtroom": "Courtroom 17A",
       "hearing_type": "Evidentiary Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648101"
     },
@@ -686,17 +686,6 @@
     {
       "court": "EDPA",
       "datetime": "11/17/2026 09:30AM",
-      "case_number": "26-cv-2912",
-      "caption": "VOTTA et al v. NATIONWIDE INSU",
-      "judge": "DISTRICT JUDGE BARTLE",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5B",
-      "hearing_type": "Arbitration Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653916"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/17/2026 09:30AM",
       "case_number": "23-cr-0454",
       "caption": "USA v. BYRD",
       "judge": "CHIEF JUDGE BEETLESTONE",
@@ -855,7 +844,7 @@
       "caption": "AIR MARSHAL ASSOCIATION v. SEC",
       "judge": "DISTRICT JUDGE BAYLSON",
       "city": "Philadelphia",
-      "courtroom": "Courtroom TBD",
+      "courtroom": "Courtroom 9A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?597548"
     },
@@ -891,17 +880,6 @@
       "courtroom": "Courtroom 11B",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664313"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/17/2026 11:00AM",
-      "case_number": "01-md-3163",
-      "caption": "Glucagon-Like Peptide-1 Recept",
-      "judge": "DISTRICT JUDGE MARSTON",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 16B",
-      "hearing_type": "Status Conference/Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648483"
     },
     {
       "court": "EDPA",
@@ -1028,17 +1006,6 @@
       "court": "EDPA",
       "datetime": "11/17/2026 01:30PM",
       "case_number": "25-cr-0460",
-      "caption": "USA v. LEVANTE-MEDINA",
-      "judge": "MAGISTRATE JUDGE SITARSKI",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 5C",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645270"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/17/2026 01:30PM",
-      "case_number": "25-cr-0460",
       "caption": "USA v. ORTIZ-BETANCOURT",
       "judge": "MAGISTRATE JUDGE SITARSKI",
       "city": "Philadelphia",
@@ -1089,17 +1056,6 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653810"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/17/2026 02:30PM",
-      "case_number": "24-cr-0181",
-      "caption": "USA v. KEISTER",
-      "judge": "DISTRICT JUDGE SCHMEHL",
-      "city": "Reading",
-      "courtroom": "Reading 5th Floor",
-      "hearing_type": "Sentencing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621784"
     },
     {
       "court": "EDPA",
@@ -1577,6 +1533,17 @@
     {
       "court": "EDPA",
       "datetime": "11/19/2026 10:00AM",
+      "case_number": "25-cr-0460",
+      "caption": "USA v. GOMEZ-RESTO",
+      "judge": "MAGISTRATE JUDGE TOPLIN",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 3I",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645277"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/19/2026 10:00AM",
       "case_number": "26-cr-0196",
       "caption": "USA v. FOLLY",
       "judge": "DISTRICT JUDGE WOLSON",
@@ -1724,7 +1691,7 @@
       "caption": "WHITE v. FARRELL et al",
       "judge": "DISTRICT JUDGE BAYLSON",
       "city": "Philadelphia",
-      "courtroom": "Courtroom TBD",
+      "courtroom": "Courtroom 9A",
       "hearing_type": "Scheduling Conference",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?586542"
     },
@@ -1735,7 +1702,7 @@
       "caption": "WHITE v. FARRELL et al",
       "judge": "DISTRICT JUDGE BAYLSON",
       "city": "Philadelphia",
-      "courtroom": "Courtroom TBD",
+      "courtroom": "Courtroom 9A",
       "hearing_type": "Status Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?586542"
     },
@@ -1881,6 +1848,17 @@
       "courtroom": "Courtroom 5C",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642579"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/20/2026 01:30PM",
+      "case_number": "25-cr-0460",
+      "caption": "USA v. LEVANTE-MEDINA",
+      "judge": "MAGISTRATE JUDGE SITARSKI",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5C",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645270"
     },
     {
       "court": "EDPA",
@@ -2145,17 +2123,6 @@
       "courtroom": "Courtroom 11A",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658450"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "11/23/2026 02:00PM",
-      "case_number": "26-cv-4672",
-      "caption": "MORGAN v. THRIVE THERAPY, LLC",
-      "judge": "MAGISTRATE JUDGE STRAW",
-      "city": "",
-      "courtroom": "Video Conference",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657456"
     },
     {
       "court": "EDPA",
@@ -2634,6 +2601,96 @@
       "case_number": "26-1435",
       "caption": "Joshua White v. Progressive Advanced Insurance Co et al",
       "panel": "CHAGARES, PORTER, MASCOTT",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-19",
+      "case_number": "25-3212",
+      "caption": "USA v. Elinson Camacho",
+      "panel": "CHAGARES, PORTER, BRANN",
+      "location_time": "Harrisburg, PA - Courtroom 5A / 9:30am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-19",
+      "case_number": "26-1241",
+      "caption": "Kimberly Andrews v. New Vitae Inc",
+      "panel": "CHAGARES, PORTER, BRANN",
+      "location_time": "Harrisburg, PA - Courtroom 5A / 9:30am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-19",
+      "case_number": "26-1515",
+      "caption": "Kelly Croley v. Jewish Residential Services Inc",
+      "panel": "CHAGARES, PORTER, BRANN",
+      "location_time": "Harrisburg, PA - Courtroom 5A / 9:30am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-19",
+      "case_number": "22-1741",
+      "caption": "Michael Balbosa v. Attorney General United States of America",
+      "panel": "HARDIMAN, MCKEE, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-19",
+      "case_number": "23-1008",
+      "caption": "Michael Balbosa v. Attorney General United States of America",
+      "panel": "HARDIMAN, MCKEE, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-19",
+      "case_number": "25-3105",
+      "caption": "USA v. Robby Velazquez",
+      "panel": "HARDIMAN, MCKEE, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-19",
+      "case_number": "25-3242",
+      "caption": "Flavia Stovall v. James Grazioli et al",
+      "panel": "CHAGARES, PORTER, BRANN",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-19",
+      "case_number": "25-3419",
+      "caption": "USA v. Tonnaire  McNair-Matthews",
+      "panel": "HARDIMAN, MCKEE, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-19",
+      "case_number": "25-3450",
+      "caption": "USA v. Brandon Rollines",
+      "panel": "HARDIMAN, MCKEE, AMBRO",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-11-19",
+      "case_number": "26-1022",
+      "caption": "Hector Tipan Lopez v. Attorney General United States of Amer",
+      "panel": "CHAGARES, PORTER, BRANN",
       "location_time": "",
       "disposition": "Submitted"
     },
