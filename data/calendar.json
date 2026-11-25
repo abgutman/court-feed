@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T09:50:19.621650+00:00",
+  "generated": "2026-11-25T19:56:49.345152+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -11,6 +11,17 @@
       "courtroom": "Courtroom 13A",
       "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658457"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/25/2026 12:00PM",
+      "case_number": "20-cr-0034",
+      "caption": "USA v. ROSS-GREEN",
+      "judge": "MAGISTRATE JUDGE TOPLIN",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?566669"
     },
     {
       "court": "EDPA",
@@ -88,6 +99,39 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665001"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/25/2026 12:00PM",
+      "case_number": "26-cr-0595",
+      "caption": "USA v. REGALADO",
+      "judge": "MAGISTRATE JUDGE TOPLIN",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665759"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/25/2026 12:00PM",
+      "case_number": "26-cr-0595",
+      "caption": "USA v. REGALADO",
+      "judge": "MAGISTRATE JUDGE TOPLIN",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665759"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/25/2026 12:00PM",
+      "case_number": "26-mj-2329",
+      "caption": "USA v. SHUCK",
+      "judge": "MAGISTRATE JUDGE TOPLIN",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?666069"
     },
     {
       "court": "EDPA",
@@ -330,6 +374,17 @@
       "courtroom": "Courtroom 14A",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?568499"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/30/2026 01:30PM",
+      "case_number": "26-cr-0570",
+      "caption": "USA v. JUNG",
+      "judge": "MAGISTRATE JUDGE REID",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Initial Appearance",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664951"
     },
     {
       "court": "EDPA",
@@ -597,17 +652,6 @@
     },
     {
       "court": "EDPA",
-      "datetime": "12/01/2026 11:00AM",
-      "case_number": "25-cv-4975",
-      "caption": "SANTIAGO et al v. CITY OF PHIL",
-      "judge": "DISTRICT JUDGE SANCHEZ",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 14B",
-      "hearing_type": "Final Pretrial Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642974"
-    },
-    {
-      "court": "EDPA",
       "datetime": "12/01/2026 12:30PM",
       "case_number": "25-cr-0512",
       "caption": "USA v. MILBOURNE-WINTERS",
@@ -686,6 +730,17 @@
     {
       "court": "EDPA",
       "datetime": "12/01/2026 01:30PM",
+      "case_number": "25-cr-0460",
+      "caption": "USA v. GONZALEZ",
+      "judge": "MAGISTRATE JUDGE REID",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645295"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "12/01/2026 01:30PM",
       "case_number": "26-cr-0592",
       "caption": "USA v. THACH",
       "judge": "MAGISTRATE JUDGE REID",
@@ -704,6 +759,17 @@
       "courtroom": "Courtroom 10A",
       "hearing_type": "Revocation Superv Rls-FinalHrg",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?459595"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "12/01/2026 02:00PM",
+      "case_number": "25-cv-7193",
+      "caption": "TEUFEL v. J.S. HELWIG & SON, L",
+      "judge": "DISTRICT JUDGE HODGE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 15A",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647618"
     },
     {
       "court": "EDPA",
@@ -759,17 +825,6 @@
       "courtroom": "Courtroom 7B",
       "hearing_type": "Change of Plea Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650036"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "12/01/2026 03:00PM",
-      "case_number": "26-cr-0556",
-      "caption": "USA v. LYTTLE",
-      "judge": "MAGISTRATE JUDGE GOLDNER CINQUANTO",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 3D",
-      "hearing_type": "Arraignment",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664631"
     },
     {
       "court": "EDPA",
@@ -847,17 +902,6 @@
       "courtroom": "Courtroom 14B",
       "hearing_type": "Jury Trial",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621465"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "12/02/2026 09:30AM",
-      "case_number": "25-cv-1591",
-      "caption": "RAYSOR et al v. AMERICAN SUGAR",
-      "judge": "DISTRICT JUDGE GALLAGHER",
-      "city": "Allentown",
-      "courtroom": "Cahn 4B",
-      "hearing_type": "Settlement Conference",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635445"
     },
     {
       "court": "EDPA",
@@ -1016,6 +1060,17 @@
     {
       "court": "EDPA",
       "datetime": "12/02/2026 01:30PM",
+      "case_number": "25-cr-0460",
+      "caption": "USA v. SANTOS",
+      "judge": "MAGISTRATE JUDGE REID",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645298"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "12/02/2026 01:30PM",
       "case_number": "25-cv-1565",
       "caption": "KEMBLE v. OLIVE GARDEN HOLDING",
       "judge": "DISTRICT JUDGE WEILHEIMER",
@@ -1098,7 +1153,7 @@
       "judge": "DISTRICT JUDGE KENNEY",
       "city": "Philadelphia",
       "courtroom": "Courtroom 11B",
-      "hearing_type": "Status Conference/Hearing",
+      "hearing_type": "Motion Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640480"
     },
     {
@@ -1753,6 +1808,17 @@
     {
       "court": "EDPA",
       "datetime": "12/07/2026 10:00AM",
+      "case_number": "25-cr-0392",
+      "caption": "USA v. RONDON",
+      "judge": "DISTRICT JUDGE MURPHY",
+      "city": "Philadelphia",
+      "courtroom": "COURTROOM",
+      "hearing_type": "Change of Plea Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643220"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "12/07/2026 10:00AM",
       "case_number": "24-cv-6430",
       "caption": "GIORDANO v. HEDEKER et al",
       "judge": "MAGISTRATE JUDGE REID",
@@ -2137,6 +2203,17 @@
     },
     {
       "court": "EDPA",
+      "datetime": "12/08/2026 01:30PM",
+      "case_number": "25-cr-0139",
+      "caption": "USA v. QUACH",
+      "judge": "DISTRICT JUDGE MCHUGH",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 9B",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635897"
+    },
+    {
+      "court": "EDPA",
       "datetime": "12/08/2026 02:00PM",
       "case_number": "25-cr-0407",
       "caption": "USA v. SANGARY",
@@ -2259,6 +2336,17 @@
     {
       "court": "EDPA",
       "datetime": "12/09/2026 10:00AM",
+      "case_number": "26-cv-0282",
+      "caption": "GORHAM v. STADIUM CASINO RE LL",
+      "judge": "DISTRICT JUDGE KENNEY",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 11B",
+      "hearing_type": "Motion Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648597"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "12/09/2026 10:00AM",
       "case_number": "26-cr-0384",
       "caption": "USA v. BRANSTETTER",
       "judge": "DISTRICT JUDGE PAPPERT",
@@ -2266,6 +2354,28 @@
       "courtroom": "Courtroom 11A",
       "hearing_type": "Pretrial Conference/Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660175"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "12/09/2026 10:00AM",
+      "case_number": "23-cr-0140",
+      "caption": "USA v. TELLEZ",
+      "judge": "DISTRICT JUDGE YOUNGE",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 15B",
+      "hearing_type": "Revocation Probation-Final Hrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?608148"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "12/09/2026 10:00AM",
+      "case_number": "23-cr-0140",
+      "caption": "USA v. TELLEZ",
+      "judge": "DISTRICT JUDGE YOUNGE",
+      "city": "",
+      "courtroom": "unlisted",
+      "hearing_type": "Revocation Superv Rls-FinalHrg",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?608148"
     },
     {
       "court": "EDPA",
@@ -2668,6 +2778,141 @@
     },
     {
       "court": "Third Circuit",
+      "date": "2026-12-14",
+      "case_number": "25-2693, 25-2722, 25-2824",
+      "caption": "Ignatus Pappagallo et al v. Redco Corp et al",
+      "panel": "BIBAS, FREEMAN, BOVE",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 1:00 pm",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-12-14",
+      "case_number": "25-3368",
+      "caption": "In re: Whittaker, Clark & Daniels Inc",
+      "panel": "BIBAS, FREEMAN, BOVE",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 1:00 pm",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-12-14",
+      "case_number": "26-1773",
+      "caption": "Admiral Insurance Co v. Solid Waste Services Inc et al",
+      "panel": "BIBAS, FREEMAN, BOVE",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 1:00 pm",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-12-14",
+      "case_number": "26-1404",
+      "caption": "Irvin Shipley et al  v. Jeffrey Schaeffer et al",
+      "panel": "BIBAS, FREEMAN, BOVE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-12-15",
+      "case_number": "24-1784",
+      "caption": "USA v. Ross Roggio",
+      "panel": "BIBAS, FREEMAN, BOVE",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 9:00 am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-12-15",
+      "case_number": "25-2820",
+      "caption": "USA, ex rel. et al v. CVS Caremark Corp et al",
+      "panel": "BIBAS, FREEMAN, BOVE",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 9:00 am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-12-15",
+      "case_number": "25-3095",
+      "caption": "Jeremy Blain v. Rausch Creek Generation LLC",
+      "panel": "BIBAS, FREEMAN, BOVE",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 1:00 pm",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-12-15",
+      "case_number": "26-1073, 26-1287",
+      "caption": "Admiral Insurance Co v. Comly Road Holdings LLC et al",
+      "panel": "BIBAS, FREEMAN, BOVE",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 1:00 pm",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-12-15",
+      "case_number": "26-1107",
+      "caption": "Ann Lewandowski et al v. Johnson & Johnson et al",
+      "panel": "BIBAS, FREEMAN, BOVE",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 1:00 pm",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-12-15",
+      "case_number": "26-1277, 26-1328, 26-1328",
+      "caption": "Joseph Amato et al v. Subaru of America Inc et al",
+      "panel": "BIBAS, FREEMAN, BOVE",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 9:00 am",
+      "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-12-15",
+      "case_number": "24-2261",
+      "caption": "Peters Township School District v. C. B. et al",
+      "panel": "BIBAS, FREEMAN, BOVE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-12-15",
+      "case_number": "25-3205",
+      "caption": "USA v. Michele Connell",
+      "panel": "BIBAS, FREEMAN, BOVE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-12-15",
+      "case_number": "25-3276",
+      "caption": "USA v. Roam Beer",
+      "panel": "BIBAS, FREEMAN, BOVE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-12-15",
+      "case_number": "25-3495",
+      "caption": "In re: In Re: CHISHOLM OIL AND GAS NOMINEE, INC., et al.",
+      "panel": "BIBAS, FREEMAN, BOVE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-12-15",
+      "case_number": "26-1375",
+      "caption": "C. B. et al  v. Peters Township School District et al",
+      "panel": "BIBAS, FREEMAN, BOVE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
       "date": "2026-12-17",
       "case_number": "25-2034",
       "caption": "USA v. Barry Walker",
@@ -2701,6 +2946,33 @@
       "panel": "KRAUSE, PHIPPS, CHUNG",
       "location_time": "Philadelphia, PA - Maris Courtroom / 9:00am",
       "disposition": "Argued"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-12-17",
+      "case_number": "26-1458",
+      "caption": "USA v. Samuel Bender, II",
+      "panel": "BIBAS, FREEMAN, BOVE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-12-17",
+      "case_number": "26-1548",
+      "caption": "E.W. v. Wilson School District",
+      "panel": "BIBAS, FREEMAN, BOVE",
+      "location_time": "",
+      "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-12-18",
+      "case_number": "26-1571",
+      "caption": "USA v. Michael Ramseur",
+      "panel": "BIBAS, FREEMAN, BOVE",
+      "location_time": "",
+      "disposition": "Submitted"
     }
   ],
   "pa_supreme": [],
