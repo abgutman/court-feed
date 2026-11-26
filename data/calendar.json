@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T12:24:45.468907+00:00",
+  "generated": "2026-11-26T22:19:26.776295+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -2697,8 +2697,8 @@
     {
       "court": "Third Circuit",
       "date": "2026-12-07",
-      "case_number": "26-1387",
-      "caption": "Christine Thompson v. Over the Line VI LLC et al",
+      "case_number": "26-2353",
+      "caption": "Robert White v. Gina Day et al",
       "panel": "CHAGARES, RESTREPO, MONTGOMERY-REEVES",
       "location_time": "St. Thomas, VI - Courtroom No. 3 / 9:00am",
       "disposition": "Argued"
@@ -2805,8 +2805,8 @@
     {
       "court": "Third Circuit",
       "date": "2026-12-09",
-      "case_number": "26-2353",
-      "caption": "Robert White v. Gina Day et al",
+      "case_number": "26-1387",
+      "caption": "Christine Thompson v. Over the Line VI LLC et al",
       "panel": "CHAGARES, RESTREPO, MONTGOMERY-REEVES",
       "location_time": "St. Thomas, VI - Courtroom No. 3 / 9:00am",
       "disposition": "Argued"
@@ -3107,6 +3107,15 @@
       "panel": "BIBAS, FREEMAN, BOVE",
       "location_time": "",
       "disposition": "Submitted"
+    },
+    {
+      "court": "Third Circuit",
+      "date": "2026-12-18",
+      "case_number": "25-3329, 25-3413",
+      "caption": "Stephen Snowdy et al v. Mercedes Benz USA LLC et al",
+      "panel": "BIBAS, FREEMAN, BOVE",
+      "location_time": "Philadelphia, PA - Maris Courtroom / 10:00 am",
+      "disposition": "Argued"
     },
     {
       "court": "Third Circuit",
