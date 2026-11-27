@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T15:01:56.961425+00:00",
+  "generated": "2026-11-27T23:27:11.072058+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -253,6 +253,17 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Initial Appearance",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664951"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "11/30/2026 01:30PM",
+      "case_number": "26-mj-2188",
+      "caption": "USA v. STROUP",
+      "judge": "MAGISTRATE JUDGE REID",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665901"
     },
     {
       "court": "EDPA",
@@ -928,6 +939,17 @@
     {
       "court": "EDPA",
       "datetime": "12/02/2026 01:30PM",
+      "case_number": "25-cr-0460",
+      "caption": "USA v. CARABALLO VASQUEZ",
+      "judge": "MAGISTRATE JUDGE REID",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Arraignment",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656905"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "12/02/2026 01:30PM",
       "case_number": "25-cv-1565",
       "caption": "KEMBLE v. OLIVE GARDEN HOLDING",
       "judge": "DISTRICT JUDGE WEILHEIMER",
@@ -1265,6 +1287,17 @@
       "courtroom": "Courtroom 5A",
       "hearing_type": "Detention Hearing",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663776"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "12/03/2026 01:30PM",
+      "case_number": "26-cr-0595",
+      "caption": "USA v. REGALADO",
+      "judge": "MAGISTRATE JUDGE REID",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665759"
     },
     {
       "court": "EDPA",

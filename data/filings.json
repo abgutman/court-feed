@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T15:00:31.378095+00:00",
+  "generated": "2026-11-27T23:25:40.383790+00:00",
   "filings": [
     {
       "type": "filing",
@@ -2444,6 +2444,30 @@
       "guid": "ca3-25-3361-253361p.pdf",
       "precedential": true,
       "origin": "Agency"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-3265",
+      "caption": "In Re: BL Santa Fe, LLC v.",
+      "author": "",
+      "pub_date": "Fri, 27 Nov 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/253265np.pdf",
+      "guid": "ca3-25-3265-253265np.pdf",
+      "precedential": false,
+      "origin": "USDC for the District of Delaware"
+    },
+    {
+      "type": "opinion",
+      "court": "Third Circuit",
+      "docket": "25-2590",
+      "caption": "USA v. Devin Montgomery",
+      "author": "",
+      "pub_date": "Fri, 27 Nov 2026 00:00:00 +0000",
+      "url": "https://www2.ca3.uscourts.gov/opinarch/252590np.pdf",
+      "guid": "ca3-25-2590-252590np.pdf",
+      "precedential": false,
+      "origin": "USDC for the Western District of Pennsylvania"
     },
     {
       "type": "opinion",
