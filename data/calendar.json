@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T05:02:11.577702+00:00",
+  "generated": "2026-11-27T15:01:56.961425+00:00",
   "edpa": [
     {
       "court": "EDPA",
@@ -1258,6 +1258,17 @@
     {
       "court": "EDPA",
       "datetime": "12/03/2026 01:30PM",
+      "case_number": "26-cr-0522",
+      "caption": "USA v. MACEDO VARELA",
+      "judge": "MAGISTRATE JUDGE REID",
+      "city": "Philadelphia",
+      "courtroom": "Courtroom 5A",
+      "hearing_type": "Detention Hearing",
+      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663776"
+    },
+    {
+      "court": "EDPA",
+      "datetime": "12/03/2026 01:30PM",
       "case_number": "26-cr-0594",
       "caption": "USA v. SANON",
       "judge": "MAGISTRATE JUDGE REID",
@@ -1518,17 +1529,6 @@
       "courtroom": "Courtroom 13B",
       "hearing_type": "Arraignment",
       "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665540"
-    },
-    {
-      "court": "EDPA",
-      "datetime": "12/04/2026 11:00AM",
-      "case_number": "20-cv-4570",
-      "caption": "McNamara v. CITY OF PHILADELPH",
-      "judge": "DISTRICT JUDGE SLOMSKY",
-      "city": "Philadelphia",
-      "courtroom": "Courtroom 13A",
-      "hearing_type": "Motion Hearing",
-      "url": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?575788"
     },
     {
       "court": "EDPA",
